@@ -45,6 +45,7 @@ Generated into `public/packs/aef-skland/`:
 - `itemsLite.json`
 - `recipeTypes.json`
 - `recipes.json`
+- `xml/` (raw item XML mirror, grouped by original category)
 - `build-summary.json`
 
 ## Image Handling (Current)

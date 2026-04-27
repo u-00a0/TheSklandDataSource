@@ -91,6 +91,8 @@ export interface BuildSummary {
     recipes: number;
     docRecipes: number;
     downloadedImages: number;
+    xmlFiles: number;
+    xmlWarnings: number;
     dedupedRecipes: number;
     machineTypesPatched: number;
     machineTemplatesMatched: number;

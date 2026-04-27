@@ -22,6 +22,7 @@ import {
 import { listInfoFiles, loadMethodsByItemId } from './input.ts';
 import { ConverterContext, runAllConverters } from './converters/index.ts';
 import { runPostprocess } from './postprocess.ts';
+import { exportItemXml } from './xml-export.ts';
 import type { BuildArgs, BuildSummary, ItemRecord, JsonObject } from './types.ts';
 
 function asRecord(value: unknown): Record<string, unknown> {
@@ -262,6 +263,10 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
 
   itemRecords.sort((a, b) => numericThenLexicalCompare(a.itemId, b.itemId));
   console.log(`items loaded: ${itemRecords.length}`);
+  const xmlExportResult = exportItemXml(itemRecords, outDirAbs);
+  console.log(
+    `xml: files=${xmlExportResult.files}, warnings=${xmlExportResult.warnings}`,
+  );
 
   const itemIdToPackId = new Map<string, string>();
   const itemNameById = new Map<string, string>();
@@ -398,6 +403,7 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
       itemsLite: 'itemsLite.json',
       recipeTypes: 'recipeTypes.json',
       recipes: 'recipes.json',
+      xml: 'xml/',
     },
     planner: {
       targetRatePresets: DEFAULT_TARGET_RATE_PRESETS,
@@ -434,6 +440,8 @@ export async function buildSklandPack(args: BuildArgs, repoRoot: string): Promis
         .filter((s) => s.name.includes('doc'))
         .reduce((sum, s) => sum + s.recipes, 0),
       downloadedImages: downloadedImageUrlMap.size,
+      xmlFiles: xmlExportResult.files,
+      xmlWarnings: xmlExportResult.warnings,
       dedupedRecipes: postprocessResult.stats.dedupedRecipes,
       machineTypesPatched: postprocessResult.stats.machineTypesPatched,
       machineTemplatesMatched: postprocessResult.stats.machineTemplatesMatched,
