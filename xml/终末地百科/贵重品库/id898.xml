@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>898</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283459"},"item":{"name":"通行证申请·源石","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1766895209","lastAuditPassedAt":"1775972098","tagIds":["10005","10330","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>通行证申请·源石</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/25/203953/fd327c19991bbef82bf113500002f0f5.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10321">10330</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>使用后可激活协议通行证的源石配给档位。</b>
+        <color value="s_3">一部分终末地干员喜欢将协议通行证称为“许愿单”。传说只要在生日前夜许愿，并在床头放上一些衍质源石，就会有善良的武库小机器人送来令人满意的产品。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>采购中心-帝江号精选购买。</b>
+            <ul>
+                <li>花费<entry type="link-img" count="29" id="925"></entry>购买。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="协议通行证">
+            <tab name="概述" icon="">
+                <line kind="5"></line>
+                购买<entry type="link-img" count="0" id="898"></entry>后，提高<b><color value="r_5">协议通行证</color></b>等级可以获得<b>协议通行证-源石配给</b>档位的额外奖励。
+                <ul>
+                    <li>购买<entry type="link-img" count="0" id="898"></entry>后当期协议通行证内获得<entry type="link-img" count="0" id="15"></entry>额外增加<b>3%</b>（可叠加）。</li>
+                    <li>购买<entry type="link-img" count="0" id="898"></entry>且协议通行证达到<b>60</b>级后，每次升级将获得循环奖励<entry type="link-img" count="1" id="928"></entry>并自动使用。</li>
+                </ul>
+
+                <b>关于公测后各期协议通行证相关奖励的汇总，可以通过该栏的分页查看。</b>
+                <line kind="2"></line>
+            </tab>
+            <tab name="唤醒" icon="">
+                <table header="row" widths="189,197,621,153">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center">版本：<b>零号委托</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>货币获取</b></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><b>理智物品</b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><b>培养材料</b></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><b>物资箱</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="32" id="925"></entry><entry type="card-big" count="415000" id="19"></entry></align>
+                            <align value="center"><entry type="card-big" count="4" id="363"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="85" id="248"></entry><entry type="card-big" count="8" id="260"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="60" id="213"></entry><entry type="card-big" count="10" id="212"></entry><entry type="card-big" count="30" id="210"></entry><entry type="card-big" count="60" id="225"></entry><entry type="card-big" count="85" id="224"></entry><entry type="card-big" count="15" id="228"></entry><entry type="card-big" count="30" id="227"></entry></align>
+                            <align value="center"><entry type="card-big" count="100" id="223"></entry><entry type="card-big" count="100" id="222"></entry><entry type="card-big" count="15" id="215"></entry><entry type="card-big" count="30" id="214"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1" id="254"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">【拍照贴纸·<b>记忆</b>】【拍照滤镜·<b>黑金</b>】</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="暗流" icon="">
+                <table header="row" widths="189,197,621,153">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center">版本：<b>新潮起，故渊离</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>货币获取</b></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><b>理智物品</b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><b>培养材料</b></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><b>物资箱</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="32" id="925"></entry><entry type="card-big" count="415000" id="19"></entry></align>
+                            <align value="center"><entry type="card-big" count="4" id="363"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="85" id="248"></entry><entry type="card-big" count="8" id="260"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="60" id="213"></entry><entry type="card-big" count="10" id="212"></entry><entry type="card-big" count="30" id="210"></entry><entry type="card-big" count="60" id="225"></entry><entry type="card-big" count="85" id="224"></entry><entry type="card-big" count="15" id="228"></entry><entry type="card-big" count="30" id="227"></entry></align>
+                            <align value="center"><entry type="card-big" count="100" id="223"></entry><entry type="card-big" count="100" id="222"></entry><entry type="card-big" count="15" id="215"></entry><entry type="card-big" count="30" id="214"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1" id="1139"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">【拍照贴纸·<b>如意方圆</b>】【拍照滤镜·<b>温暖</b>】</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

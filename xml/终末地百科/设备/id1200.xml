@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1200</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283609"},"item":{"name":"AF1“熔甲者”","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1773761963","lastAuditPassedAt":"1773910122","tagIds":["10005","10370","10245"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>AF1“熔甲者”</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260317/2696356/69b90e654298be0edf04541a_13673ac9.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10244">10245</subType>
+            <subType id="10307">10370</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>攻击力：</b><b><color value="f_blue">17252</color></b>
+        <b>攻击方式：当敌人靠近时，喷射火焰攻击敌人，对范围内的敌人持续造成</b><b><color value="f_orange">灼热伤害</color></b><b>。</b>
+        <color value="s_3">能喷发出火焰射流的攻击型设备，其燃料由多种易燃液体混合而成，焚尽一切的气势能让人联想到泰拉历史中那些无情的火焰。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在研究完成<b>AF1“熔甲者”</b>后可获得1台AF1“熔甲者”。</li>
+                <li>
+                    在<b>协议核心</b>范围内，点击<b>工具箱-设备列表-制造设备</b>通过以下配方制造。
+                    <ul>
+                        <li><entry type="link-img" count="20" id="1128"></entry><b>→ </b><entry type="link-img" count="1" id="1200"></entry></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>工业计划-武陵工业二期</b>研究<b>AF1“熔甲者”</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方式">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>AF1“熔甲者”</b>是战斗辅助类型的机器，可以用于辅助攻击敌人。
+            <b>AF1“熔甲者”</b>可放置在<b>协议核心</b>及<b>次级核心</b>范围外。
+            <b>AF1“熔甲者”</b>需要电力维持运转，1个<b>AF1“熔甲者”</b>耗电功率值为20。
+            <line kind="5"></line>
+            <ul>
+                <li>
+                    <b>AF1“熔甲者”</b>的<b>战斗性能</b>：
+                    <ul>
+                        <li>攻击力：<color value="f_blue">17252 </color><b><color value="f_orange">灼热伤害</color></b></li>
+                        <li>攻击范围：<color value="f_blue">7</color>米</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>AF1“熔甲者”</b>需要长<b>2</b>格、宽<b>2</b>格的可用空地，且与其他战斗辅助设备间隔<b>≥3</b>格。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

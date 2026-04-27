@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>86</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283048"},"item":{"name":"昔日精品","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150286","lastAuditPassedAt":"1772617669","tagIds":["10006","10225"]},"brief":{"associate":{"id":"512be003fe4d01f224fdb368163b7ba2","name":"昔日精品","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>昔日精品</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/acd8b54f5cf3441a9841cf301b62f4c9.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10225</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终未地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-北进重工支援所的高端产品。一款采用旧技术设计的链式切割器，目前已不再大规模生产，但设计依然可靠。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>昔日精品</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/dd2bea3aac177d142e31e00f1b8e4829.gif</imgUrl>
+                    <description>基础攻击力 50</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·大 </color></b><b>1/3</b>
+                <h3><b>意志</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·大 </color></b><b>1/3</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+10.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">效益·切碎疗法</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>治疗效率<color value="f_blue">+10.0%</color>。</h3>
+                <h3>处于<color value="f_turquoise">庇护</color>状态的干员受到伤害后，装备者为其回复<color value="f_green">[84+意志×0.70]</color>点生命值。</h3>
+                <color value="s_4">每15秒最多触发一次。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>昔日精品</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/8bfac151c82dbe6c662ec33eb69fd4f1.gif</imgUrl>
+                    <description>基础攻击力 495</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·大 </color></b><b>9/9</b>
+                <h3><b>意志</b><b><color value="f_blue">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·大 </color></b><b>9/9</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+78.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">效益·切碎疗法</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>治疗效率<color value="f_blue">+28.0%</color>。</h3>
+                <h3>处于<color value="f_turquoise">庇护</color>状态的干员受到伤害后，装备者为其回复<color value="f_green">[235+意志×1.96]</color>点生命值。</h3>
+                <color value="s_4">每15秒最多触发一次。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li><entry type="link-img" count="0" id="639"></entry>开启获取</li>
+                    <li><entry type="link-img" count="0" id="256"></entry>开启获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="意志提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="477"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="生命提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+26.0%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+34.0%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+42.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+50.0%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+58.0%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+66.0%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+78.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="477"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="效益·切碎疗法" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[101+意志×0.84]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[118+意志×0.98]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[134+意志×1.12]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+18.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[151+意志×1.26]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[168+意志×1.40]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+22.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[185+意志×1.54]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+24.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[202+意志×1.68]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+28.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[235+意志×1.96]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="477"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,195,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 145</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 245</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>1/3</b>
+                            <b>意志</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/3</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 245</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 345</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 345</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 445</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="221"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 445</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 495</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/9</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>3/9</b>
+                            <b>最大生命值</b><b><color value="r_3">+26.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">效益·切碎疗法 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>处于</b><b><color value="f_turquoise">庇护</color></b><b>状态的干员受到伤害后，装备者为其回复</b><b><color value="r_2">[84+意志×0.70]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            亲爱的克拉马斯·鲍勃:
+            我已经收到了你发给我的信息。原本我想和你当面聊聊，但还有十个小时车队就要出发前往北方前线。经过反复思考，我还是决定给你回信，因为车队出发后，我将很难通过通信设备与你联系。
+            我理解你的顾虑，也知道你们团队此时感到难过和沮丧。但请相信我，作为你的导师，我的判断并不是基于个人情感，而是出于对整体情况的分析。单凭我个人的意见也无法影响市场部门的决策。你们提交的技术图纸之所以能够获得认可，是因为产品设计确实非常出色，你可以对此更自信一点。
+            两个月前，革新技术部门的工程师公布了源石离心轮发动机的小型化成品，这让我感到惊讶。这种新型号的源石发动机实现了底层技术的一次迭代与革新，突破了过去许多源石发动机中能量转换的理论上限。要知道，一年前我还认为他们的原型机没有小型化的可能性，认为他们的理论只能永远停留在图纸上。然而，事实证明我陷入了思维的舒适圈，未能预见到技术的进步。
+            但你们不必因此对自己的学术能力失去信心。你们还年轻，依然有许多选择。对传统源石发动机技术的深入研究仍然具有重要意义。然而，正如我之前所说，技术总是会不断迭代。有时，承认自己多年来的努力正在失去意义是一件困难的事情。但作为技术人员，不要让情感影响你们对客观现实的判断。
+            当然，根据我过去的经验，全新的技术在彻底普及之前，通常会经历一个漫长的应用期。在泰拉时代被广泛使用的老产品，尽管噪音较大、源石能源转化效率不高，但它们具有新型号产品所不具备的优点：结构可靠，维护简单方便。因此，旧设计仍会继续被使用，直到被完全替换的那一天。
+            尽管如此，你们的产品设计依然非常出色，你也是一位优秀的工程师。我相信你和你的团队在未来会找到新的发展方向。
+            我非常期待下次见面时看到你们的新进展。
+
+            你的朋友和导师
+            威纶·辛克莱
+        </chapter>
+    </chapters>
+</sklandDocument>

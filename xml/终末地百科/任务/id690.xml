@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>690</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283353"},"item":{"name":"重启地区物资调度·其二","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1770050241","lastAuditPassedAt":"1770050542","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>重启地区物资调度·其二</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260203/856392/6980d0a651a1ffd966c08165_56331367.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><color value="r_5">谷地通道</color></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成 <entry type="link-img" count="0" id="634"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>物资调度系统可以使用</b><entry type="link-img" count="0" id="32"></entry><b>调度券进行升级。与“幸运萝卜”交谈，完成升级并了解该系统的更多功能。</b>
+                        <i>·获得</i><entry type="link-img" count="0" id="32"></entry><b><i><color value="f_brown">调度券</color></i></b><i>以升级物资调度系统</i>
+                        <i>·</i><i><u>（可选）</u></i><i>与据点进行货物交易，获取</i><entry type="link-img" count="0" id="32"></entry><b><i><color value="f_brown">谷地调度券</color></i></b>
+                        <i>·与</i><b><i><color value="f_brown">“幸运萝卜”</color></i></b><i>交谈</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            完成后可开放<b><color value="f_brown">弹性需求物资卖卖</color></b>玩法，并解锁<b><color value="f_brown">其余地区</color></b>的物资调度授权。
+            <line kind="3"></line>
+            <table header="none" widths="232,232,232,232,232">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="2900" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="12" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="9" id="225"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

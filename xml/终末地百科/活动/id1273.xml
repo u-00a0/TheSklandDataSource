@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1273</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283645"},"item":{"name":"物资供给·开拓节","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1774619672","lastAuditPassedAt":"1776052926","tagIds":["10369","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>物资供给·开拓节</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260323/856392/69c0a7ec45f7d92a73c87360_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10276">10369</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>供给活动</b>
+    </description>
+    <chapters name="活动详情">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69c0a82e8beddd4c8ef7a1e5</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>84382</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260323/856392/69c0a82e8beddd4c8ef7a1e5_96d20048.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动时间</b></align>
+                    </td>
+                    <td col="2">
+                        2026/03/19 12:00 - 2026/04/02 04:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动奖励</b></align>
+                    </td>
+                    <td col="2">
+                        活动开放期间，完成物资供给任务，累计可获得【贴纸·开拓节美食】【<entry type="link-img" count="0" id="926"></entry>】【<entry type="link-img" count="0" id="216"></entry>】【<entry type="link-img" count="0" id="210"></entry>】等活动奖励。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        · 完成主线任务「第一章 - 进程Ⅲ - 诡楼寻踪」
+                        · 完成探索任务「稼穑不易」
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        为了让人们拾起面对困境的勇气，罗曼请求管理员帮忙准备一些食物，分发给众人。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="活动说明">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，参与「开拓节与特色美食」任务，提交特色美食，即可领取对应奖励。</li>
+                <li>开拓节的特色美食共7种。第1日将开放1种可提交的特色美食，从第2日起，每日04:00（服务器时间）将会新开放1种美食。</li>
+                <li>可通过【简易制作】系统制作活动所需的特色美食。特色美食的原材料包括能够在可种植区域培育的【苦叶椒】【灰芦麦】，以及击败天使、裂地者后可获得的【异香石】【草籽干粉】等。</li>
+                <li>若特色美食的对应配方尚未解锁，可通过种植、探索等途径，收集足够数量的材料后在【简制手册】中解锁对应配方。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="供给节">
+            <tab name="酸、甜与辣" icon="">
+                <imgIntro>
+                    <name>爆辣腌渍水果</name>
+                    <type>供给备忘</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260327/856392/69c681488beddd4c8ef7b692_13673ac9.png</imgUrl>
+                    <description>酸辣味的腌水果。柑实未完全成熟时味道极酸，但连皮一起切块，再加入苦叶椒与异香石料粉腌制后，却能产生酸辣爽口的味道。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h1><b>供给记录</b></h1>
+                <line kind="4"></line>
+                酸辣的口感，散发出高能异香石的独特香味。我第一次吃爆辣腌渍水果时，就是被它的浓郁香气吸引。尝了一口，“酸辣两极”的极致体验实在令人难忘。
+                我把爆辣腌渍水果给了布戈尔一份，之前每次开拓节就属他吃得最多。剩下的我给了另外两个工友，他们都感慨辣后回甘的爽口滋味儿。
+                <line kind="3"></line>
+
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>菜品</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>奖励预览</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="529"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="150" id="926"></entry><entry type="card-big" count="20" id="210"></entry><entry type="card-big" count="40000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="应急充饥" icon="">
+                <imgIntro>
+                    <name>枢纽区应急餐</name>
+                    <type>供给备忘</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260327/856392/69c671394298be0edf0489df_13673ac9.png</imgUrl>
+                    <description>十分坚硬的咸味面包。枢纽区基地决定建设后，初到四号谷地的终末地干员们考虑到可能会发生的物资断供状况，特意在补给清单中加入了这种极耐储存的应急干粮。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h1><b>供给记录</b></h1>
+                <line kind="4"></line>
+                我到了工友们休息的地方，正好碰上了吃饭的时间。万尼科夫他们看到我把这几份枢纽区应急餐放到了桌上，显然没想到我会带着这个，直接就围了上来。粗粝扎实的灰芦麦，变幻出了温暖而热烈的颜色。有人细品荞花回甘的妙处,有人惊叹这其貌不扬的面包竟然越嚼越有滋味。对他们来说，现在能尝到枢纽区应急餐，或许是一份意外之趣。
+                <line kind="3"></line>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>菜品</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>奖励预览</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="528"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="150" id="926"></entry><entry type="card-big" count="2" id="216"></entry><entry type="card-big" count="40000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="大火爆香" icon="">
+                <imgIntro>
+                    <name>辣炒肉丁</name>
+                    <type>供给备忘</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260327/856392/69c6718ed04467ac08dcb069_db193eac.png</imgUrl>
+                    <description>大火爆炒而成的肉丁。一盘辣炒肉丁通常能让人吃下三碗饭，不用质疑，它一直是开拓区最受欢迎的菜式。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h1><b>供给记录</b></h1>
+                <line kind="4"></line>
+                简单的美食才更考验制作者的功力。我把这道辣炒肉丁送到了正在值班的波利亚和纽曼手里。波利亚尝过后还专门跑来和我说：“罗曼大叔，鲜辣过瘾啊！我总结了下他们两人的评价：肉香四溢，肥瘦相间，煸得焦韧，苦叶椒的辛辣恰到好处，提味而不“抢戏”，咸香与鲜辣，平衡得当。
+                <line kind="3"></line>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>菜品</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>奖励预览</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="564"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="150" id="926"></entry><entry type="card-big" count="50" id="224"></entry><entry type="card-big" count="40000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="酥香油润" icon="">
+                <imgIntro>
+                    <name>谷地馅饼</name>
+                    <type>供给备忘</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260327/856392/69c672a345f7d92a73c887d5_13673ac9.png</imgUrl>
+                    <description>填入了肉馅的馅饼。四号谷地居民童年回忆中都有它的影子，热腾腾的馅饼、火炉、家，这些事物总能唤起人的希望。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h1><b>供给记录</b></h1>
+                <line kind="4"></line>
+                灰芦麦面饼脆甜韧香，肉汁沁润交融，一口下去，仿佛胃里有一片丰饶的麦田。管理员，当我把这道菜交给沙尔金和科里后，他们表现得和我一样，完全没想到在现在的情况下，居然还能品尝到裹着爆汁肉馅的酥皮馅饼，一下就猜到我请了重量级外援。
+                <line kind="3"></line>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>菜品</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>奖励预览</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="565"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="150" id="926"></entry><entry type="card-big" count="2" id="216"></entry><entry type="card-big" count="40000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="怪味传承" icon="">
+                <imgIntro>
+                    <name>雅各布的遗产</name>
+                    <type>供给备忘</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260327/856392/69c6720e4298be0edf0489f0_6ad0f152.png</imgUrl>
+                    <description>硬如D64钢的面包。这种面包的起源据说可以追溯到裂地者尚未分裂的时代，裂地者们谣传它是军阀雅各布的餐桌常客。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h1><b>供给记录</b></h1>
+                <line kind="4"></line>
+                “雅各布的遗产”可是我的童年回忆。被热腾腾的高能异香石加工过的灰芦麦粉，做成面包后切成条，在煎锅里稍微处理下，嚼起来咔咔作响......据说是那位大军阀雅各布留下的食谱，但食物就是食物，食物是没过错的。
+                卡莉她们一听到有好吃的，立马就跑了过来。孩子们被逗得咯咯笑，一会儿说像在吃被晒脆的小树枝，一会儿说暖暖的，像是风在释放源石技艺，然后舔着嘴角说道：“这是四号谷地偷偷塞进碗里的游戏。”
+                <line kind="3"></line>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>菜品</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>奖励预览</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="895"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="50" id="222"></entry><entry type="card-big" count="40000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="零食的记忆" icon="">
+                <imgIntro>
+                    <name>软骨饼干</name>
+                    <type>供给备忘</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260327/856392/69c6816ec18f320561a63404_3eac6ad0.png</imgUrl>
+                    <description>混入了小块软骨的咸香饼干，造型可爱，但因为材料原因吃起来又干又噎。据说这道菜源自一张裂地者食谱，真是难得，癫狂的“管子人”偶尔也有细腻心思。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h1><b>供给记录</b></h1>
+                <line kind="4"></line>
+                软骨饼干，以前我总是会从节日会场揣几块带回家。我把饼干分享给了莎曼她们，大家一边眯着眼仔细品尝， 一边回想起了这几年的历程。聊着聊着，我们就想起了被排在开拓节值班的日子，每当遇到了这种情况，我们就会从节日会场上抓一把软骨饼干捂在怀里，想吃了就摸出来啃上几口......美好的日子仿佛都回来了。
+                <line kind="3"></line>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>菜品</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>奖励预览</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="523"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="2" id="216"></entry><entry type="card-big" count="40000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="炭火上的余声" icon="">
+                <imgIntro>
+                    <name>爆辣焗烤源石虫</name>
+                    <type>供给备忘</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260327/856392/69c68197d04467ac08dcb0d7_f1525633.png</imgUrl>
+                    <description>令人安心的爆辣菜式。从一颗星球到另一颗星球，长久传承，故乡风味。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h1><b>供给记录</b></h1>
+                <line kind="4"></line>
+                爆辣焗烤源石虫可是我的最爱，虫肉里裹着苦叶椒的辛辣，辛香直冲头顶......佩吉听说我在分发开拓节特色美食后找了过来，我就把这道美食给了她。布戈尔当然也跟在她身边，但看到我拿出这道美食后直接退了一步。哈哈哈，就他这个胆子，唉。
+                <line kind="3"></line>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>菜品</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>奖励预览</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="563"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="0" id="1336"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="60000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

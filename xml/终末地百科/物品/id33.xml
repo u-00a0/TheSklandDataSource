@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>33</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283022"},"item":{"name":"晶体外壳","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1764944746","lastAuditPassedAt":"1771771577","tagIds":["10002","10260","10318"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>晶体外壳</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/203953/95357d7c0c994cc93de1a59bb2dac1b4.png</cover>
+        <subTypes>
+            <subType id="10000">10002</subType>
+            <subType id="10253">10260</subType>
+            <subType id="10254">10318</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>源石加工时剥离的外壳部分，可用于其他材料合成。</b>
+        <color value="s_3">源石晶体外壳的厚度通常可以作为判断一条矿脉存续时间的重要依据。</color>
+    </description>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>维修探索过程中发现的损坏设备。</b>
+            <ul>
+                <li>大多损坏设备都需要消耗晶体外壳进行交互，参见<b>游戏内</b><b><color value="r_5">终末地百科-教学记录-探索-及时维修</color></b>相关内容。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>作为装备制造的材料。</b>
+            <ul>
+                <li>
+                    仅稀有度为<b>白色</b>的干员装备在制造时需要晶体外壳作为消耗材料，即<b>四号谷地</b>套组中的<b><color value="r_5">简易装备组</color></b>，包含以下部件：
+                    <ul>
+                        <li><entry type="card-big" count="0" id="139"></entry><entry type="card-big" count="0" id="413"></entry><entry type="card-big" count="0" id="482"></entry><entry type="card-big" count="0" id="483"></entry></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="5"></line>
+            <b>用于仓储节点货物装箱。</b>
+            <ul>
+                <li>每装箱<entry type="link-img" count="1" id="33"></entry>需要1点货箱容量。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="工业合成">
+            <tab name="加工" icon="">
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="2">
+                            <align value="center"><entry type="card-big" count="0" id="53"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="48"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="33"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="38"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="33"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="54"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="33"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="38"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="4">
+                            <align value="center"><entry type="card-big" count="0" id="175"></entry></align>
+                        </td>
+                        <td col="2" rowspan="2">
+                            <align value="center"><entry type="card-big" count="5" id="33"></entry> <entry type="card-big" count="5" id="193"></entry></align>
+                        </td>
+                        <td col="3" rowspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="374"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td col="2" rowspan="2">
+                            <align value="center"><entry type="card-big" count="10" id="33"></entry> <entry type="card-big" count="10" id="194"></entry></align>
+                        </td>
+                        <td col="3" rowspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="375"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+            <tab name="设备制造" icon="">
+                <table header="row" widths="608,552">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="5" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="54"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="5" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="55"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="10" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="175"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="10" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="50"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="20" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="52"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="20" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="168"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="20" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="183"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"> <entry type="card-big" count="5" id="33"></entry> <entry type="card-big" count="1" id="55"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="166"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="10" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="171"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="10" id="33"></entry> </align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="172"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="10" id="33"></entry> <entry type="card-big" count="10" id="377"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="178"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

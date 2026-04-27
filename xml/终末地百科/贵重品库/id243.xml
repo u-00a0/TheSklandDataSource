@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>243</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283125"},"item":{"name":"醚质·四号谷地","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6208993443188","nickname":"肉丝饼","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/ef50268d0610aeb22738a0d448ee5d50.png"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1765461066","lastAuditPassedAt":"1768236272","tagIds":["10005","10330","10329"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>醚质·四号谷地</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/203953/a8c2ee1922a446d4ea8c5d61d5bbb43c.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10321">10330</subType>
+            <subType id="10322">10329</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>探索时获得的神秘物质，在协议传送点处可以提交换取奖励。</b>
+        <color value="s_3">能在四号谷地收集到的醚质，是曾经完整之物的微小碎片。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>冒险探索获取。</b>
+            <ul>
+                <li>出现在<b><color value="r_5">四号谷地</color></b>地图各处静止或以一定模式移动，主控干员触碰时会将其收集，并提示当前地区已收集醚质数量及醚质总数。</li>
+                <li>部分醚质会处于无法收集的隐形状态，需要通过<b><color value="r_5">便携工具-扫描</color></b>使其现形。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>四号谷地协议传送点处提交。</b>
+            <ul>
+                <li>提交<b>醚质·四号谷地</b>每达到一定数量后都会解锁相应的奖励：</li>
+            </ul>
+            <table header="row" widths="100,184,870">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>阶段</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>所需醚质数量</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>达成奖励</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>1</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="1" id="925"></entry></align>
+                        <align value="center"> <b><color value="r_5">耐力上限增加</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>2</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">3</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="1" id="925"></entry> </align>
+                        <align value="center"><b><color value="r_5">耐力上限增加</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>3</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">4</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="1" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>4</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">5</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="1" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>5</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">6</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="2" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                        <align value="center"><b><color value="r_5">耐力上限增加</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>6</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">8</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="2" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>7</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">9</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="2" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>8</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">10</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="2" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>9</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                        <align value="center"><b><color value="r_5">耐力上限增加</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>10</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>11</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>12</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>13</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>14</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                        <align value="center"><b><color value="r_5">耐力上限增加</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>15</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>16</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry><entry type="card-big" count="3" id="925"></entry><entry type="card-big" count="1" id="261"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>367</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283186"},"item":{"name":"砂叶","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"1485727484109","nickname":"奕行","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/d64ed43a19b90af99d12cc509643ffe3.png"},"status":2,"publishedAtTs":"1765463514","lastAuditPassedAt":"1770377959","tagIds":["10001","10261","10320"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>砂叶</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/3048259/c00567f8059459d1db7cd2b9db89e39e.png</cover>
+        <subTypes>
+            <subType id="10000">10001</subType>
+            <subType id="10253">10261</subType>
+            <subType id="10254">10320</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可在野外采集或在工厂培育出的叶片粗粝的植物，粉碎后可用于精细研磨。</b>
+        <color value="s_3">众生长地是“荒地手工业”领域中的翘楚，他们善于使用各种天然材料在艰苦环境中生存。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>供能高地-高地主路等地采集。</b>
+            <ul>
+                <li>分布在供能高地<b><color value="f_yellow">高地主路</color></b>等地。</li>
+                <li>砂叶的采集点外观为带有两簇黄绿色花型叶片的植株，靠近交互即可获取。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>生态种植区进行种植培育。</b>
+            <ul>
+                <li>放置<entry type="link-img" count="0" id="346"></entry>并进行育苗和浇水，等待其成熟时收获可以获取砂叶。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>用于仓储节点货物装箱。</b>
+            <ul>
+                <li>每装箱<entry type="link-img" count="1" id="367"></entry>需要1点货箱容量。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="工业合成">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>合成设备</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>原料需求</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>合成产物</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="54"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="367"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="3" id="543"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="173"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="367"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="2" id="481"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="53"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="367"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="192"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="174"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="481"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="367"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

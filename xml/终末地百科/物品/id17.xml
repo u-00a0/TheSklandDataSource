@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>17</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283014"},"item":{"name":"理智","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1765462680","lastAuditPassedAt":"1770376798","tagIds":["10006","10313"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>理智</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/07/3048259/a0b3d2d1310785ad669be22e04ea4ecb.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10253">10313</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>用以维持自我的必要概念，支撑着各类行动的策划与执行。</b>
+        <color value="s_3">■■■■■。</color>
+        <color value="s_3">■■■■■■■，■■■■■■。</color>
+        <color value="s_3">■■■■。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>使用理智回复液回复。</b>
+            <ul>
+                <li><b><color value="r_5">理智药剂</color></b>，如<entry type="link-img" count="0" id="261"></entry><entry type="link-img" count="0" id="260"></entry>等。</li>
+                <li><b><color value="r_5">特殊样式的理智药剂</color></b>，如<entry type="link-img" count="0" id="331"></entry><entry type="link-img" count="0" id="258"></entry><entry type="link-img" count="0" id="257"></entry>等。</li>
+                <li><b><color value="r_5">衍质源石</color></b>，每日最多通过此途径回复理智 <b>10 </b>次，每次回复<entry type="link-img" count="40" id="17"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>随时间自然恢复。</b>
+            <ul>
+                <li>理智未超过上限时，每经过<b>432秒（7分钟12秒）</b>会回复<entry type="link-img" count="1" id="17"></entry>，即每24小时回复<entry type="link-img" count="200" id="17"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>完成特定玩法后领取奖励。</b>
+            <ul>
+                <li>完成<b><color value="r_5">协议空间</color></b>等玩法的战斗后，需要消耗理智领取奖励。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>用于获取特定物品。</b>
+            <ul>
+                <li>在贵重品库中消耗<entry type="link-img" count="1" id="259"></entry><entry type="link-img" count="120" id="17"></entry>，可以获取<entry type="link-img" count="1" id="385"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

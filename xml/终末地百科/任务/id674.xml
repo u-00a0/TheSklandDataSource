@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>674</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283345"},"item":{"name":"帮人帮到底","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768229692","lastAuditPassedAt":"1770789536","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>帮人帮到底</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260211/856392/698c028a711a4d42716d1c85_3eac6ad0.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <table header="row" widths="290,290,290,290">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>所属章节</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>前置任务</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="small" name="任务详情">
+            <line kind="5"></line>
+            <h3><b>地点</b></h3>
+            <ul>
+                <li><color value="r_5">谷地通道</color></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>触发位置</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>相关人物</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>任务道具</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>解锁内容</b></h3>
+            <quote>
+                <b>任务</b>
+            </quote>
+            <ul>
+                <li>/</li>
+            </ul>
+            <quote>
+                <b>功能</b>
+            </quote>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="任务进程">
+            <line kind="5"></line>
+            <h2><b>进程</b></h2>
+            <b>管理员在裂地者的囚笼中发现了一名伤痕累累的神秘人物。将他解救出来，了解在他身上发生的事。</b>
+            <ul>
+                <li><i>解救</i><b><i><color value="f_brown">被囚禁的神秘人物</color></i></b></li>
+                <li><i>寻找瓦茨丢失的</i><b><i><color value="f_brown">行李</color></i></b></li>
+                <li><i>找到丢失的</i><b><i><color value="f_brown">行李</color></i></b></li>
+                <li><i>将行李交给</i><b><i><color value="f_brown">瓦茨</color></i></b></li>
+                <li><i>跟上</i><b><i><color value="f_brown">瓦茨</color></i></b></li>
+                <li><i>寻找丢失的</i><b><i><color value="f_brown">货物</color></i></b></li>
+                <li><i>查看</i><b><i><color value="f_brown">货物</color></i></b></li>
+                <li><i>追上</i><b><i><color value="f_brown">瓦茨</color></i></b></li>
+                <li><i>寻找</i><b><i><color value="f_brown">第二箱货物</color></i></b></li>
+                <li><i>使用扫描功能</i><b><i><color value="f_brown">寻找线索</color></i></b></li>
+                <li><i>跟随</i><b><i><color value="f_brown">动物的脚印</color></i></b><i>前进</i></li>
+                <li><i>找到丢失的</i><b><i><color value="f_brown">罐头</color></i></b></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="任务奖励">
+            <line kind="5"></line>
+            <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="100" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="6950" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="21" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="12" id="223"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="16" id="225"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="400" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

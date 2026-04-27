@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>124</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283069"},"item":{"name":"使命必达","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768038502","lastAuditPassedAt":"1773129106","tagIds":["10006","10227"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>使命必达</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/33f54d8479db132681da1a26e789e5e4.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10227</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-雷神工业的经典尖端产品，其原型从第一次天使战争时便投入使用。该产品不断迭代至今，强大的火力意味着安全与保障。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>使命必达</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/5bc8c132e6d4448998434119c055e2ec.gif</imgUrl>
+                    <description>基础攻击力 51</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·大 </color></b><b>1/3</b>
+                <h3><b>意志</b><b><color value="r_3">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">终结技充能效率提升·大 </color></b><b>1/3</b>
+                <h3><b>终结技充能效率</b><b><color value="r_3">+6.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                <h3><b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b></h3>
+                <h3><b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="f_blue">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="f_blue">+3.5%</color></b><b>，最多</b><b><color value="f_blue">+10.5%</color></b><b>。</b></h3>
+                <color value="r_1">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>使命必达</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/ef765687d6b354eadd106b5b4c38bf10.gif</imgUrl>
+                    <description>基础攻击力 500</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·大</color></b><b> 9/9</b>
+                <h3><b>意志</b><b><color value="r_3">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">终结技充能效率提升·大</color></b><b> 9/9</b>
+                <h3><b>终结技充能效率</b><b><color value="r_3">+46.4%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">追袭·不辱使命 </color></b><b>9/9</b>
+                <h3><b>自然伤害</b><b><color value="r_3">+44.8%</color></b><b>。</b></h3>
+                <h3><b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="f_blue">+33.6%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="f_blue">+9.8%</color></b><b>，最多</b><b><color value="f_blue">+29.4%</color></b><b>。</b></h3>
+                <color value="r_1">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="意志提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>意志</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2">
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3">
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4">
+                            <b>意志</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5">
+                            <b>意志</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6">
+                            <b>意志</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7">
+                            <b>意志</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8">
+                            <b>意志</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9">
+                            <b>意志</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="466"></entry>﻿
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="终结技充能效率提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>终结技充能效率</b><b><color value="r_3">+6.0%</color></b>
+                        </td>
+                        <td col="2">
+                            <b>终结技充能效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                        <td col="3">
+                            <b>终结技充能效率</b><b><color value="r_3">+15.5%</color></b>
+                        </td>
+                        <td col="4">
+                            <b>终结技充能效率</b><b><color value="r_3">+20.2%</color></b>
+                        </td>
+                        <td col="5">
+                            <b>终结技充能效率</b><b><color value="r_3">+25.0%</color></b>
+                        </td>
+                        <td col="6">
+                            <b>终结技充能效率</b><b><color value="r_3">+29.8%</color></b>
+                        </td>
+                        <td col="7">
+                            <b>终结技充能效率</b><b><color value="r_3">+34.5%</color></b>
+                        </td>
+                        <td col="8">
+                            <b>终结技充能效率</b><b><color value="r_3">+39.3%</color></b>
+                        </td>
+                        <td col="9">
+                            <b>终结技充能效率</b><b><color value="r_3">+46.4%</color></b>
+                        </td>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="466"></entry>﻿
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="追袭·不辱使命" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.8888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2">
+                            <b>自然伤害</b><b><color value="r_3">+19.2%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+14.4%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+4.2%</color></b><b>，最多</b><b><color value="r_3">+12.6%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3">
+                            <b>自然伤害</b><b><color value="r_3">+22.4%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+16.8%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+4.9%</color></b><b>，最多</b><b><color value="r_3">+14.7%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4">
+                            <b>自然伤害</b><b><color value="r_3">+25.6%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+19.2%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+5.6%</color></b><b>，最多</b><b><color value="r_3">+16.8%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5">
+                            <b>自然伤害</b><b><color value="r_3">+28.8%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+21.6%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+6.3%</color></b><b>，最多</b><b><color value="r_3">+18.9%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6">
+                            <b>自然伤害</b><b><color value="r_3">+32.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+24.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+7.0%</color></b><b>，最多</b><b><color value="r_3">+21.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7">
+                            <b>自然伤害</b><b><color value="r_3">+35.2%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+26.4%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+7.7%</color></b><b>，最多</b><b><color value="r_3">+23.1%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8">
+                            <b>自然伤害</b><b><color value="r_3">+38.4%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+28.8%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+8.4%</color></b><b>，最多</b><b><color value="r_3">+25.2%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9">
+                            <b>自然伤害</b><b><color value="r_3">+44.8%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+33.6%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+9.8%</color></b><b>，最多</b><b><color value="r_3">+29.4%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="466"></entry>﻿
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,193,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 146</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> </color></b><b>247</b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>1/3</b>
+                            <b>意志</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>1/3</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+6.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>1/4</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+6.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 247</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 348</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>1/4</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+6.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>2/6</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 348</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 449</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>2/6</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>2/7</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="219"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 449</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 500</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/9</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>2/7</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·大 </color></b><b>3/9</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+15.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·不辱使命 </color></b><b>1/4</b>
+                            <b>自然伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技造成</b><b><color value="f_sandstone">击飞</color></b><b>后，全队造成的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续15秒。每有一个被</b><b><color value="f_sandstone">击飞</color></b><b>的敌人，全队造成的法术伤害额外</b><b><color value="r_3">+3.5%</color></b><b>，最多</b><b><color value="r_3">+10.5%</color></b><b>。</b>
+                            <color value="r_1">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            前天，我外出拾荒的时候，遇到了一位奇怪的佩洛大姐姐。
+            她看上去也不像是之前关照过我们的众生长地人。她穿着奇怪的装束，还扶着一块报废的铁疙瘩，她管它叫“摩托”，说是被天使弄坏的。
+            她问我能不能把我的驮兽借给她。
+            我不想借给她。
+            我问她是谁，她说她是一个“信使”。
+            信使？从来没听过的名字。
+            她向我解释，在很久很久以前，当星门依旧伫立的时候，信使会带着塔卫二的东西穿过星门到泰拉去，然后再带着泰拉的东西回到塔卫二，交换着双方的思念和寄托。
+            可是爸爸说，星门早就坏了呀，早就没有泰拉了？
+            她回答道，赶走天使后，人们又陷入了战争与猜疑，都封闭了自己，就像我脚边的小沙地兽把自己埋在窝里不出来一样。
+            战争？
+            人与天使的战争，以及人与人的战争。她告诉我，我和爸爸的聚落或许就是为了躲避战争而定居荒野。
+            我并不想把驮兽借给她。
+            她直视着我的眼睛，认真地说，她向我借驮兽是为了去告诉大家，战争已经结束了。
+            虽然失去了与泰拉的连接，但信使想让塔卫二的大家重新团结在一起，重新信任彼此。
+            她是战争结束后的第一位信使，她要替一个叫“终末地”的人寄出第一封信——一封代表和平的信。
+            但我还是不想把驮兽借给她。
+            她温柔地笑了笑，将漂浮在身上的铁球摘下来，说这是她身上除了那封信之外最值钱的东西，可以先放在我这里抵押，直到她把驮兽还给我。
+            嗯，一般能漂浮的东西都挺值钱的。
+            我答应了，把驮兽借给了她，告诉了她我的名字，并给她指了指聚落的方向。
+            …………
+            今早起床的时候，有人告诉我，聚落外面拴着我的驮兽，上面有一封信与一件包裹，信上有我的名字。
+            果然是那个信使姐姐。
+            她在信里说，抵押在我这儿的东西就不用还她了，算是一份谢礼，感谢我的驮兽让她和信离目的地更近了一步。
+            信使的时代重新来临了！她的语气似乎很高兴。
+            包裹里面是一个“通信装置”，附上了一段说明，现在我们都可以用这个“通信装置”呼叫附近的信使们了。
+            可是我该写信给谁？又该寄去哪儿呢？我从来就没离开过聚落。
+            那我就先写给那个信使姐姐吧。
+        </chapter>
+    </chapters>
+</sklandDocument>

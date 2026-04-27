@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>122</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283068"},"item":{"name":"布道自由","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768038777","lastAuditPassedAt":"1772617300","tagIds":["10005","10227"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>布道自由</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/19/4898765/4938b6f2ec089726e15365d5643abd24.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10223">10227</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-梅什科工业为寂语修会定制的施术单元。该产品从设计、验证到落地生产和调试都在寂语修会修士的指导建议下完成。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>布道自由</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/76720fb4ce62913ff09544986449f1b3.gif</imgUrl>
+                    <description>基础攻击力 42</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·中 </color></b><b>1/3</b>
+                <h3>意志<color value="f_blue">+</color><b><color value="r_3">16</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">治疗效率提升·中 </color></b><b>1/3</b>
+                <h3><b>治疗效率</b><b><color value="f_blue">+4.8%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·信仰救赎</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>主能力<color value="f_blue">+5.0%</color>。</h3>
+                <h3>装备者通过自身战技治疗后，为主控干员额外回复<color value="f_green">[60+意志×0.5]</color>点生命值。</h3>
+                <color value="s_4">每15秒最多触发一次。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>布道自由</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/e34afa1d9fccc1d678ccdd4103479cbe.gif</imgUrl>
+                    <description>基础攻击力 411</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·中 </color></b><b>9/9</b>
+                <h3>意志<color value="f_blue">+124</color></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">治疗效率提升·中 </color></b><b>9/9</b>
+                <h3><b>治疗效率</b><b><color value="f_blue">+37.1%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·信仰救赎</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>主能力<color value="f_blue">+14.0%</color>。</h3>
+                <h3>装备者通过自身战技治疗后，为主控干员额外回复<color value="f_green">[168+意志×1.4]</color>点生命值。</h3>
+                <color value="s_4">每15秒最多触发一次。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li>四号谷地-物资调度获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="意志提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+54</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+67</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+80</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+92</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+105</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+124</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="治疗效率提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+4.8%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+8.6%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+12.4%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+16.2%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+20.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+23.8%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+27.6%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+31.4%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+37.1%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="医疗·信仰救赎" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[60+意志×0.5]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+6.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[72+意志×0.6]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[84+意志×0.7]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+8.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[96+意志×0.8]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+9.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[108+意志×0.9]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[120+意志×1.0]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+11.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[132+意志×1.1]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[144+意志×1.2]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b>
+                            <b><color value="r_2">[168+意志×1.4]</color></b>
+                            <b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,197,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 120</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 203</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>1/3</b>
+                            <b>意志</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>1/3</b>
+                            <b>治疗效率</b><b><color value="r_3">+4.8%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+4.8%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 203</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 286</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+4.8%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>2/6</b>
+                            <b>治疗效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 286</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 369</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>2/6</b>
+                            <b>治疗效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>2/7</b>
+                            <b>治疗效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="217"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 369</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 411</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>3/9</b>
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>2/7</b>
+                            <b>治疗效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·中 </color></b><b>3/9</b>
+                            <b>治疗效率</b><b><color value="r_3">+12.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·信仰救赎 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过自身战技治疗后，为主控干员额外回复</b><b><color value="r_2">[60+意志×0.5]</color></b><b>点生命值。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            名为“会话”的修士步入荒野，
+            他来到一片荒芜的聚落，溪流干涸，土地龟裂。
+            饥渴的丰蹄们，向他寻求救赎。
+            “你们需要知识将你们引向那水草丰茂之处。”
+            “我来教你们如何解读这片土地。”
+            他手中闪烁着源石网络的光芒，
+            他传授着来自极远方之人的学识。
+            七个昼夜后，
+            明悟的丰蹄学会了如何在荒芜之中挖掘一口水井，
+            聚落自此水草丰茂。
+
+            名为“重现”的修士步入荒野，
+            他来到一片荒芜的聚落，溪流干涸，土地龟裂。
+            饥渴的丰蹄们，向他寻求救赎。
+            “你们需要力量将本属于你们的水源夺回。”
+            “我将赠予你们保护自己的武器。”
+            他将身后背负的数把铳取下，
+            他将这些四处收集而来的前人遗物赠予今人。
+            七个昼夜后，
+            武装的丰蹄将霸占了溪流上游的裂地者驱逐出了这片土地，
+            聚落自此水草丰茂。
+
+            名为“阐释”的修士步入荒野，
+            他来到一片荒芜的聚落，溪流干涸，土地龟裂。
+            饥渴的丰蹄们，向他寻求救赎。
+            “你们需要将信念凝聚在一起，祈祷丰沛的雨终会降临。”
+            “我将陪伴、带领你们等待这注定的雨季。”
+            他为众人划定律法与规范，让他们学会团结与忍耐，
+            他耐心地鼓励着每位绝望的丰蹄，给他们平静与希望。
+            七个昼夜后，
+            坚定的丰蹄等来了滂沱的生机之雨，
+            聚落自此水草丰茂。
+
+            汝若是那饥渴的丰蹄，
+            会选择接受哪一位修士的救赎?
+
+            ———“三位修士”的寓言一则，刻于寂语移动大教堂的一角
+        </chapter>
+    </chapters>
+</sklandDocument>

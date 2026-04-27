@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1066</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283541"},"item":{"name":"“烙铁”发信器","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"3358404863657","nickname":"A_Pullu_Pie","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/04fd45d25fde55799b8e3df64ead6c29.webp"},"status":2,"publishedAtTs":"1769349961","lastAuditPassedAt":"1774344692","tagIds":["10005","10330","10329"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>“烙铁”发信器</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/24/1492764/9da4a9add8fc9631e6be01480953d680.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10321">10330</subType>
+            <subType id="10322">10329</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>克劳所需的特殊发信器，用来发送“烙铁指令”。</b>
+        <color value="s_3">一个外形平平无奇的发信装置，但鲜红色的按钮似乎在警示着危险。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>冒险探索获取</b>
+            <ul>
+                <li><b><color value="r_5">紧要任务</color></b><entry type="link-img" count="0" id="1155"></entry>中，前往<b><color value="r_5">供能高地-源石发电站</color></b>与NPC <b>克莱维尔 </b>对话，并在进入实验室内击败<entry type="link-img" count="0" id="731"></entry><entry type="link-img" count="0" id="730"></entry>后使用<b><color value="r_5">扫描</color></b>功能，于任务标识处拾取。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>用于提交紧要任务目标</b>
+            <ul>
+                <li>将<entry type="link-img" count="1" id="1066"></entry><entry type="link-img" count="1" id="1065"></entry>交付至NPC<b>克劳</b>处以推进任务。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

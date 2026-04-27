@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1174</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283596"},"item":{"name":"望乡","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"status":2,"publishedAtTs":"1773378483","lastAuditPassedAt":"1777274702","tagIds":["10006","10224"]},"brief":{"associate":{"id":"8d4ce28361d86b4d85bd13258decc134","name":"望乡","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>望乡</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260312/3644013/69b2521e45f7d92a73c82cbe_3eac6ad0.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10224</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-宏山选剑局研发的铳械。为贴合宏科院武装力量的基本方针，在设计时特别减轻了重量，优化了持握手感。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>望乡</name>
+                    <type>手铳</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260313/3644013/69b2f0a18beddd4c8ef7613e_db193eac.gif</imgUrl>
+                    <description>基础攻击力 50</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                <h3><b>敏捷</b><b><color value="r_3">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">寒冷伤害提升·大 </color></b><b>1/3</b>
+                <h3><b>寒冷伤害</b><b><color value="r_3">+5.6%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">压制·旧时月</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>攻击力<color value="r_3">+7.0%</color>。</h3>
+                <h3>装备者施放连携技后，战技造成的寒冷和自然伤害<color value="f_blue">+8.0%</color>，持续20秒。</h3>
+                <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>望乡</name>
+                    <type>手铳</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260313/3644013/69b2f0b545f7d92a73c8326d_3eac6ad0.gif</imgUrl>
+                    <description>基础攻击力 490</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>9/9</b>
+                <h3><b>敏捷</b><b><color value="r_3">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">寒冷伤害提升·大 </color></b><b>9/9</b>
+                <h3><b>寒冷伤害</b><b><color value="r_3">+43.3%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">压制·旧时月</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>攻击力<color value="r_3">+19.6%</color>。</h3>
+                <h3>装备者施放连携技后，战技造成的寒冷和自然伤害<color value="f_blue">+22.4%</color>，持续20秒。</h3>
+                <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li><entry type="link-img" count="0" id="1139"></entry>开启获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="敏捷提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="465"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="寒冷伤害提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="r_3">+5.6%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+18.9%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+23.3%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+27.8%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+32.2%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+36.7%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+43.3%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="465"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="压制·旧时月" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+8.4%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+9.6%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+9.8%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+11.2%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+11.2%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+12.8%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+12.6%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+14.4%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+16.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+15.4%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+17.6%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+16.8%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+19.2%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+19.6%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="f_blue">+22.4%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="465"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,195,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 144</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 243</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/5</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>1/3</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+5.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+5.6%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 243</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 342</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/5</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+5.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>2/6</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 342</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 441</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>2/6</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>2/7</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="219"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 441</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 490</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/9</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>2/7</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·大 </color></b><b>3/9</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·旧时月 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者施放连携技后，战技造成的寒冷和自然伤害</b><b><color value="r_3">+8.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果最多叠加2层，每层单独计算持续时间。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="0" id="1130"></entry></align>
+                    </td>
+                    <td col="3" rowspan="2" colspan="8">
+                        整体可为汤汤增加不错的寒冷伤害提升，当有条件情况下，将武器提升至满潜能后<color value="f_blue">19.6%</color>的攻击力与施放连携技后战技<color value="f_blue">22.4%</color>的寒冷伤害加成也较为可观。
+                    </td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            “做些月饼吧。”我突然说。
+            伊森明显愣了一下，但在他背后，沃尔科夫把酒瓶放下，猛地拍起大腿，顺着我的话喊了起来：“做月饼！朋友们！做月饼吧！”
+            伊森先是扇了扇风，试图把空气中的酒味扇走，未果后索性放弃了。他向沃尔科夫提问，试图让他说出月饼到底是什么东西，以确定他没有喝醉，但不幸的是，沃尔科夫只能磕磕巴巴地重复着“是一种饼，我们乌萨斯工团也有饼”这样的醉话。于是他又看向我。
+            “我是开......”
+            “好。”
+            我甚至没有把“玩笑”两个字说出口，伊森就表示了支持。他对炎国历史、习俗比我这个炎国人还了解，应该很清楚距离中秋节还有一个半月，所谓做月饼只是我随口说出的胡话。但此刻，我理解这个仿佛把全哥伦比亚的严肃性都汇聚在自己身上的男人为什么会陪着我们一起发疯。
+            因为天使战争结束了。
+            一段时间之前，战胜的消息突然从前线传到了我们这座通信哨站——管理员和四十位英雄冲进了极光壁，解决了敌人，人类终于从天使战争中解脱了出来。一开始我们并不相信这件事，但连续数日都仅有寥寥几个锚点飞过头顶，冲击哨站的天使也少得可怜，这些事实让我们意识到战争或许真的结束了。
+            可惜的是，它没有这么容易从我们的心里离去。
+            我们三个人似乎已经没有办法适应战争结束的生活，我会看着自己的断手发呆，沃尔科夫会偷喝防冻液，而伊森会写日记，但我瞥见过那些文字——死亡、战友、故乡......只有不成句的词在纸上堆砌。可这些词却能割伤我，很多年过去了，我从青涩的少年，到了如今的中年，侥幸还活着......那么，付出了怎样的代价，忘记了什么东西？我试着回忆尚蜀老宅的石阶，试着回忆中秋时祖父母制作月饼的步骤，试着回忆第一个死在我眼前的战友......这些早已模糊不堪。
+            我忽然觉得做月饼这种想法无比可笑，塔卫二没有月亮，被称为月亮的是塔卫一，就算天师府的诸位同僚对着万年历将大炎的节日完全照搬到了塔卫二，又有什么用呢？月亮是假的，连二十四节气也对不上气候......这里不是我们的家，我们早已是没有归处的游魂。令我们恐惧的是塔卫二本身，在无数个噩梦中，有新的怪物从海中来，有新的怪物从星空中来，我们的昂扬壮志早就在向南撤退的行程中被碾得粉碎。
+            “做些月饼吧。”但我仍在坚持。
+            伊森用低筋面粉做了饼皮，我将能量棒碾碎，混上巧克力做成了馅料，沃尔科夫......他用源石技艺将水冻结成冰，勉强制成了模具。两小时后，我们围坐在一起，开始艰难地嚼食仅有一丝甜味和暖意的褐色面团，沃尔科夫表示原来正宗的月饼是这种味道，我想了想，把一些污言秽语压了下去。又过了两个小时，我仰面在雪地上醒来——防冻液确实不是什么人都能喝上几口的。“月亮”闯进我的眼睛，我忽然觉得苍白的塔卫一要比泰拉的月亮更明亮一些，可惜，有关故乡月亮的记忆也很模糊了。但这好像无伤大雅吧？防冻液中的醇对我窃窃私语。是啊，我回答它，我们已经拥有了新的月亮，在陌生的土地上，人类已站稳了脚跟。
+            直至此时，我终于感受到了战争的离去，这颗星球仍令我恐惧，但我心中也有微小的希望萌发出来。我走回哨站，听着沃尔科夫和伊森聊起新收到的情报，难民营的小规模冲突，还有其他哨站也在悄悄交换节日祝福……战争离去，未知且庞大的塔卫二正等待着我们，从今往后，就是重新建设未来的时代，人类再一次拥有了希望，我如此相信。
+            ——耻辱战争爆发前夜，某位天师的日记
+        </chapter>
+    </chapters>
+</sklandDocument>

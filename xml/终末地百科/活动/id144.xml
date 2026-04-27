@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>144</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283079"},"item":{"name":"权限等阶奖励","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1769181769","lastAuditPassedAt":"1772637901","tagIds":["10277","10367"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>权限等阶奖励</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/22/402818/1c4ad7b900867fc3384836908178050a.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10367</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>新手活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>6971a40d5f510e73aa1f222d</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>92454</size>
+                            <url>https://bbs.hycdn.cn/image/2026/01/22/856392/5a7036d6dcfd8b49b9dec00e046efc62.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>开放时间</b></align>
+                    </td>
+                    <td col="2">
+                        <b>公测开启后</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅰ - 基地解围」后，开启【活动】功能
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="任务规则">
+            <line kind="5"></line>
+            <ul>
+                <li>当管理员到达指定权限等阶后，即可获得对应奖励。</li>
+                <li>权限等阶到达45级，累计可获得<b>【臻选武器补给】* 1、【星声申领凭证】* 1、【基础寻访凭证】* 40、【嵌晶玉】* 4000</b>奖励。</li>
+                <li>【臻选武器补给】开启后，可从6星武器 【<color value="r_6">J.E.T.（长柄武器）/白夜新星（单手剑）/爆破单元（施术单元）/楔子（手铳）/典范（双手剑）</color>】中任选其一免费获取。</li>
+                <li>【星声申领凭证】为特殊武库凭证。在【武库交易所】-「星声申领」中，可使用【星声申领凭证】进行1次申领，可获取10件武器。</li>
+                <li>当所有奖励领取后，本活动界面将在次日服务器时间04:00关闭。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="任务阶段">
+            <table header="row" widths="155,503,502">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>权限等阶</b></align>
+                    </th>
+                    <th col="2" colspan="2">
+                        <align value="center"><b>奖励</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>8</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="363"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="1057"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>15</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="363"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1000" id="926"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>20</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="363"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1000" id="926"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>30</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="363"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1000" id="926"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>45</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="255"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1000" id="926"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

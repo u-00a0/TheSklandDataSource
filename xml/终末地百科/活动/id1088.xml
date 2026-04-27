@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1088</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283552"},"item":{"name":"烟光武陵","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1770442658","lastAuditPassedAt":"1772637948","tagIds":["10277","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>烟光武陵</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260205/856392/6983742b94e337a3813bba08_f1525633.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>引入活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>6983744d49da91d62c66c4e6</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>77320</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260205/856392/6983744d49da91d62c66c4e6_65de0095.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>开放时间</b></align>
+                    </td>
+                    <td col="2">
+                        2026/02/07 12:00 - 2026/02/24 04:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第二章-进程Ⅰ-前往武陵城」
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        此去武陵，盛景不尽，山光水色，万千灯火，请您一观。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="任务规则">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，完成「烟光武陵」中对应的活动任务，累计可获得【<entry type="link-img" count="0" id="926"></entry>】【<entry type="link-img" count="0" id="216"></entry>】等活动奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="此去武陵，盛景不尽，山光水色，万千灯火，请您一观。">
+            <table header="row" widths="684,238,238">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>任务</b></align>
+                    </th>
+                    <th col="2" colspan="2">
+                        <align value="center"><b>奖励</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成主线任务：第二章 - 进程Ⅱ - 穆如清风</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="600" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="3" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于武陵城区域累计放置3个息壤中继器</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于武陵城区域累计解锁5个协议传送点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于武陵城区域放置协议核心（推进主线任务以放置）</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于武陵城区域累计开启任意5个协议储藏箱</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

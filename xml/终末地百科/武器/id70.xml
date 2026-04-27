@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>70</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283040"},"item":{"name":"熔铸火焰","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150374","lastAuditPassedAt":"1773039635","tagIds":["10006","10226"]},"brief":{"associate":{"id":"a2fc188efeb10de2af2da9678d333853","name":"熔铸火焰","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>熔铸火焰</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/14/4898765/6dd00511c917b81b8ab861d989c38499.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10226</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-巫术时刻锻铸的锋利兵刃之一。特殊精炼使得剑身泛红，施术单元采取独特的液化源石方案，仿佛是熔炉中流下的一滴血泪。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>熔铸火焰</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/3644013/fa4b448290d0b480501290456ab82a99.gif</imgUrl>
+                    <description>基础攻击力 52</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·大 </color></b><b>1/3</b>
+                <h3><b>智识</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">攻击提升·大 </color></b><b>1/4</b>
+                <h3><b>攻击力</b><b><color value="f_blue">+5.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">夜幕·嘶鸣烈火</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>灼热伤害<color value="f_blue">+16.0%</color>。</h3>
+                <h3>装备者施放终结技时，获得普通攻击伤害<color value="f_blue">+75.0%</color>，持续20.0秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>熔铸火焰</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/3644013/1490e274863f0c77d8158321830b4ab3.gif</imgUrl>
+                    <description>基础攻击力 510</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·大 </color></b><b>9/9</b>
+                <h3><b>智识</b><b><color value="f_blue">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">攻击提升·大 </color></b><b>9/9</b>
+                <h3><b>攻击力</b><b><color value="f_blue">+39.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">夜幕·嘶鸣烈火</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>灼热伤害<color value="f_blue">+44.8%</color>。</h3>
+                <h3>装备者施放终结技时，获得普通攻击伤害<color value="f_blue">+210.0%</color>，持续20.0秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="智识提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,122,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>智识</b><b><color value="f_blue">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="475"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="攻击提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+5.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+9.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+13.0%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+17.0%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+21.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+25.0%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+29.0%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+33.0%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+39.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="475"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="夜幕·嘶鸣烈火" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+19.2%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+90.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+22.4%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+105.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+25.6%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+120.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+28.8%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+135.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+32.0</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+150.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+35.2%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+165.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+38.4%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+180.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>灼热伤害</b><b><color value="f_blue">+44.8%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="f_blue">+210.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="475"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,193,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">149</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">252</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>1/3</b>
+                            <b>智识</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">252</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">355</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/6</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">355</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">458</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/6</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/7</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="220"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">458</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力 </color><b><color value="s_1">510</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/9</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/7</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>3/9</b>
+                            <b>攻击力</b><b><color value="r_3">+13.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·嘶鸣烈火 </color></b><b>1/4</b>
+                            <b>灼热伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者施放终结技时，获得普通攻击伤害</b><b><color value="r_3">+75.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            大晚上，你看到隔壁工坊的烟囱冒出浓烟。叮叮当当，击铁的声音可以传到三条街外，刻意又吵闹。
+            “显摆什么………”你本不想管，但却突然记起，隔壁那疯子从上个月就在念叨，就快铸成了。于是，你转头往隔壁走去，一边披上外套，一边暗自念叨:“可别真让她打成了。”
+            工坊门口，火星子不停从门缝飘出。你有点后悔穿外套了，这周围热得惊人，而且，住在三条街外的贱人也被火光吸引来了，衣着单薄，一张嘴便是对你的讥讽。
+            “蠢货，穿这么厚实，你的铁匠炉多久不生火了?”这贱人从小就这样，给武器淬毒只用自己的口水。
+            你懒得搭理她，推开门，屋内被炉火照得通红，疯子就在炉旁看到你俩进门，她抖出一阵暴乱的狂笑。
+            “你们都太迟了，这把武器还是要自我手中诞生。”疯子全身上下只有汗水，一张脸上只剩狂热。
+            贱人凑到炉前看了一眼沸腾的铁液，面色凝重地对你说:“坏了，真要让她打出来了。
+            嫉妒从胃爬到喉咙，你只想吐。
+            你们三个曾是最好的朋友，如今却是最恨的敌人。你忘记自己何时开始憎恨这两人，也不记得你们相依长大，曾彻夜把酒言欢。你唯一记得的，是塞什卡城内流传的一句预言:今年冬日，将有一柄传世的武器诞生，但能将其制成的铁匠却有三位。很幸运又很不幸，你们三个正是城内最好的铁匠。
+            此后，你们只琢磨如何抢在其余两人前铸出那把传世名作，一旦见面，就琢磨如何把对方打个半死丢出城去。
+            现在，你和贱人一言不发，顶级的铁匠看一眼火焰，便知道其中蕴含着怎样澎湃的力量。疯子拉动风箱，希望炉中温度能升得更高些。但几次尝试，温度还是达不到要求，她叹口气，抹了把脸上的汗水。
+            贱人阴沉着脸，嘲弄道:“你要失败了。”
+            疯子却连一个眼神也没给你们，大笑道:“还早呢!”随即她便割开自己的喉咙，热血像岩浆一般流淌进炉中。
+            你和贱人同时伸出手，但却晚了一步，疯子跌进炉中，爆炸声响彻云霄，火焰溢出炉膛，蔓延至整个工坊。火焰烧得更旺，甚至照亮黑夜，让天空也惧怕，只能降下茫茫大雪，想要熄灭这大火。
+            骤升的高温中，你看向旁边的贱人，想说什么。但十数年的默契告诉你，什么也不必说。
+            你们共同靠近火焰，不顾灼烧的疼痛，再次拉动风箱。可炉中的武器发出嗡鸣，它告诉你们，还不够热，还不够烫，它要的火焰得将天空也烧穿。贱人发出一声嗤笑，你在她眼中看到熊熊燃烧的火焰，由愤怒、痛苦、不甘与野心共同燃起。烈火夺眶而出将她吞没。但你来不及悲戚，因为这夜的风雪不愿罢手，誓要将她们的火焰扑灭。
+            你是个蠢货，学不会源石技艺，只会靠一次次精准地拉动风箱抬升温度。经年累月，没人比你更清楚该如何保证火焰永不熄灭。风箱一开一合，火焰熊熊燃烧，舔舐上你的皮肤。皮肤寸寸消融，可一想到炉中的武器也正寸寸熔铸而成，你畅快无比，笑得满足。
+            痛吗?远比不上从前和她俩打架时，那疯子生生从你脸上咬下一块肉那么痛。
+            彻底被火焰吞噬前，你终于想起她们的笑声，那是往日在酒馆一同欢笑时的声音。
+            大火或许终究无法与连日的风雪相抗，你们三人的痕迹也会随着工坊在火中荡然无存。但你知道，会有一处火堆留下，以及火堆中那把能够劈开世间一切的长剑。
+        </chapter>
+    </chapters>
+</sklandDocument>

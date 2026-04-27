@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1337</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283656"},"item":{"name":"贴纸·支付宝","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"19","name":"装扮","fatherTypeId":"1","style":7,"status":2,"position":8,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10404","children":[{"id":"10406","children":[],"name":"头像","type":1,"value":"","hide":false},{"id":"10407","children":[],"name":"头像框","type":1,"value":"","hide":false},{"id":"10408","children":[],"name":"名片主题","type":1,"value":"","hide":false},{"id":"10405","children":[],"name":"贴纸","type":1,"value":"","hide":false},{"id":"10409","children":[],"name":"滤镜","type":1,"value":"","hide":false}],"name":"分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1777014600","lastAuditPassedAt":"1777014504","tagIds":["10005","10405"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>贴纸·支付宝</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260412/203953/69db14202f37943f5acfd5f6_f1525633.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10404">10405</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>贴在照片上的装饰贴纸，可以在拍照功能中使用。</b>
+        <color value="s_3">终末地工业摄影同好贴纸推荐榜入选贴纸。嗯……满满的生活感。</color>
+    </description>
+    <chapters name="获取途径">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>《明日方舟：终末地》× 支付宝「序章新启，好运随行」系列合作活动奖励。</b>
+            <ul>
+                <li><b><color value="r_5">2026/2/2 11:00</color></b>至<b><color value="r_5">2026/3/1 23:59</color></b>期间于<b>支付宝</b>App完成一定次数的“支付宝绿色出行”后可以领取相应的兑换码。填写兑换码后可在游戏内邮件附件领取<b>贴纸·支付宝</b>（1），玩家可在该邮件发放后30天内领取。邮件内容如下：</li>
+            </ul>
+            <line kind="3"></line>
+            <quote>
+                <b>《明日方舟：终末地》支付宝联动奖励</b>
+                <color value="r_5">系统邮件</color>
+
+                亲爱的管理员：
+                感谢您对【明日方舟：终末<b>×</b>支付宝】的支持，兑换码内容请在邮件附件中领取。
+            </quote>
+            <line kind="3"></line>
+
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>803</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283411"},"item":{"name":"优质柑实罐头","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"18","name":"系统蓝图","fatherTypeId":"1","style":3,"status":2,"position":10,"icon":"","items":[],"filterTagTree":[]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1767888000","lastAuditPassedAt":"1767959429","tagIds":[]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>优质柑实罐头</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/09/279234/e40c81730ee268fb4f56b7c53fb338c0.png</cover>
+        <subTypes>
+        </subTypes>
+    </metainfo>
+    <description>
+        在集成核心区域放置此蓝图后，输入<color value="f_yellow">蓝铁瓶</color>和<color value="f_yellow">柑实</color>，自动生产<color value="f_yellow">优质柑实粉末</color>。
+    </description>
+    <chapters name="蓝图详情">
+        <chapter size="large" name="设备一览">
+            <line kind="5"></line>
+            <entry type="card-big" count="1" id="176"></entry><entry type="card-big" count="1" id="54"></entry><entry type="card-big" count="1" id="51"></entry><entry type="card-big" count="0" id="10"></entry><entry type="card-big" count="0" id="161"></entry>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="相关信息">
+            <line kind="5"></line>
+            蓝图尺寸：<b>13*6</b>
+            蓝图原料：<b>蓝铁瓶、柑实</b>
+            蓝图中间产物：<b>柑实粉末</b>
+            蓝图最终产物：<b>优质柑实罐头</b>
+            <line kind="5"></line>
+            完成<b>模拟空间-基础工业计划-优质罐头</b>可解锁此蓝图
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="蓝图预览">
+            <line kind="5"></line>
+            <img>
+                <id>694c90929a4ee9086cafefb5</id>
+                <format>webp</format>
+                <width>1716</width>
+                <height>872</height>
+                <size>29330</size>
+                <url>https://bbs.hycdn.cn/image/2025/12/25/279234/565a2369dbf6eef96c44bc90ce574daf.webp</url>
+                <description></description>
+            </img>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>479</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283247"},"item":{"name":"高晶装备原件","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1765280628","lastAuditPassedAt":"1777095636","tagIds":["10003","10263","10318"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>高晶装备原件</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/3048259/c8a4dbaed5ead83aa25fb4ada40d7e0a.png</cover>
+        <subTypes>
+            <subType id="10000">10003</subType>
+            <subType id="10253">10263</subType>
+            <subType id="10254">10318</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>通过多种材料加工获得的装备原件，可用于装备制造。</b>
+        <color value="s_3">该原件全称为生物式核心适应型一次性协议铸造原件，主体材料为高晶，操作起来更加便利。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>冒险探索获取。</b>
+            <ul>
+                <li>开启地图各处的<b><color value="r_5">宝箱</color></b>、维修<b><color value="r_5">故障机器人</color></b>等途径可以获得一定数量的高晶装备原件。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>权限等阶奖励。</b>
+            <ul>
+                <li>权限等阶达到28、29、30时，分别可以获得<entry type="link-img" count="200" id="479"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>作为装备制造的材料。</b>
+            <ul>
+                <li>稀有度为<b><color value="r_4">紫色</color></b>的干员装备在制造时每件需要<entry type="link-img" count="50" id="479"></entry>作为消耗材料，包含以下装备套组中的部分装备：</li>
+            </ul>
+            <table header="row" widths="350,275,275,275,187,273,525">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>四号谷地</b></align>
+                        <align value="center"><i>（矿场γ型装备组）</i></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>重型信使</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>巡行信使</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>蚀电屏蔽</b></align>
+                    </th>
+                    <th col="5">
+                        <align value="center"><b>蚀电防护</b></align>
+                    </th>
+                    <th col="6">
+                        <align value="center"><b>天灾防护</b></align>
+                    </th>
+                    <th col="7">
+                        <align value="center"><b>阿伯莉遗声</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="490"></entry><entry type="card-big" count="0" id="491"></entry><entry type="card-big" count="0" id="420"></entry><entry type="card-big" count="0" id="421"></entry><entry type="card-big" count="0" id="710"></entry><entry type="card-big" count="0" id="709"></entry><entry type="card-big" count="0" id="707"></entry><entry type="card-big" count="0" id="708"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="0" id="783"></entry><entry type="card-big" count="0" id="784"></entry><entry type="card-big" count="0" id="785"></entry><entry type="card-big" count="0" id="787"></entry><entry type="card-big" count="0" id="786"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="0" id="824"></entry><entry type="card-big" count="0" id="825"></entry><entry type="card-big" count="0" id="828"></entry><entry type="card-big" count="0" id="826"></entry><entry type="card-big" count="0" id="827"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="0" id="834"></entry><entry type="card-big" count="0" id="835"></entry><entry type="card-big" count="0" id="836"></entry><entry type="card-big" count="0" id="837"></entry><entry type="card-big" count="0" id="838"></entry></align>
+                    </td>
+                    <td col="5">
+                        <entry type="card-big" count="0" id="843"></entry><entry type="card-big" count="0" id="844"></entry><entry type="card-big" count="0" id="845"></entry><entry type="card-big" count="0" id="846"></entry>
+                    </td>
+                    <td col="6">
+                        <entry type="card-big" count="0" id="874"></entry><entry type="card-big" count="0" id="875"></entry><entry type="card-big" count="0" id="876"></entry><entry type="card-big" count="0" id="877"></entry><entry type="card-big" count="0" id="878"></entry><entry type="card-big" count="0" id="879"></entry>
+                    </td>
+                    <td col="7">
+                        <align value="center"><entry type="card-big" count="0" id="850"></entry><entry type="card-big" count="0" id="849"></entry><entry type="card-big" count="0" id="847"></entry><entry type="card-big" count="0" id="848"></entry><entry type="card-big" count="0" id="851"></entry></align>
+                        <align value="center"><entry type="card-big" count="0" id="857"></entry><entry type="card-big" count="0" id="856"></entry><entry type="card-big" count="0" id="854"></entry><entry type="card-big" count="0" id="852"></entry><entry type="card-big" count="0" id="855"></entry><entry type="card-big" count="0" id="853"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="5"></line>
+            <b>用于仓储节点货物装箱。</b>
+            <ul>
+                <li>每装箱<entry type="link-img" count="1" id="479"></entry>需要50点货箱容量。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="工业合成">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>合成设备</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>原料需求</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>合成产物</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="175"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="556"></entry><entry type="card-big" count="10" id="557"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="479"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

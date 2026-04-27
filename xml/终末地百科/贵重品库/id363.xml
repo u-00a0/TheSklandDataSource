@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>363</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283184"},"item":{"name":"基础寻访凭证","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1766895896","lastAuditPassedAt":"1772369365","tagIds":["10006","10324","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>基础寻访凭证</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/15/203953/6608243980b8d5562347d2995add3be0.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10321">10324</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>终末地工业内部凭证，可用于在「基础寻访」中寻访1次。</b>
+        <color value="s_3">终末地工业在塔卫二上有着广阔的人脉与资源。每当终末地人力资源事务部准备挖掘某个领域的人才时，总会有人闻讯而来。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>采购中心-组合包中购买特定组合包。</b>
+            <ul>
+                <li>采购中心出售的<b><color value="r_5">人事支援组合包</color></b>（￥98）包含<entry type="link-img" count="10" id="363"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>地区建设获取。</b>
+            <ul>
+                <li>升级各地区<b><color value="r_5">物资调度终端</color></b>后，<b><color value="r_5">物资调度-稳定需求物资</color></b>会补充物资<entry type="link-img" count="1" id="363"></entry>，售价为<b>50000</b>对应区域的调度券。</li>
+                <li>各地区<b><color value="r_5">地区建设等级</color></b>提高时，每个等级的里程碑奖励均包含<entry type="link-img" count="0" id="363"></entry>，参见词条：<entry type="link-img" count="0" id="1082"></entry><entry type="link-img" count="0" id="1058"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>特定任务报酬。</b>
+            <ul>
+                <li>完成以下每个<b><color value="r_5">紧要任务</color></b>后的报酬中均各包含<entry type="link-img" count="3" id="363"></entry>：<entry type="link-img" count="0" id="500"></entry><entry type="link-img" count="0" id="644"></entry><entry type="link-img" count="0" id="645"></entry><entry type="link-img" count="0" id="646"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>蚀像寻遗活动奖励。</b>
+            <ul>
+                <li>获取一定数量的<entry type="link-img" count="0" id="1116"></entry>后每次均可获得<entry type="link-img" count="2" id="363"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>进行干员寻访。</b>
+            <ul>
+                <li>基础寻访凭证只能在<b><color value="r_5">基础寻访</color></b>中使用，消耗并进行一次不消耗嵌晶玉的干员寻访。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

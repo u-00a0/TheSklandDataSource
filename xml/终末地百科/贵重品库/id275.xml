@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>275</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283139"},"item":{"name":"塞梦珂披巾","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1765466949","lastAuditPassedAt":"1772284924","tagIds":["10005","10330","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>塞梦珂披巾</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/3048259/0daea73a15e67d1fbdaf5d50b314bc81.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10321">10330</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可作为礼物送给爱好[艺术] [生活]的干员以增加信赖度。</b>
+        <color value="s_3">材料细腻的披巾，塞梦珂的手艺人们将之视为友谊的象征，是赠予友人的上好礼品。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>四号谷地-物资调度终端购买。</b>
+            <ul>
+                <li>升级<b><color value="r_5">四号谷地</color></b>地区的<b>物资调度终端</b>后可在相应的<b><color value="r_5">物资调度-人文物产</color></b>中以每份<entry type="link-img" count="30000" id="32"></entry>的价格购买。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>四号谷地-仓储节点感谢信附件。</b>
+            <ul>
+                <li>在四号谷地完成运送委托后收到的感谢信附件中可能包含<entry type="link-img" count="3" id="275"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>可在帝江号上赠送给特定喜好的干员。</b>
+            <ul>
+                <li>可向喜好<b><color value="r_5">艺术</color></b>、<b><color value="r_5">生活</color></b>的干员赠送<entry type="link-img" count="0" id="275"></entry>以提升其信赖值。</li>
+                <li><entry type="link-img" count="0" id="275"></entry>属于<b><color value="r_5">谷地·工业严选</color></b>系列礼物，若赠送时为<b>流行品</b>，可以提供更高的信赖值提升。</li>
+            </ul>
+            <table header="row" widths="100,1060">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>标签</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>喜好干员</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">艺术</align>
+                    </td>
+                    <td col="2">
+                        <entry type="card-big" count="0" id="93"></entry>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">生活</align>
+                    </td>
+                    <td col="2">
+                        <entry type="card-big" count="0" id="94"></entry><entry type="card-big" count="0" id="13"></entry><entry type="card-big" count="0" id="88"></entry><entry type="card-big" count="0" id="5"></entry><entry type="card-big" count="0" id="11"></entry><entry type="card-big" count="0" id="7"></entry>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

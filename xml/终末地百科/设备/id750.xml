@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>750</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283384"},"item":{"name":"仓库存取线基段","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1767098146","lastAuditPassedAt":"1767639881","tagIds":["10004","10312","10250"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>仓库存取线基段</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/279234/3c5457f2cee2af937bd8cd9cc48ac5ba.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10244">10250</subType>
+            <subType id="10307">10312</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可以在集成核心区域放置的仓库存取线基段，需要和仓库存取线源桩或其他生效的仓库存取线基段相连，其上可贴靠仓库存货口和仓库取货口。</b>
+        <color value="s_3">在息壤与集成工业系统结合的设备中，息壤粒子主要起着“稳定”作用。一如对抗裂隙与侵蚀，于设备内流动的息壤粒子能保证物品在借助存取线出入仓库时不会因周边环境异常而受到干扰。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在研究完成<b>武陵仓库存取线</b>后可获得1台仓库存取线基段。</li>
+                <li>
+                    在<b>协议核心</b>或<b>次级核心</b>范围内，点击<b>工具箱-设备列表-制造设备</b>通过以下配方制造。
+                    <ul>
+                        <li><entry type="link-img" count="20" id="771"></entry><b>→</b><entry type="link-img" count="1" id="750"></entry></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>武陵工业-武陵工业一期</b>研究<b>武陵仓库存取线</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方法">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>仓库存取线基段</b>是仓储存取类型的机器，可以贴靠仓库存货口和仓库取货口。
+            <b>仓库存取线基段</b>仅能放置在武陵地区的<b>协议核心</b>或<b>次级核心</b>范围内。
+            <b>仓库存取线基段</b>需要与仓库存取线源桩或其他生效的仓库存取线相连。
+            <b>仓库存取线基段</b>不需要电力维持运转。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>仓库存取线基段</b>需要长<b>8</b>格、宽<b>4</b>格的可用空地，且只能贴靠仓库存取线放置。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>921</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283471"},"item":{"name":"充能球刺兽","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1767849338","lastAuditPassedAt":"1774197219","tagIds":["10230"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>充能球刺兽</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/26/139426/6a7096ac4a649c234d7c075e43206c5c.png</cover>
+        <subTypes>
+            <subType id="10229">10230</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>充能球刺兽</b>（Imbued Quillbeast）是《明日方舟：终末地》中的一类<b><color value="r_3">进阶敌人</color></b>。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="进阶敌人" icon="">
+                <imgIntro>
+                    <name>充能球刺兽</name>
+                    <type>野外生物</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png</imgUrl>
+                    <description>受到活性源石粉尘影响的球刺兽。其周身上下的尖刺中已存储了相当多的能量，拥有了更强的破坏力。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>会蓄力鼓起肚皮，喷出体内的高热量熔岩，在蓄力时打断可对其累积大量失衡值。</li>
+                    <li>愤怒状态：愤怒状态下攻击力提升，蓄力频率更高。失衡后结束愤怒状态。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人掉落</h3>
+                <ul>
+                    <li><entry type="link-img" count="0" id="584"></entry></li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

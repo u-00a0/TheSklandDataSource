@@ -1,0 +1,1571 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_731"
+  },
+  "name": "碾骨行刑人",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/20/139426/b22d9e6fdb5a9f2ebc54021370b918bc.png",
+  "description": "获取方式:\n|敌人能力\n物理抗性 | 灼热抗性 | 电磁抗性 | 寒冷抗性 | 自然抗性\nD | D | D | D | D\n他的抓取会造成大量伤害，若有干员被他抓住，可尽快用其他干员施放技能打断来解救。 他的蓄力二连抡斧不易闪避，尽快打断来应对。\n|敌人分布区域\n枢纽区 谷地通道 矿脉源区 能量淤积点·供能高地\n|敌人掉落\n\n用途:\n装备重型斩击斧的裂地者武装人员，体型高大。他们的体能强于多数裂地者，能掀翻战车甚至轻松破坏工事。\n“塔防模式”中的碾骨行刑人。\n分布于部分据点的区域防护作战内：打开预警终端即可进行区域防护作战。\n|敌人详情\n描述\n能力",
+  "tags": [
+    "main:终末地百科",
+    "sub:威胁"
+  ],
+  "source": "终末地百科/威胁/id731.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1777283374",
+    "data": {
+      "item": {
+        "itemId": "731",
+        "document": {
+          "documentMap": {
+            "4Hc51y54": {
+              "id": "document-id",
+              "blockIds": [
+                "Qh78Jk",
+                "l2RXET",
+                "iz7J9H",
+                "LniTot",
+                "gLi8Lo",
+                "6tyDgx",
+                "ZoTWjI",
+                "r3E9Ve",
+                "nMuAMC",
+                "wLyRZy",
+                "ZfKXtf"
+              ],
+              "blockMap": {
+                "3mIS0iPcVkaD": {
+                  "id": "3mIS0iPcVkaD",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "枢纽区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "6tyDgx": {
+                  "id": "6tyDgx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "7saaXo": {
+                  "id": "7saaXo",
+                  "parentId": "HEcQPm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "190",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ECSMtcw0cZQN": {
+                  "id": "ECSMtcw0cZQN",
+                  "parentId": "bxyWoifdVTGR",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "谷地通道"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LniTot": {
+                  "id": "LniTot",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "LniTot",
+                    "rowIds": [
+                      "bzEZUA",
+                      "4zQW8y"
+                    ],
+                    "columnIds": [
+                      "Izsaqf",
+                      "Srhczk",
+                      "3gyhVc",
+                      "udg8Tg",
+                      "Z3gDMy"
+                    ],
+                    "rowMap": {
+                      "4zQW8y": {
+                        "id": "4zQW8y"
+                      },
+                      "bzEZUA": {
+                        "id": "bzEZUA"
+                      }
+                    },
+                    "columnMap": {
+                      "3gyhVc": {
+                        "id": "3gyhVc",
+                        "width": 232
+                      },
+                      "Izsaqf": {
+                        "id": "Izsaqf",
+                        "width": 232
+                      },
+                      "Srhczk": {
+                        "id": "Srhczk",
+                        "width": 232
+                      },
+                      "Z3gDMy": {
+                        "id": "Z3gDMy",
+                        "width": 232
+                      },
+                      "udg8Tg": {
+                        "id": "udg8Tg",
+                        "width": 232
+                      }
+                    },
+                    "cellMap": {
+                      "4zQW8y_3gyhVc": {
+                        "id": "4zQW8y_3gyhVc",
+                        "childIds": [
+                          "x7vcjs"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "4zQW8y_Izsaqf": {
+                        "id": "4zQW8y_Izsaqf",
+                        "childIds": [
+                          "boFT3N"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "4zQW8y_Srhczk": {
+                        "id": "4zQW8y_Srhczk",
+                        "childIds": [
+                          "jCiL4H"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "4zQW8y_Z3gDMy": {
+                        "id": "4zQW8y_Z3gDMy",
+                        "childIds": [
+                          "NSsn0s"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "4zQW8y_udg8Tg": {
+                        "id": "4zQW8y_udg8Tg",
+                        "childIds": [
+                          "akNBja"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "bzEZUA_3gyhVc": {
+                        "id": "bzEZUA_3gyhVc",
+                        "childIds": [
+                          "VeLuiU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "bzEZUA_Izsaqf": {
+                        "id": "bzEZUA_Izsaqf",
+                        "childIds": [
+                          "bMGfGT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "bzEZUA_Srhczk": {
+                        "id": "bzEZUA_Srhczk",
+                        "childIds": [
+                          "xyqW3g"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "bzEZUA_Z3gDMy": {
+                        "id": "bzEZUA_Z3gDMy",
+                        "childIds": [
+                          "lHHAM7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "bzEZUA_udg8Tg": {
+                        "id": "bzEZUA_udg8Tg",
+                        "childIds": [
+                          "naczjm"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "NSsn0s": {
+                  "id": "NSsn0s",
+                  "parentId": "4zQW8y_Z3gDMy",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Qh78Jk": {
+                  "id": "Qh78Jk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "heading3"
+                  }
+                },
+                "T5LbIE": {
+                  "id": "T5LbIE",
+                  "parentId": "nx2AAl",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "他的抓取会造成大量伤害，若有干员被他抓住，可尽快用其他干员施放技能打断来解救。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VeLuiU": {
+                  "id": "VeLuiU",
+                  "parentId": "bzEZUA_3gyhVc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "电磁抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZfKXtf": {
+                  "id": "ZfKXtf",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "ZfKXtf",
+                    "itemIds": [
+                      "HEcQPm"
+                    ],
+                    "itemMap": {
+                      "HEcQPm": {
+                        "id": "HEcQPm",
+                        "childIds": [
+                          "7saaXo"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "ZoTWjI": {
+                  "id": "ZoTWjI",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人分布区域"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "akNBja": {
+                  "id": "akNBja",
+                  "parentId": "4zQW8y_udg8Tg",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bMGfGT": {
+                  "id": "bMGfGT",
+                  "parentId": "bzEZUA_Izsaqf",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "物理抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "boFT3N": {
+                  "id": "boFT3N",
+                  "parentId": "4zQW8y_Izsaqf",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gLi8Lo": {
+                  "id": "gLi8Lo",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "gLi8Lo",
+                    "itemIds": [
+                      "nx2AAl",
+                      "vTl4Lk"
+                    ],
+                    "itemMap": {
+                      "nx2AAl": {
+                        "id": "nx2AAl",
+                        "childIds": [
+                          "T5LbIE"
+                        ]
+                      },
+                      "vTl4Lk": {
+                        "id": "vTl4Lk",
+                        "childIds": [
+                          "pdP3ah"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "hUM7KE74I4MN": {
+                  "id": "hUM7KE74I4MN",
+                  "parentId": "JMwa1Rg8uFEH",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "能量淤积点·供能高地"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "iz7J9H": {
+                  "id": "iz7J9H",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人能力"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "jCiL4H": {
+                  "id": "jCiL4H",
+                  "parentId": "4zQW8y_Srhczk",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "l2RXET": {
+                  "id": "l2RXET",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "lHHAM7": {
+                  "id": "lHHAM7",
+                  "parentId": "bzEZUA_Z3gDMy",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "自然抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nMuAMC": {
+                  "id": "nMuAMC",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "naczjm": {
+                  "id": "naczjm",
+                  "parentId": "bzEZUA_udg8Tg",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "寒冷抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pdP3ah": {
+                  "id": "pdP3ah",
+                  "parentId": "vTl4Lk",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "他的蓄力二连抡斧不易闪避，尽快打断来应对。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "r3E9Ve": {
+                  "id": "r3E9Ve",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "r3E9Ve",
+                    "itemIds": [
+                      "G4YrCm",
+                      "bxyWoifdVTGR",
+                      "E0Otrh7cAgzp",
+                      "JMwa1Rg8uFEH"
+                    ],
+                    "itemMap": {
+                      "E0Otrh7cAgzp": {
+                        "id": "E0Otrh7cAgzp",
+                        "childIds": [
+                          "sUQxsEZ2gmgz"
+                        ]
+                      },
+                      "G4YrCm": {
+                        "id": "G4YrCm",
+                        "childIds": [
+                          "3mIS0iPcVkaD"
+                        ]
+                      },
+                      "JMwa1Rg8uFEH": {
+                        "id": "JMwa1Rg8uFEH",
+                        "childIds": [
+                          "hUM7KE74I4MN"
+                        ]
+                      },
+                      "bxyWoifdVTGR": {
+                        "id": "bxyWoifdVTGR",
+                        "childIds": [
+                          "ECSMtcw0cZQN"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "sUQxsEZ2gmgz": {
+                  "id": "sUQxsEZ2gmgz",
+                  "parentId": "E0Otrh7cAgzp",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "矿脉源区"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wLyRZy": {
+                  "id": "wLyRZy",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人掉落"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "x7vcjs": {
+                  "id": "x7vcjs",
+                  "parentId": "4zQW8y_3gyhVc",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "xyqW3g": {
+                  "id": "xyqW3g",
+                  "parentId": "bzEZUA_Srhczk",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "灼热抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "A8Uw1x1E": {
+              "id": "document-id",
+              "blockIds": [
+                "0USmk5qfp8hj",
+                "f6ASFed4tH6e",
+                "Dq0IvKVPqZ6A",
+                "t80IivmjlXkz",
+                "fkYRxnUS28hT",
+                "Q7AUipLXQpi6",
+                "zuUimpz61lGc"
+              ],
+              "blockMap": {
+                "0USmk5qfp8hj": {
+                  "id": "0USmk5qfp8hj",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "394",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Dq0IvKVPqZ6A": {
+                  "id": "Dq0IvKVPqZ6A",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "|"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "敌方情报"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "NhbuLS5s4buN": {
+                  "id": "NhbuLS5s4buN",
+                  "parentId": "QkYuYbF3eC22",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Q7AUipLXQpi6": {
+                  "id": "Q7AUipLXQpi6",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Q7AUipLXQpi6",
+                    "itemIds": [
+                      "LRh21G6BytK2"
+                    ],
+                    "itemMap": {
+                      "LRh21G6BytK2": {
+                        "id": "LRh21G6BytK2",
+                        "childIds": [
+                          "nB14HQAM0Kim"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "f6ASFed4tH6e": {
+                  "id": "f6ASFed4tH6e",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "登场于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "「大地的弃子」弩斧相应·苦难"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的碾骨行刑人。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fkYRxnUS28hT": {
+                  "id": "fkYRxnUS28hT",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "装备重型斩击斧的裂地者武装人员，体型高大。他们的体能强于多数裂地者，能掀翻战车甚至轻松破坏工事。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nB14HQAM0Kim": {
+                  "id": "nB14HQAM0Kim",
+                  "parentId": "LRh21G6BytK2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "t80IivmjlXkz": {
+                  "id": "t80IivmjlXkz",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "t80IivmjlXkz",
+                    "itemIds": [
+                      "QkYuYbF3eC22"
+                    ],
+                    "itemMap": {
+                      "QkYuYbF3eC22": {
+                        "id": "QkYuYbF3eC22",
+                        "childIds": [
+                          "NhbuLS5s4buN"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "zuUimpz61lGc": {
+                  "id": "zuUimpz61lGc",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与碾骨射手配合作战。当与碾骨射手"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "同时登场时，共同分担受到的伤害。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "PPtyvKVB": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "装备重型斩击斧的裂地者武装人员，体型高大。他们的体能强于多数裂地者，能掀翻战车甚至轻松破坏工事。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "cpiffk2h": {
+              "id": "document-id",
+              "blockIds": [
+                "OJFIRXKnjYLO",
+                "0RsP7C1FFL66",
+                "y9NayfesYaiz",
+                "XcPT40vIGcvi",
+                "uQUP18KkezjO",
+                "jALIpzplXXoq",
+                "8sXCTvmT7xu8"
+              ],
+              "blockMap": {
+                "0RsP7C1FFL66": {
+                  "id": "0RsP7C1FFL66",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "登场于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "「大地的弃子」弩斧相应"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的碾骨行刑人。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7bC6CT0xpUeT": {
+                  "id": "7bC6CT0xpUeT",
+                  "parentId": "JSTPidy1SXWa",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8sXCTvmT7xu8": {
+                  "id": "8sXCTvmT7xu8",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与碾骨射手配合作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "OJFIRXKnjYLO": {
+                  "id": "OJFIRXKnjYLO",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "394",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XcPT40vIGcvi": {
+                  "id": "XcPT40vIGcvi",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "XcPT40vIGcvi",
+                    "itemIds": [
+                      "JSTPidy1SXWa"
+                    ],
+                    "itemMap": {
+                      "JSTPidy1SXWa": {
+                        "id": "JSTPidy1SXWa",
+                        "childIds": [
+                          "7bC6CT0xpUeT"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "jALIpzplXXoq": {
+                  "id": "jALIpzplXXoq",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "jALIpzplXXoq",
+                    "itemIds": [
+                      "eqffGii0rnfg"
+                    ],
+                    "itemMap": {
+                      "eqffGii0rnfg": {
+                        "id": "eqffGii0rnfg",
+                        "childIds": [
+                          "sHjHIIQybJHu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "sHjHIIQybJHu": {
+                  "id": "sHjHIIQybJHu",
+                  "parentId": "eqffGii0rnfg",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uQUP18KkezjO": {
+                  "id": "uQUP18KkezjO",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "装备重型斩击斧的裂地者武装人员，体型高大。他们的体能强于多数裂地者，能掀翻战车甚至轻松破坏工事。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "y9NayfesYaiz": {
+                  "id": "y9NayfesYaiz",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "|"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "敌方情报"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "h7uri13t": {
+              "id": "document-id",
+              "blockIds": [
+                "BD5rcPBafYRm",
+                "GqJSIUAg0AoN",
+                "q1SDA5yhiXJl",
+                "b7HDw3wZaCUK",
+                "yks286PtbbBI",
+                "pVlFuZclcfyY",
+                "Pw3MwQMvcdE6"
+              ],
+              "blockMap": {
+                "BD5rcPBafYRm": {
+                  "id": "BD5rcPBafYRm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“塔防模式”中的碾骨行刑人。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GqJSIUAg0AoN": {
+                  "id": "GqJSIUAg0AoN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "分布于部分据点的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "区域防护作战"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "内：打开预警终端即可进行区域防护作战。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Pw3MwQMvcdE6": {
+                  "id": "Pw3MwQMvcdE6",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "碾骨行刑人生命值低于50%时，会进入狂暴状态，大幅提升自身的防御力。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QsQPLXyGeuS5": {
+                  "id": "QsQPLXyGeuS5",
+                  "parentId": "WMXlkGeqbw4P",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "能力"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "b7HDw3wZaCUK": {
+                  "id": "b7HDw3wZaCUK",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "b7HDw3wZaCUK",
+                    "itemIds": [
+                      "4YIYcczNZF2V"
+                    ],
+                    "itemMap": {
+                      "4YIYcczNZF2V": {
+                        "id": "4YIYcczNZF2V",
+                        "childIds": [
+                          "hU6gB2HruNHf"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "hU6gB2HruNHf": {
+                  "id": "hU6gB2HruNHf",
+                  "parentId": "4YIYcczNZF2V",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "描述"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pVlFuZclcfyY": {
+                  "id": "pVlFuZclcfyY",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "pVlFuZclcfyY",
+                    "itemIds": [
+                      "WMXlkGeqbw4P"
+                    ],
+                    "itemMap": {
+                      "WMXlkGeqbw4P": {
+                        "id": "WMXlkGeqbw4P",
+                        "childIds": [
+                          "QsQPLXyGeuS5"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "q1SDA5yhiXJl": {
+                  "id": "q1SDA5yhiXJl",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人详情"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "yks286PtbbBI": {
+                  "id": "yks286PtbbBI",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "装备重型斩击斧的裂地者武装人员，体型高大。他们的体能强于多数裂地者，能掀翻战车甚至轻松破坏工事。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "基本介绍",
+              "widgets": [
+                {
+                  "id": "MX3syh2E",
+                  "title": "敌人简介",
+                  "size": "large"
+                },
+                {
+                  "id": "RAx0Z7OA",
+                  "title": "碾骨行刑人(预警终端)",
+                  "size": "small"
+                },
+                {
+                  "id": "MAYZk1xt",
+                  "title": "碾骨行刑人(弩斧相应·普通)",
+                  "size": "small"
+                },
+                {
+                  "id": "h1cZo15b",
+                  "title": "碾骨行刑人(弩斧相应·苦难)",
+                  "size": "small"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "MAYZk1xt": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "cpiffk2h",
+                  "audioList": []
+                }
+              }
+            },
+            "MX3syh2E": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1764349954656",
+                  "title": "精英敌人",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1764349954656": {
+                  "intro": {
+                    "name": "碾骨行刑人",
+                    "type": "裂地者",
+                    "imgUrl": "https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png",
+                    "description": "PPtyvKVB"
+                  },
+                  "content": "4Hc51y54",
+                  "audioList": []
+                }
+              }
+            },
+            "RAx0Z7OA": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "h7uri13t",
+                  "audioList": []
+                }
+              }
+            },
+            "h1cZo15b": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "A8Uw1x1E",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "碾骨行刑人",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "3",
+          "name": "威胁",
+          "fatherTypeId": "1",
+          "style": 2,
+          "status": 2,
+          "position": 5,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10229",
+              "children": [
+                {
+                  "id": "10231",
+                  "children": [],
+                  "name": "天使",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10232",
+                  "children": [],
+                  "name": "裂地者",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10233",
+                  "children": [],
+                  "name": "沧贼",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10230",
+                  "children": [],
+                  "name": "野外生物",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "威胁",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "1404450078881",
+          "nickname": "四氯化碳_CCl4",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/doc.webp"
+        },
+        "createdUser": {
+          "id": "9203146710665",
+          "nickname": "SilentTwilight",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/20/139426/b22d9e6fdb5a9f2ebc54021370b918bc.png",
+          "name": "碾骨行刑人",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "8uzpoy"
+            ],
+            "blockMap": {
+              "8uzpoy": {
+                "id": "8uzpoy",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "碾骨行刑人"
+                      }
+                    },
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "（Bonekrusher Executioner）是《明日方舟：终末地》中的一类"
+                      }
+                    },
+                    {
+                      "bold": true,
+                      "color": "light_rank_purple",
+                      "kind": "text",
+                      "text": {
+                        "text": "精英敌人"
+                      }
+                    },
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10229",
+              "value": "10232"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1767798075",
+        "lastAuditPassedAt": "1775064870",
+        "tagIds": [
+          "10232"
+        ]
+      }
+    }
+  }
+}

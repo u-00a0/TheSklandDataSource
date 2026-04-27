@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>662</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283339"},"item":{"name":"尘封旧档","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768229523","lastAuditPassedAt":"1769886119","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>尘封旧档</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260201/856392/697e4ef151a1ffd966c03829_3eac6ad0.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">源石研究园</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">在源石研究园下层与<b>基特</b>对话</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>源石实验园区的一位工团成员似乎有事情想要拜托你。</b>
+                        <i>·根据基特的提示前进</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>深入源石实验园区的地下区域，帮助基特回收研究资料。</b>
+                        <i>·寻找存储研究资料的</i><b><i>便携终端</i></b>
+                        <i>·回收第一份</i><b><i>研究资料</i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>第二份研究资料位于源石培育区，需要管理员尽快回收。</b>
+                        <i>·回收第二份</i><b><i>研究资料</i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>最后一份资料位于这片区域的最深处，需要管理员前往回收。</b>
+                        <i>·回收最后一份</i><b><i>研究资料</i></b>
+                        <i>·与</i><b><i>哈珀</i></b><i>交谈</i>
+                        <i>·交付</i><b><i>研究资料</i></b>
+                        （<b>BAKER/事务通讯</b>
+                        <b>基特：</b>管理员，太感谢你了！研究资料的情况如何？
+                        <b>管理员：</b>全都找到了。
+                        <i><u>正在发送文件</u></i>
+                        <i><u>文件已发送</u></i>
+                        <b>基特：</b>我收到了！稍等，我检查下......
+                        <b>基特：</b>嗯，没有问题！所有的资料都在这里了，谢谢你！）
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="75" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="4600" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="14" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="8" id="223"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="11" id="225"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="300" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

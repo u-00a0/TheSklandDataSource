@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>120</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283067"},"item":{"name":"莫奈何","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768038402","lastAuditPassedAt":"1772263877","tagIds":["10005","10227"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>莫奈何</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/19/4898765/d88adfb9abbbd0bb2dc4f8cc5f6081ec.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10223">10227</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-宏山选剑局研发的施术单元，采用了珍贵的息壤材料。因其材料特性，使用者必须具备极高的操控准确度。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>莫奈何</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/91faac884806231877372e47fe1796f1.gif</imgUrl>
+                    <description>基础攻击力 42</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·中 </color></b><b>1/3</b>
+                <h3>意志<color value="f_blue">+16</color></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">终结技充能效率提升·中 </color></b><b>1/3</b>
+                <h3><b>终结技充能效率</b><b><color value="f_blue">+4.8%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">昂扬·卯分析法</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>主能力<color value="f_blue">+5.0%</color>。</h3>
+                <h3>源石技艺强度<color value="f_blue">+25</color>。</h3>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>莫奈何</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/358c10b6893d29a76489f5df4ddc54ae.gif</imgUrl>
+                    <description>基础攻击力 411</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·中 </color></b><b>9/9</b>
+                <h3>意志<color value="f_blue">+124</color></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">终结技充能效率提升·中 </color></b><b>9/9</b>
+                <h3><b>终结技充能效率</b><b><color value="f_blue">+37.1%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">昂扬·卯分析法</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>主能力<color value="f_blue">+14.0%</color>。</h3>
+                <h3>源石技艺强度<color value="f_blue">+70</color>。</h3>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li>四号谷地-物资调度获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="意志提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+54</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+67</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+80</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+92</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+105</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+124</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="468"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="终结技充能效率提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+4.8%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+8.6%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+12.4%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+16.2%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+20.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+23.8%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+27.6%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+31.4%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>终结技充能效率</b>
+                            <b><color value="r_3">+37.1%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="468"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="昂扬·卯分析法" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+6.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+30</color></b><b>。</b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+35</color></b><b>。</b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+8.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+40</color></b><b>。</b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+9.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+45</color></b><b>。</b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+50</color></b><b>。</b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+11.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+55</color></b><b>。</b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+60</color></b><b>。</b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>主能力</b>
+                            <b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+70</color></b><b>。</b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="468"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,196,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 120</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 203</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>1/3</b>
+                            <b>意志</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>1/3</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+4.8%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>1/4</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+4.8%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 203</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 286</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>1/4</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+4.8%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>2/6</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 286</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 369</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>2/6</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>2/7</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="217"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 369</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 411</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·中 </color></b><b>3/9</b>
+                            <b>意志</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>2/7</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+8.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">终结技充能效率提升·中 </color></b><b>3/9</b>
+                            <b>终结技充能效率</b><b><color value="r_3">+12.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">昂扬·卯分析法 </color></b><b>1/4</b>
+                            <b>主能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+25</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            孩子，明天你就要参加结业测试了。这场测试的重要性不言而喻，它将决定你未来的岗位分配。我多么希望能亲自送你去测试，但我必须要盯紧侵蚀潮，这是我的职责。
+            我相信你已经做好了充分准备。不过，关于源石技艺精确度的测试，我还是要特别叮嘱几句。这个环节淘汰的人最多。如果你想加入应龙特勤队，这一关必须过。
+            测试使用的是宏山选剑局为武陵城特别研发的施术单元。它采用了息壤材料，因此其源石回路会和以往的施术单元有所不同。这将是对你专注力和敏锐度的极大考验。
+            当然，这些信息你早就烂熟于心。听说你们这些年轻人给它起了个绰号“莫奈何”，确实贴切。现在我们也都这么称呼它了。
+            为确保测试公平，我不能透露更多关于这个施术单元的细节。但我对你充满信心。还记得我小时候经常带你玩的木锁吗?虽然棘手，但你很快就找到了窍门。你现在要做的和那时一样——专注于眼前的挑战，享受这个过程。
+            祝你顺利。
+        </chapter>
+    </chapters>
+</sklandDocument>

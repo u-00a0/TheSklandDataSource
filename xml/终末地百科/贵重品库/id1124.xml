@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1124</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283570"},"item":{"name":"谷地多痕刻写箱","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1777222031","lastAuditPassedAt":"1776928578","tagIds":["10005","10330","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>谷地多痕刻写箱</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260423/3048259/69e9c73312a9f0f6029fd9b5_3eac6ad0.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10321">10330</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>使用后可获得包含三条自定义属性的基质。</b>
+        <color value="s_3">用于定向培养基质特性痕迹的刻写箱。</color>
+        <color value="s_3">协议技术整体进步后，其在精密机械领域的应用也变得更为广泛，多痕刻写箱因此得以面世。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>四号谷地-物资调度终端购买。</b>
+            <ul>
+                <li>升级<b><color value="r_5">物资调度终端</color></b>后可于<b><color value="r_5">稳定需求物资-日用消耗</color></b>处以<b>700万</b><entry type="link-img" count="0" id="32"></entry>与<b>50%</b>的折扣（及实际消耗<entry type="link-img" count="0" id="32"></entry>数量为<b>350万</b>）购买<b>谷地多痕刻写箱</b>（1）。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>根据需求获取特定的武器基质。</b>
+            <ul>
+                <li>在<b><color value="r_5">贵重品库</color></b>中可以使用并消耗<b>谷地多痕刻写箱</b>（1），从下列<b>基础属性</b>、<b>附加属性</b>和<b>技能属性</b>中各选择一项，然后获取一件拥有上述三条属性、来源为<b><color value="r_5">四号谷地</color></b>的<b>无瑕基质</b>：</li>
+            </ul>
+            <table header="col" widths="165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>基础属性</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">敏捷提升</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">力量提升</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">意志提升</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">智识提升</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">主能力提升</align>
+                    </td>
+                    <td col="7"></td>
+                </tr>
+                <tr>
+                    <th col="1" colspan="7"></th>
+                </tr>
+                <tr>
+                    <th col="1" rowspan="2">
+                        <align value="center"><b>附加属性</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">攻击提升</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">生命提升</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">物理伤害提升</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">灼热伤害提升</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">电磁伤害提升</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">寒冷伤害提升</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="2">
+                        <align value="center">自然伤害提升</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">暴击率提升</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">源石技艺提升</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">终结技效率提升</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">法术伤害提升</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">治疗效率提升</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1" colspan="7"></th>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>技能属性</b></align>
+                    </th>
+                    <td col="2" colspan="6">
+                        <align value="center"><entry type="link-img" count="0" id="464"></entry><entry type="link-img" count="0" id="465"></entry><entry type="link-img" count="0" id="466"></entry><entry type="link-img" count="0" id="467"></entry><entry type="link-img" count="0" id="468"></entry></align>
+                        <align value="center"><entry type="link-img" count="0" id="469"></entry><entry type="link-img" count="0" id="470"></entry><entry type="link-img" count="0" id="471"></entry><entry type="link-img" count="0" id="472"></entry><entry type="link-img" count="0" id="473"></entry></align>
+                        <align value="center"><entry type="link-img" count="0" id="474"></entry><entry type="link-img" count="0" id="475"></entry><entry type="link-img" count="0" id="477"></entry><entry type="link-img" count="0" id="476"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <ul>
+                <li>值得一提的是，通过该物品可以获取一般而言无法在<b><color value="r_5">四号谷地</color></b>获取的属性组合的武器基质。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

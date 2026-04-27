@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1072</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283544"},"item":{"name":"燃尽记忆之灰","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1769863243","lastAuditPassedAt":"1769867030","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>燃尽记忆之灰</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260131/856392/697cea0e51a1ffd966bffd53_f1525633.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>叙事活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="燃尽记忆之灰">
+            <table header="row" widths="580,580">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>关联活动</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成主线任务「第一章-进程Ⅲ-世代摇篮」</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="link-img" count="0" id="1064"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="large" name="">
+            <tab name="追忆之痕" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1" colspan="3">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="4" colspan="3">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="7" colspan="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center">O.M.V.帝江号</align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center">/</align>
+                        </td>
+                        <td col="7" colspan="3">
+                            <align value="center">迷失之影</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                    <tr>
+                        <th col="1" colspan="11">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>在发生了这么多事情之后，佩丽卡希望管理员能够回一趟帝江号的静滞核心，确认记忆是否有所恢复。</b>
+                            <i>·查看佩丽卡发来的消息</i>
+                            （<b>BAKER/事务通讯</b>
+                            <b>佩丽卡：</b>管理员，你现在感觉如何？还好吗？
+                            <b>佩丽卡：</b>经历过最近发生的事情之后，是否......想起来了些什么？
+                            <b>管理员：</b>好像并没有。
+                            <b>佩丽卡：</b>没有好转吗......
+                            <b>佩丽卡：</b>M3曾嘱咐过我，在你刚苏醒后的这段时间里，要及时检查你的状况，尤其是关于记忆。
+                            <b>佩丽卡：</b>有空回帝江号一趟吧，我在静滞核心等你。）
+                            <i>·返回</i><b><i>帝江号</i></b><i>，前往静滞核心</i>
+                            <i>·查看</i><b><i>协议奇点</i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>沉浸模式：</b>
+                            <i>·探查周围</i>
+                            <i>·一同前行</i>
+                            <i>·击败前行路上的敌人（</i><entry type="link-img" count="2" id="1"></entry><i>）</i>
+                            <i>·一同前行</i>
+                            <i>·一起寻找记忆</i>
+                            <i>·通过</i><b><i>扫描</i></b><i>，找到前行的路</i>
+                            <i>·击败敌人（</i><entry type="link-img" count="1" id="353"></entry><entry type="link-img" count="4" id="1"></entry><i>）</i>
+                        </td>
+                    </tr>
+                </table>
+
+                <line kind="1"></line>
+
+                <table header="row" widths="116,116,116,116,116,116,116,116,116,116">
+                    <tr>
+                        <th col="1" colspan="10">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="4250" id="19"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="212"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="6" id="223"></entry></align>
+                        </td>
+                        <td col="7" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="9" colspan="2">
+                            <align value="center"><entry type="card-big" count="150" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="迷失之影" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1" colspan="3">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="4" colspan="3">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="7" colspan="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center">源石研究园</align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center">追忆之痕</align>
+                        </td>
+                        <td col="7" colspan="3">
+                            <align value="center">前尘之魇</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+
+                <table header="row" widths="105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                    <tr>
+                        <th col="1" colspan="11">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>管理员在协议空间中遇到的红色萨卡兹少女似乎并不简单。根据线索，前往四号谷地，寻找她的踪迹。</b>
+                            <i>·前往</i><b><i>源石研究园</i></b><i>探查</i>
+                            <i>·进入</i><b><i>协议空间</i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>沉浸模式：</b>
+                            <i>·通过</i><b><i>扫描</i></b><i>，寻找踪迹</i>
+                            <i>·跟随</i><b><i>长耳兽</i></b>
+                            <i>·触碰</i><b><i>红发少女</i></b><i>的痕迹</i>
+                            <i>·通过</i><b><i>扫描</i></b><i>，继续寻找踪迹</i>
+                            <i>·查找线索</i>
+                            <i>·触碰</i><b><i>红发少女</i></b><i>的痕迹</i>
+                            <i>·通过</i><b><i>扫描</i></b><i>，继续寻找踪迹</i>
+                            <i>·修复收音机</i>
+                            <i>·触碰</i><b><i>红发少女</i></b><i>的痕迹</i>
+                            <i>·通过</i><b><i>扫描</i></b><i>，继续寻找踪迹</i>
+                            <i>·靠近并触碰</i><b><i>红发少女</i></b><i>的痕迹</i>
+                            <i>·查看红发少女留下的</i><b><i>笔记</i></b>
+                        </td>
+                    </tr>
+                </table>
+
+                <line kind="1"></line>
+
+                <table header="row" widths="116,116,116,116,116,116,116,116,116,116">
+                    <tr>
+                        <th col="1" colspan="10">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="4250" id="19"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="212"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="6" id="223"></entry></align>
+                        </td>
+                        <td col="7" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="9" colspan="2">
+                            <align value="center"><entry type="card-big" count="150" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="前尘之魇" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1" colspan="3">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="4" colspan="3">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="7" colspan="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center">矿脉源区</align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center">迷失之影</align>
+                        </td>
+                        <td col="7" colspan="3">
+                            <align value="center">记忆之灰</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+
+                <table header="row" widths="105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                    <tr>
+                        <th col="1" colspan="11">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>那位红发萨卡兹少女就是与罗德岛失联已久的再旅者莱万汀。管理员决定再度进入协议空间，找到莱万汀并探寻自己的记忆。</b>
+                            <i>·前往</i><b><i>矿脉源区</i></b><i>探查</i>
+                            <i>·进入</i><b><i>协议空间</i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>沉浸模式：</b>
+                            <i>·击败敌人（</i><entry type="link-img" count="1" id="354"></entry><entry type="link-img" count="2" id="9"></entry><i>）</i>
+                            <i>·通过</i><b><i>扫描</i></b><i>，寻找记忆的痕迹</i>
+                            <i>·勘破记忆</i>
+                            <i>·击败敌人（</i><entry type="link-img" count="2" id="1"></entry><entry type="link-img" count="1" id="360"></entry><i>）</i>
+                            <i>·通过</i><b><i>扫描</i></b><i>，寻找记忆的痕迹</i>
+                            <i>·勘破记忆</i>
+                            <i>·击败敌人（</i><entry type="link-img" count="1" id="1"></entry><entry type="link-img" count="1" id="9"></entry><entry type="link-img" count="1" id="360"></entry><i>）</i>
+                            <i>·通过</i><b><i>扫描</i></b><i>，寻找记忆的痕迹</i>
+                            <i>·击败敌人（</i><entry type="link-img" count="1" id="357"></entry><entry type="link-img" count="2" id="1"></entry><entry type="link-img" count="2" id="360"></entry><i>）</i>
+                            <i>·前往</i><b><i>枢纽区基地</i></b><i>调查</i>
+                        </td>
+                    </tr>
+                </table>
+
+                <line kind="1"></line>
+
+                <table header="row" widths="116,116,116,116,116,116,116,116,116,116">
+                    <tr>
+                        <th col="1" colspan="10">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="4250" id="19"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="212"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="6" id="223"></entry></align>
+                        </td>
+                        <td col="7" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="9" colspan="2">
+                            <align value="center"><entry type="card-big" count="150" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="记忆之灰" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1" colspan="3">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="4" colspan="3">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="7" colspan="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center">O.M.V.帝江号</align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center">前尘之魇</align>
+                        </td>
+                        <td col="7" colspan="3">
+                            <align value="center">/</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+
+                <table header="row" widths="105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                    <tr>
+                        <th col="1" colspan="11">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>获得所需的信息之后，管理员准备返回帝江号的静滞核心，再度利用协议奇点进入协议空间。</b>
+                            <i>·返回</i><b><i>帝江号</i></b><i>，前往静滞核心</i>
+                            <i>·再次触碰</i><b><i>协议奇点</i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            tips：为了信守共同寻找记忆的承诺，管理员设法再度进入协议空间，寻找莱万汀的踪迹
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>沉浸模式：</b>
+                            <i>·继续前进</i>
+                            <i>·查看记忆并前进</i>
+                            <i>·查看记忆并前进</i>
+                            <i>·</i><i><u>（可选）</u></i><i>观察房间</i>
+                            <i>·进入下一层回廊</i>
+                            <i>·寻找莱万汀</i>
+                            <i>·寻找莱万汀</i>
+                            <i>·</i><i><u>（可选）</u></i><i>调查附近区域</i>
+                            <i>·击败敌人（</i><entry type="link-img" count="1" id="1"></entry><entry type="link-img" count="2" id="360"></entry><i>）</i>
+                            <i>·寻找莱万汀</i>
+                            <i>·跟随痕迹，见证记忆</i>
+                            <i>·逃出回廊</i>
+                            <i>·继续前进</i>
+                            <i>·消灭最后的敌人（</i><entry type="link-img" count="1" id="361"></entry><i>）</i>
+                            <i>·离开此处</i>
+                        </td>
+                    </tr>
+                </table>
+
+                <line kind="1"></line>
+
+                <table header="row" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <th col="1" colspan="6">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="600" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="4250" id="19"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="212"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="6" id="223"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="150" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

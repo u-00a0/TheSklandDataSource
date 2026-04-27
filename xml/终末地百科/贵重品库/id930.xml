@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>930</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283475"},"item":{"name":"武库配额","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1767108902","lastAuditPassedAt":"1767157828","tagIds":["10006","10324","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>武库配额</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/25/203953/a7eb9a6cb3b5ef2bae2cd3131a680855.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10321">10324</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>武库申领时使用的配额资源，可用于购买武器。</b>
+        <color value="s_3">“武装到牙齿总不会有坏处。”——肖恩·卡拉德"</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>干员寻访。</b>
+            <ul>
+                <li>通过干员寻访获得4星干员时，可以获得<entry type="link-img" count="20" id="930"></entry>。</li>
+                <li>通过干员寻访获得5星干员时，可以获得<entry type="link-img" count="200" id="930"></entry>。</li>
+                <li>通过干员寻访获得6星干员时，可以获得<entry type="link-img" count="2000" id="930"></entry>.</li>
+            </ul>
+            <line kind="5"></line>
+            <b>协议通行证等级奖励。</b>
+            <ul>
+                <li>购买<b>通行证申请·协议</b>后，通过协议通行证等级奖励可以获得最多<entry type="link-img" count="2400" id="930"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>采购中心购买。</b>
+            <ul>
+                <li><b><color value="r_5">信用交易所</color></b>中有概率出售<b>武库配额</b>。</li>
+                <li>
+                    采购中心以下<b><color value="r_5">组合包</color></b>的内容中包含<b>武库配额</b>：
+                    <ul>
+                        <li>启程组合包<b><color value="r_5">全面人才组合包</color></b>（￥128）包含<entry type="link-img" count="2000" id="930"></entry>。</li>
+                        <li>限时组合包<b><color value="r_5">协议源流组合包</color></b>（￥198）包含<entry type="link-img" count="2000" id="930"></entry>。</li>
+                        <li>武库组合包<b><color value="r_5">特惠武库配额包</color></b>（￥88）、<b><color value="r_5">优惠武库配额包</color></b>（￥108）、<b><color value="r_5">标准武库配额包</color></b>（￥128）各包含<entry type="link-img" count="2000" id="930"></entry>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>用于武器申领或购买特定武器。</b>
+            <ul>
+                <li>
+                    <b><color value="r_5">武库交易所</color></b>中花费武库配额获取武器的方式有两种：
+                    <ul>
+                        <li>进行<b><color value="r_5">武器申领</color></b>，每次消耗<entry type="link-img" count="1980" id="930"></entry>，获得 <b>10</b> 把随机武器，具体概率视不同类型的申领而定。</li>
+                        <li>直接购买特定武器，4星武器售价为<entry type="link-img" count="20" id="930"></entry>，5星武器售价为<entry type="link-img" count="400" id="930"></entry>，6星武器售价为<entry type="link-img" count="2480" id="930"></entry>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

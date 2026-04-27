@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1173</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283595"},"item":{"name":"光荣记忆","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"7494162216009","nickname":"维尔汀的复乐园","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/16/6f8c590b7a9e886fa825eec1fa84fb80.png"},"createdUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"status":2,"publishedAtTs":"1773378546","lastAuditPassedAt":"1773739912","tagIds":["10006","10226"]},"brief":{"associate":{"id":"4d08e6a691b9e864719e65183455b186","name":"光荣记忆","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>光荣记忆</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260312/3644013/69b25fc34298be0edf042fb9_13673ac9.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10226</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-熔炉要塞铸造的武器之一。造型典雅精致，常用于铁誓军的仪式场合而非前线搏杀，剑身经多重精磨，刃口锋锐至极。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>光荣记忆</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260313/3644013/69b2f24a45f7d92a73c8327b_db193eac.gif</imgUrl>
+                    <description>基础攻击力 50</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                <h3><b>敏捷</b><b><color value="r_3">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">暴击率提升·大 </color></b><b>1/3</b>
+                <h3><b>暴击率</b><b><color value="r_3">+2.5%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">夜幕·余辉未消</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>攻击力<color value="f_blue">+7.0%</color>。</h3>
+                <h3>装备者通过技能施加<color value="f_yellow">破防</color>时，30秒内的下次终结技期间造成的伤害<color value="f_blue">+12.0%</color>。</h3>
+                <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>光荣记忆</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260313/3644013/69b2f25345f7d92a73c8327c_db193eac.gif</imgUrl>
+                    <description>基础攻击力 490</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>9/9</b>
+                <h3><b>敏捷</b><b><color value="r_3">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">暴击率提升·大 </color></b><b>9/9</b>
+                <h3><b>暴击率</b><b><color value="r_3">+19.5%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">夜幕·余辉未消</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>攻击力<color value="f_blue">+19.6%</color>。</h3>
+                <h3>装备者通过技能施加<color value="f_yellow">破防</color>时，30秒内的下次终结技期间造成的伤害<color value="f_blue">+33.6%</color>。</h3>
+                <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>【武器补给-暗流】开启获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="敏捷提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="475"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="暴击率提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+6.5%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+8.5%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+10.5%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+12.5%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+14.5%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+16.5%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+19.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="475"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="夜幕·余辉未消" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+8.4%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+14.4%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+9.8%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+16.8%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+11.2%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+19.2%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+12.6%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+21.6%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+24.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+15.4%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+26.4%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+16.8%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+28.8%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>攻击力</b><b><color value="r_3">+19.6%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+33.6%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="475"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,193,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 144</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 243</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/5</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>1/3</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>1/4</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 243</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 342</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/5</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>1/4</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/6</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 342</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 441</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/6</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/7</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="219"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 441</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 490</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/9</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/7</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>3/9</b>
+                            <b>暴击率</b><b><color value="r_3">+6.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">夜幕·余辉未消 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过技能施加</b><b><color value="r_5">破防</color></b><b>时，30秒内的下次终结技期间造成的伤害</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="r_1">同名效果最多叠加3层，每层单独计算持续时间，每0.5秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            【语音日志节选·一】
+            “咳——塔罗斯历15年██月██日，嗯，搬进临时安置区的第三天......托里！小声点！你是在修椅子还是拆房子？
+            “好了别抱怨了，也别再提你那蓝卡坞主城区的工作室，难道我不希望能有热水和烂片陪我泡澡？可现在连干净的毛巾都算奢侈。
+            “要不你去北边找个‘天使先生’喝一杯，顺便问问它们把星门钥匙藏哪儿了？——我当然知道没那种钥匙。你的幽默感和稳定器一起被天使炸飞了吗？
+            “我在干嘛？录日志啊。你那台摄影机借我用用行吗？反正纪录片也拍不成了。......不行？好吧，又是摄影师的尊严。
+            “刚录到哪儿了？对，今天是塔罗斯历15年——”
+
+            【语音日志节选·二】
+            “住了两周了，还是没其他人的消息。莫瑞、艾丽、亨利......他们肯定还活着。得这么想。
+            “我们算幸运的，至少这儿还有屋顶。别的安置区都挤爆了。战争是结束了，可回不去泰拉，连饭都不一定能吃饱，这日子......
+            “......你回来了？等下，那是什么？一把剑？你用罐头换的？！疯了吧！......这剑杀过天使？那又怎样，你的备用镜头也差点杀过天使——停停，我知道那次是我错了！
+            “你打听到艾丽和莫瑞在工人联合指挥部那边的安置区？太好了。不过那边物资更紧缺。听说工人联合指挥部和企业安全理事会这几天要开会谈‘安置方案’。呵，像泰拉报纸上的无聊新闻一样，没想到有一天我也会关心这种事。
+            “最近别乱跑了，托里，也别再去换那些破烂，留着你那点可怜的罐头吧。
+            “还有，检查一下你的摄影机。......我也不知道，只是觉得......或许我们还会用得上它。”
+
+            【语音日志节选·三】
+            “......已经多久了？我懒得算，大概五个月多点吧。
+            “我和托里现在跟着企业安全理事会的队伍——临时的，哪儿能拍到东西，我们就去哪儿。
+            “这支队伍今天刚输了一仗，撤退时碰上另一支同样灰头土脸的队伍，是工人联合指挥部的人。两边对望半分钟，谁都没说话，也没人伸手摸武器，就这么走过去了。真挺滑稽的——要命的是我一点都笑不出来。
+            “这边不想打，那边也不想打，可这场仗还是打了五个多月。为什么？你知道吗，托里？
+            “哦，对了，托里出去拍东西了。我让他别去，他没听。我羡慕他还能举得起摄影机，我已经搞不懂自己在拍什么，也不想拍了。没人会想看这种纪录片的。不过托里说得对，总得有人把这些烂事留下来。
+            “托里用罐头换来的那把剑还在。多亏它，我们活到了现在。听说它的原主人这次也上了战场，可不久前死了，因为不肯向天使战争中的老战友拔剑。哈，这回我倒能笑出来了，难不成我真的已经疯了？
+            “该死的，外面又开始了。谁在打谁，我不知道，从来没知道过。
+            “......*哥伦比亚俚语*，托里怎么还不回来？”
+
+            【一段模糊晃动的影像】
+            “——哈哈！*哥伦比亚俚语*！我们赢了，伙计，我们的战争终于把老天惹疯了！这是源石天灾，塔卫二的第一场源石天灾，独家首映！看啊，和泰拉多像！你看到了吗托里？！你应该在这儿的，和我一起，这片子会拿奖的，托里！给这片子取个名字吧托里！我想想......对！就叫它‘光荣*哥伦比亚俚语*记忆’！没错，没错，我们*哥伦比亚俚语*要拿奖了！！
+            “哦快看，那座塔要倒了——完美的收尾镜头！恭喜，人类！”
+        </chapter>
+    </chapters>
+</sklandDocument>

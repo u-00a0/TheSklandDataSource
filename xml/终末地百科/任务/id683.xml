@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>683</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283349"},"item":{"name":"虫不语·开篇","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768229307","lastAuditPassedAt":"1769793341","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>虫不语·开篇</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260130/856392/697bb7c33a151ae91560698b_3eac6ad0.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">景玉谷</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">虫不语·摘菱屿</align>
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>受弭弗所托，管理员一行人前往清波寨外寨北面，查看巡卫的情况。</b>
+                        <i>·查看弭弗发来的</i><b><i>消息</i></b>
+                        （<b>BAKER/事务通讯</b>
+                        <b>弭弗：</b>管理员，有个忙想请你们帮。
+                        <b>弭弗：</b>我有个部下在清波寨北边执勤，麻烦你们去管管他。
+                        <b>弭弗：</b>他胆子太小了。
+                        <b>管理员：</b>他碰到什么麻烦事了吗？
+                        <b>弭弗：</b>最近迷踪林不太平，有人失踪。李惴在查。
+                        <b>弭弗：</b>他一直在说些神神鬼鬼的话。实在不行，揍他一顿。
+                        <b>管理员：</b>......我们视情况而定。）
+                        <i>·寻找巡卫</i><b><i>李惴</i></b>
+                        <i>·与</i><b><i>李惴</i></b><i>交谈</i>
+                        <i>·前往</i><b><i>清波寨</i></b><i>打探消息</i>
+                        <i>·与</i><b><i>青芜</i></b><i>交谈</i>
+                        <i>·拿取修复竹筏的</i><b><i>材料</i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>迷踪林似乎真的出现了异常，管理员一行人打算深入竹林，继续调查。</b>
+                        <i>·前往清波寨</i><b><i>渡口</i></b>
+                        <i>·把材料交给</i><b><i>度渡</i></b>
+                        <i>·乘坐竹筏前往</i><b><i>驮鼻山渡口</i></b>
+                        <i>·在林中寻找</i><b><i>失踪人员</i></b>
+                        <i>·与</i><b><i>求救者</i></b><i>交谈</i>
+                        <i>·触碰</i><b><i>核心</i></b>
+                        <i>·修复</i><b><i>需水方块</i></b>
+                        <i>·打开</i><b><i>物资箱</i></b>
+                        <i>·再次触碰</i><b><i>核心</i></b>
+                        <i>·深入</i><b><i>迷踪林</i></b>
+                        <i>·穿过</i><b><i>竹林迷阵</i></b>
+                        <i>·深入</i><b><i>迷踪林</i></b>
+                        <i>·查看地上的</i><b><i>纸条</i></b>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>完成系列任务可开放地图显示<b><u>景玉谷-迷踪林</u></b></li>
+            </ul>
+            <line kind="3"></line>
+            <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="60" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="3700" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="5" id="211"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="2" id="222"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="11" id="225"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="240" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

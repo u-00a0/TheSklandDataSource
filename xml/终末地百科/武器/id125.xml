@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>125</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283070"},"item":{"name":"沧溟星梦","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768038480","lastAuditPassedAt":"1773041539","tagIds":["10006","10227"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>沧溟星梦</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/c5954f91e2fa0bbd04313be756397517.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10227</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-梅什科工业的高端线产品之一。优秀的源石技艺传导性让它不像其他时髦产品那样华而不实。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>沧溟星梦</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/c1e5fd0efd1d33402efff637c33b0c9a.gif</imgUrl>
+                    <description>基础攻击力 50</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·大 </color></b><b>1/3</b>
+                <h3><b>智识</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">治疗效率提升·大 </color></b><b>1/3</b>
+                <h3><b>治疗效率</b><b><color value="f_blue">+6.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">附术·潮汐低语</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>副能力<color value="f_blue">+16.0%</color>。</h3>
+                <h3>装备者消耗<color value="f_green">腐蚀</color>后，使目标敌人受到的法术伤害<color value="f_blue">+10.0%</color>，持续25秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>沧溟星梦</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/179550/942b425c1e05f3462d959c06c6e83a1f.gif</imgUrl>
+                    <description>基础攻击力 495</description>
+                </imgIntro>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·大 </color></b><b>9/9</b>
+                <h3><b>智识</b><b><color value="f_blue">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">治疗效率提升·大 </color></b><b>9/9</b>
+                <h3><b>治疗效率</b><b><color value="f_blue">+46.4%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">附术·潮汐低语</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>副能力<color value="f_blue">+44.8%</color>。</h3>
+                <h3>装备者消耗<color value="f_green">腐蚀</color>后，使目标敌人受到的法术伤害<color value="f_blue">+28.0%</color>，持续25秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li><entry type="link-img" count="0" id="69"></entry>活动参与获得</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="智识提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="471"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="治疗效率提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>治疗效率</b>
+                            <b><color value="r_3">+6.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+15.5%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+20.2%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+25.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+29.8%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+34.5%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+39.3%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+46.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            ﻿<entry type="link-img" count="0" id="471"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="附术·潮汐低语" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+19.2%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+12.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+22.4%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+25.6%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+16.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+28.8%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+18.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+32.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+20.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+35.2%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+22.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+38.4%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+24.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+44.8%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+28.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            ﻿<entry type="link-img" count="0" id="471"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,196,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 145</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 245</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>1/3</b>
+                            <b>智识</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>1/3</b>
+                            <b>治疗效率</b><b><color value="r_3">+6.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+6.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 245</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 345</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+6.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>2/6</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 345</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 445</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>2/6</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>2/7</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="218"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 445</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 495</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/9</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>2/7</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.7%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">治疗效率提升·大 </color></b><b>3/9</b>
+                            <b>治疗效率</b><b><color value="r_3">+15.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·潮汐低语 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="r_2">腐蚀</color></b><b>后，使目标敌人受到的法术伤害</b><b><color value="r_3">+10.0%</color></b><b>，持续25秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            我也曾忧虑自己该去往何处。我这体格，首先就考虑去艾什柏环岛参加地下格斗。但我被那里的萧条景象给吓到了，我可不想在那儿度过我的余生。于是我就来到了拉梵朵玛，这可是座充满机会的大都市，无数大人物来到这里，联席会议、论坛、展会，这里应有尽有！
+            …………
+            一年过去了，我花光了全部身家，买了一辆车，在一位好心商人的帮助下改造成了移动餐厅，也就是现在这辆。毕竟在海边嘛，我就管它叫“船”，“船”停在哪儿，哪儿就是我的“码头”。我还找了一些人来帮我打下手，当时正好是黑曜石音乐节，到处都是游客，遍地都是金票。
+            …………
+            两年过去了，越来越多的人像我一样，开着辆小车，接待着往来的游客。唉，成也黑曜石音乐节，败也黑曜石音乐节……你们说，这楼是越盖越多，怎么我的顾客怎么反而变少了？那一年啊，我还看见有一个菲林，和当年的我一样，花光了所有身家，但最后什么都没了……
+            …………
+            三年过去了，我当时也不知道自己还能撑多久，收益越来越少。最气人的是，经常把车开到我对面的那个佩洛，居然还跑到我这儿来抢我的店员，跟他们说什么我很快就撑不下去了……气死我了。
+            …………
+            我开始收拾行李，反正“船”上只剩我一个，开走就能回老家。但就是那年，拉梵朵玛发生了一场海啸。灾难结束后，一支终末地的医疗救援队来了……你说终末地和我这家小店有什么关系？当然没关系咯，但在一天夜里，我听到他们在说什么，很漂亮，像星空一样。我出去一看，漆黑的海滩上散布着被海水吹过来的贝壳，其中一些散发着一缕缕幽光。我突然想起，以前的音乐节也能看到这种景象，那时候人还没有现在这么多。于是我便有了主意，第二天就把“船”给抵押了，搞了一批会发光的贝壳，再加点装饰品，对，和你手上那个一样。然后？然后这里的“码头”变多了，“船”也就好走咯。
+            不瞒你说，我准备把这一块沙滩承包下来，对对，就你脚下这一片。然后把这些贝壳磨碎，搞个夜光海滩！名字我都想好了，叫“星砂海梦”。说不定下一次黑曜石音乐节的夜场就会选在我这里，到时候你们可一定要来捧场啊，我给你们打个折。
+            那个佩洛？不就在那儿吗，我们现在可是合伙人。为什么选他？
+            这座拉梵朵玛，不就是做生意的互帮互助，才有了现在的样子吗？
+        </chapter>
+    </chapters>
+</sklandDocument>

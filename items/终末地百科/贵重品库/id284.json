@@ -1,0 +1,1053 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_284"
+  },
+  "name": "岳研茶盒",
+  "icon": "https://bbs.hycdn.cn/image/2025/12/20/3048259/902abb171076502cbb372c065fa246bb.png",
+  "description": "获取方式:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。 在武陵完成运送委托后收到的感谢信附件中可能包含[岳研茶盒x3]。\n\n用途:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。 在武陵完成运送委托后收到的感谢信附件中可能包含[岳研茶盒x3]。\n可在帝江号上赠送给特定喜好的干员。\n可向喜好生活、文化的干员赠送[岳研茶盒]以提升其信赖值。 [岳研茶盒]属于武陵·跑者严选系列礼物，若赠送时为流行品，可以提供更高的信赖值提升。\n喜好干员 | \n生活 | [卡契尔][大潘][艾维文娜][佩丽卡][艾尔黛拉][莱万汀]\n文化 | [阿列什][陈千语][骏卫][洁尔佩塔][庄方宜]",
+  "rarity": {
+    "stars": 5,
+    "label": "5星",
+    "color": "#fb8c00",
+    "token": "rarity_5",
+    "tagId": "10005"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:5"
+  ],
+  "source": "终末地百科/贵重品库/id284.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1777283144",
+    "data": {
+      "item": {
+        "itemId": "284",
+        "document": {
+          "documentMap": {
+            "YivECKio": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "PWcs08gL0QJb",
+                "5O6cWaNeG0CX",
+                "ijD4WgTqhoAJ",
+                "eWaDEibOlFv2",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "5O6cWaNeG0CX": {
+                  "id": "5O6cWaNeG0CX",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "5O6cWaNeG0CX",
+                    "itemIds": [
+                      "67MxfStj9a0Q"
+                    ],
+                    "itemMap": {
+                      "67MxfStj9a0Q": {
+                        "id": "67MxfStj9a0Q",
+                        "childIds": [
+                          "AguLDCP7Iyp2"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "AguLDCP7Iyp2": {
+                  "id": "AguLDCP7Iyp2",
+                  "parentId": "67MxfStj9a0Q",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可在相应的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度-人文物产"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中以每份"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "382",
+                          "showType": "link-imgText",
+                          "count": "90000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的价格购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "EvPHvEfENFFu": {
+                  "id": "EvPHvEfENFFu",
+                  "parentId": "F3vV0cIJacYp",
+                  "kind": "list",
+                  "list": {
+                    "id": "EvPHvEfENFFu",
+                    "itemIds": [
+                      "eGk07Wof27AU"
+                    ],
+                    "itemMap": {
+                      "eGk07Wof27AU": {
+                        "id": "eGk07Wof27AU",
+                        "childIds": [
+                          "HVR3Z9asIYok"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "HVR3Z9asIYok": {
+                  "id": "HVR3Z9asIYok",
+                  "parentId": "eGk07Wof27AU",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在武陵完成运送委托后收到的感谢信附件中可能包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "284",
+                          "showType": "link-imgText",
+                          "count": "3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PWcs08gL0QJb": {
+                  "id": "PWcs08gL0QJb",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-物资调度终端购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "eWaDEibOlFv2": {
+                  "id": "eWaDEibOlFv2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "eWaDEibOlFv2",
+                    "itemIds": [
+                      "F3vV0cIJacYp"
+                    ],
+                    "itemMap": {
+                      "F3vV0cIJacYp": {
+                        "id": "F3vV0cIJacYp",
+                        "childIds": [
+                          "jmhGIf5exVBr",
+                          "EvPHvEfENFFu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "ijD4WgTqhoAJ": {
+                  "id": "ijD4WgTqhoAJ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "jmhGIf5exVBr": {
+                  "id": "jmhGIf5exVBr",
+                  "parentId": "F3vV0cIJacYp",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-仓储节点感谢信附件。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "aV76S2Wd": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "9frzIp",
+                "pTmLaC3siDJU",
+                "gfDQirUIclFm",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "2pTOdfWnMxla": {
+                  "id": "2pTOdfWnMxla",
+                  "parentId": "7EoKwUwXhpds",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "284",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "属于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵·跑者严选"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "系列礼物，若赠送时为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "流行品"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，可以提供更高的信赖值提升。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7KNBdphKq8O7": {
+                  "id": "7KNBdphKq8O7",
+                  "parentId": "HVnpys_0jF9PK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "生活"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9frzIp": {
+                  "id": "9frzIp",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "可在帝江号上赠送给特定喜好的干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PxzmRuOEOoFM": {
+                  "id": "PxzmRuOEOoFM",
+                  "parentId": "4CcFWK_0jF9PK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "喜好干员"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VmYmQ8X4tevz": {
+                  "id": "VmYmQ8X4tevz",
+                  "parentId": "PHuozS_4gEQ2I",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "87",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "12",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "131",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "159",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1132",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gfDQirUIclFm": {
+                  "id": "gfDQirUIclFm",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "gfDQirUIclFm",
+                    "rowIds": [
+                      "4CcFWK",
+                      "HVnpys",
+                      "PHuozS"
+                    ],
+                    "columnIds": [
+                      "0jF9PK",
+                      "4gEQ2I"
+                    ],
+                    "rowMap": {
+                      "4CcFWK": {
+                        "id": "4CcFWK"
+                      },
+                      "HVnpys": {
+                        "id": "HVnpys"
+                      },
+                      "PHuozS": {
+                        "id": "PHuozS"
+                      }
+                    },
+                    "columnMap": {
+                      "0jF9PK": {
+                        "id": "0jF9PK",
+                        "width": 100
+                      },
+                      "4gEQ2I": {
+                        "id": "4gEQ2I",
+                        "width": 1060
+                      }
+                    },
+                    "cellMap": {
+                      "4CcFWK_0jF9PK": {
+                        "id": "4CcFWK_0jF9PK",
+                        "childIds": [
+                          "PxzmRuOEOoFM"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "HVnpys_0jF9PK": {
+                        "id": "HVnpys_0jF9PK",
+                        "childIds": [
+                          "7KNBdphKq8O7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "HVnpys_4gEQ2I": {
+                        "id": "HVnpys_4gEQ2I",
+                        "childIds": [
+                          "r3OXxWlqZdmX"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PHuozS_0jF9PK": {
+                        "id": "PHuozS_0jF9PK",
+                        "childIds": [
+                          "wo5WDjGdu5D7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PHuozS_4gEQ2I": {
+                        "id": "PHuozS_4gEQ2I",
+                        "childIds": [
+                          "VmYmQ8X4tevz"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "pTmLaC3siDJU": {
+                  "id": "pTmLaC3siDJU",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "pTmLaC3siDJU",
+                    "itemIds": [
+                      "xLTYWVPZooXw",
+                      "7EoKwUwXhpds"
+                    ],
+                    "itemMap": {
+                      "7EoKwUwXhpds": {
+                        "id": "7EoKwUwXhpds",
+                        "childIds": [
+                          "2pTOdfWnMxla"
+                        ]
+                      },
+                      "xLTYWVPZooXw": {
+                        "id": "xLTYWVPZooXw",
+                        "childIds": [
+                          "w4iPWpSF0Fhw"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "r3OXxWlqZdmX": {
+                  "id": "r3OXxWlqZdmX",
+                  "parentId": "HVnpys_4gEQ2I",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "94",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "13",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "88",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "5",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "11",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "7",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "w4iPWpSF0Fhw": {
+                  "id": "w4iPWpSF0Fhw",
+                  "parentId": "xLTYWVPZooXw",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可向喜好"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "生活"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "文化"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的干员赠送"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "284",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "以提升其信赖值。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wo5WDjGdu5D7": {
+                  "id": "wo5WDjGdu5D7",
+                  "parentId": "PHuozS_0jF9PK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "文化"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "aV76S2Wd",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "YivECKio",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "岳研茶盒",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 9,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1",
+                  "hide": false
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2",
+                  "hide": false
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3",
+                  "hide": false
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4",
+                  "hide": false
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5",
+                  "hide": false
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6",
+                  "hide": false
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "1225401989759",
+          "nickname": "玉酱不吃鱼子酱",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/2025/12/20/3048259/902abb171076502cbb372c065fa246bb.png",
+          "name": "岳研茶盒",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "岳研香茶铺推出的特级茶叶，是这年轻品牌的得意之作。特制套盒能够展开为古雅的迷你茶台。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "可作为礼物送给爱好[生活] [文化]的干员以增加信赖度。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10005"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10330"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10328"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1766385700",
+        "lastAuditPassedAt": "1776435439",
+        "tagIds": [
+          "10005",
+          "10330",
+          "10328"
+        ]
+      }
+    }
+  }
+}

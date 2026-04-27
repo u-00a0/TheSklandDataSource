@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>37</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283024"},"item":{"name":"基础航天建材","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1764944657","lastAuditPassedAt":"1770811839","tagIds":["10003","10263","10316"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>基础航天建材</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/07/3048259/bc8cd3594f2a67320c1365c4d37e9795.png</cover>
+        <subTypes>
+            <subType id="10000">10003</subType>
+            <subType id="10253">10263</subType>
+            <subType id="10254">10316</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>请在协议相关装置覆盖区使用本类建材。</b>
+        <color value="s_3">进行工业建造的基础建材，可用于“帝江号”的升级建造。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>资源回收站获取。</b>
+            <ul>
+                <li>
+                    解锁位于地图各处的<b><color value="r_5">资源回收站</color></b>后，每隔一段时间都可以收取一次<entry type="link-img" count="0" id="37"></entry>。
+                    <ul>
+                        <li>解锁时<b><color value="r_5">资源回收站</color></b>立刻可以收取一次。</li>
+                        <li>等级为 <b>1 </b>的<b><color value="r_5">资源回收站</color></b>每次可以收取<entry type="link-img" count="3" id="37"></entry>，等级不低于 <b>2 </b>时则每次可以收取<entry type="link-img" count="6" id="37"></entry>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="5"></line>
+            <b>特定NPC商店中购买。</b>
+            <ul>
+                <li><b><color value="r_5">枢纽区-工人之家</color></b> <pron>玛姬|奖品兑换员</pron> 处购买，每份售价<entry type="link-img" count="100" id="32"></entry>，存量 <b>4</b> 份。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>用于建设、升级帝江号舱室。</b>
+            <ul>
+                <li>在<b><color value="r_5">帝江号</color></b>上建造新舱室或升级已有舱室都需要消耗基础航天建材。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

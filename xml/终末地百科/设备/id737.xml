@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>737</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283377"},"item":{"name":"管道","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1767098292","lastAuditPassedAt":"1767630358","tagIds":["10001","10309","10246"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>管道</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/19/2696356/60fa21a64164e92776b904ec3386dc8d.png</cover>
+        <subTypes>
+            <subType id="10000">10001</subType>
+            <subType id="10244">10246</subType>
+            <subType id="10307">10309</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可以传输液体或气体的传输物流工具。</b>
+        <color value="s_3">据调查，文明环带内近百分之三十的居民相信：城市排水管道网络中存在着一个庞大、黑暗的地下王国。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在<b>协议核心</b>或<b>次级核心</b>范围内可点击管道图标免费放置。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>工业计划-武陵工业一期</b>研究<b>基础液体运输</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方式">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>管道</b>是物流类型的机器，可以用于运输液体。
+            <b>管道</b>可放置在<b>协议核心</b>或<b>次级核心</b>范围外。
+            <b>管道</b>不需要电力维持运转。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>管道</b>需要长<b>1</b>格、宽<b>1</b>格的可用空地。
+            <b>管道</b>可以与传送带路径有所重合，但必须从设备与物流出口或其他管道处开始连接。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

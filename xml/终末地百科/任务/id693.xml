@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>693</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283354"},"item":{"name":"据点建设·天王坪援建点·一","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768151142","lastAuditPassedAt":"1769880311","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>据点建设·天王坪援建点·一</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/12/402818/0391734c0ae37db11140b897bed52559.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">景玉谷</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>为天王坪援建点供应所需物资，提升它的发展值。</b>
+                        <i>·提升</i><b><i>据点发展值</i></b><i>至当前上限</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>查看庄方宜发来的消息，确认发生了什么事。</b>
+                        <i>·查看庄方宜发来的</i><b><i>消息</i></b>
+                        （<b>BAKER/事务通讯</b>
+                        <b>庄方宜：</b>管理员，我们的天师在复合式农场遇到了一些小麻烦。
+                        <b>庄方宜：</b>现场情况复杂，如果方便的话，还望你出面帮忙解围。
+                        <b>管理员：</b>复合式农场......你派人到天王坪的据点了? 
+                        <b>庄方宜：</b>开设据点时，佩丽卡监督知会过我，就留了点心。
+                        <b>庄方宜：</b>机会实在难得，没有及时告知，希望你不要介意。
+                        <b>管理员：</b>先不论汤汤，清波寨里有些人对外来者依然还有敌意。
+                        <b>管理员：</b>我有点担心，你的想法不一定真能顺利传到寨子里。
+                        <b>庄方宜：</b>所以才需要更积极地做些工作，不是吗? 
+                        <b>庄方宜：</b>终末地能赢得汤汤的信任，在我们之间形成平衡，已经是近年难遇的机会。
+                        <b>庄方宜：</b>不管是否会遇到阻力，武陵都需要先展露自己的诚意才行。
+                        <b>管理员：</b>我明白你的想法了，我们先去看看情况。
+                        <b>庄方宜：</b>那就拜托你了。洪波天师应该还在现场，武陵欠你一个人情。）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>浪头不愿意武陵城参与复合式农场的建设，要求管理员和天师洪波挑战他设置的“三大难”。通过三项挑战，获得浪头的承认。</b>
+                        <i>·前往</i><b><i>天王坪援建点</i></b>
+                        <i>·通过“第一难”</i>
+                        <i>·前往“第二难”的</i><b><i>比试地点</i></b>
+                        <i>·与</i><b><i>浪头</i></b><i>交谈，挑战“第二难”</i>
+                        <i>·利用</i><b><i>滑索</i></b><i>，完成“第二难”</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>青芜似乎发现了说服浪头的机会。跟随青芜找到浪头，确认发生了什么事。</b>
+                        <i>·跟随</i><b><i>青芜</i></b>
+                        <i>·设法取回</i><b><i>风筝</i></b>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="580,580">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="25" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="100" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>728</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283373"},"item":{"name":"池中宝","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768229860","lastAuditPassedAt":"1769871165","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>池中宝</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260131/856392/697e14a5b2a055d75726bf69_2f76db19.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">武陵城</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">在天井院旁与<b>天师阿宝</b>交谈</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>与池边的可疑人士交谈，了解他的意图。</b>
+                        <i>·</i>将<b>水泵</b>接入池中
+                        <i>·</i>等待<b>池中的水</b>被抽尽
+                        <i>·</i>查看<b>阿宝</b>发来的消息
+                        （<b>BAKER/事务通讯</b>
+                        <b>阿宝：</b>管理员，好消息！
+                        <b>阿宝：</b>池子里的水被抽干了！快来看看吧！
+                        <b>阿宝：</b>对了，你有射流无人机吗？
+                        <b>阿宝：</b>也许里面有些机关用得上它，别忘了加水！）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>在天井院地下探索，寻找激活天井院底部大门机关的“钥匙”。</b>
+                        <i>·前往天井院</i><b><i>底部</i></b>
+                        <i>·寻找激活大门机关的“</i><b><i>钥匙</i></b><i>”</i>
+                        <i>·激活天井院底部的</i><b><i>机关</i></b>
+                        <i>·进入大门，寻找</i><b><i>宝藏</i></b>
+                        <i>·离开天井院底部</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="4050" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="5" id="211"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="1" id="222"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="9" id="225"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

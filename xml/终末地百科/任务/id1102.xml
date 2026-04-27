@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1102</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283559"},"item":{"name":"第一章 - 进程Ⅰ - 建立据点","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1774258173","lastAuditPassedAt":"1774266106","tagIds":["10272","10365"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>第一章 - 进程Ⅰ - 建立据点</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260212/1840716/698dd66b3a7e1688fbe6a539_2f76db19.png</cover>
+        <subTypes>
+            <subType id="10270">10272</subType>
+            <subType id="10362">10365</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>第一章 - 碎裂大地</b>的第六个任务
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <table header="row" widths="290,290,290,290">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>所属章节</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>前置任务</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">碎裂大地</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="link-img" count="0" id="1101"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="link-img" count="0" id="1103"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="small" name="任务详情">
+            <line kind="5"></line>
+            <h3><b>地点</b></h3>
+            <ul>
+                <li><color value="r_5">谷地通道</color></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>触发位置</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>相关人物</b></h3>
+            <ul>
+                <li><b><color value="f_brown">佩丽卡</color></b></li>
+                <li><b><color value="f_brown">陈千语</color></b></li>
+                <li><b><color value="f_brown">狼卫</color></b></li>
+                <li><b><color value="f_brown">索斯</color></b></li>
+                <li><b><color value="f_brown">丹尼尔</color></b></li>
+                <li><b><color value="f_brown">菲奥娜</color></b></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>任务道具</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>解锁内容</b></h3>
+            <quote>
+                <b>任务</b>
+            </quote>
+            <ul>
+                <li>
+                    <align value="center"><entry type="link-img" count="0" id="1103"></entry></align>
+                </li>
+                <li><entry type="link-img" count="0" id="162"></entry></li>
+            </ul>
+            <quote>
+                <b>功能</b>
+            </quote>
+            <ul>
+                <li><b>/</b></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="任务进程">
+            <line kind="5"></line>
+            <h2><b>进程</b></h2>
+            <b>避难所的难民们需要一处条件更好的居所。跟随索斯前往空地，清理裂地者的营地。</b>
+            <ul>
+                <li><i>前往指定地点</i></li>
+                <li><i>与</i><b><i><color value="f_brown">索斯</color></i></b><i>交谈</i></li>
+                <li><i>击败</i><b><i><color value="f_brown">裂地者</color></i></b><i>（</i><entry type="link-img" count="5" id="715"></entry><entry type="link-img" count="2" id="730"></entry><i>）</i></li>
+                <li><i>部署</i><b><i><color value="f_brown">次级核心</color></i></b><i>，建造据点</i></li>
+                <li><i>查看次级核心的</i><b><i><color value="f_brown">指定取货口</color></i></b></li>
+                <li>用传送带连接<b><color value="f_brown">指定取货口</color></b>和<b><color value="f_brown">精炼炉输入口</color></b></li>
+                <li><i>连接</i><b><i><color value="f_brown">精炼炉输出口</color></i></b><i>和</i><b><i><color value="f_brown">次级核心输入口</color></i></b></li>
+                <li><i>查看</i><b><i><color value="f_brown">精炼炉</color></i></b><i>操作面板</i></li>
+                <li><i>获取</i><b><i><color value="f_brown">晶体外壳</color></i></b><i>（</i><entry type="link-img" count="30" id="33"></entry><i>）</i></li>
+                <li><i>在设备列表中制造</i><b><i><color value="f_brown">铳械塔</color></i></b><i>并放入背包（</i><entry type="link-img" count="3" id="50"></entry><i>）</i></li>
+                <li><i>在指定区域放置</i><b><i><color value="f_brown">铳械塔</color></i></b></li>
+                <li><i>放置</i><b><i><color value="f_brown">供电桩</color></i></b><i>，为</i><b><i><color value="f_brown">铳械塔</color></i></b><i>供电</i></li>
+                <li><i>从</i><b><i><color value="f_brown">次级核心</color></i></b><i>运输电力至铳械塔旁的</i><b><i><color value="f_brown">供电桩</color></i></b></li>
+                <li><i>与</i><b><i><color value="f_brown">索斯</color></i></b><i>交谈</i></li>
+                <li><i>利用</i><b><i><color value="f_brown">铳械塔</color></i></b><i>击败来袭的裂地者</i></li>
+                <li><i>与</i><b><i><color value="f_brown">索斯</color></i></b><i>交谈</i></li>
+                <li><i>跟随</i><b><i><color value="f_brown">丹尼尔</color></i></b><i>前往地下通风管道</i></li>
+            </ul>
+            <line kind="1"></line>
+            <b>四号谷地出现了一些奇怪的源石反应。进入未知的协议空间，探查其中的情况。</b>
+            <ul>
+                <li><i>进入</i><b><i><color value="f_brown">协议空间</color></i></b></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="任务奖励">
+            <line kind="5"></line>
+            <table header="none" widths="165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="3" id="925"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="3000" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="6" id="224"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="24" id="213"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="8" id="215"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                    </td>
+                    <td col="7">
+                        <align value="center"><entry type="card-big" count="600" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

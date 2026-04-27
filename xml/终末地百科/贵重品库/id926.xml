@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>926</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283473"},"item":{"name":"嵌晶玉","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1767108890","lastAuditPassedAt":"1773284087","tagIds":["10006","10324","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>嵌晶玉</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/27/203953/4e119668ad57fe89381f21af62e651c8.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10321">10324</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>合成物质，常用于招募干员。</b>
+        <color value="s_3">由衍质源石加工来的特殊产物，因其瑰丽的外观和广泛的用途而倍受欢迎。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>使用衍质源石兑换。</b>
+            <ul>
+                <li>消耗<entry type="link-img" count="1" id="925"></entry>可以获取<entry type="link-img" count="75" id="926"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>协议通行证奖励。</b>
+            <ul>
+                <li>购买<entry type="link-img" count="0" id="898"></entry>或<entry type="link-img" count="0" id="897"></entry>可以获取<entry type="link-img" count="0" id="928"></entry><entry type="link-img" count="0" id="929"></entry>，开启这两种物资箱均有概率获得数量不等的嵌晶玉。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>行动手册奖励。</b>
+            <ul>
+                <li>每完成<b><color value="r_5">行动手册-节点</color></b>中一个节点的全部任务，可以领取包含嵌晶玉在内的节点奖励。</li>
+                <li>单日内<b><color value="r_5">行动手册-日常</color></b>每获得 20 活跃度，可以领取包含<entry type="link-img" count="40" id="926"></entry>的日常报酬。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>采购中心购买。</b>
+            <ul>
+                <li><b><color value="r_5">采购中心-信用交易所</color></b>会以<entry type="link-img" count="400" id="16"></entry>的价格与随机的折扣出售<entry type="link-img" count="25" id="926"></entry>。</li>
+                <li><b><color value="r_5">采购中心-组合包</color></b>中购买<b><color value="r_5">月卡</color></b>（￥30）后的 30 天内，每日登录游戏可以领取<entry type="link-img" count="200" id="926"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>冒险探索获取。</b>
+            <ul>
+                <li>在贵重品库中使用特定道具（如<entry type="link-img" count="0" id="1080"></entry><entry type="link-img" count="0" id="1081"></entry>）可以获取数量不等的嵌晶玉。</li>
+                <li>
+                    开启地图各处的<b><color value="r_5">储藏箱</color></b>等时会获得嵌晶玉。
+                    <ul>
+                        <li>白色、蓝色、黄色、金色的<b><color value="r_5">储藏箱</color></b>开启后分别可以获得<entry type="link-img" count="15" id="926"></entry>、<entry type="link-img" count="30" id="926"></entry>、<entry type="link-img" count="60" id="926"></entry>和<entry type="link-img" count="100" id="926"></entry>。</li>
+                        <li>带有特殊标识的<b><color value="r_5">惊喜储藏箱</color></b>开启后可以获得<entry type="link-img" count="150" id="926"></entry>。</li>
+                    </ul>
+                </li>
+                <li>
+                    首次赢下每个区域的<b><color value="r_5">赛跑挑战</color></b>时可以获得包含嵌晶玉在内的奖励。
+                    <ul>
+                        <li><b><color value="r_5">四号谷地</color></b>的四场赛跑挑战分别位于<b><color value="r_5">枢纽区</color></b>、<b><color value="r_5">源石研究园</color></b>、<b><color value="r_5">矿脉源区</color></b>和<b><color value="r_5">供能高地</color></b>，每场首次赢下时可以获得<entry type="link-img" count="25" id="926"></entry>等奖励。</li>
+                    </ul>
+                </li>
+                <li>获得<entry type="link-img" count="0" id="14"></entry>提高<b><color value="r_5">权限等阶</color></b>时领取奖励。</li>
+                <li>在<b><color value="r_5">档案库-情报收集</color></b>中每完成一个主题的情报收集并获取相应的<b><color value="r_5">调查报告</color></b>后可以领取<entry type="link-img" count="200" id="926"></entry>。</li>
+                <li>初次完成<b><color value="r_5">作战演练</color></b>、<b><color value="r_5">能量淤积点</color></b>等中的战斗后获取。</li>
+                <li>部分<b><color value="r_5">任务</color></b>的完成奖励。</li>
+                <li>收集一定数量物品完成<b><color value="r_5">简制手册</color></b>后的奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>进行干员寻访。</b>
+            <ul>
+                <li>每次进行<b><color value="r_5">干员寻访</color></b>需要<entry type="link-img" count="500" id="926"></entry>，即<b><color value="r_5">十连寻访</color></b>则需要<entry type="link-img" count="5000" id="926"></entry>。</li>
+                <li>消耗<b><color value="r_5">寻访凭证</color></b>时，<b><color value="r_5">十连寻访</color></b>所需要<entry type="link-img" count="0" id="926"></entry>数量也会相应的下降。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

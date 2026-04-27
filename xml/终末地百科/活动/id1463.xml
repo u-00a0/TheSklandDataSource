@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1463</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283705"},"item":{"name":"作战演练｜春晓时","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1776521413","lastAuditPassedAt":"1776511869","tagIds":["10411","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>作战演练｜春晓时</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260418/856392/69e32b35fd2b852705f8b86a_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10276">10411</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>干员试用活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，管理员可使用包含对应干员的固定队伍,体验指定关卡。</li>
+                <li>在指定关卡中，管理员无法调整队伍中的干员、干员等级以及干员携带的武器和装备。</li>
+                <li>活动期间，通关指定关卡后，可在本活动界面领取奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="干员试用">
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260418/856392/69e33142fd2b852705f8b8a5_6ad0f152.png">
+                <line kind="5"></line>
+                <table header="none" widths="165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572">
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>开放时间</b></align>
+                        </td>
+                        <td col="2" colspan="6">
+                            「春晓时」版本开启后 - 2026/05/22 11:59（服务器时间）
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>参与条件</b></align>
+                        </td>
+                        <td col="2" colspan="6">
+                            完成主线任务<entry type="link-img" count="0" id="504"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>文本介绍</b></align>
+                        </td>
+                        <td col="2" colspan="6">
+                            庄方宜是一名能持续造成大量<color value="f_yellow">电磁伤害</color>的突击干员。她可以通过战技不断生成<color value="f_blueness">青霆剑</color>雷击敌人，使用终结技后，还能大幅提升战斗性能。
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1" colspan="5">
+                            <align value="center"><b>奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="100" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="4000" id="19"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="4" id="223"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="8" id="213"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

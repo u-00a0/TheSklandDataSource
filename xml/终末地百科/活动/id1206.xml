@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1206</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283612"},"item":{"name":"新手特许赠礼","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1774263660","lastAuditPassedAt":"1774263608","tagIds":["10369","10367"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>新手特许赠礼</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260323/856392/69c086484298be0edf0474fd_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10276">10369</subType>
+            <subType id="10366">10367</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>常驻活动</b>
+    </description>
+    <chapters name="活动详情">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69b25fac45f7d92a73c82d48</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>81458</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260312/856392/69b25fac45f7d92a73c82d48_91c496d2.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动时间</b></align>
+                    </td>
+                    <td col="2">
+                        「新潮起，故渊离」版本开启后
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动奖励</b></align>
+                    </td>
+                    <td col="2">
+                        【<entry type="link-img" count="0" id="286"></entry>】×10
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅰ - 基地解围」
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="活动说明">
+            <line kind="5"></line>
+            <ul>
+                <li>完成指定主线任务即可在活动界面领取奖励，累计可获得【<entry type="link-img" count="0" id="286"></entry>】×10。</li>
+                <li>所有奖励领取完毕后，活动界面将于次日04:00（服务器时间）关闭。</li>
+            </ul>
+            ※若您已完成相关任务，则可直接进入活动界面领取奖励。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="">
+            <table header="both" widths="105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                <tr>
+                    <th col="1" colspan="3">
+                        <align value="center"><b>奖励</b></align>
+                    </th>
+                    <th col="4" colspan="8">
+                        <align value="center"><b>特定进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <th col="1" colspan="3">
+                        <align value="center"><entry type="card-big" count="2" id="286"></entry></align>
+                    </th>
+                    <td col="4" colspan="8">
+                        <b>·完成源石副产物中心的调查</b>
+                        <quote>
+                            <color value="s_3">完成「第一章 - 进程Ⅰ- 谷地重启 - 部署协议核心」</color>
+                        </quote>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1" colspan="3">
+                        <align value="center"><entry type="card-big" count="2" id="286"></entry></align>
+                    </th>
+                    <td col="4" colspan="8">
+                        <b>·完成源石副产物中心的调查</b>
+                        <quote>
+                            <color value="s_3">完成「第一章 - 进程Ⅰ- 重整旗鼓 - 将资料和零件交给安德烈」</color>
+                        </quote>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1" colspan="3">
+                        <align value="center"><entry type="card-big" count="2" id="286"></entry></align>
+                    </th>
+                    <td col="4" colspan="8">
+                        <b>·进入谷地通道</b>
+                        <quote>
+                            <color value="s_3">完成「第一章 - 进程Ⅰ- 庇护之所 - 进入谷地通道」</color>
+                        </quote>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1" colspan="3">
+                        <align value="center"><entry type="card-big" count="2" id="286"></entry></align>
+                    </th>
+                    <td col="4" colspan="8">
+                        <b>·提升权限等阶至15级，重返帝江号</b>
+                        <quote>
+                            <color value="s_3">完成「第一章 - 进程Ⅱ- 准备工作 - </color>提升权限等阶至15级<color value="s_3">」</color>
+                        </quote>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1" colspan="3">
+                        <align value="center"><entry type="card-big" count="2" id="286"></entry></align>
+                    </th>
+                    <td col="4" colspan="8">
+                        <b>·提升权限等阶至18级，前往源石研究园</b>
+                        <quote>
+                            <color value="s_3">完成「第一章 - 进程Ⅲ- 再度启程」</color>
+                        </quote>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>180</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283093"},"item":{"name":"长距滑索架","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"createdUser":{"id":"4119159299717","nickname":"曾小皮","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/fd72b2740985507fe4aa02496c93ddd5.webp"},"status":2,"publishedAtTs":"1767098622","lastAuditPassedAt":"1772633947","tagIds":["10004","10312","10249"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>长距滑索架</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/18/2696356/a65d295ca649371783809281c47e9821.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10244">10249</subType>
+            <subType id="10307">10312</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可在110M范围内相连，架起索道的大型设备。</b>
+        <color value="s_3">最近，滑索类设备已经开始走入旅游从业者与极限运动爱好者的视线，这足见终末地工业相关人员的销售能力。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在研究完成<b>户外机动技术II</b>后可获得2台长距滑索架。</li>
+                <li>
+                    在<b>协议核心</b>或<b>次级核心</b>范围内，点击<b>工具箱-设备列表-制造设备</b>通过以下配方制造。
+                    <ul>
+                        <li><entry type="link-img" count="20" id="540"></entry><b>→ </b><entry type="link-img" count="1" id="180"></entry></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>工业计划-基础工业三期</b>研究<b>户外机动技术II</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方式">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>长距滑索架</b>是功能类型的机器，可以用于在两地之间快速移动。
+            <b>长距滑索架</b>可放置在<b>协议核心</b>或<b>次级核心</b>范围外。
+            <b>长距滑索架</b>不仅可以增加传输距离，而且可支持一次性通过多个<b>长距滑索架</b>。
+            <b>长距滑索架</b>需要电力维持运转，1个<b>长距滑索架</b>耗电功率值为5。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>长距滑索架</b>需要长<b>3</b>格、宽<b>3</b>格的可用空地。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

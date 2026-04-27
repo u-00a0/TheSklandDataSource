@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1451</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283700"},"item":{"name":"焕新月卡赠礼","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1776483535","lastAuditPassedAt":"1776483422","tagIds":["10411","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>焕新月卡赠礼</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260417/402818/69e2530fcacb3db10e65d38c_13673ac9.png</cover>
+        <subTypes>
+            <subType id="10276">10411</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>赠礼活动</b>
+    </description>
+    <chapters name="活动展示">
+        <chapter size="large" name="">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69e25253fd2b852705f8b306</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>45854</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260417/402818/69e25253fd2b852705f8b306_004865de.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动时间</b></align>
+                    </td>
+                    <td col="2">
+                        「春晓时」版本开启后 - 2026/05/18 04:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动奖励</b></align>
+                    </td>
+                    <td col="2">
+                        活动期间，累计最多可获得<entry type="link-img" count="6000" id="926"></entry>、<entry type="link-img" count="30" id="260"></entry>和<entry type="link-img" count="120" id="248"></entry>。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务<entry type="link-img" count="0" id="504"></entry>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="活动说明">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，每日登录游戏可获得<entry type="link-img" count="200" id="926"></entry>、<entry type="link-img" count="1" id="260"></entry>和<entry type="link-img" count="4" id="248"></entry>。</li>
+                <li>每日活动奖励在每日04:00（服务器时间）刷新，因未登录游戏而未领取的当日活动奖励，将不予补发，请管理员及时登录游戏领取。</li>
+                <li>「焕新月卡赠礼」与「月卡」可同时生效，并分别计算可领取次数。活动期间，「焕新月卡赠礼」每日登录奖励最多可领取30次。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>372</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283189"},"item":{"name":"高爆榴弹塔","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"createdUser":{"id":"6208993443188","nickname":"肉丝饼","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/ef50268d0610aeb22738a0d448ee5d50.png"},"status":2,"publishedAtTs":"1767098355","lastAuditPassedAt":"1770638114","tagIds":["10004","10312","10245"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>高爆榴弹塔</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/14/2696356/a0b4ac12f548e239612165eb701348e2.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10244">10245</subType>
+            <subType id="10307">10312</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>攻击力：</b><b><color value="f_blue">5585</color></b>
+        <b>攻击间隔：</b><b><color value="f_blue">3</color></b><b>秒</b>
+        <b>攻击方式：以抛物线发射II级榴弹攻击敌人，榴弹会在敌人附近地面爆炸并造成范围</b><b><color value="f_orange">灼热伤害</color></b><b>，同时在地面留下一片燃烧区对敌人造成伤害。</b>
+        <color value="s_3">装配了高爆源石榴弹的抛射装置，相较于普通榴弹塔拥有了更高的范围性杀伤能力。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在研究完成<b>高爆榴弹塔</b>后可获得1台高爆榴弹塔。</li>
+                <li>
+                    在<b>协议核心</b>或<b>次级核心</b>范围内，点击<b>工具箱-设备列表-制造设备</b>通过以下配方制造。
+                    <ul>
+                        <li><entry type="link-img" count="20" id="541"></entry><b>→</b><entry type="link-img" count="1" id="372"></entry></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>工业计划-武陵工业一期</b>研究<b>高爆榴弹塔</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方式">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>高爆榴弹塔</b>是战斗辅助类型的机器，可以用于辅助攻击敌人。
+            <b>高爆榴弹塔</b>可放置在<b>协议核心</b>或<b>次级核心</b>范围外。
+            <b>高爆榴弹塔</b>需要电力维持运转，1个<b>高爆榴弹塔</b>耗电功率值为20。
+            <line kind="5"></line>
+            <ul>
+                <li>
+                    <b>高爆榴弹塔</b>的<b>战斗性能</b>：
+                    <ul>
+                        <li>攻击力：<color value="f_blue">5585 </color><b><color value="f_orange">灼热伤害</color></b></li>
+                        <li>攻击间隔：<color value="f_blue">3</color>秒</li>
+                        <li>攻击范围：<color value="f_blue">12.5</color>米</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>高爆榴弹塔</b>需要长<b>2</b>格、宽<b>2</b>格的可用空地，且与其他战斗辅助设备间隔<b>≥3</b>格。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

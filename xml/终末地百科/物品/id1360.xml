@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1360</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283660"},"item":{"name":"沉积酸","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1776869753","lastAuditPassedAt":"1777100325","tagIds":["10001","10261","10320"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>沉积酸</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260419/4863030/69e47788cacb3db10e65e226_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10000">10001</subType>
+            <subType id="10253">10261</subType>
+            <subType id="10254">10320</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>沉积酸可溶解部分难以溶解的材料，在工业系统中有丰富的使用场景。</b>
+        <color value="s_3">天使残骸在异常的温度和压力条件下转化而成的腐蚀性液体。在天使形成时，构成它们的无机物会被锚点简单粗暴地"捏"在一起，这一过程使诸多本不可能发生的反应成为现实。在天使解体后后，这些异常无机物会产生进一步的变化，沉积酸由此而来。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>首墩等地采集。</b>
+            <ul>
+                <li>
+                    <b><color value="r_5">武陵-首墩</color></b>地区有沉积酸分布，<b><color value="r_5">心脏修缮站</color></b>的<b>次级核心</b>附近有一处可供无限抽取沉积酸的池子。
+                    <ul>
+                        <li>使用<b><color value="r_5">便携工具-扫描</color></b>可以标识附近沉积酸的位置及存有沉积酸的单位数量。</li>
+                        <li>建造<entry type="link-img" count="0" id="1170"></entry>以从这些区域获取<entry type="link-img" count="0" id="1360"></entry>。</li>
+                    </ul>
+                </li>
+                <li>当主控干员靠近存有沉积酸的位置时，<b><color value="r_5">便携工具</color></b>按钮处会出现特殊的标识提示（无论此时选中的是何种便携工具），此时切换至<b><color value="r_5">便携工具-盛装</color></b>即可使用背包中的空容器（如紫晶质瓶和蓝铁瓶等）盛装附近的沉积酸。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>作为液体盛装。</b>
+            <ul>
+                <li>沉积酸在工业合成以外的情况下不能被直接使用，需要使用<entry type="link-img" count="0" id="370"></entry>或其它<b>容器</b>盛装。</li>
+                <li>每个<b>容器</b>可以盛装<entry type="link-img" count="1" id="1360"></entry>。</li>
+                <li>当主控干员浸没在天然存在的沉积酸中且未触发落水判定时，每秒受到等同于最大生命值的2%且无视干员自身防御的伤害。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="工业合成">
+            <tab name="常规合成" icon="">
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="2">
+                            <align value="center"><entry type="card-big" count="0" id="746"></entry><entry type="card-big" count="0" id="1383"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="1360"></entry><entry type="card-big" count="1" id="1364"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="1365"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="1360"></entry><entry type="card-big" count="1" id="1225"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="1404"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="1384"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="4" id="1404"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="1360"></entry><entry type="card-big" count="1" id="1405"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+            <tab name="容器灌装与液体拆解" icon="">
+                <table header="row" widths="100,100,426,100,434">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="4" colspan="2">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="176"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="1360"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="551"></entry></align>
+                            <align value="center"><entry type="card-big" count="1" id="552"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">以上任意一种容器</align>
+                        </td>
+                        <td col="4" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="551"></entry><entry type="card-big" count="1" id="552"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">盛装<entry type="link-img" count="0" id="1360"></entry>的任意一种容器</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="745"></entry></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="551"></entry><entry type="card-big" count="1" id="552"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">盛装<entry type="link-img" count="0" id="1360"></entry>的任意一种容器</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1" id="1360"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="551"></entry></align>
+                            <align value="center"><entry type="card-big" count="1" id="552"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">以上任意一种容器</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1390</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283671"},"item":{"name":"环卫标兵·其一","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1776387710","lastAuditPassedAt":"1776482524","tagIds":["10275","10363"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>环卫标兵·其一</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260413/856392/69dc961dc161444d96e014e5_13673ac9.png</cover>
+        <subTypes>
+            <subType id="10270">10275</subType>
+            <subType id="10362">10363</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <table header="row" widths="290,290,290,290">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>所属活动</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>前置任务</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="link-img" count="0" id="1285"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="1105"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="link-img" count="0" id="1391"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="small" name="任务详情">
+            <line kind="5"></line>
+            <h3><b>地点</b></h3>
+            <ul>
+                <li><color value="r_5">武陵城</color></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>触发位置</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>相关人物</b></h3>
+            <ul>
+                <li><b><color value="f_brown">陈千语</color></b></li>
+                <li><pron>老|环卫|俞|职工</pron></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>任务道具</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>解锁内容</b></h3>
+            <quote>
+                <b>任务</b>
+            </quote>
+            <ul>
+                <li>
+                    <align value="center"><entry type="link-img" count="0" id="1391"></entry></align>
+                </li>
+            </ul>
+            <quote>
+                <b>功能</b>
+            </quote>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="任务进程">
+            <line kind="5"></line>
+            <h2><b>进程</b></h2>
+            <b>收到了陈千语的消息，查看并回复。</b>
+            <ul>
+                <li><i>查看</i><b><i><color value="f_brown">陈千语</color></i></b><i>发来的消息</i></li>
+            </ul>
+            （<b>BAKER/事务通讯</b>
+            <b>陈千语：</b>管理员，能不能帮我个忙？
+            <b>管理员：</b><i><u><color value="f_green">（可选）</color></u></i>什么忙？
+            <b>管理员：</b><i><u><color value="f_green">（可选）</color></u></i>怎么了？
+            <b>陈千语：</b>最近有一个武陵环卫体验日活动。体验者会和经验丰富的环卫职工一起体验武陵的日常清洁工作。
+            <b>陈千语：</b>我报名了今天的活动，但是临时有一个紧急任务！时间上来不及了......
+            <b>陈千语：</b>我也没有环卫职工的联系方式......
+            <b>陈千语：</b>如果不忙，能不能去现场问一问，帮我协商一下时间，改成下周就行！
+            <b>管理员：</b><i><u><color value="f_green">（可选）</color></u></i>没问题。
+            <b>管理员：</b><i><u><color value="f_green">（可选）</color></u></i>我会去的。
+            <b>陈千语：</b>谢啦！回头请你吃好吃的！
+            <b>陈千语：</b>哦对了，这是活动地点，差点忘了。
+            <b>陈千语：</b>发你啦！）
+            <line kind="1"></line>
+            <b>根据陈千语提供的定位信息，前往武陵居民区。</b>
+            <ul>
+                <li><i>前往武陵城</i><b><i><color value="f_brown">居民区</color></i></b></li>
+                <li><i>与</i><b><i><color value="f_brown">环卫职工</color></i></b><i>交谈</i></li>
+            </ul>
+            <line kind="1"></line>
+            <b>使用射流无人机，清理污渍。</b>
+            <ul>
+                <li><i>尝试</i><b><i><color value="f_brown">清理</color></i></b><i>污渍</i></li>
+                <li><i>与环卫职工</i><b><i><color value="f_brown">老俞</color></i></b><i>交谈</i></li>
+                <li><i><color value="f_brown">清理</color></i><i>居民区中剩下的污渍</i></li>
+                <li><i><u><color value="f_green">（可选）</color></u></i><i>与</i><b><i><color value="f_brown">严肃的武陵人</color></i></b><i>交谈</i></li>
+                <li><i><u><color value="f_green">（可选）</color></u></i><i>与</i><b><i><color value="f_brown">委屈的儿童</color></i></b><i>交谈</i></li>
+                <li><i><u><color value="f_green">（可选）</color></u></i><i>与</i><b><i><color value="f_brown">焦急的武陵人</color></i></b><i>交谈</i></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="任务奖励">
+            <line kind="5"></line>
+            <align value="center"><entry type="card-big" count="1500" id="19"></entry></align>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

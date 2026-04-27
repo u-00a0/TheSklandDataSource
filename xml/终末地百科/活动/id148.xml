@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>148</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283080"},"item":{"name":"离群之狼","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1769867880","lastAuditPassedAt":"1772637066","tagIds":["10277","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>离群之狼</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260131/856392/697e05602687d7923e488ddb_13673ac9.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>叙事活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>697e057251a1ffd966c02929</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>84930</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260131/856392/697e057251a1ffd966c02929_65de0095.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>开放时间</b></align>
+                    </td>
+                    <td col="2">
+                        「零号委托」版本期间
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        ·完成主线任务「第一章-进程Ⅳ-四方会议」
+                        ·权限等阶≥39级
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        狼族氏群内部出现了叛徒，为了调查其中内幕，狼卫在四号谷底展开了行动。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="任务规则">
+            <line kind="5"></line>
+            <ul>
+                <li>完成支线任务「离群之狼」，可获得【<entry type="link-img" count="0" id="926"></entry>】【<entry type="link-img" count="0" id="212"></entry>】【<entry type="link-img" count="0" id="224"></entry>】等奖励。</li>
+                <li>活动页面下线后，若满足任务参与条件，仍可在【任务】中继续体验该支线任务并获得对应奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>请前往相关任务<entry type="link-img" count="0" id="1073"></entry>浏览。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

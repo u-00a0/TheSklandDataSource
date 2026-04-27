@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>732</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283375"},"item":{"name":"碾骨焰术师","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1767798085","lastAuditPassedAt":"1773317424","tagIds":["10232"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>碾骨焰术师</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/22/139426/e350c75b02c4c14c375acdfee4642f3c.png</cover>
+        <subTypes>
+            <subType id="10229">10232</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>碾骨焰术师</b>（Bonekrusher Pyromancer）是《明日方舟：终末地》中的一类<b><color value="r_3">进阶敌人</color></b>。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="进阶敌人" icon="">
+                <imgIntro>
+                    <name>碾骨焰术师</name>
+                    <type>裂地者</type>
+                    <imgUrl></imgUrl>
+                    <description>掌握源石技艺的裂地者武装人员。他们操纵塑能转换系源石技艺，在战场上播撒烈焰，是不折不扣的高威胁目标。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">B</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>拥有强大的远程攻击手段，能够造成<b><color value="f_red">灼热伤害</color></b>，但移动能力较差。</li>
+                    <li>会使地面喷出雾火造成<b><color value="f_red">灼热伤害</color></b>，注意躲避。</li>
+                    <li>被靠近时会瞬间移动到远处。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>枢纽区</li>
+                    <li>谷地通道</li>
+                    <li>源石研究园</li>
+                    <li>矿脉源区</li>
+                    <li>供能高地</li>
+                    <li>能量淤积点·源石研究园</li>
+                </ul>
+                <h3>|敌人掉落</h3>
+                <ul>
+                    <li><entry type="link-img" count="0" id="137"></entry></li>
+                </ul>
+            </tab>
+        </chapter>
+        <chapter size="small" name="碾骨焰术师(能量淤积点·源石研究园)">
+            <b><i>能量淤积点·源石研究园</i></b><i>中的碾骨焰术师。</i>
+            <h3>|敌人详情</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            掌握源石技艺的裂地者武装人员。他们操纵塑能转换系源石技艺，在战场上播撒烈焰，是不折不扣的高威胁目标。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            拥有强大的远程攻击手段，能够造成<b><color value="f_red">灼热伤害</color></b>，但移动能力较差。
+            会使地面喷出雾火造成<b><color value="f_red">灼热伤害</color></b>，注意躲避。
+        </chapter>
+        <chapter size="small" name="碾骨焰术师(预警终端)">
+            <i>“塔防模式”中的碾骨焰术师。</i>
+            <i>分布于部分据点的</i><b><i>区域防护作战</i></b><i>内：打开预警终端即可进行区域防护作战。</i>
+            <h3>|敌人详情</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            掌握源石技艺的裂地者武装人员。他们操纵塑能转换系源石技艺，在战场上播撒烈焰，是不折不扣的高威胁目标。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            碾骨焰术师受到攻击时，会延路径向前传送一段距离。
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>208</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283108"},"item":{"name":"据点防御建设","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1768151251","lastAuditPassedAt":"1769957390","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>据点防御建设</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/11/402818/f5f829771f8f76c4aed52baf2a10d22f.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">谷地通道</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="162"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>丹尼尔似乎心事重重。管理员一行决定和他聊聊，确认是否仍有问题困扰着他。</b>
+                        <i>·与</i><b><i>丹尼尔</i></b><i>交谈</i>
+                        <i>·击败</i><b><i>裂地者</i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>管理员一行人顺利击败了入侵者。与丹尼尔交谈，商议今后的相关对策吧。</b>
+                        <i>·与</i><b><i>丹尼尔</i></b><i>交谈</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>难民暂居处需要更完善的预警与防御体系，帮助难民抵御潜在的各路袭击。设置预警终端，完成一次“干员介入”区域防护。</b>
+                        <i>·设置</i><b><i>预警终端</i></b>
+                        <i>·与</i><b><i>丹尼尔</i></b><i>交谈</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>建设完成的区域防护系统需要在无人状态下处理防卫任务。再次启动预警终端，完成一次“自动防御”区域防护。</b>
+                        <i>·查看</i><b><i>预警终端</i></b>
+                        <i>·与</i><b><i>丹尼尔</i></b><i>交谈</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>完成此任务可以解锁玩法<b>区域防护作战</b></li>
+            </ul>
+            <line kind="3"></line>
+            <table header="none" widths="580,580">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="75" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="300" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

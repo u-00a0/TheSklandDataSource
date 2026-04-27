@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>925</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283473"},"item":{"name":"衍质源石","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1767790229","lastAuditPassedAt":"1771995897","tagIds":["10006","10324","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>衍质源石</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/07/203953/ce72f0ae043ecf15a3306f6da7accf1a.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10321">10324</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>极难获取的特殊源石，较为珍贵，用途多样。</b>
+        <color value="s_3">协议源石的衍生物，在极严苛的环境中才能够合成。沉默注视着塔卫二的帝江号因大地之上的苦难而哀恸——部分终末地干员如此相信，故会将衍质源石称作“协议泪滴”。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>冒险探索获取。</b>
+            <ul>
+                <li>部分<b><color value="r_5">任务</color></b>的完成奖励。</li>
+                <li>收集地图各处的<b><color value="r_5">醚质</color></b>提交至<b><color value="r_5">协议传送点</color></b>达到一定数量后的奖励。</li>
+                <li>初次完成<b><color value="r_5">次级能量淤积点</color></b>等中的战斗后获取。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>采购中心购买。</b>
+            <ul>
+                <li>
+                    <b><color value="r_5">采购中心-组合包</color></b>中以下组合包的内容中包含衍质地源石：
+                    <ul>
+                        <li>启程组合包<b><color value="r_5">宏愿兵装组合包</color></b>（￥6）包含<entry type="link-img" count="6" id="925"></entry>。</li>
+                        <li>购买<b><color value="r_5">月卡</color></b>（￥30）或使用<entry type="link-img" count="0" id="1052"></entry>后可以立刻获得<entry type="link-img" count="12" id="925"></entry>。</li>
+                    </ul>
+                </li>
+                <li><b><color value="r_5">采购中心-源石交易所</color></b>中可以大量购买衍质源石：</li>
+            </ul>
+            <table header="col" widths="165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>购买内容</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center"><b>开采衍质源石</b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><b>开采一组衍质源石</b></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><b>开采一堆衍质源石</b></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><b>开采一袋衍质源石</b></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b>开采一盒衍质源石</b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center"><b>开采一箱衍质源石</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>出售价格</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">￥6</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">￥30</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">￥98</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">￥128</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">￥328</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">￥648</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>衍质源石数量</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">12</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">42</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">85</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">141</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">280</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>特殊</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">仅限购买一次</align>
+                    </td>
+                    <td col="3" colspan="5">
+                        <align value="center">首次购买时获取衍质源石数量<b>翻倍</b></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="5"></line>
+            <b>协议通行证奖励。</b>
+            <ul>
+                <li>购买<entry type="link-img" count="0" id="898"></entry>后提升<b><color value="r_5">协议通行证</color></b>等级可以获得最多<entry type="link-img" count="32" id="925"></entry>。</li>
+                <li>购买<entry type="link-img" count="0" id="897"></entry>后可以立刻获得<entry type="link-img" count="20" id="925"></entry>，提升<b><color value="r_5">协议通行证</color></b>等级还可以获得最多<entry type="link-img" count="16" id="925"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>用于兑换其它物品。</b>
+            <ul>
+                <li>消耗<entry type="link-img" count="1" id="925"></entry>可以兑换<entry type="link-img" count="75" id="926"></entry>。</li>
+                <li>消耗<entry type="link-img" count="1" id="925"></entry>可以兑换<entry type="link-img" count="40" id="17"></entry>。</li>
+                <li>消耗<entry type="link-img" count="29" id="925"></entry>可以购买当期通行证的<entry type="link-img" count="0" id="898"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>393</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283199"},"item":{"name":"卡莉的谷地童话","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1770441136","lastAuditPassedAt":"1776052942","tagIds":["10277","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>卡莉的谷地童话</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260205/856392/698372ed94e337a3813bb997_db193eac.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>拍照活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69836f98fb917c18a2f944ec</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>85380</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260205/856392/69836f98fb917c18a2f944ec_65de0095.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>开放时间</b></align>
+                    </td>
+                    <td col="2">
+                        2026/02/07 12:00 - 2026/02/24 04:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅱ - 开拓前路」
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        工人之家的卡莉想要画一本能让大家开心的故事书，希望管理员可以帮助她一起完成这本故事书。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="任务规则">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，管理员可以前往四号谷地的各个指定地点开启拍照任务。</li>
+                <li>根据拍摄目标，调整小队中上场的干员与队形，将拍摄目标收入画面中，完成拍照任务。</li>
+                <li>活动共有7个拍照任务，活动开启时，将会开放前2个拍照任务。从第三日起，每日04:00（服务器时间）将会开放1个新的拍照任务。</li>
+                <li>如果拍照任务所在的地区尚未解锁，请管理员继续推进主线任务以解锁相应地区。</li>
+                <li>活动开放期间，完成拍照任务，累计可获得【头像框·卡莉的童话集】【<entry type="link-img" count="0" id="926"></entry>】【<entry type="link-img" count="0" id="216"></entry>】等活动奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="任务阶段">
+            <tab name="出逃到水泥丛林的公主！" icon="">
+                <table header="row" widths="290,290,290,290">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center"><b>出逃到水泥丛林的公主！</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><b>地点</b></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><b>描述</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><color value="r_5">枢纽区</color></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center">根据卡莉的故事，前往枢纽区的工人之家拍摄照片。</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>任务要求</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">·画面中出现卡莉</align>
+                            <align value="center">·至少有1名干员的所属阵营为终末地工业</align>
+                            <align value="center">·至少有3名干员在画面中</align>
+                            <align value="center">·合影站位类型为横列</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>6986c73aae75257dd2319690</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>98900</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260207/856392/6986c73aae75257dd2319690_004865de.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>水泥丛林中，出逃到这里的公主和天空城堡的骑士相遇。“外面来了一个坏术师，她和她的手下正在破坏我们的山谷！天空骑士这么说道，“山谷的勇士们需要帮助！”</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>6986c749e088e2131732a8d5</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>122662</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260207/856392/6986c749e088e2131732a8d5_ef3391c4.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>水泥丛林中，出逃到这里的公主和天空城堡的骑士相遇。“外面来了一个坏术师，她和她的手下正在破坏我们的山谷！天空骑士这么说道，“山谷的勇士们需要帮助！”</i></align>
+                            <align value="center"><i>兴奋的公主加入天空骑士打败坏术师的队伍，冒险就此开始！</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>奖励</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="2" id="216"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="30" id="212"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="最高的塔！" icon="">
+                <table header="row" widths="290,290,290,290">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center"><b>最高的塔！</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><b>地点</b></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><b>描述</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><color value="r_5">枢纽区</color></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center">根据卡莉的故事，前往枢纽区的枢纽基地电站拍摄照片。</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>任务要求</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">·画面中出现协议共振塔与宿营地</align>
+                            <align value="center">·至少有1名干员的职业为术师</align>
+                            <align value="center">·至少有3名干员在画面中</align>
+                            <align value="center">·合影站位类型为方阵</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>6986c75abb0b60ca653d075a</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>168638</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260207/856392/6986c75abb0b60ca653d075a_004865de.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>“公主不见啦，难道是坏术师又回来报仇了？”好术师带着几个勇士来到最高的塔下，“这是山谷里最高的塔，一定能看到坏术师在哪里！”勇士们就此开始寻找卡莉公主！</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>6986c7681acbba54e4b0dc1d</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>174822</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260207/856392/6986c7681acbba54e4b0dc1d_ef3391c4.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>“公主不见啦，难道是坏术师又回来报仇了？”好术师带着几个勇士来到最高的塔下，“这是山谷里最高的塔，一定能看到坏术师在哪里！”勇士们就此开始寻找卡莉公主！</i></align>
+                            <align value="center"><i>塔真高啊，星星都被接到了塔上！</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>奖励</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="25" id="222"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="40" id="223"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="被坏术师袭击过的城堡！" icon="">
+                <table header="row" widths="290,290,290,290">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center"><b>被坏术师袭击过的城堡！</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><b>地点</b></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><b>描述</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><color value="r_5">谷地通道</color></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center">根据卡莉的故事，前往谷地通道的谷地要塞拍摄照片。</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>任务要求</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">·画面中出现谷地要塞的4座巢雕</align>
+                            <align value="center">·至少有1名干员的种族为鲁珀</align>
+                            <align value="center">·至少有3名干员在画面中</align>
+                            <align value="center">·合影站位类型为多面向</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>69892c2ae6807215b8fb9b0a</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>123142</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260209/856392/69892c2ae6807215b8fb9b0a_65de0095.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>坏术师和她的手下曾经攻击了这里的城堡，但她最厉害的手下也曾在这里被天空骑士击败！暴怒的坏术师只能堵住大桥，灰溜溜地跑了！现在，鲁珀勇士正向那几个头上冒火的怪物冲去！</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>69892c32c12a131fc1b7357b</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>139280</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260209/856392/69892c32c12a131fc1b7357b_004865de.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>坏术师和她的手下曾经攻击了这里的城堡，但她最厉害的手下也曾在这里被天空骑士击败！暴怒的坏术师只能堵住大桥，灰溜溜地跑了！现在，鲁珀勇士正向那几个头上冒火的怪物冲去！</i></align>
+                            <align value="center"><i>公主最喜欢的茶杯被打碎了，太坏了！</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>奖励</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="12" id="210"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="2" id="216"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="巨大机器人！" icon="">
+                <table header="row" widths="290,290,290,290">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center"><b>巨大机器人！</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><b>地点</b></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><b>描述</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><color value="r_5">阿伯莉采石场</color></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center">根据卡莉的故事，前往阿伯莉采石场的吊运中枢拍摄照片。</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>任务要求</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">·画面中出现起重机与积木城堡</align>
+                            <align value="center">·至少有1名干员使用单手剑</align>
+                            <align value="center">·至少有3名干员在画面中</align>
+                            <align value="center">·合影站位类型为三角</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698b1df891174de417c9ed94</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>123938</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260210/856392/698b1df891174de417c9ed94_91c496d2.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>巨大的长臂机器人坐在石头上。大家喜欢在它的脚边玩要，公主也很喜欢！机器人看着举着长剑的勇士说道：“我要搬去别的地方，帮不了你们，再见勇士们。”</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698b1e08c6df83a5f0f1cfce</id>
+                                <format>webp</format>
+                                <width>1430</width>
+                                <height>785</height>
+                                <size>123158</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260210/856392/698b1e08c6df83a5f0f1cfce_91c496d2.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>巨大的长臂机器人坐在石头上。大家喜欢在它的脚边玩要，公主也很喜欢！机器人看着举着长剑的勇士说道：“我要搬去别的地方，帮不了你们，再见勇士们。”</i></align>
+                            <align value="center"><i>公主也曾来过这里！</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>奖励</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="20" id="214"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="15" id="215"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="是龙！" icon="">
+                <table header="row" widths="290,290,290,290">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center"><b>是龙！</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><b>地点</b></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><b>描述</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><color value="r_5">源石研究园</color></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center">根据卡莉的故事，前往源石研究园的崖边山道拍摄照片。</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>任务要求</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">·画面中出现崖边山道的瀑布</align>
+                            <align value="center">·至少有1名干员的种族为龙</align>
+                            <align value="center">·至少有3名干员在画面中</align>
+                            <align value="center">·合影站位类型为多面向</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698b90af4da9605d665ecfe2</id>
+                                <format>webp</format>
+                                <width>1130</width>
+                                <height>630</height>
+                                <size>131756</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260211/856392/698b90af4da9605d665ecfe2_91c496d2.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>穿过洞穴外挂着的蓝色长布，勇士们遇到了很少见的龙！“喂喂喂，我不是坏术师，我是来帮你们带回公主的！”</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698b90f82468ffc1c1e291e1</id>
+                                <format>webp</format>
+                                <width>1130</width>
+                                <height>630</height>
+                                <size>136284</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260211/856392/698b90f82468ffc1c1e291e1_65de0095.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>穿过洞穴外挂着的蓝色长布，勇士们遇到了很少见的龙！“喂喂喂，我不是坏术师，我是来帮你们带回公主的！”</i></align>
+                            <align value="center"><i>龙兴冲冲地加入了队伍。</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>奖励</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="2" id="216"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="30" id="224"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="石头大树的树苗！" icon="">
+                <table header="row" widths="290,290,290,290">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center"><b>石头大树的树苗！</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><b>地点</b></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><b>描述</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><color value="r_5">矿脉源区</color></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center">根据卡莉的故事，前往矿脉源区的世代摇篮拍摄照片。</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>任务要求</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">·画面中出现源石大树树苗</align>
+                            <align value="center">·至少有1名干员使用手统</align>
+                            <align value="center">·至少有3名干员在画面中</align>
+                            <align value="center">·合影站位类型为方阵</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698ce06a223662a892affe09</id>
+                                <format>webp</format>
+                                <width>1130</width>
+                                <height>631</height>
+                                <size>101812</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260212/856392/698ce06a223662a892affe09_e71aef33.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>“石头树苗！”手里拿着双统的勇士激动地说道，“天空骑士曾经在这里和一个怪物战斗。打败怪物后，救出了石头大树的幼苗！”</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698ce071754fea398aa609da</id>
+                                <format>webp</format>
+                                <width>1130</width>
+                                <height>630</height>
+                                <size>134744</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260212/856392/698ce071754fea398aa609da_004865de.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>“石头树苗！”手里拿着双统的勇士激动地说道，“天空骑士曾经在这里和一个怪物战斗。打败怪物后，救出了石头大树的幼苗！”</i></align>
+                            <align value="center"><i>原来怪物一直关着石头大树的树苗。</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>奖励</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="200" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="20000" id="19"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="15" id="228"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="坏术师的城堡！" icon="">
+                <table header="row" widths="290,290,290,290">
+                    <tr>
+                        <th col="1" colspan="4">
+                            <align value="center"><b>坏术师的城堡！</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><b>地点</b></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><b>描述</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><color value="r_5">供能高地</color></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center">根据卡莉的故事，前往供能高地的超域试验场拍摄照片。</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>任务要求</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center">·画面中出现超域试验场大门与2处检修灯</align>
+                            <align value="center">·至少有1名干员为电磁属性</align>
+                            <align value="center">·至少有3名干员在画面中</align>
+                            <align value="center">·合影站位类型为横列</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698e32c4249b73d6a939e542</id>
+                                <format>webp</format>
+                                <width>1130</width>
+                                <height>630</height>
+                                <size>123998</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260213/856392/698e32c4249b73d6a939e542_0095c241.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>“看，那就是天空骑士打败坏术师的地方！”手上冒出电火花的勇士指着那扇两边飘着火焰的城堡大门。没有看见笼罩城堡的黑云，也没有坏术师和她的手下。</i></align>
+                            <align value="center"><i>但勇士们相信，公主就在里面呢！</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <img>
+                                <id>698e32cfb32aacba0e723f49</id>
+                                <format>webp</format>
+                                <width>1130</width>
+                                <height>630</height>
+                                <size>128734</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260213/856392/698e32cfb32aacba0e723f49_0095c241.webp</url>
+                                <description></description>
+                            </img>
+                            <align value="center"><i>“看，那就是天空骑士打败坏术师的地方！”手上冒出电火花的勇士指着那扇两边飘着火焰的城堡大门。没有看见笼罩城堡的黑云，也没有坏术师和她的手下。</i></align>
+                            <align value="center"><i>但勇士们相信，公主就在里面呢！</i></align>
+                            <align value="center"><i>“我要走了。” “还回来吗？” “大家需要，天空骑士就会回来。”</i></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="4">
+                            <align value="center"><b>奖励</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="1321"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="300" id="926"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry></align>
+                        </td>
+                        <td col="4"></td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

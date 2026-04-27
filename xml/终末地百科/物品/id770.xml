@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>770</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283394"},"item":{"name":"清炖息壤球","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"createdUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"status":2,"publishedAtTs":"1767442718","lastAuditPassedAt":"1770976617","tagIds":["10004","10257","10317"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>清炖息壤球</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/24/203953/7466a62e2d2af56df27547a6706e5916.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10253">10257</subType>
+            <subType id="10254">10317</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>使用后可以提升干员战斗效果的消耗品。</b>
+        <color value="s_3">被染成息壤色的肉丸。虽然它几可乱真的外观会让人在下箸前犹豫许久，但是它的松软鲜香总能征服食客。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>完成简制手册内容获取配方。</b>
+            <ul>
+                <li>累计获得<entry type="link-img" count="1" id="142"></entry>后可以在简制手册中领取清炖息壤球的配方。获取配方后即可通过<b>简易制作</b>合成清炖息壤球。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>特定NPC商店中购买。</b>
+            <ul>
+                <li><b><color value="r_5">武陵城-方兴衢</color></b> 菊妹<i>（“饭筒”新潮餐饮店）</i> 处购买，每份售价<entry type="link-img" count="200" id="382"></entry>，存量 <b>1</b> 份。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>干员直接使用时：</b>
+            <ul>
+                <li>使用后，增加<color value="f_blueness">22%</color>暴击率，持续<color value="f_blueness">300</color>秒。</li>
+                <li>不可作为<b>战术物品</b>为干员装备。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>用于仓储节点货物装箱。</b>
+            <ul>
+                <li>每装箱<entry type="link-img" count="1" id="770"></entry>需要300点货箱容量。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="简易制作">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>制作类型</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>原料需求</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>制作产物</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">精制食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="142"></entry><entry type="card-big" count="1" id="138"></entry><entry type="card-big" count="1" id="581"></entry> </align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="770"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

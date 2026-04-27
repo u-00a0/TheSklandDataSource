@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>353</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283179"},"item":{"name":"重刺天使","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1767797644","lastAuditPassedAt":"1775064990","tagIds":["10231"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>重刺天使</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/139426/dfdcffec24ccf248f62857840be86173.png</cover>
+        <subTypes>
+            <subType id="10229">10231</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>重刺天使</b>（Heavy Sting）是《明日方舟：终末地》中的一类<b><color value="r_3">进阶敌人</color></b>。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="进阶敌人" icon="">
+                <imgIntro>
+                    <name>重刺天使</name>
+                    <type>天使</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png</imgUrl>
+                    <description>“华丽肯托隆|Varykentron”（归档编号：ARL141），ARL121的非模式种。有时会放弃能量攻击，直接用尾巴近战。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">C</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>会在干员脚下伸出源石柱进行攻击。</li>
+                    <li>当它被靠近时，会在自身周围召唤石柱保护自己。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>阿伯莉采石场</li>
+                    <li>矿脉源区</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人掉落</h3>
+                <ul>
+                    <li><entry type="link-img" count="0" id="35"></entry></li>
+                </ul>
+            </tab>
+        </chapter>
+        <chapter size="small" name="重刺天使(预警终端)">
+            <i>“塔防模式”中的重刺天使。</i>
+            <i>分布于部分据点的</i><b><i>区域防护作战</i></b><i>内：打开预警终端即可进行区域防护作战。</i>
+            <h3>|敌人详情</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            “<b>华丽肯托隆</b>”（归档编号：ARL141），ARL121的非模式种。有时会放弃能量攻击，直接用尾巴近战。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            会在干员脚下伸出源石柱进行攻击。
+            当它被靠近时，会在自身周围召唤石柱保护自己。
+        </chapter>
+        <chapter size="small" name="重刺天使(矢影环伺·普通)">
+            <entry type="link-img" count="0" id="394"></entry>
+            <i>登场于</i><b><i>「无机造物」矢影环伺</i></b><i>的重刺天使。</i>
+            <h3><b>|</b>敌方情报</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            “<b>华丽肯托隆</b>”（归档编号：ARL141），ARL121的非模式种。有时会放弃能量攻击，直接用尾巴近战。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            能力获得强化。
+            生命值低于60%时，能力获得额外强化。
+        </chapter>
+        <chapter size="small" name="重刺天使(矢影环伺·苦难)">
+            <entry type="link-img" count="0" id="394"></entry>
+            <i>登场于</i><b><i>「无机造物」矢影环伺·苦难</i></b><i>的重刺天使。</i>
+            <h3><b>|</b>敌方情报</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            “<b>华丽肯托隆</b>”（归档编号：ARL141），ARL121的非模式种。有时会放弃能量攻击，直接用尾巴近战。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            能力获得强化。失衡状态的持续时间减少、更难被打断、攻击范围大幅提高。
+            生命值低于60%时，能力获得额外强化，并且每隔一段时间会免疫所有伤害，击杀全部钉刺天使α后解除免疫效果。
+        </chapter>
+    </chapters>
+</sklandDocument>

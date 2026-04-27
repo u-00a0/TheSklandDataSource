@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>14</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283012"},"item":{"name":"行动资历","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"6208993443188","nickname":"肉丝饼","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/ef50268d0610aeb22738a0d448ee5d50.png"},"status":2,"publishedAtTs":"1765465417","lastAuditPassedAt":"1773291159","tagIds":["10005","10259"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>行动资历</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/07/3048259/4b90efef04a07037245f1dbc0e8fe6a5.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10253">10259</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>用于提升管理员的权限等阶。</b>
+        <color value="s_3">在探索旅程中能够获得的经验。管理员，塔卫二广袤的大地仍在等待着您，一如既往。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>多种方式获得。</b>
+            <ul>
+                <li>作为<b><color value="r_5">行动手册</color></b>、<b><color value="r_5">任务</color></b>等的报酬。</li>
+                <li>探索地图时开启<b><color value="r_5">宝箱</color></b>等时获取。</li>
+                <li>激活新的<b><color value="r_5">协议传送点</color></b>时获取。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="权限等阶奖励">
+            <tab name="概述" icon="">
+                <line kind="5"></line>
+                获得<entry type="link-img" count="0" id="14"></entry>可以提升管理员的<b><color value="r_5">权限等阶</color></b>（目前最高可提升至<b>60</b>）。
+                <ul>
+                    <li><b><color value="r_5">权限等阶</color></b>提高时，可以获得<entry type="link-img" count="0" id="926"></entry><entry type="link-img" count="0" id="479"></entry><entry type="link-img" count="0" id="375"></entry>和<b><color value="r_5">装备制造模板</color></b>、<b><color value="r_5">名片主题</color></b>等奖励。</li>
+                </ul>
+
+                <b>关于各个权限等阶的相关奖励，可以通过该栏的分页查看。</b>
+                <line kind="2"></line>
+            </tab>
+            <tab name="1-10" icon="">
+                <table header="both" widths="105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                    <tr>
+                        <th col="1" rowspan="2">
+                            <align value="center"><b>奖励类别</b></align>
+                        </th>
+                        <th col="2" colspan="10">
+                            <align value="center"><b>权限等阶</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <align value="center"><b><color value="r_3">1</color></b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><b><color value="r_3">2</color></b></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><b><color value="r_3">3</color></b></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><b><color value="r_3">4</color></b></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><b><color value="r_3">5</color></b></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><b><color value="r_3">6</color></b></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><b><color value="r_3">7</color></b></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><b><color value="r_3">8</color></b></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><b><color value="r_3">9</color></b></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><b><color value="r_4">10</color></b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>嵌晶玉</b></align>
+                        </th>
+                        <td col="2" rowspan="3">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>制造模板</b></align>
+                        </th>
+                        <td col="3">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="0" id="484"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="0" id="485"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="0" id="414"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="0" id="418"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="0" id="706"></entry><entry type="card-big" count="0" id="705"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="0" id="633"></entry><entry type="card-big" count="0" id="635"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>其它奖励</b></align>
+                        </th>
+                        <td col="3">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">-</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>理智上限</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="125" id="17"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="130" id="17"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="135" id="17"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="140" id="17"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="145" id="17"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="150" id="17"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="155" id="17"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="160" id="17"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="165" id="17"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="170" id="17"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="11-20" icon="">
+                <table header="both" widths="105.45454545454545,105,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                    <tr>
+                        <th col="1" rowspan="2">
+                            <align value="center"><b>奖励类别</b></align>
+                        </th>
+                        <th col="2" colspan="10">
+                            <align value="center"><b>权限等阶</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <align value="center"><b><color value="r_3">11</color></b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><b><color value="r_3">12</color></b></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><b><color value="r_3">13</color></b></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><b><color value="r_3">14</color></b></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><b><color value="r_4">15</color></b></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><b><color value="r_3">16</color></b></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><b><color value="r_3">17</color></b></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><b><color value="r_3">18</color></b></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><b><color value="r_3">19</color></b></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><b><color value="r_4">20</color></b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>嵌晶玉</b></align>
+                        </th>
+                        <td col="2"></td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="100" id="926"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>制造模板</b></align>
+                        </th>
+                        <td col="2"></td>
+                        <td col="3"></td>
+                        <td col="4"></td>
+                        <td col="5"></td>
+                        <td col="6"></td>
+                        <td col="7"></td>
+                        <td col="8"></td>
+                        <td col="9"></td>
+                        <td col="10"></td>
+                        <td col="11"></td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>其它奖励</b></align>
+                        </th>
+                        <td col="2"></td>
+                        <td col="3">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="200" id="375"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="200" id="375"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="200" id="375"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center">-</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">-</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>理智上限</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="175" id="17"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="180" id="17"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="185" id="17"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="190" id="17"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="195" id="17"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="200" id="17"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="205" id="17"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="210" id="17"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="215" id="17"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="220" id="17"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="21-30" icon="">
+                <line kind="2"></line>
+                <h1>后续内容待编辑补充</h1>
+                <line kind="2"></line>
+            </tab>
+            <tab name="31-40" icon="">
+                <line kind="2"></line>
+                <h1>后续内容待编辑补充</h1>
+                <line kind="2"></line>
+            </tab>
+            <tab name="41-50" icon="">
+                <align value="center"><entry type="card-big" count="1" id="983"></entry></align>
+                <line kind="2"></line>
+                <h1>后续内容待编辑补充</h1>
+                <line kind="2"></line>
+            </tab>
+            <tab name="51-60" icon="">
+                <line kind="2"></line>
+                <h1>后续内容待编辑补充</h1>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

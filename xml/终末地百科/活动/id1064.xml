@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1064</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283540"},"item":{"name":"燃尽记忆之灰","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1769866084","lastAuditPassedAt":"1773284325","tagIds":["10277","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>燃尽记忆之灰</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/23/856392/7983bf2cca3c79963701efc82fc6203d.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>叙事活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>6972fd96b938d9fa87f3f839</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>97524</size>
+                            <url>https://bbs.hycdn.cn/image/2026/01/23/856392/9d8340bcef517c4ed5080741522daf6a.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>开放时间</b></align>
+                    </td>
+                    <td col="2">
+                        「零号委托」版本期间
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅲ - 世代摇篮」
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        在发生了这么多事情之后，你需要回一趟帝江号，确认失去的记忆是否有所恢复。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="任务规则">
+            <line kind="5"></line>
+            <ul>
+                <li>完成支线任务「燃尽记忆之灰」，可获得【<entry type="link-img" count="0" id="926"></entry>】【<entry type="link-img" count="0" id="212"></entry>】【<entry type="link-img" count="0" id="224"></entry>】等奖励。</li>
+                <li>活动页面下线后，若满足任务参与条件，仍可在【任务】中继续体验该支线任务并获得对应奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>请前往相关任务<entry type="link-img" count="0" id="1072"></entry>浏览。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

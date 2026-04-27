@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>196</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283101"},"item":{"name":"工业爆炸物","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"1485727484109","nickname":"奕行","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/d64ed43a19b90af99d12cc509643ffe3.png"},"status":2,"publishedAtTs":"1765461794","lastAuditPassedAt":"1767875479","tagIds":["10003","10263","10317"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>工业爆炸物</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/21/203953/c314bda6635341b0a1da037261a0d6e1.png</cover>
+        <subTypes>
+            <subType id="10000">10003</subType>
+            <subType id="10253">10263</subType>
+            <subType id="10254">10317</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>组装出的爆炸物。</b>
+        <b>可直接使用进行攻击，爆炸时对周围所有敌人造成伤害。</b>
+        <color value="s_3">该物品爆炸风险较高，请谨慎携带及使用。</color>
+    </description>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>作为便携工具使用。</b>
+            <ul>
+                <li><b>未处于战斗状态中时</b>，可以通过选中功能<b><color value="r_5">便携工具-爆炸物</color></b>以使角色进入手持工业爆炸物的状态。</li>
+                <li>
+                    手持工业爆炸物时不能进行攻击，只能进行取消手持操作或将其投掷出；角色前方会出现投掷工业爆炸物的预计抛物线和爆炸的预计影响范围。
+                    <ul>
+                        <li>工业爆炸物与于地图各处<b><color value="r_5">源石材料桶</color></b>处制作的临时爆炸物性能完全相同。</li>
+                        <li>工业爆炸物被投掷出后，会在碰撞地面或地图障碍物时发生<b>爆炸</b>。爆炸不会伤害我方，会对敌人造成一次较高的伤害。</li>
+                    </ul>
+                </li>
+                <li>
+                    部分地图要素可以与工业爆炸物产生的爆炸发生交互：
+                    <ul>
+                        <li><b><color value="r_5">可爆破物</color></b>（地图中带有红色纹路的岩石和带有可爆破标记的障碍物箱子）和<b>可以被干员攻击破坏的木制框架状障碍物箱子</b>会被爆炸直接摧毁。</li>
+                        <li><b><color value="r_5">受击装置</color></b>会在被爆炸命中时改变。</li>
+                        <li><b><color value="r_5">动态侵蚀</color></b>的<b><color value="r_5">侵蚀核心</color></b>暴露时，仅需一次爆炸就可以破坏<b><color value="r_5">侵蚀核心</color></b>以清除此处<b><color value="r_5">动态侵蚀</color></b>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="5"></line>
+            <b>用于仓储节点货物装箱。</b>
+            <ul>
+                <li>每装箱<entry type="link-img" count="1" id="196"></entry>需要5点货箱容量。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="工业合成">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>合成设备</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>原料需求</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>合成产物</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="177"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="369"></entry><entry type="card-big" count="5" id="377"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="196"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

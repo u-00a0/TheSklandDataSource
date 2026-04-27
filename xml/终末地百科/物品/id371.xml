@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>371</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283188"},"item":{"name":"蓝铁瓶","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"6208993443188","nickname":"肉丝饼","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/ef50268d0610aeb22738a0d448ee5d50.png"},"status":2,"publishedAtTs":"1766383331","lastAuditPassedAt":"1774531524","tagIds":["10002","10260","10318"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>蓝铁瓶</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/21/3048259/d13b1b41e8dc531c1ec3510b28658fad.png</cover>
+        <subTypes>
+            <subType id="10000">10002</subType>
+            <subType id="10253">10260</subType>
+            <subType id="10254">10318</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>由蓝铁块加工后得来的金属瓶，可用于其他材料合成。</b>
+        <color value="s_3">市面上较为少见的铁瓶，即便与异铁极度近似的蓝铁具备较强的抗氧化性，但人们依旧喜爱使用钢制容器。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>冒险探索获取。</b>
+            <ul>
+                <li><b><color value="r_5">武陵</color></b>地图各处的<b><color value="r_5">物资储藏箱</color></b>（注意区别于“储藏箱”）开启时可以获得盛装有<entry type="link-img" count="0" id="381"></entry>或<entry type="link-img" count="0" id="892"></entry>的<b>蓝铁瓶</b>。</li>
+                <li>破坏地图各处的<b><color value="r_5">箱子</color></b>等途径可以获得一定数量的蓝铁瓶。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>用于便携工具-盛装。</b>
+            <ul>
+                <li><b>便携工具-盛装</b>中进行<b><color value="r_5">液体盛装</color></b>时，可以选中背包中的<b>瓶</b>作为容器，每个<b>蓝铁瓶</b>可以盛装 <b>1</b> 个单位的液体。</li>
+                <li><b>便携工具-盛装</b>中进行<b><color value="r_5">液体倾倒</color></b>时，可以选中背包中盛装有液体的<b>蓝铁瓶</b>进行清空，并返还空的<b>蓝铁瓶</b>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>用于仓储节点货物装箱。</b>
+            <ul>
+                <li>每装箱<entry type="link-img" count="1" id="371"></entry>需要2点货箱容量；如果是已盛装液体的<entry type="link-img" count="0" id="371"></entry>，则每份仅需要1点货箱容量。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="简易制作">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>制作类型</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>原料需求</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>制作产物</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">应急食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="10" id="379"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="511"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">应急食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="10" id="380"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="513"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">精制食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="2" id="26"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="536"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">精制食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="2" id="532"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="585"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">精制食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="10" id="508"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="568"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">精制食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="10" id="509"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="23"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">精制食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="5" id="588"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="596"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">精制食药</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="5" id="589"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="597"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+        </chapter>
+        <chapter size="large" name="工业合成">
+            <tab name="蓝铁瓶（空）" icon="">
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="172"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="2" id="194"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="371"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="176"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="10" id="379"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="511"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="176"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="10" id="371"></entry><entry type="card-big" count="10" id="380"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="513"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+            <tab name="蓝铁瓶（锦草溶液）" icon="">
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="177"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="10" id="373"></entry></align>
+                            <align value="center"><entry type="link-img" count="0" id="201"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="594"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+            <tab name="蓝铁瓶（芽针溶液）" icon="">
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="177"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="10" id="373"></entry></align>
+                            <align value="center"><entry type="link-img" count="0" id="769"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="593"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+            <tab name="液体拆解与灌装" icon="">
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="745"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="link-img" count="0" id="381"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="381"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="176"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="381"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="371"></entry><entry type="link-img" count="0" id="381"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b><color value="r_5">下列液体均可与蓝铁瓶进行上述加工</color></b></align>
+                            <line kind="1"></line>
+                            <align value="center"><entry type="card-big" count="0" id="381"></entry><entry type="card-big" count="0" id="201"></entry><entry type="card-big" count="0" id="769"></entry><entry type="card-big" count="0" id="892"></entry><entry type="card-big" count="0" id="1162"></entry><entry type="card-big" count="0" id="1163"></entry><entry type="card-big" count="0" id="1164"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

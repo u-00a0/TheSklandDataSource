@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1475</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283711"},"item":{"name":"第二章 - 进程Ⅵ - 终则有始","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1776824273","lastAuditPassedAt":"1776831016","tagIds":["10272","10365"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>第二章 - 进程Ⅵ - 终则有始</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260419/1840716/69e48233fb782837ee03f0ab_13673ac9.png</cover>
+        <subTypes>
+            <subType id="10270">10272</subType>
+            <subType id="10362">10365</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>千钧</b>的第三个任务
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <table header="row" widths="290,290,290,290">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>所属章节</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>前置任务</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">千钧</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="link-img" count="0" id="1474"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="link-img" count="0" id="1476"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="small" name="任务详情">
+            <line kind="5"></line>
+            <h3><b>地点</b></h3>
+            <ul>
+                <li><color value="r_5">武陵城</color></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>触发位置</b></h3>
+            <img>
+                <id>69e4827ffd2b852705f8c244</id>
+                <format>webp</format>
+                <width>1638</width>
+                <height>1026</height>
+                <size>128010</size>
+                <url>https://bbs.hycdn.cn/image/common/20260419/1840716/69e4827ffd2b852705f8c244_65de0095.webp</url>
+                <description>起始地点</description>
+            </img>
+            <img>
+                <id>69e4828ffb782837ee03f0ad</id>
+                <format>webp</format>
+                <width>1701</width>
+                <height>1075</height>
+                <size>87572</size>
+                <url>https://bbs.hycdn.cn/image/common/20260419/1840716/69e4828ffb782837ee03f0ad_96d20048.webp</url>
+                <description>结束地点</description>
+            </img>
+            <line kind="1"></line>
+            <h3><b>相关人物</b></h3>
+            <ul>
+                <li><b><color value="f_brown">庄方宜</color></b></li>
+                <li><b><color value="f_brown">葛一朴</color></b></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>任务道具</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>解锁内容</b></h3>
+            <quote>
+                <b>任务</b>
+            </quote>
+            <ul>
+                <li>
+                    <align value="center"><entry type="link-img" count="0" id="1476"></entry></align>
+                </li>
+            </ul>
+            <quote>
+                <b>功能</b>
+            </quote>
+            <ul>
+                <li><b>/</b></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="任务进程">
+            <line kind="5"></line>
+            <h2><b>进程</b></h2>
+            <b>选剑局的工作已经结束，管理员按照约定前往材料研究所寻找庄方宜。</b>
+            <ul>
+                <li><i>前往</i><b><i><color value="f_brown">材料研究所</color></i></b><i>，寻找庄方宜</i></li>
+            </ul>
+            <line kind="1"></line>
+            <b>庄方宜为管理员留下了一封信，打开来看看。</b>
+            <ul>
+                <li><i>查看庄方宜留下的</i><b><i><color value="f_brown">信</color></i></b></li>
+                <li><i>探望苏醒的</i><b><i><color value="f_brown">伤患</color></i></b></li>
+                <li><i>向</i><b><i><color value="f_brown">医生</color></i></b><i>询问伤患情况</i></li>
+                <li><i>安慰伤患的</i><b><i><color value="f_brown">家属</color></i></b></li>
+                <li><i>前往</i><b><i><color value="f_brown">选剑局</color></i></b><i>，寻找管理员</i></li>
+                <li><i>前往</i><b><i><color value="f_brown">息壤中心实验室</color></i></b></li>
+                <li><i>前往楼上，查看</i><b><i><color value="f_brown">文件</color></i></b></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="任务奖励">
+            <line kind="5"></line>
+            <align value="center">/</align>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

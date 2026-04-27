@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>751</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283384"},"item":{"name":"仓库存取线源桩","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4119159299717","nickname":"曾小皮","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/fd72b2740985507fe4aa02496c93ddd5.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1767098137","lastAuditPassedAt":"1774418314","tagIds":["10004","10312","10250"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>仓库存取线源桩</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/279234/9985af54b1e395db5ba3555c0198c1e0.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10244">10250</subType>
+            <subType id="10307">10312</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>作为仓库存取线的起始点，可以在集成核心区域自由放置。</b>
+        <color value="s_3">一些工程师偶尔会因息壤而产生自己都无法理解的疯狂念头。工业的终点是什么？像息壤这种“自由”的材料，是否有更进一步的可能？有朝一日，人类的工业技术是否能推进至“无形”的程度？他们如此想着，便会觉得自己走出的每一步都更为意义非凡。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在研究完成<b>武陵仓库存取线</b>后可获得1台仓库存取线源桩。</li>
+                <li>
+                    在<b>协议核心</b>或<b>次级核心</b>范围内，点击<b>工具箱-设备列表-制造设备</b>通过以下配方制造。
+                    <ul>
+                        <li><entry type="link-img" count="50" id="771"></entry><b> →</b><entry type="link-img" count="1" id="751"></entry></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>武陵工业-武陵工业一期</b>研究<b>武陵仓库存取线</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方法">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>仓库存取线源桩</b>是仓储存取类型的机器，可以作为仓库存取线的起始点。
+            <b>仓库存取线源桩</b>仅能放置在武陵地区的<b>协议核心</b>或<b>次级核心</b>范围内。
+            <b>仓库存取线源桩</b>不需要电力维持运转。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>仓库存取线源桩</b>需要长<b>4</b>格、宽<b>4</b>格的可用空地。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>104</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283059"},"item":{"name":"骁勇","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768149774","lastAuditPassedAt":"1773943716","tagIds":["10006","10228"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>骁勇</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/15/4898765/e6b4da88f47fbfda7ac46bcec90983f0.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10228</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地于员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-梅什科工业的中端线产品之·复古的巨箭型设计以及不俗的实战实用性，使其至今仍有市无价。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>骁勇</name>
+                    <type>长柄武器</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/3644013/44dacca9e1f01dd4929812e1a6c8087a.gif</imgUrl>
+                    <description>基础攻击力 50</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                <h3><b>敏捷</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">物理伤害提升·大 </color></b><b>1/3</b>
+                <h3><b>物理伤害</b><b><color value="f_blue">+5.6%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">巧技·美德盈利</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>攻击力<color value="f_blue">+10.0%</color>。</h3>
+                <h3>装备者造成<color value="f_sandstone">物理异常</color>后，额外造成自身攻击力<color value="f_blue">120.0%</color>的物理伤害。</h3>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>骁勇</name>
+                    <type>长柄武器</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/25/3644013/84dfc3176af9d5eaf399e968bfd0e01e.gif</imgUrl>
+                    <description>基础攻击力 495</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>9/9</b>
+                <h3><b>敏捷</b><b><color value="f_blue">+</color></b><b><color value="r_3">156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">物理伤害提升·大 </color></b><b>9/9</b>
+                <h3><b>物理伤害</b><b><color value="f_blue">+43.3%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">巧技·美德盈利</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>攻击力<color value="f_blue">+28.0%</color>。</h3>
+                <h3>装备者造成<color value="f_sandstone">物理异常</color>后，额外造成自身攻击力<color value="f_blue">336.0%</color>的物理伤害。</h3>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽取获得</li>
+                    <li><entry type="link-img" count="0" id="639"></entry>开启获得</li>
+                    <li><entry type="link-img" count="0" id="256"></entry>开启获得</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="敏捷提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="469"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="物理伤害提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+5.6%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+14.4%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+18.9%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+23.3%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+27.8%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+32.2%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+36.7%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>物理伤害</b>
+                            <b><color value="r_3">+43.3%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="469"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="巧技·美德盈利" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+10.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">120.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+12.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">144.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+14.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">168.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+16.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">192.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+18.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">216.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+20.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击大</b><b><color value="f_blue">240.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+22.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">264.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+24.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">288.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>攻击</b><b><color value="f_blue">+28.0%</color></b><b>。装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="f_blue">336.0%</color></b><b>的物理伤害。</b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="469"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,194,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 145</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 245</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/5</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>1/3</b>
+                            <b>物理伤害</b><b><color value="r_3">+5.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>1/4</b>
+                            <b>物理伤害</b><b><color value="r_3">+5.6%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 245</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 345</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>1/4</b>
+                            <b>物理伤害</b><b><color value="r_3">+5.6%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>2/6</b>
+                            <b>物理伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 345</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 445</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>2/6</b>
+                            <b>物理伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>2/7</b>
+                            <b>物理伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="219"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 445</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 495</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/9</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>2/7</b>
+                            <b>物理伤害</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">物理伤害提升·大 </color></b><b>3/9</b>
+                            <b>物理伤害</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">巧技·美德盈利 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者造成</b><b><color value="f_sandstone">物理异常</color></b><b>后，额外造成自身攻击力</b><b><color value="r_3">120%</color></b><b>的物理伤害。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            我当然承认“美德”具有价值，我甚至无比支持这一点！但，先生，价值是可量化的。
+            忠诚与勇气哪个更博人眼球?慷慨与怜悯哪个更令人青睐?我们从不需要一位公正的裁决人，我们有更靠谱的东西——市场！我的先生，想必以您的年纪，还对那些屏幕上跳动的数字与惊心动魄的折线图有印象吧?哦！您曾跟着祖父去过商业联⋯⋯?那太好了！多棒的童年回忆！那么，无需我多言，您该知道，所见的那些便是“美德”被量化过的结果：一份可交易的价值。
+            是的，是的，商业一定是独属于人类的智慧。哦，听我的，忘了那些对金融学尖酸刻薄的批判吧。我向来不在乎脚下的东西是球体，是三角，还是圆柱——只要在这之上生活的还是人类，对于我们来说就没有本质上的差别。在泰拉如此，在塔卫二亦是如此。我们从未离开我们自己，不是吗?我的意思是，您换一间屋子，难道还会换一颗脑子吗?
+            那些一门心思往前走的人把这儿描绘成一片险象环生的土地，但换而言之，这又何尝不是一片尚未被人涉足的土地！我必须声明，该项目的投资前景与发展潜质难以估量。推出“美德”系列装备只是这个战略布局中最小的一步⋯⋯而我，您听着，我绝不是唯一嗅到商机的人。
+            在这片土地人满为患之前，在“美德”尚可估价之时⋯⋯德里安先生，我保证，您今日在这张合约上落下的每一笔，都能在未来兑成取之不尽的财富。
+            对，对！就签在这儿⋯⋯瞧瞧，我就知道您是个投资眼光相当毒辣的人——哦，什么?好的，让他到贵宾室等一下。
+            ——那么，我便不留您了。
+        </chapter>
+    </chapters>
+</sklandDocument>

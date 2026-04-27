@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>63</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283036"},"item":{"name":"逐鳞3.0","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150193","lastAuditPassedAt":"1772011781","tagIds":["10005","10226"]},"brief":{"associate":{"id":"db139a2c484555ad2fd7195d6e26bdfe","name":"逐鳞3.0","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>逐鳞3.0</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/14/4898765/848ff520db2f682bf91e2ff1216c88cc.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10223">10226</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-北进重工支援所“户外探索”系列的旗舰产品。因其亲近自然的设计理念和便携的功能性，受到许多探险家与捕鳞爱好者的强烈推荐。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>逐鳞3.0</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/29/179550/80578fe3ff4f9169b141f7925412486c.gif</imgUrl>
+                    <description>基础攻击力 42</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·中 </color></b><b>1/3</b>
+                <h3><b>力量</b><b><color value="f_blue">+16</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">寒冷伤害提升·中 </color></b><b>1/3</b>
+                <h3><b>寒冷伤害</b><b><color value="f_blue">+4.4%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">压制·逐鳞意</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>攻击力<color value="f_blue">+5.0%</color>。</h3>
+                <h3>装备者通过战技施加<color value="f_turquoise">冻结</color>时，使目标敌人受到的寒冷伤害<color value="f_blue">+7.0%</color>，持续15秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>逐鳞3.0</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/29/179550/d866e19cd24a0cef81909ce7b33b6573.gif</imgUrl>
+                    <description>基础攻击力 411</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·中 </color></b><b>9/9</b>
+                <h3><b>力量</b><b><color value="f_blue">+124</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">寒冷伤害提升·中 </color></b><b>9/9</b>
+                <h3><b>寒冷伤害</b><b><color value="f_blue">+34.7%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">压制·逐鳞意</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>攻击力<color value="f_blue">+14.0%</color>。</h3>
+                <h3>装备者通过战技施加<color value="f_turquoise">冻结</color>时，使目标敌人受到的寒冷伤害<color value="f_blue">+19.6%</color>，持续15秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽取获得</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="力量提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="127,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+54</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+67</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+80</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+92</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+105</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+124</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="465"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="寒冷伤害提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+4.4%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+8.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+11.6%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+15.1%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+18.7%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+22.2%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+25.8%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+29.3%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>寒冷伤害</b>
+                            <b><color value="f_blue">+34.7%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="465"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="压制·逐鳞意" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+6.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+8.4%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+9.8%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+8.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+11.2%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+9.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+12.6%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+11.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+15.4%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+16.8%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+19.6%</color></b><b>，</b>
+                            <b>持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="465"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,194,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 120</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 203</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>1/3</b>
+                            <b>力量</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/5</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>1/3</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+4.4%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+4.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,191,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 203</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 286</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/5</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+4.4%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>2/6</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 286</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 369</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>2/6</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>2/7</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="221"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 369</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 411</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/9</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>2/7</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">寒冷伤害提升·中 </color></b><b>3/9</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+11.6%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">压制·逐鳞意 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>装备者通过战技施加</b><b><color value="f_turquoise">冻结</color></b><b>时，使目标敌人受到的寒冷伤害</b><b><color value="r_3">+7.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            库尔，老大我最后还是逮到了这条海王鳞。
+            你看看，它是否还像你记忆中的那样耀眼?
+            那时我们的罗萨号还在，海上没有我们捕不到的鳞，直到那个暴雨夜。
+            小贝塔在桅杆上第一眼就发现了它，和传说中的一模一样，通体金光的鳞竟然真的存在!
+            当时我在想，只要干上这一票，塔卫二的捕鳞史都将留下我们的名字!我一点没听你林克斯大哥的劝，笔直把船开进了那片风暴之中......
+            唉，实话跟你说吧，其实从那之后我就一直在后悔，我就是个不听劝的老混蛋。
+            都是因为这条鳞，罗萨号毁了，小贝塔坐上了轮椅，林克斯也再没找过我。
+            可是我不甘心，我史宾赛自诩捕鳞第一人，不能让海王鳞落入他人之手，更不能被当成茶余饭后的笑料。
+            我一闭上眼就是它身上的金光，我每天都和自己说，只要我要逮到它，便能拿回失去的一切。
+            只有你相信我.…...你怎么这么蠢，还相信我这个老混蛋?还去向环塔商会贷款给我买新的船?你就应该像其他人那样一走了之!不然你也不会搭上你那两年的大好青春，陪我追逐这虚无缥缈的金光，还在我们第二次差点追到它的那个暴雨夜，把你的命也搭上了......
+            那之后的事，你肯定不知道了吧?讽刺的是，最该死的我却活了下来......从此我再也没出过海。
+            直到上周，雷声将我从梦中惊醒。那熟悉的金光竟然在门缝外摇曳，我推开门一看，海王鳞它竟然在我家的鱼缸里!可它怎么能是海王鳞!它只是你嫂子随手在某个鳞店买的最普通的热带彩鳞而已!
+            我拜托从前工团的朋友给它做了个检测，原来它真的就是条普通的热带彩鳞，传说中的金光只不过是它身上一部分变异的脂肪......在雷光下产生了金色的折射……
+            所以说，库尔，老大我最后还是逮到了这条鳞。
+            只不过，原来它是饵，我才是鳞。
+        </chapter>
+    </chapters>
+</sklandDocument>

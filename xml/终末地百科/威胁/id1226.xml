@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1226</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283623"},"item":{"name":"开天将","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1774275498","lastAuditPassedAt":"1774200808","tagIds":["10233"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>开天将</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260312/139426/69b27f654298be0edf0430d4_db193eac.png</cover>
+        <subTypes>
+            <subType id="10229">10233</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>开天将</b>（Cloud Obliterator）是《明日方舟：终末地》中的一类<b><color value="r_4">精英敌人</color></b>。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="精英敌人" icon="">
+                <imgIntro>
+                    <name>开天将</name>
+                    <type>沧贼</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png</imgUrl>
+                    <description>装备了重型武器的非法武装人员。开天难成，一众背负四联装发射器的武装人员中，只有足够强者才能获得“开天”之名。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">C</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>会抡重炮进行近战攻击，也会发射烟花进行远程攻击。被牛角顶起的话，可能会看到巨大的烟花！</li>
+                    <li>从他的后面进攻的话，要小心他用蹄子踹你！</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>清波寨</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人掉落</h3>
+                <ul>
+                    <li><entry type="link-img" count="0" id="1222"></entry></li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

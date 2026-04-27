@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>19</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283015"},"item":{"name":"折金票","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1766384662","lastAuditPassedAt":"1771408997","tagIds":["10004","10257"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>折金票</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/21/203953/1e6904f6f5f0317c4de59998a60b6698.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10253">10257</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>广泛流通的货币，用途广泛。</b>
+        <color value="s_3">广泛流通的货币，防伪技术极为高超。能买到东西的钞票才是好钞票。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>冒险探索获取。</b>
+            <ul>
+                <li>开启地图各处的<b><color value="r_5">宝箱</color></b>、维修<b><color value="r_5">故障机器人</color></b>等途径可以获得一定数量的折金票。</li>
+                <li>各类活动完成后的奖励包含数量不等的折金票。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>协议空间·钱币收集完成战斗获取。</b>
+            <ul>
+                <li>协议空间中完成不同等级的战斗所获得的折金票数量如下表所示：</li>
+            </ul>
+            <table header="row" widths="580,580">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>协议空间·钱币收集</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>奖励包含折金票数量</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">锡币之祝</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">8500</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">铁币之祝</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">1.35 万</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">铜币之祝</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">1.95 万</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">银币之祝</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">2.75 万</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">金币之祝</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">3.4 万</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="5"></line>
+            <b>采购中心-配额交易所购买。</b>
+            <ul>
+                <li><b><color value="r_5">集成配额交易</color></b>可以花费<entry type="link-img" count="20" id="250"></entry>购买<entry type="link-img" count="12000" id="19"></entry>，存量<b>无限</b>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>采购中心-信用交易所购买。</b>
+            <ul>
+                <li>信用交易所中有可能刷新出<entry type="link-img" count="2000" id="19"></entry>，售价<entry type="link-img" count="140" id="16"></entry>，可能带有随机折扣。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>采购中心-组合包中购买特定组合包。</b>
+            <ul>
+                <li>
+                    以下组合包的内容中包含折金票：
+                    <ul>
+                        <li>启程组合包<b><color value="r_5">人事支援组合包</color></b>（￥98）包含<entry type="link-img" count="100000" id="19"></entry>。</li>
+                        <li>标准组合包<b><color value="r_5">每月资源组合包</color></b>（￥98）包含<entry type="link-img" count="100000" id="19"></entry>。</li>
+                        <li>标准组合包<b><color value="r_5">每周资源组合包</color></b>（￥30）包含<entry type="link-img" count="30000" id="19"></entry>。</li>
+                        <li>特许寻访期间的限时组合包，如<b><color value="r_5">行火寻访组合包</color></b>（￥98）包含<entry type="link-img" count="80000" id="19"></entry>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="5"></line>
+            <b>行动手册-日常奖励。</b>
+            <ul>
+                <li>当日活跃度达到 <b>80</b> 时，领取的奖励中包含<entry type="link-img" count="8000" id="19"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>地区建设获取。</b>
+            <ul>
+                <li>各地区<b><color value="r_5">物资调度-稳定需求物资</color></b>可以花费<b>1000</b>对应区域的调度券购买<entry type="link-img" count="2000" id="19"></entry>，地区建设等级提高时会补充一定存量可购买且带有价格折扣的<entry type="link-img" count="0" id="19"></entry>。</li>
+                <li>各地区<b><color value="r_5">地区建设等级</color></b>提高时，每个等级的里程碑奖励均包含<entry type="link-img" count="0" id="19"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>用于培养消耗。</b>
+            <ul>
+                <li>干员及武器等级提升、干员技能等级提升、干员天赋阵列解锁、武器突破等功能均需要消耗数量不等的<entry type="link-img" count="0" id="19"></entry>。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

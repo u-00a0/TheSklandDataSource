@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>340</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283173"},"item":{"name":"射线塔","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1767098496","lastAuditPassedAt":"1767629085","tagIds":["10004","10312","10245"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>射线塔</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/17/2696356/319452a30d858a140de33d5a73da2e75.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10244">10245</subType>
+            <subType id="10307">10312</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>攻击力：</b><b><color value="f_blue">22338</color></b>
+        <b>攻击间隔：</b><b><color value="f_blue">8</color></b><b>秒</b>
+        <b>攻击方式：消耗大量充能向目标发射射线，对敌人造成高额</b><b><color value="f_yellow">电磁伤害</color></b><b>。</b>
+        <color value="s_3">搭载了能源转化装置的实验型攻击设备，可以理解为是某种城防巨炮的小型变种，因其消耗能量过高，易发生应用风险而不太受市场欢迎。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在研究完成<b>单体攻击设备I</b>后可获得1台射线塔。</li>
+                <li>
+                    在<b>协议核心</b>或<b>次级核心</b>范围内，点击<b>工具箱-设备列表-制造设备</b>通过以下配方制造。
+                    <ul>
+                        <li><entry type="link-img" count="20" id="541"></entry><b>→</b><entry type="link-img" count="1" id="340"></entry></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>工业计划-基础工业三期</b>研究<b>单体攻击设备I</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方式">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>射线塔</b>是战斗辅助类型的机器，可以用于辅助攻击敌人。
+            <b>射线塔</b>可放置在<b>协议核心</b>或<b>次级核心</b>范围外。
+            <b>射线塔</b>需要电力维持运转，1个<b>射线塔</b>耗电功率值为20。
+            <line kind="5"></line>
+            <ul>
+                <li>
+                    <b>射线塔</b>的<b>战斗性能</b>：
+                    <ul>
+                        <li>攻击力：<color value="f_blue">22338 </color><color value="f_yellow">电磁伤害</color></li>
+                        <li>攻击间隔：<color value="f_blue">8</color>秒</li>
+                        <li>攻击范围：<color value="f_blue">12.5</color>米</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>射线塔</b>需要长<b>2</b>格、宽<b>2</b>格的可用空地，且与其他战斗辅助设备间隔<b>≥3</b>格。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>96</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283055"},"item":{"name":"破碎君王","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150397","lastAuditPassedAt":"1772717133","tagIds":["10006","10225"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>破碎君王</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/feaae1e0d1db1d53431c658fbafcd274.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10225</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-巫术时刻限量发行的特殊武器之一，似乎是依循着什么古老传说打造的外形，仿佛能捕捉梦境中的呻吟。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>破碎君王</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/24/3644013/0efc5b94032f05817f5aed208535beb2.gif</imgUrl>
+                    <description>基础攻击力 50</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5"> 力量提升·大 </color></b><b>1/3</b>
+                <h3><b>力量</b><b><color value="r_3">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">暴击率提升·大 </color></b><b>1/4</b>
+                <h3><b>暴击率</b><b><color value="f_blue">+2.5%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="f_yellow">粉碎·君王威慑 </color></b><b>1/4</b>
+                <h3>装备者对敌人造成重击时，获得攻击力<color value="r_3">+10.0%</color>，持续8秒。</h3>
+                <h3>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值<color value="r_3">+12.0%</color>。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>破碎君王</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/24/3644013/ec8804571d0c21d112f0ca4cfb038a75.gif</imgUrl>
+                    <description>基础攻击力 490</description>
+                </imgIntro>
+                <b><color value="r_5"> 力量提升·大 </color></b><b>9/9</b>
+                <h3><b>力量</b><b><color value="r_3">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">暴击率提升·大 </color></b><b>9/9</b>
+                <h3><b>暴击率</b><b><color value="f_blue">+19.5%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="f_yellow">粉碎·君王威慑 </color></b><b>9/9</b>
+                <h3>装备者对敌人造成重击时，获得攻击力<color value="r_3">+28.0%</color>，持续8秒。</h3>
+                <h3>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值<color value="r_3">+33.6%</color>。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li><entry type="link-img" count="0" id="638"></entry>开启获取</li>
+                    <li><entry type="link-img" count="0" id="256"></entry>开启获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name=" 力量提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="467"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="暴击率提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+6.5%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+8.5%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+10.5%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+12.5%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+14.5%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+16.5%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+19.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="467"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="粉碎·君王威慑" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+12.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+14.4%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+14.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+16.8%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+16.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+19.2%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+18.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+21.6%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+20.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+24.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+22.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+26.4%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+24.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+28.8%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+28.0%</color></b>
+                            <b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+33.6%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="467"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,195,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 144</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 243</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>1/3</b>
+                            <b>力量</b><b><color value="r_3"> +20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/5</b>
+                            <b>力量 </b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>1/3</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大</color></b><b> 1/4</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 243</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 342</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/5</b>
+                            <b>力量 </b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/6</b>
+                            <b>力量 </b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大</color></b><b> 1/4</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/6</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 342</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 411</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/6</b>
+                            <b>力量 </b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>3/8</b>
+                            <b>力量 </b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/6</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/7</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="220"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 441</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 490</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>3/8</b>
+                            <b>力量 </b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>3/9</b>
+                            <b>力量 </b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/7</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>3/9</b>
+                            <b>暴击率</b><b><color value="r_3">+6.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">粉碎·君王威慑 </color></b><b>1/4</b>
+                            <b>装备者对敌人造成重击时，获得攻击力</b><b><color value="r_3">+10.0%</color></b><b>，持续8秒。</b>
+                            <b>若装备者为主控干员，攻击力提升的数值翻倍，且重击对敌人造成的失衡值</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            我正被一名山丘般的萨卡兹战士单手拎起，走向塞什卡的某个角落。
+            周围的小孩兴奋地指着我们，和他们的父母激动地交流，或许是把我们误会成“诸王庭的游行”期间与各位“王庭之主”近距离互动的一环了。
+            想起父亲第一次带着我来到这座空中乐园的时候，我也是这般兴奋。
+            而现在，我似乎很快就要被眼前这个看不出悲喜的、沉默不语的战士处以极刑了。
+            “我、我不该逃票的！”
+            “……”
+            我是否会像那部记不起名字的老电影演的一样，被一位优雅的血魔提取出所有的血液，盛满他晚餐前的酒杯？
+            “我、我小时候来这里玩过，最喜欢的就是‘游侠大冒险’了！我只是想重温一下儿时的美好回忆！”
+            “……”
+            我是否会像小时候人手一本的《卡兹戴尔战记》漫画里提到的那样，被一人高的巨剑大卸八块，投入某座熔炉之中，成为燃料，化作滚烫的尘埃撒向空中？
+            “我、我不该趁着检票区人满为患时，从疲于应对孩子们的父母口袋中顺走那些金票！我错了！”
+            “……”
+            这不管用。难道说，我真正的企图早已被隐居在这座巫术迷城的某位独眼巨人所预见？那就全完了，为我的小命着想，我还是从实招来吧！
+            “我认罪，我认罪！我实在是没钱了！我确实怀有某种……犯罪企图，比如说，趁着塞什卡开放日结束的最后时刻，偷偷地从巫术时刻的品牌总店带走一把设计师本人签名的‘破碎君王’！但这只是我心中的邪念罢了！我才刚进塞什卡就被您逮着了！这一切仍未发生，我发誓！我保证！！”
+            “人我带到了，够聒噪的。”
+            砰的一声，我摔倒在一片漆黑之中。我小心翼翼地睁开双眼，发现自己落在一张精致、柔软的沙发上，而非预想中的地牢砖面。
+            “欢迎您的归来，勇敢的游侠。”
+            一位西装革履，佩戴游行假面的萨卡兹坐在我面前的古朴石桌后，念出了我儿时曾通关无数遍的“游侠大冒险”的经典台词。
+
+            “来自艾什柏环岛的马克西姆先生，距离您上一次光临塞什卡已经十六年了。但，属于您的奖品，我们一直为您留着。”
+            不对，“游侠大冒险”的主持人不是会穿上复古的礼服，扮演神秘的巫术预言者吗？还没等我想明白，那些不愿触及的回忆就一口气涌了上来。
+            上一次通关“游侠大冒险”的时候，我终于可以换取最终的“魔王大奖”——一把巧夺天工的玩具佩剑，它曾让儿时的我魂牵梦绕。然而，开放日结束的钟声响起，我错过了那天最后的兑换时机。父亲安慰我，等到下次塞什卡飞回来的时候，再来一次就好。
+            我没等到塞什卡重新降临菈梵朵玛的日子，等到的是父亲告诉我，我们如今一贫如洗，要搬去艾什柏环岛“避避风头”。再之后，我当然没能成为什么无畏的游侠，陪伴着我的只剩下扒窃、走私和诈骗……直到我今天为了赚笔大的，故地重游。
+            萨卡兹将石桌上的帷布掀开，里面并不是什么按下按钮就会发光的玩具佩剑，而是那把“破碎君王”！一把真正的，由巫术工匠精心打造的利刃！不仅如此，她还当着我的面凭空变出一支笔，签上了名。
+            “您……您确定，我十六年前落下的奖品……就是这把贵重的武器吗？”
+            “是的，一柄属于游侠的武器，正如预言揭示。”
+            “预言……我能斗胆请求您再揭示一个预言吗？”
+            “我愿聆听。”
+            “我的生活……会变好吗？”
+            萨卡兹看着我，她说了些什么，但我的耳中只有时隔十六年后再次响起的，宣告开放日结束的钟声。当我回过神时，双脚已经重新踏上了坚实的地面。人群簇拥着我，他们——孩子们，大人们，许多种族的人们——正抬起头，对放着烟花的塞什卡挥手告别。我像个孩子一样攥紧了手中的剑，我多希望钟声晚一点再响起，我多希望这把剑只要按下一个按钮就会发光。
+            不，我已经得到了我想要的东西，而我也知道接下来该怎么做。
+            游侠的冒险要开始了。
+        </chapter>
+    </chapters>
+</sklandDocument>

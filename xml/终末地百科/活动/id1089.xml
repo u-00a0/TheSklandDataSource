@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1089</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283552"},"item":{"name":"灵动信使签到","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1770447137","lastAuditPassedAt":"1772637935","tagIds":["10277","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>灵动信使签到</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260207/856392/6986cc83e6807215b8fb9266_2f76db19.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>限时签到</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>6986d7e87ecb413b01bb0dda</id>
+                            <format>webp</format>
+                            <width>2100</width>
+                            <height>550</height>
+                            <size>116054</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260207/856392/6986d7e87ecb413b01bb0dda_96d20048.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>开放时间</b>
+                    </td>
+                    <td col="2">
+                        2026/02/07 12:00 - 2026/02/24 12:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>参与条件</b>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅰ - 基地解围」后，开启【活动】功能
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>文本介绍</b>
+                    </td>
+                    <td col="2">
+                        参与签到累计可领取<b>灵动信使寻访凭证 </b>× 5等丰富奖励。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="任务规则">
+            <line kind="5"></line>
+            <ul>
+                <li>每日登陆游戏即可领取签到奖励。</li>
+                <li>完成7日签到累计可领取【<entry type="link-img" count="0" id="933"></entry>】×5等丰富奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="">
+            <table header="row" widths="155,499,506">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>累签天数</b></align>
+                    </th>
+                    <th col="2" colspan="2">
+                        <align value="center"><b>奖励</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>1</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="933"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>2</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="5" id="212"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>3</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="5" id="224"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>4</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="2" id="933"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="30" id="223"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>5</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="4" id="210"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>6</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="10" id="224"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>7</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="2" id="933"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="10" id="222"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1090</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283553"},"item":{"name":"信使的信","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1770482609","lastAuditPassedAt":"1770485433","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>信使的信</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260207/856392/698737aaf139cae54d739123_56331367.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>叙事活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="信使的信">
+            <table header="row" widths="580,580">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>关联活动</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成主线任务「第一章-进程Ⅳ-四方会议」</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="link-img" count="0" id="147"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="large" name="">
+            <tab name="谷地佳音" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><color value="r_5">枢纽区</color></align>
+                        </td>
+                        <td col="2">
+                            <align value="center">/</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">三件小事</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="1160">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>正在枢纽区基地帮忙的洁尔佩塔发来讯息，她希望管理员能帮她一个小忙。答应了请求的管理员决定前去赴约。</b>
+                            <i>·查看</i><b><i><color value="f_brown">洁尔佩塔</color></i></b><i>发来的消息</i>
+                            （<b>BAKER/事务通讯</b>
+                            <b>洁尔佩塔：</b>管理员！
+                            <b>洁尔佩塔：</b>（图片详见附录1）
+                            <b>管理员：</b>日子过得很不错啊！
+                            <b>洁尔佩塔：</b>嗯，所以想要和管理员多多分享！
+                            <b>管理员：</b>你怎么来四号谷地了？
+                            <b>洁尔佩塔：</b>我也收到了佩丽卡的求援信号嘛，抵达这里后发现大家需要帮助。
+                            <i><u>（可选）</u></i><b>管理员：</b><u>洁尔佩塔很关心大家嘛。</u>
+                            <i><u>（可选）</u></i><b>管理员：</b><u>你会一直待在这里吗？</u>
+                            <b>洁尔佩塔：</b>这里需要我。我想要为大家做一些事。
+                            <b>管理员：</b>一定有很多需要你的地方。
+                            <b>洁尔佩塔：</b>嗯......管理员也还在附近吗？
+                            <b>管理员：</b>还没走。
+                            <b>洁尔佩塔：</b>如果有空的话——我是说，有空哦，我知道你很忙......
+                            <b>管理员：</b>有空。
+                            <b>洁尔佩塔：</b>那就请管理员来枢纽区基地看看吧，有可能的话，也帮我一个小忙 ......
+                            <b>洁尔佩塔：</b>先别拒绝我，我有礼物哦！
+                            <b>管理员：</b>好，把坐标发过来吧。
+                            <b>洁尔佩塔：</b>[定位信息]）
+                            <i>·与</i><b><i><color value="f_brown">洁尔佩塔</color></i></b><i>会合</i>
+                            <i>·从</i><b><i><color value="f_brown">洁尔佩塔</color></i></b><i>处取第一件包裹</i>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>送货挑战一</b>
+                            <i>·将食品包裹交给工作人员（</i><b><i><color value="f_brown">限时送达 1：40</color></i></b><i>）</i>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>正在枢纽区基地帮忙的洁尔佩塔发来讯息，她希望管理员能帮她一个小忙。答应了请求的管理员决定前去赴约。</b>
+                            <i>·从</i><b><i><color value="f_brown">洁尔佩塔</color></i></b><i>处取第二件包裹</i>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>送货挑战二</b>
+                            <i>·将精密零件交给安德烈（</i><b><i><color value="f_brown">不可进入战斗</color></i></b><i>）（</i><b><i><color value="f_brown">限时送达 1：40</color></i></b><i>）</i>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>正在枢纽区基地帮忙的洁尔佩塔发来讯息，她希望管理员能帮她一个小忙。答应了请求的管理员决定前去赴约。</b>
+                            <i>·从</i><b><i><color value="f_brown">洁尔佩塔</color></i></b><i>处取第三件包裹</i>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>送货挑战三</b>
+                            <i>·将药品包裹交给医务人员（</i><b><i><color value="f_brown">禁止跳跃、冲刺</color></i></b><i>）（</i><b><i><color value="f_brown">限时送达 1：00</color></i></b><i>）</i>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1" colspan="5">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="4550" id="19"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="2" id="212"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="9" id="223"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+            <tab name="三件小事" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><color value="r_5">枢纽区</color></align>
+                        </td>
+                        <td col="2">
+                            <align value="center">谷地佳音</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">穿过记忆的薄雾</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="1160">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>得知小女孩卡莉不见了，管理员和洁尔佩塔决定一同将她找回。</b>
+                            <i>·寻找</i><b><i><color value="f_brown">卡莉</color></i></b>
+                            <i>·查看</i><b><i><color value="f_brown">安德烈</color></i></b><i>发来的消息</i>
+                            <i>·前往医务室找到研究员</i><b><i><color value="f_brown">罗普</color></i></b>
+                            <i>·尝试与</i><b><i><color value="f_brown">罗普交谈</color></i></b>
+                            <i>·离开</i><b><i><color value="f_brown">医务室</color></i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>管理员与洁尔佩塔决定帮助安德烈寻找关于过滤装置的线索。</b>
+                            <i>·前往供能高地寻找</i><b><i><color value="f_brown">过滤装置</color></i></b>
+                            <i>·深入</i><b><i><color value="f_brown">侵蚀区域</color></i></b>
+                            <i>·通过</i><b><i><color value="f_brown">扫描</color></i></b><i>，搜索第一处地点</i>
+                            <i>·通过</i><b><i><color value="f_brown">扫描</color></i></b><i>，搜索第二处地点</i>
+                            <i>·继续</i><b><i><color value="f_brown">扫描</color></i></b><i>并搜索周边区域</i>
+                            <i>·前往下一处地点</i>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>tips：封装好的心情</b>
+                            有心事的人啊，会把说不清道不明的思绪封装进精美的信封里，静静地等待与另一颗心碰撞的瞬间。
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>沉浸模式：</b>
+                            <i>·前往下一处地点</i>
+                            <i>·击败异常的</i><b><i><color value="f_brown">裂地者</color></i></b><entry type="link-img" count="7" id="735"></entry>
+                            <i>·寻找</i><b><i><color value="f_brown">过滤装置</color></i></b>
+                            <i>·与等候在外的</i><b><i><color value="f_brown">工团成员</color></i></b><i>交谈</i>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1" colspan="5">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="4550" id="19"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="2" id="212"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="9" id="223"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="穿过记忆的薄雾" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><color value="r_5">供能高地</color></align>
+                        </td>
+                        <td col="2">
+                            <align value="center">三件小事</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">/</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="1160">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>成功取得锁有过滤装置的保险柜之后，管理员与洁尔佩塔决定将这件事告诉工团在此处的负责人。</b>
+                            <i>·前往医务室确认</i><b><i><color value="f_brown">罗普</color></i></b><i>的情况</i>
+                            <i>·向知情者打探</i><b><i><color value="f_brown">线索</color></i></b>
+                            <i>·结束打探</i>
+                            <i>·与</i><b><i><color value="f_brown">安德烈</color></i></b><i>交谈，尝试密码</i>
+                            <i>·前往医务室与</i><b><i><color value="f_brown">罗普</color></i></b><i>交谈</i>
+                            <i>·查看</i><b><i><color value="f_brown">安德烈</color></i></b><i>发来的消息</i>
+                            （<b>BAKER/事务通讯</b>
+                            <b>安德烈：</b>管理员，还在谷地是吧？正好正好，净水设备已经跑起来了，快来和我们喝两杯！
+                            <b>管理员：</b><b><color value="f_blue">🆗</color></b>）
+                            <i>·和</i><b><i><color value="f_brown">安德烈</color></i></b><i>聊一聊</i>
+                            <i>·与</i><b><i><color value="f_brown">洁尔佩塔</color></i></b><i>会合</i>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+                <table header="row" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <th col="1" colspan="6">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="600" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="4550" id="19"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="2" id="212"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="9" id="223"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="附录">
+        <chapter size="large" name="">
+            <tab name="附录1" icon="">
+                <table header="none" widths="1160">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69873ab120eb10d0fb10ccf5</id>
+                                <format>webp</format>
+                                <width>753</width>
+                                <height>424</height>
+                                <size>36244</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260207/856392/69873ab120eb10d0fb10ccf5_96d20048.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69873ae03bead3968825c2a3</id>
+                                <format>webp</format>
+                                <width>753</width>
+                                <height>423</height>
+                                <size>53094</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260207/856392/69873ae03bead3968825c2a3_e71aef33.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69873afa448c9cf3cac9b25a</id>
+                                <format>webp</format>
+                                <width>752</width>
+                                <height>423</height>
+                                <size>30936</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260207/856392/69873afa448c9cf3cac9b25a_0095c241.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="拍照" icon="">
+                <table header="none" widths="1160">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698762e57ecb413b01bb1141</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1600</height>
+                                <size>162256</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698762e57ecb413b01bb1141_e71aef33.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698762ee6caf00d56a5ebbad</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1600</height>
+                                <size>200826</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698762ee6caf00d56a5ebbad_65de0095.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="游戏截图" icon="">
+                <table header="none" widths="1160">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698763e5e390a149c00c087b</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1554</height>
+                                <size>169848</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698763e5e390a149c00c087b_91c496d2.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698763e99642368b14920840</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1549</height>
+                                <size>75842</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698763e99642368b14920840_ef3391c4.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698763eef4ccdc93652b58a6</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1547</height>
+                                <size>87664</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698763eef4ccdc93652b58a6_004865de.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698763f0bf5207bdfd0e2faf</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1555</height>
+                                <size>119586</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698763f0bf5207bdfd0e2faf_004865de.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698763f2c872ad0e59f57c37</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1555</height>
+                                <size>55610</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698763f2c872ad0e59f57c37_96d20048.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>698763f4e6807215b8fb962e</id>
+                                <format>webp</format>
+                                <width>2560</width>
+                                <height>1547</height>
+                                <size>115642</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260208/856392/698763f4e6807215b8fb962e_004865de.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="小彩蛋" icon="">
+                <img>
+                    <id>69876495e61c72c6bca7d607</id>
+                    <format>webp</format>
+                    <width>2560</width>
+                    <height>1547</height>
+                    <size>176220</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260208/856392/69876495e61c72c6bca7d607_ef3391c4.webp</url>
+                    <description>“我是信使洁尔佩塔，这是我们第一次见面”</description>
+                </img>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

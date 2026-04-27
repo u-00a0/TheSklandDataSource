@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>334</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283170"},"item":{"name":"据点建设·重建指挥部·其一","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1769888110","lastAuditPassedAt":"1769889488","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>据点建设·重建指挥部·其一</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260201/856392/697e5554b2a055d75726cc2e_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name=" 任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">供能高地</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="691"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="link-img" count="0" id="335"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <i>·提升</i><b><i>据点发展值</i></b><i>至当前上限</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>管理员收到了艾尔黛拉的联络，建造工作似乎遇到了困难。</b>
+                        <i>·查看</i><b><i>艾尔黛拉</i></b><i>发来的消息</i>
+                        （<b>BAKER/事务通讯</b>
+                        <b>艾尔黛拉：</b>前辈，最近怎么样? 
+                        <b>艾尔黛拉：</b>如果有空的话，可以来一趟供能高地的重建指挥部吗? 
+                        <b>艾尔黛拉：</b>现在的局面有些......混乱？毕竟谁也没有猜到克劳先生的任命人选会是那两个人。
+                        <b>艾尔黛拉：</b>我觉得可能需要前辈来解决眼前的难题......
+                        <b>管理员：</b>好的，我这就来。
+                        <b>艾尔黛拉：</b>那，我在重建指挥部等你。）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>问问艾尔黛拉，邓恩和克莱维尔之间发生了什么。</b>
+                        <i>·向</i><b><i>艾尔黛拉</i></b><i>了解情况</i>
+                        <i>·与</i><b><i>克莱维尔</i></b><i>交谈</i>
+                        <i>·与</i><b><i>邓恩</i></b><i>交谈</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>找到情绪波动的邓恩，并与其交谈。</b>
+                        <i>·找到</i><b><i>邓恩</i></b>
+                        <i>·找到</i><b><i>克莱维尔</i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>为了让邓恩静下心来与管理员等人交谈，众人决定帮他寻找长耳兽。</b>
+                        <i>·寻找长耳兽</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>为了让克莱维尔恢复精神，众人决定帮他找到档案箱。</b>
+                        <i>·使用</i><b><i>扫描</i></b><i>寻找</i><b><i>档案箱</i></b>
+                        <i>·与</i><b><i>克莱维尔</i></b><i>交谈</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>邓恩和克莱维尔打算好好谈谈。回到重建指挥部，看看现在的情况如何。</b>
+                        <i>·回到</i><b><i>重建指挥部</i></b>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="580,580">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

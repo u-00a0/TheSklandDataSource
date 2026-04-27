@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1287</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283652"},"item":{"name":"特别补给物资","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1775129148","lastAuditPassedAt":"1775129079","tagIds":["10369","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>特别补给物资</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260402/856392/69ce37ab2d9e251705beba44_3eac6ad0.png</cover>
+        <subTypes>
+            <subType id="10276">10369</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="活动详情">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69ce37ea972dca5d7ffe033b</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>56546</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260402/856392/69ce37ea972dca5d7ffe033b_65de0095.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>邮件发放时间</b></align>
+                    </td>
+                    <td col="2">
+                        2026/04/01 12:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>领取条件</b></align>
+                    </td>
+                    <td col="2">
+                        2026/04/04 03:59（服务器时间）前，完成主线任务<entry type="link-img" count="0" id="504"></entry>后，解锁【邮箱】功能。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        近期有一个奇怪的礼物盒在帝江号上流转，不少干员都被吓了一跳，称其为惊吓魔盒。神秘的红骑士征服了魔盒，她留下了一些有用的物资给管理员，快去邮箱里看看吧。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="活动说明">
+            <line kind="5"></line>
+            <ul>
+                <li>特别补给物资邮件内容包含<entry type="link-img" count="10" id="290"></entry>、<entry type="link-img" count="3" id="384"></entry>、<entry type="link-img" count="15" id="248"></entry>、<entry type="link-img" count="10" id="210"></entry>、<entry type="link-img" count="0" id="222"></entry>、<entry type="link-img" count="50000" id="19"></entry>。</li>
+                <li>邮件的有效期为7天，自收到之日起计算，请管理员及时领取。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="small" name="邮件附件">
+            <line kind="5"></line>
+            <entry type="link-img" count="0" id="8"></entry>
+            <line kind="4"></line>
+            <align value="center"><entry type="card-big" count="15" id="248"></entry><entry type="card-big" count="50000" id="19"></entry><entry type="card-big" count="10" id="290"></entry></align>
+            <align value="center"><entry type="card-big" count="3" id="384"></entry><entry type="card-big" count="10" id="210"></entry><entry type="card-big" count="25" id="222"></entry></align>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="邮件详情">
+            <line kind="5"></line>
+            <h3><b>洛茜的留言</b></h3>
+            <color value="r_5">洛茜</color>
+            <line kind="4"></line>
+            管理员，萤石送给了我一个奇怪的礼物盒！ 说是什么惊吓魔盒？只要一打开就会有弹簧源石虫跳出来！我最初被吓了一大跳，差点把盒子切碎......我还以为很贵重想要道歉，结果萤石说不要紧，让我再传递给别人......她又附赠了零食和不少其他礼物。我觉得管理员肯定需要这些，就送来给您啦！至于盒子嘛......这个太吓人了哼哼，我刚才看到卡特洛在帝江号上，这回轮到他吓一跳了！
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>637</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283327"},"item":{"name":"稼穑不易","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1768229178","lastAuditPassedAt":"1769970253","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>稼穑不易</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/12/402818/1c5331056d5461e0f0de5b3a4c2c6913.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">源石研究园</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="667"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>诺夫曼发来消息，他的朋友维拉遇到了点麻烦。维拉在基建前站附近的生态种植区工作，去那里查看一下情况。</b>
+                        <i>·查看</i><b><i>诺夫曼</i></b><i>发来的消息</i>
+                        （<b>BAKER/事务通讯</b>
+                        <b>诺夫曼：</b>管理员，你有空吗? 
+                        <b>管理员：</b>有空，建设情况都还好吗？
+                        <b>诺夫曼：</b>这边还好，但是维拉遇到麻烦了！
+                        <b>诺夫曼：</b>对不起，我详细解释一下。维拉主要负责基建前站附近的生态种植区工作，我刚收到她的报告......
+                        <b>诺夫曼：</b>种植区被裂地者洗劫一空！我已经增派了人手来避免类似的情况再次发生......可是我现在盯着建设情况，去不了现场。
+                        <b>管理员：</b>我现在就过去看看。
+                        <b>诺夫曼：</b>实在是太感谢你了，管理员！）
+                        <i>·前往</i><b><i>生态种植区</i></b><i>，与维拉交谈</i>
+                        <i>·采集</i><b><i>苦叶椒</i></b>
+                        <i>·将苦叶椒交给</i><b><i>维拉</i></b>
+                        <i>·向维尔莫林购买苦叶椒种子</i>
+                        <i>·</i><i><u>（可选）</u></i><i>使用采种机采集苦叶椒种子</i>
+                        <i>·前往</i><b><i>生态种植区</i></b><i>入口，与维拉会合</i>
+                        <i>·与</i><b><i>维拉</i></b><i>交谈</i>
+                        <i>·使用简易制作，制作</i><b><i>苦叶椒田块</i></b>
+                        <i>·放置</i><b><i>苦叶椒田块</i></b>
+                        <i>·与</i><b><i>维拉</i></b><i>交谈</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>完成此任务可解锁功能<b><u>生态种植</u></b></li>
+            </ul>
+            <line kind="3"></line>
+            <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="40" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="2650" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="7" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="4" id="223"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="6" id="225"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="160" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

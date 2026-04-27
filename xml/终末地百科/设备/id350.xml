@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>350</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283178"},"item":{"name":"灰芦麦田块","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1767098408","lastAuditPassedAt":"1767373865","tagIds":["10003","10310","10333"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>灰芦麦田块</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/3048259/866f8b17f8a31b145fadcaf2f816bcdf.png</cover>
+        <subTypes>
+            <subType id="10000">10003</subType>
+            <subType id="10244">10333</subType>
+            <subType id="10307">10310</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>此田块上按步骤进行精细种植，收获后可获得大量灰芦麦。</b>
+        <color value="s_3">为培植灰芦麦而调节了各项参数的田块，其土质整体上优于四号谷地平均土壤状况。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="large" name="设备需求">
+            <line kind="5"></line>
+            <ul>
+                <li><b>简易制作</b>获取</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方法">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>灰芦麦田块</b>是种植调配类型的设备，可以用于培植灰芦麦。
+            <b>灰芦麦田块</b>仅能放置在<b><color value="r_5">源石研究园-生态种植区</color></b>范围内。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>灰芦麦田块</b>需要在<b><color value="r_5">源石研究园-生态种植区</color></b>的长<b>4</b>格、宽<b>4</b>格的可用空地，且与其他田块间隔<b>≥3</b>格。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="相关配方">
+            <line kind="5"></line>
+            <table header="none" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>制作类型</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><b>原料需求</b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><b>制作产物</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">种植调配</color></b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="199"></entry><entry type="card-big" count="1" id="192"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="350"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

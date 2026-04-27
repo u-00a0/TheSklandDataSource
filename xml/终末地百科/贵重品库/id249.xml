@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>249</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283128"},"item":{"name":"保障配额","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1765796301","lastAuditPassedAt":"1772685702","tagIds":["10005","10330","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>保障配额</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/203953/63d2bfa8b4ec68d429b9583591daa4a3.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10321">10330</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可用于在配额兑换所中兑换物资。</b>
+        <color value="s_3">代表着物资保障额度的凭证。终末地工业会为干员提供包括衣食住行在内的多项保障。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>干员入职的馈赠。</b>
+            <ul>
+                <li>
+                    在任意干员寻访中：
+                    <ul>
+                        <li>第2次及后续获取相同的6星干员时，每次将转化为相应的<b><color value="r_5">信物</color></b>与<entry type="link-img" count="50" id="249"></entry>；</li>
+                        <li>第2次及后续获取相同的5星干员时，每次将转化为相应的<b><color value="r_5">信物</color></b>与<entry type="link-img" count="10" id="249"></entry>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>采购中心-配额兑换所中购买物品。</b>
+            <ul>
+                <li><b><color value="r_5">配额兑换所</color></b>的保障配额交易包含以下物品：</li>
+            </ul>
+            <table header="row" widths="569,429,162">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>交易物品</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>售价</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>存量</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1" colspan="3">
+                        <align value="center"><b>-限时保障配额交易-</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">特定<b><color value="r_5">5星干员</color></b>的<b>招聘合同</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="200" id="249"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="25" id="249"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">10</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" colspan="3">
+                        <align value="center"><b>-长期保障配额交易-</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="1" id="286"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="25" id="249"></entry></align>
+                    </td>
+                    <td col="3" rowspan="3">
+                        <align value="center">无限</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="1" id="217"></entry><entry type="card-big" count="1" id="218"></entry><entry type="card-big" count="1" id="219"></entry><entry type="card-big" count="1" id="220"></entry><entry type="card-big" count="1" id="221"></entry></align>
+                        <align value="center"><entry type="card-big" count="1" id="210"></entry><entry type="card-big" count="2" id="214"></entry><entry type="card-big" count="2" id="227"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="4" id="249"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="2" id="224"></entry><entry type="card-big" count="2" id="222"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="3" id="249"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

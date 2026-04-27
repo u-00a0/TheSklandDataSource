@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>80</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283045"},"item":{"name":"古渠","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150220","lastAuditPassedAt":"1772098365","tagIds":["10005","10225"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>古渠</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/3c890c82d1a43d843ba135d08e603323.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10223">10225</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-宏山选剑局制造的优质大剑。较之同类产品，它更轻盈，但杀伤力却没有降低分毫。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>古渠</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/f69e289fe43efaecfbb45dbde55c4926.gif</imgUrl>
+                    <description>基础攻击力 42</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·中 </color></b><b>1/3</b>
+                <h3><b>力量</b><b><color value="f_blue">+16</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">源石技艺强度提升·中 </color></b><b>1/3</b>
+                <h3><b>源石技艺强度</b><b><color value="f_blue">+8</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">残暴·千秋旧土</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>源石技艺强度<color value="f_blue">+10</color>。</h3>
+                <h3>装备者消耗<color value="f_sandstone">破防</color>层数后，物理伤害<color value="f_blue"> +[5.0%×消耗层数]</color>，持续20秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>古渠</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/1e09af4143c8c46bb022bcaca2e6a42d.gif</imgUrl>
+                    <description>基础攻击力 411</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·中 </color></b><b>9/9</b>
+                <h3><b>力量</b><b><color value="f_blue">+124</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">源石技艺强度提升·中 </color></b><b>9/9</b>
+                <h3><b>源石技艺强度</b><b><color value="f_blue">+62</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">残暴·千秋旧土</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>源石技艺强度<color value="f_blue">+28</color>。</h3>
+                <h3>装备者消耗<color value="f_sandstone">破防</color>层数后，物理伤害<color value="f_blue"> +[14.0%×消耗层数]</color>，持续20秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="力量提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+54</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+67</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+80</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+92</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+108</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+124</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="470"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="源石技艺强度提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+8</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+14</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+27</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+33</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+40</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+46</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+62</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="470"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="残暴·千秋旧土" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+12</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[6.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+14</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[7.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+16</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[8.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+18</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[9.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+20</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[10.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+22</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[11.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+24</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[12.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>源石技艺强度</b><b><color value="r_3">+28</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[14.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="470"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,192,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 120</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 203</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>1/3</b>
+                            <b>力量</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/5</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>1/3</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+8</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+8</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 203</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 286</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/5</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+8</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>2/6</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+14</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 286</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 369</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>2/6</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+14</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>2/7</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+14</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="217"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 369</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 411</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/9</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>2/7</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+14</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">源石技艺强度提升·中 </color></b><b>3/9</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+20</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">残暴·千秋旧土 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+10</color></b><b>。</b>
+                            <b>装备者消耗</b><b><color value="f_sandstone">破防</color></b><b>层数后，物理伤害</b><b><color value="r_3"> +[5.0%×消耗层数]</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            我并不能触摸所有人的心，但我至少能看透我自己的。
+            此时此刻，我的心中只有无边的恐惧，我们的科考站，我们为了战胜无边无际的甚大裂隙而准备的“观景台”，就这样被淹没在了侵蚀中，这让我感到绝望。息壤真的可行吗？我们过去的所作所为真的有任何意义吗？比起超域，人类还是过于渺小了。武陵会被吞没，万事万物都会被吞没，我们如何撼动巨物？
+            ……
+            我们需要挖一道水渠，虽然现在针对事故现场受灾者的抢救才是最重要的，但这道水渠也是必须的，它至少能保证地下水脉不被渗透进来的侵蚀潮污染。但这也没什么意义，只不过是早死一天和晚死一天的区别。
+            ……
+            满手水泡。就算我完全不懂工程，只是设备车间的职工，现在也要加入施工……本部的支援到来前，只能先靠我们自己撑住。
+            ……
+            手被划伤了，我在水渠工地挖出了一把折断的匕首，它在这里埋了多久？一百年？看看手上的血吧！不愿意直视的那根弦早就绷断了！父母妻儿都不在了，我也不再相信什么荣光和牺牲。我为什么还要活着，我为什么还要活着，我为什么还要活着，我为什么还要活着？
+            ……
+            明天就自杀吧。
+            ……
+            我选了深夜，在施工现场自杀。确实是个好地方，也是个好天气，大雨瓢泼，好像所有东西都泡在了泥里，我们这种失败者，就应该这样死在泥地里。
+            大雨冲垮了水渠尚未挖掘完成的部分。我在被冲开的泥土中，看到了一点点金属的光泽。不知道为什么，我走了过去，用双手刨开土，看到了下面埋着的是什么，那是一个锈蚀的阀门。
+            原来如此。
+            没有资料，没有确认，就只是最仓促的施工，极巧合地，我们挖通了前人未能完工的水渠。
+            锈蚀掉渣的阀门在那一瞬间变换了形象，它是我父亲的嘱托、我母亲的肖像，又或者是我祖父母坟前的纸花。
+            最后是我，污水倒影中的我。
+            原来如此。
+            永远有人想要活下去，也永远有人能够活下去。
+            天地并非无限，恐惧亦会被蚕食干净。
+            故我不再想着死亡。
+            我所延续的，仅是生命存续的本相，如此反复，千古恒常。
+        </chapter>
+    </chapters>
+</sklandDocument>

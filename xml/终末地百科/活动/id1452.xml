@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1452</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283701"},"item":{"name":"镇绥蚀海","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1776483541","lastAuditPassedAt":"1776511907","tagIds":["10411","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>镇绥蚀海</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260417/402818/69e25683fb782837ee03e1aa_2f76db19.png</cover>
+        <subTypes>
+            <subType id="10276">10411</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>引入活动</b>
+    </description>
+    <chapters name="活动展示">
+        <chapter size="large" name="">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69e256ab7c7aea6c28120a53</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>45328</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260417/402818/69e256ab7c7aea6c28120a53_ef3391c4.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动时间</b></align>
+                    </td>
+                    <td col="2">
+                        「春晓时」版本开启后 - 2026/05/14 04:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动奖励</b></align>
+                    </td>
+                    <td col="2">
+                        活动开放期间，完成任务，累计可获得<entry type="link-img" count="0" id="926"></entry><entry type="link-img" count="0" id="216"></entry>等活动奖励。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        在主线任务「第二章 - 进程Ⅳ- 水火不容」中，完成「进入首墩区域」
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        在付出沉重的牺牲后，人类在甚大裂隙上钉下了最初的长钉。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="活动说明">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，前往武陵地区的「首墩」区域，完成解锁协议传送点、开启协议储藏箱等任务，即可获得丰厚奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="在付出沉重的牺牲后，人类在甚大裂隙上钉下了最初的长钉。">
+            <table header="row" widths="684,238,238">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>任务</b></align>
+                    </th>
+                    <th col="2" colspan="2">
+                        <align value="center"><b>奖励</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成主线任务：第二章 - 进程Ⅳ - 致命邀约</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="600" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="3" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于首墩区域累计回收四个装备模板箱</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于首墩区域累计解锁5个协议传送点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于首墩区域累计放置3个息壤中继器</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">于首墩区域累计开启任意3个协议储藏箱</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="216"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">在「蚀像寻遗」任务中，完成委托“像差探索计划Ⅴ”</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="5" id="210"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="15000" id="19"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

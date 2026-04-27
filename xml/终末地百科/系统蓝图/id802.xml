@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>802</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283410"},"item":{"name":"密制晶体","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"18","name":"系统蓝图","fatherTypeId":"1","style":3,"status":2,"position":10,"icon":"","items":[],"filterTagTree":[]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1767888000","lastAuditPassedAt":"1767959448","tagIds":[]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>密制晶体</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/09/279234/f7680e25783e5f7f3bdb297a556d9756.png</cover>
+        <subTypes>
+        </subTypes>
+    </metainfo>
+    <description>
+        在集成核心区域放置此蓝图后，输入<color value="f_yellow">砂叶</color>和<color value="f_yellow">晶体外壳</color>，自动生产<color value="f_yellow">密制晶体</color>。
+    </description>
+    <chapters name="蓝图详情">
+        <chapter size="large" name="设备一览">
+            <line kind="5"></line>
+            <i><color value="s_4">/*后期换成对应设备的大卡片词条链接，设备上线前仅使用文字，以下仅示例*/</color></i>
+            <b>精炼炉（1）、研磨机（1）、粉碎机（2）、供电桩（2）、物品准入口、传送带</b>
+            <entry type="card-big" count="1" id="53"></entry><entry type="card-big" count="1" id="188"></entry><entry type="card-big" count="2" id="54"></entry><entry type="card-big" count="2" id="51"></entry><entry type="card-big" count="0" id="10"></entry><entry type="card-big" count="0" id="161"></entry>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="相关信息">
+            <line kind="5"></line>
+            蓝图尺寸：<b>18*6</b>
+            蓝图原料：<b>晶体外壳、砂叶</b>
+            蓝图中间产物：<b>砂叶粉末、晶体外壳粉末、致密晶体粉末</b>
+            蓝图最终产物：<b>密制晶体</b>
+            <line kind="5"></line>
+            完成<b>模拟空间-基础工业计划-研磨机</b>可解锁此蓝图
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="蓝图预览">
+            <line kind="5"></line>
+            <img>
+                <id>694c957f756388a8d4949ef0</id>
+                <format>webp</format>
+                <width>1680</width>
+                <height>712</height>
+                <size>31072</size>
+                <url>https://bbs.hycdn.cn/image/2025/12/25/279234/3cf6bbce8494cdb06b00070b6c58a9c0.webp</url>
+                <description></description>
+            </img>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>250</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283128"},"item":{"name":"集成配额","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1765796282","lastAuditPassedAt":"1772634982","tagIds":["10004","10327","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>集成配额</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/14/3048259/05307e84d50857b22c0e4082cba55ec1.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10321">10327</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可用于在配额兑换所中兑换物资。</b>
+        <color value="s_3">代表着物资供给额度的凭证。集成工业系统能够以近乎打印的效率完成物资产出，这正是它的强大之处。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>采购中心-配额兑换所转化信物。</b>
+            <ul>
+                <li>非6星干员满潜能后，其信物可在配额兑换所转化为一定数量的集成配额。4星干员信物和5星干员信物分别可以转化为<entry type="link-img" count="5" id="250"></entry>和<entry type="link-img" count="20" id="250"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>采购中心-武库交易所进行武器申领。</b>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>采购中心-配额兑换所中购买物品。</b>
+            <ul>
+                <li><b><color value="r_5">配额兑换所</color></b>的集成配额交易包含以下物品：</li>
+            </ul>
+            <table header="row" widths="614,334,212">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>交易物品</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>售价</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>存量</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1" colspan="3">
+                        <align value="center"><b>-限时集成配额交易-</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">当前开启的<b><color value="r_5">特许寻访</color></b>专用的<b>寻访凭证</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="175" id="250"></entry>→<entry type="card-big" count="70" id="250"></entry></align>
+                        <align value="center"><b><color value="r_5">-60%</color></b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">5</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="5" id="210"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="40" id="250"></entry>→<entry type="card-big" count="30" id="250"></entry></align>
+                        <align value="center"><b><color value="r_5">-25%</color></b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">5</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="6" id="224"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="20" id="250"></entry>→<entry type="card-big" count="15" id="250"></entry></align>
+                        <align value="center"><b><color value="r_5">-25%</color></b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">8</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="12000" id="19"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="20" id="250"></entry>→<entry type="card-big" count="15" id="250"></entry></align>
+                        <align value="center"><b><color value="r_5">-25%</color></b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">5</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="6" id="212"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="20" id="250"></entry>→<entry type="card-big" count="15" id="250"></entry></align>
+                        <align value="center"><b><color value="r_5">-25%</color></b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">5</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" colspan="3">
+                        <align value="center"><b>-长期集成配额交易-</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="6">
+                        <align value="center"><entry type="card-big" count="5" id="210"></entry><entry type="card-big" count="5" id="221"></entry><entry type="card-big" count="5" id="220"></entry><entry type="card-big" count="5" id="219"></entry><entry type="card-big" count="5" id="218"></entry><entry type="card-big" count="5" id="217"></entry></align>
+                    </td>
+                    <td col="2" rowspan="6">
+                        <align value="center"><entry type="card-big" count="40" id="250"></entry></align>
+                    </td>
+                    <td col="3" rowspan="15">
+                        <align value="center"><b>无限</b></align>
+                    </td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="5">
+                        <align value="center"><entry type="card-big" count="6" id="224"></entry><entry type="card-big" count="6" id="222"></entry><entry type="card-big" count="30" id="223"></entry><entry type="card-big" count="6" id="212"></entry><entry type="card-big" count="12000" id="19"></entry></align>
+                    </td>
+                    <td col="2" rowspan="5">
+                        <align value="center"><entry type="card-big" count="20" id="250"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2">
+                        <align value="center"><entry type="card-big" count="6" id="214"></entry><entry type="card-big" count="6" id="227"></entry></align>
+                    </td>
+                    <td col="2" rowspan="2">
+                        <align value="center"><entry type="card-big" count="24" id="250"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2">
+                        <align value="center"><entry type="card-big" count="8" id="215"></entry><entry type="card-big" count="8" id="228"></entry></align>
+                    </td>
+                    <td col="2" rowspan="2">
+                        <align value="center"><entry type="card-big" count="16" id="250"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

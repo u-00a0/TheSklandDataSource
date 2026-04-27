@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>911</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283466"},"item":{"name":"酸液源石虫","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1767849558","lastAuditPassedAt":"1773932169","tagIds":["10230"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>酸液源石虫</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/26/139426/ad2ce63fa44873b6a240287db0e3eb8d.png</cover>
+        <subTypes>
+            <subType id="10229">10230</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>酸液源石虫</b>（Acid Originium Slug）是《明日方舟：终末地》中的一类<b><color value="r_2">普通敌人</color></b>。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="普通敌人" icon="">
+                <imgIntro>
+                    <name>酸液源石虫</name>
+                    <type>野外生物</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png</imgUrl>
+                    <description>野生的被感染生物，能分泌酸性物质。在受到威胁时会剧烈抖动自身，将背负的源石晶簇抛射出去，恐吓敌人。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>胆小的它们会缩进壳中保护自己，向四周无脑发射身上的源石来吓走敌人。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>枢纽区</li>
+                    <li>源石研究园</li>
+                    <li>矿脉源区</li>
+                    <li>供能高地</li>
+                    <li>能量淤积点·枢纽区</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人掉落</h3>
+                <ul>
+                    <li><entry type="link-img" count="0" id="138"></entry></li>
+                </ul>
+            </tab>
+        </chapter>
+        <chapter size="small" name="酸液源石虫(预警终端)">
+            <i>“塔防模式”中的酸液源石虫。</i>
+            <i>分布于部分据点的</i><b><i>区域防护作战</i></b><i>内：打开预警终端即可进行区域防护作战。</i>
+            <h3>|敌人详情</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            野生的被感染生物，能分泌酸性物质。在受到威胁时会剧烈抖动自身，将背负的源石晶簇抛射出去，恐吓敌人。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            酸液源石虫受到攻击时，会蜷缩自身，降低接下来受到的伤害并持续恢复生命值，持续10秒。
+        </chapter>
+    </chapters>
+</sklandDocument>

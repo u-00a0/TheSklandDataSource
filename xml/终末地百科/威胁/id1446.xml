@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1446</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283698"},"item":{"name":"聂菲斯，“碾骨”","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1776923195","lastAuditPassedAt":"1776958571","tagIds":["10232"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>聂菲斯，“碾骨”</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260417/139426/69e1ee08fb782837ee03dccd_db193eac.png</cover>
+        <subTypes>
+            <subType id="10229">10232</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>聂菲斯，“碾骨”</b>是一类<b><color value="r_6">领袖敌人</color></b>。位于武陵城的总桩办公室处，是主线「第二章 - 进程V - <b>怒潮 </b>- 决战总桩」的最终Boss。
+        在阿达希尔的计划受挫后，为了继续打开武陵甚大裂隙的计划，聂菲斯决定对武陵城展开大举进攻；依照管理员和庄方宜等人的谋划，聂菲斯被引入总桩办公室内。
+        这场漫长的围猎即将结束，管理员一行人终于直面聂菲斯。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="领袖敌人" icon="">
+                <imgIntro>
+                    <name>聂菲斯，“碾骨”</name>
+                    <type>裂地者</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png</imgUrl>
+                    <description>“碾骨”之名因聂菲斯而响彻环带。她的残暴征途从未结束，她的野心也尚未展露。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>会斩出无法靠闪避来躲避的超域能量波。需要利用<entry type="link-img" count="0" id="1132"></entry>的息壤支援，跃至空中躲避。</li>
+                    <li>会跃至高空进行蓄力攻击。需要在利用息壤跳起后，使用下落攻击召唤闪电打断。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>武陵城</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="进阶介绍">
+        <chapter size="small" name="作战环境">
+            <tab name="庄方宜的息壤支援" icon="">
+                <imgIntro>
+                    <name></name>
+                    <type></type>
+                    <imgUrl></imgUrl>
+                    <description>与聂菲斯作战时，庄方宜会使用息壤支援管理员。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <ul>
+                    <li>在任意时刻使用时，所有干员将会借助息壤跃升至空中，随后缓慢下落。</li>
+                    <li>在下落前点按攻击键，在一定范围内，<entry type="link-img" count="0" id="1132"></entry>会使用雷法协助管理员攻击敌人。雷法可以打断聂菲斯的<b><u><color value="f_red">蓄力</color></u></b><b>攻击</b>。</li>
+                    <li>在地面上释放时，该能力的冷却时间为<b>3s</b>；在空中释放时则为<b>5s</b>。</li>
+                </ul>
+            </tab>
+            <tab name="聂菲斯的野心之火" icon="">
+                聂菲斯的野心之火正熊熊燃烧……
+                <line kind="5"></line>
+                <ul>
+                    <li>聂菲斯的攻击造成<b><color value="f_violet">超域伤害</color></b>，命中时还会对我方的干员施加一层<b><color value="f_red">火焰附着</color></b>。</li>
+                    <li>聂菲斯会化作火焰来进行<b>瞬间移动</b>。聂菲斯既可以利用这一能力迅速拉开与我方干员之间的距离，也可以传送至我方干员的身后进行突袭。</li>
+                </ul>
+            </tab>
+        </chapter>
+        <chapter size="middle" name="敌人行为">
+            <tab name="横劈" icon="">
+                <img>
+                    <id>69e271b0cacb3db10e65d4b7</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>17751424</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/139426/69e271b0cacb3db10e65d4b7_65de0095.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯向我方主控干员的位置释放出三道⁽¹⁾超域能量波，最后的一次斩击释放出特殊的超域能量波⁽²⁾。
+                随后，聂菲斯<b>蓄力</b>，蓄力结束后，造成一次全屏伤害并击飞我方干员。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）该技能仅在战斗开始时会施放一次。</li>
+                    <li>（2）最后斩出的特殊超域能量波不可通过闪避的方式来躲避，必须通过庄方宜的息壤支援跃至空中躲避。</li>
+                </ul>
+
+                <color value="s_3">*特殊的超域能量波会提前出现在聂菲斯身后，一段时间后才会移动</color>
+            </tab>
+            <tab name="范围斩击" icon="">
+                <img>
+                    <id>69e27481cacb3db10e65d4c7</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>15869445</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/139426/69e27481cacb3db10e65d4c7_ef3391c4.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯将火焰附着于剑上，并向周围进行范围斩击。
+                <line kind="5"></line>
+                <ul>
+                    <li>该技能仅且必定在聂菲斯的<b>横劈</b>、<b>连续横劈</b>和<b>十字斩</b>技能被打断后出现。</li>
+                </ul>
+            </tab>
+            <tab name="空中蓄力" icon="">
+                <table header="none" widths="377.335,377.335">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69e3b005cacb3db10e65dda6</id>
+                                <format>gif</format>
+                                <width>800</width>
+                                <height>450</height>
+                                <size>19025531</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260419/139426/69e3b005cacb3db10e65dda6_65de0095.gif</url>
+                                <description>（左）聂菲斯跃至空中蓄力</description>
+                            </img>
+                        </td>
+                        <td col="2">
+                            <img>
+                                <id>69e3b00d7c7aea6c281213fd</id>
+                                <format>gif</format>
+                                <width>800</width>
+                                <height>450</height>
+                                <size>19953707</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260419/139426/69e3b00d7c7aea6c281213fd_65de0095.gif</url>
+                                <description>（右）聂菲斯空中蓄力的派生</description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+
+                聂菲斯跃升至空中⁽¹⁾，进行<b>蓄力</b>，蓄力结束后，造成一次全屏伤害⁽²⁾并击飞我方干员。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）该技能在战斗开始时仅一次：聂菲斯会直接跃升至空中蓄力（见图左）。在此后的战斗中，聂菲斯跃升至空中后会先向我方主控干员所在的位置发射出大量的飞弹，随后再开始蓄力（见图右）。</li>
+                    <li>（2）不同于横劈的全屏伤害，该技能于蓄力结束后释放的全屏伤害可使用闪避躲避。</li>
+                </ul>
+
+                <color value="s_3">*打断聂菲斯在空中的蓄力时，造成的失衡值相对于打断其在地面上的蓄力更高。</color>
+            </tab>
+            <tab name="心象斩" icon="">
+                <table header="none" widths="377.335,377.335">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69e64b7ea74f8adff7bd1347</id>
+                                <format>gif</format>
+                                <width>800</width>
+                                <height>450</height>
+                                <size>5213038</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260420/139426/69e64b7ea74f8adff7bd1347_0095c241.gif</url>
+                                <description>（左）聂菲斯进行普通的斩击</description>
+                            </img>
+                        </td>
+                        <td col="2">
+                            <img>
+                                <id>69e64b828ed3a010a0db89e8</id>
+                                <format>gif</format>
+                                <width>800</width>
+                                <height>450</height>
+                                <size>7700347</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260420/139426/69e64b828ed3a010a0db89e8_ef3391c4.gif</url>
+                                <description>（右）聂菲斯挥出剑气</description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+
+                聂菲斯短暂的撕裂时空，展开心象使时间停止⁽¹⁾，随后瞬移至我方主控干员前方并发动攻击⁽²⁾。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）该技能发动时，任何除聂菲斯本体的动作都会陷入停滞，在聂菲斯攻击生效的前一刻，时停将结束。</li>
+                    <li>（2）该技能有两种派生，其一为聂菲斯向我方主控干员所在位置进行一次普通的斩击（见图左），其二为聂菲斯以我方主控干员所在位置为目标，分别在我方主控干员的左前方和右前方各挥出一道普通的超域能量波（见图右），无论是哪一种派生，聂菲斯都会在攻击结束后瞬移远离我方。</li>
+                </ul>
+            </tab>
+            <tab name="十字斩" icon="">
+                <table header="none" widths="377.335,377.335">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69e64faa8ed3a010a0db8a04</id>
+                                <format>gif</format>
+                                <width>800</width>
+                                <height>450</height>
+                                <size>10164903</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260421/139426/69e64faa8ed3a010a0db8a04_91c496d2.gif</url>
+                                <description>（左）</description>
+                            </img>
+                        </td>
+                        <td col="2">
+                            <img>
+                                <id>69e64fb08ed3a010a0db8a05</id>
+                                <format>gif</format>
+                                <width>800</width>
+                                <height>450</height>
+                                <size>16638502</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260421/139426/69e64fb08ed3a010a0db8a05_96d20048.gif</url>
+                                <description>（右）</description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+
+                聂菲斯向前斩出数道呈十字交错的超域能量波⁽¹⁾。
+                随后，聂菲斯<b>蓄力</b>，蓄力结束后，造成一次全屏伤害并击飞我方干员。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）该技能有两种派生，顺序、种类和数量分别为：</li>
+                </ul>
+                <b>派生1（图左）</b>：竖1→横1竖1→横1竖3→特殊1→蓄力；
+                <b>派生2（图右）</b>：竖3→竖3→特殊1→竖3→特殊1→蓄力；
+
+                <color value="s_3">*特殊的超域能量波会提前出现在聂菲斯身后，一段时间后才会移动</color>
+            </tab>
+            <tab name="连续横劈" icon="">
+                <img>
+                    <id>69e7945f722817154033b713</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>15985805</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260421/139426/69e7945f722817154033b713_e71aef33.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯以一个弧形角度，向四周释放出数道超域能量波，最后的一次斩击释放出特殊的超域能量波⁽¹⁾。
+                随后，聂菲斯<b>蓄力</b>，蓄力结束后，造成一次全屏伤害并击飞我方干员。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）最后斩出的特殊超域能量波不可通过闪避的方式来躲避，必须通过庄方宜的息壤支援跃至空中躲避。</li>
+                </ul>
+
+                <color value="s_3">*特殊的超域能量波会提前出现在聂菲斯身后，一段时间后才会移动</color>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

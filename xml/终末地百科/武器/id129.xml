@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>129</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283072"},"item":{"name":"骑士精神","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768038329","lastAuditPassedAt":"1773125918","tagIds":["10006","10227"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>骑士精神</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/869d470dc10a2af0e6a621b39d3b3ab1.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10227</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-梅什科工业研发的施术单元之一。选用特制D64钢壳，配多款定制模块。这款产品让人联想起昔日竞技场的烟火秀。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>骑士精神</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/20/179550/3b929a5a1376c205f5e0c3e4137554fb.gif</imgUrl>
+                    <description>基础攻击力 49</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·大 </color></b><b>1/3</b>
+                <h3><b>意志</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·大 </color></b><b>1/3</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+10.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·侵蚀性狂热</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>治疗效率<color value="f_blue">+10.0%</color>。</h3>
+                <h3>装备者通过自身技能治疗后，全队攻击力<color value="f_blue">+9.0%</color>，持续15秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>骑士精神</name>
+                    <type>施术单元</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/20/179550/e7b70be0722364b279e0a50de289feaa.gif</imgUrl>
+                    <description>基础攻击力 485</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">意志提升·大 </color></b><b>9/9</b>
+                <h3><b>意志</b><b><color value="f_blue">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·大 </color></b><b>9/9</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+78.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·侵蚀性狂热</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>治疗效率<color value="f_blue">+28.0%</color>。</h3>
+                <h3>装备者通过自身技能治疗后，全队攻击力<color value="f_blue">+25.2%</color>，持续15秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li><entry type="link-img" count="0" id="639"></entry>开启获取</li>
+                    <li><entry type="link-img" count="0" id="638"></entry>开启获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="意志提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>意志</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="生命提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+26.0%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+34.0%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+42.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+50.0%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+58.0%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+66.0%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+78.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="医疗·侵蚀性狂热" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+10.8%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+12.6%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+14.4%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+18.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+16.2%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+18.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+22.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+19.8%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+21.6%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>治疗效率</b><b><color value="r_3">+28.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+25.2%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,193,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 142</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 240</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>1/3</b>
+                            <b>意志</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/3</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 240</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 338</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/5</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 338</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 436</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>2/6</b>
+                            <b>意志</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,191,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="220"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 436</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 485</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/8</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">意志提升·大 </color></b><b>3/9</b>
+                            <b>意志</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>3/9</b>
+                            <b>最大生命值</b><b><color value="r_3">+26.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·侵蚀性狂热 </color></b><b>1/4</b>
+                            <b>治疗效率</b><b><color value="r_3">+10%</color></b><b>。</b>
+                            <b>装备者通过自身技能治疗后，全队攻击力</b><b><color value="r_3">+9.0%</color></b><b>，持续15秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            伟大的总发言人马克维茨为我们留下的，不是乏味、空虚、苦修一般的生活。正是因为我们面临困苦，面临侵蚀、天使与整个塔卫二的敌意，我们才更需要人类社会中不可或缺的东西——刺激！
+            小雅各宾说得很对，从书本到电影，从牌类游戏到电子产品，我们得幸保留了相当部分源自故乡的文娱形式，但为何我依然坚持这份事业？为何我一直在重提“骑士竞技文化的复辟”？
+            少安毋躁！少安毋躁！请不要造谣，我从来不是个泰拉主义者或是归乡派。我关注的只有此时，此地。你觉得我是因为怀念卡西米尔才搞的这一套？我出生的时候我爸爸连卡西米尔的照片都没留下一张！
+            恰恰相反！正因为我关注现实，我才会斥我毕生巨资，在家乡打造这样一个地下竞技场！
+            各位，我们已经不在高雅的泰拉城市街道上啦！各位，我们在荒野，我们在异星，我们在一片陌生的土地上！文学？影视？那些温吞的东西只会让年轻人沉溺在安全坚固的住宅里，难道你要让一群书呆子去工团工厂搬源矿，让一群近视眼去铁誓军的堡垒对付天使吗？
+            想想骑士竞技吧。对武器和身体的打磨，对源石技艺的极致钻研。这样尚武的运动难道不吻合我们残酷的现状吗？——换句话说，这话只对各位说——难道不会得到商会和军队的大力支持吗？
+            不不不，别说得好像我们在培养野蛮人一样。骑士竞技确实强调武力，但对自我肉体和精神的打磨，不才是骑士精神的最好展现吗？
+            道德……道德当然是必要的……但道德是赚到钱以后再商量的事情，对不？
+            得了吧红下巴，你自己说，你那个当医生的儿子要是更强壮些，他去北面就职的时候，你还会担心吗？
+            哦，你说得太对了。我甚至觉得铁誓军会投资我们……嗯。不妨这么想，若真能培养出几个擂台上的超级明星，也许其他合作方也都会为了他们抛来橄榄枝呢？我听说以前的卡西米尔就有这种先例！输出超级战士！
+            投资？当然……投资。我把各位父老乡亲喊来可不是为了耍嘴皮子的……直白地说，我已经找到第一批选手了。有工程师，有医生，甚至有土匪……不过他们都是一些陪衬，我相中了两位退役士兵，他们一定能崭露头角！
+            啊。你的提议也没错，这很稳妥。可是等到大街小巷都在关注我这场血脉偾张的赛事时，再想入局可就不是今天这个价了……算了吧，等到铁誓军都来投资我的时候，我可不需要你那点卖粮食的钱了，我的好舅舅！
+            还有人没有签字吗？很好。
+            既然是咱们一大家子攒的钱，竞技场就以我们的家族命名……不只如此，当骑士竞技重新风靡大地的时候，整个协会都应该冠以我们的名字！
+
+            ——汉尼克协会！
+        </chapter>
+    </chapters>
+</sklandDocument>

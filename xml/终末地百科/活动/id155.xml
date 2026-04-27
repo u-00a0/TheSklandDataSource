@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>155</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283082"},"item":{"name":"蚀像寻遗","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1769340558","lastAuditPassedAt":"1772637863","tagIds":["10277","10367"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>蚀像寻遗</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/22/402818/2514f73c48ec8bce5f875ed19a01c0dc.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10367</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>常驻玩法</b>
+    </description>
+    <chapters name="玩法说明">
+        <chapter size="large" name="玩法展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>6975ef1118767e28b2c6ac22</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>80854</size>
+                            <url>https://bbs.hycdn.cn/image/2026/01/25/856392/736f0e5b246b0e0a43867d94175adf67.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>开放时间</b></align>
+                    </td>
+                    <td col="2">
+                        <b>公测开启后</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>探索奖励</b></align>
+                    </td>
+                    <td col="2">
+                        「蚀像寻遗」开放期间，达到指定行动刻度后，可获得【<entry type="link-img" count="0" id="926"></entry>】【<entry type="link-img" count="0" id="363"></entry>】【培养素材】等奖励。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅲ - 诡楼寻踪」
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        危机与珍宝，偏差与演化……请在足以危及性命的紊乱环境中一探究竟吧，管理员。
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="玩法说明">
+            <line kind="5"></line>
+            <ul>
+                <li>「蚀像寻遗」为常驻玩法。「蚀像寻遗」开放期间，可于帝江号进入【谷地像差】进行探索。探索的同时可领取各类委托，完成相应委托后，可解锁多种辅助探测技术，提升在谷地像差中的探索能力，并获得【<entry type="link-img" count="0" id="926"></entry>】等奖励。</li>
+                <li>从谷地像差带出【沉积结核】或完成特定委托，可积累行动刻度，达到指定行动刻度即可领取对应奖励。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="玩法导览">
+            <tab name="谷地像差" icon="">
+                <line kind="4"></line>
+                <img>
+                    <id>6975f6b107aa0f26d158a389</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>850</height>
+                    <size>36432</size>
+                    <url>https://bbs.hycdn.cn/image/2026/01/25/856392/bfd7e7675912e56b73d03081958f4ce3.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">谷底像差中有着大量未知的秘宝，同时也有着足以危及性命的紊乱环境，在其中会不断增长紊乱值。</align>
+                <align value="center">管理员需要在紊乱值达到临界前，尽可能收集更多的物品。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="如何获取物品" icon="">
+                <line kind="4"></line>
+                <img>
+                    <id>6975f72107aa0f26d158a38c</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>850</height>
+                    <size>103472</size>
+                    <url>https://bbs.hycdn.cn/image/2026/01/25/856392/e9588bfbb7864c8c6af8220325b08043.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">在谷底像差中，存在大量沉积晶石，将其破坏后会暴露其核心，与之交互可获得沉积结核。</align>
+                <align value="center">也可与各种储物点交互获得沉积具象物。</align>
+                <align value="center">但需注意，这些行为都会使紊乱值增长。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="隔绝封装器" icon="">
+                <line kind="4"></line>
+                <img>
+                    <id>6975f7b2b6f7a7e0846131e5</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>850</height>
+                    <size>15954</size>
+                    <url>https://bbs.hycdn.cn/image/2026/01/25/856392/4b91547d8b3be916382883de3296bdb3.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">探索中获得的沉积结核会保存在隔绝封装器中。</align>
+                <align value="center">隔绝封装器具有一定的容量上限，达到上限时，便无法获得更多沉积结核。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="敌人与战斗" icon="">
+                <line kind="4"></line>
+                <img>
+                    <id>6975f8d29407cfb1bc47d45c</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>850</height>
+                    <size>70538</size>
+                    <url>https://bbs.hycdn.cn/image/2026/01/25/856392/ab574b7a374754f9afa97ecab5cbc609.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">谷底像差中存在各种敌人，有些资源需要击败看守的敌人后才能获得。</align>
+                <align value="center">在战斗中，会额外持续增长紊乱值。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="委托" icon="">
+                <line kind="4"></line>
+                <img>
+                    <id>6975f8f6aec759e90e6198cb</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>850</height>
+                    <size>51744</size>
+                    <url>https://bbs.hycdn.cn/image/2026/01/25/856392/73ac77c47a7e4490056e3586aec82093.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">完成阿奎多发布的各类委托，可以获得奖励，并可解锁辅助探测技术，提升在谷底像差中的探索能力。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="行动刻度" icon="">
+                <line kind="4"></line>
+                <img>
+                    <id>6975f93485a8fb10883b236e</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>850</height>
+                    <size>56106</size>
+                    <url>https://bbs.hycdn.cn/image/2026/01/25/856392/6df68fcd5aa38ed6b5245692885bdc16.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">通过带出沉积结核或是完成某些委托，可以积累行动刻度，进而获得奖励，请记得领取。</align>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="行动刻度">
+        <chapter size="large" name="行动刻度">
+            <line kind="5"></line>
+            <ul>
+                <li>管理员在谷地像差中获得的沉积结核，每转化为1个醚质晶块，即可获得1点行动刻度。</li>
+                <li>完成部分委托也可以获得行动刻度。</li>
+                <li>行动刻度每达到一定档位，可领取一次性奖励。</li>
+            </ul>
+            <line kind="3"></line>
+            <table header="row" widths="155,336,669">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>行动刻度</b></align>
+                    </th>
+                    <th col="2" colspan="2">
+                        <align value="center"><b>奖励</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">50</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="400" id="926"></entry><entry type="card-big" count="10" id="212"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">300</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="2" id="363"></entry><entry type="card-big" count="10" id="224"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">1200</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="400" id="926"></entry><entry type="card-big" count="50" id="223"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">2500</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="2" id="363"></entry><entry type="card-big" count="25" id="215"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">5000</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="400" id="926"></entry><entry type="card-big" count="30" id="228"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">10000</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="2" id="363"></entry><entry type="card-big" count="6" id="210"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">20000</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="400" id="926"></entry><entry type="card-big" count="15" id="224"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">30000</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="2" id="363"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">40000</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="400" id="926"></entry><entry type="card-big" count="12" id="214"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">50000</align>
+                    </td>
+                    <td col="2" colspan="2">
+                        <align value="center"><entry type="card-big" count="2" id="363"></entry><entry type="card-big" count="12" id="227"></entry><entry type="card-big" count="10000" id="19"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="更多内容">
+        <chapter size="large" name="更多内容">
+            <line kind="5"></line>
+            <h3>前往阅读：</h3>
+            <ul>
+                <li><a href="https://www.skland.com/article?id=3615935">「蚀像寻遗」玩法介绍</a></li>
+            </ul>
+            危机与珍宝，偏差与演化……请在足以危及性命的紊乱环境中一探究竟吧，管理员。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

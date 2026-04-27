@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>149</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283081"},"item":{"name":"于此启程","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1769055168","lastAuditPassedAt":"1772637857","tagIds":["10277","10367"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>于此启程</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/22/856392/c157065a558c57f7218d86bd592b63a6.png</cover>
+        <subTypes>
+            <subType id="10276">10277</subType>
+            <subType id="10366">10367</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>新手活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="活动展示">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>6971a203162d3815c495cbdc</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>101674</size>
+                            <url>https://bbs.hycdn.cn/image/2026/01/22/856392/60521265e4dedf61b717c5fd7c34a078.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>开放时间</b></align>
+                    </td>
+                    <td col="2">
+                        <b>公测开启后</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅰ - 基地解围」后，开启【活动】功能
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        推进主线任务可获得寻访凭证
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="任务规则">
+            <line kind="5"></line>
+            <ul>
+                <li>管理员主线任务达到特定进程，可获得【十连启程寻访凭证】。</li>
+                <li>使用【十连启程寻访凭证】可在「启程寻访」中寻访10次，40次寻访内必得6星干员。</li>
+                <li>启程寻访40次后，还可获得【启程武器补给】* 1，开启后可从6星武器<color value="r_6">遗忘/破碎君王/热熔切割器/昔日精品/骁勇</color>中任意选择一把免费获取。</li>
+                <li>当管理员在「启程寻访」完成40次寻访并领取全部奖励后，本活动界面将在次日服务器时间04:00关闭。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="任务阶段">
+            <table header="row" widths="580,580">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>主线进度</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>奖励</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成「第一章 - 进程Ⅰ - 基地解围」</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="289"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成「第一章 - 进程Ⅰ - 重整旗鼓」</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="289"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成「第一章 - 进程Ⅰ - 庇护之所」</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="289"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">完成「第一章 - 进程Ⅱ - 开拓前路」</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="289"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

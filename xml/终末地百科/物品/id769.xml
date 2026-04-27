@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>769</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283393"},"item":{"name":"芽针溶液","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"1939869660098","nickname":"小狗殺魚","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"},"status":2,"publishedAtTs":"1767117613","lastAuditPassedAt":"1777095780","tagIds":["10003","10263","10318"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>芽针溶液</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/22/203953/0bada461ffdd5936fbb90c015b3208bb.png</cover>
+        <subTypes>
+            <subType id="10000">10003</subType>
+            <subType id="10253">10263</subType>
+            <subType id="10254">10318</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>芽针的溶液，经过后续加工合成后，可制成药剂以供使用。</b>
+        <color value="s_3">为完美发挥芽针提取物药物作用而特殊配制的溶液。</color>
+    </description>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>作为液体盛装。</b>
+            <ul>
+                <li>芽针溶液在工业合成以外的情况下不能被直接使用，需要使用<b>紫晶质瓶</b>或其它<b>容器</b>盛装。</li>
+                <li>每个<b>容器</b>可以盛装<entry type="link-img" count="1" id="769"></entry>。</li>
+                <li>当干员浸没在<b>芽针溶液</b>中且未触发落水判定时，会持续回复生命值。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>作为便携工具使用。</b>
+            <ul>
+                <li>使用功能<b><color value="r_5">便携工具-喷洒</color></b>唤出射流无人机，之后通过选中背包中接待的盛装有芽针溶液的<b>容器</b>以将其切换至射出<b>芽针溶液</b>的模式。</li>
+                <li>射流无人机射出的芽针溶液具有与<b>清水</b>类似的功能，例如都可以用于与地图各处的<b><color value="r_5">转轮机关</color></b>进行交互。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="参与配方">
+        <chapter size="large" name="工业合成">
+            <tab name="常用配方" icon="">
+                <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="746"></entry><entry type="card-big" count="0" id="1383"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="587"></entry><entry type="card-big" count="1" id="381"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="769"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+            <tab name="容器灌装与液体拆解" icon="">
+                <table header="row" widths="100,100,432,100,428">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>合成设备</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>原料需求</b></align>
+                        </th>
+                        <th col="4" colspan="2">
+                            <align value="center"><b>合成产物</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="176"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1" id="769"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="552"></entry></align>
+                            <align value="center"><entry type="card-big" count="1" id="551"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">以上任意一种容器</align>
+                        </td>
+                        <td col="4" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="552"></entry><entry type="card-big" count="1" id="551"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">盛装<entry type="link-img" count="0" id="769"></entry>的对应容器</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="0" id="745"></entry></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="552"></entry><entry type="card-big" count="1" id="551"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">盛装<entry type="link-img" count="0" id="769"></entry>的任意一种容器</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1" id="769"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="1" id="370"></entry><entry type="card-big" count="1" id="371"></entry><entry type="card-big" count="1" id="552"></entry></align>
+                            <align value="center"><entry type="card-big" count="1" id="551"></entry><entry type="card-big" count="1" id="1231"></entry><entry type="card-big" count="1" id="1461"></entry></align>
+                            <align value="center">与原料对应的空容器</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

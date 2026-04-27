@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1073</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283545"},"item":{"name":"离群之狼","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1769777683","lastAuditPassedAt":"1769868156","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>离群之狼</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260130/856392/697bb4904973d8a1133ff24e_56331367.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>叙事活动</b>
+    </description>
+    <chapters name="活动说明">
+        <chapter size="large" name="离群之狼">
+            <table header="row" widths="580,580">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>关联活动</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">·完成主线任务「第一章-进程Ⅳ-四方会议」</align>
+                        <align value="center">·权限等阶≥39级</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="link-img" count="0" id="148"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="large" name="">
+            <tab name="狼卫纪事" icon="">
+                <line kind="5"></line>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1" colspan="3">
+                            <align value="center"><b>地点</b></align>
+                        </th>
+                        <th col="4" colspan="3">
+                            <align value="center"><b>前置任务</b></align>
+                        </th>
+                        <th col="7" colspan="3">
+                            <align value="center"><b>后续任务</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center">供能高地</align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center">/</align>
+                        </td>
+                        <td col="7" colspan="3">
+                            <align value="center">/</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="1"></line>
+
+                <table header="row" widths="105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545,105.45454545454545">
+                    <tr>
+                        <th col="1" colspan="11">
+                            <align value="center"><b>进程</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>管理员接到洛茜发来的通信，得知她似乎有件要急事要找自己帮忙</b>
+                            <i>·查看</i><b><i>洛茜</i></b><i>发来的消息</i>
+                            （<b>BAKER/事务通讯</b>
+                            <b>洛茜：</b>管理员......
+                            <b>洛茜：</b>那个......您现在忙吗？
+                            <b>管理员：</b>怎么了？遇到什么麻烦了？
+                            <b>洛茜：</b>就是，邮件要紧事找您！
+                            <b>洛茜：</b>等您来矿区营地这边再详细说吧。
+                            <b>管理员：</b>我知道了，这就过来。)
+                            <i>· 与</i><b><i>洛茜</i></b><i>交谈</i>
+                            <i>· 通过</i><b><i>扫描</i></b><i>，追踪</i><b><i>狼卫</i></b><i>的痕迹</i>
+                            <i>·  通过</i><b><i>扫描</i></b><i>，继续追踪</i><b><i>狼卫</i></b><i>的痕迹</i>
+                            <i>· 通过</i><b><i>扫描</i></b><i>，进一步追踪</i><b><i>狼卫</i></b><i>的痕迹</i>
+                            <i>· 找到</i><b><i>狼卫</i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>沉浸模式：</b>
+                            <i>· 寻找叛徒留下的</i><b><i>线索</i></b>
+                            <i>· 击败</i><b><i>裂地者 </i></b><i>（</i><entry type="link-img" count="1" id="715"></entry><entry type="link-img" count="1" id="730"></entry><entry type="link-img" count="1" id="757"></entry><i>）</i>
+                            <i>· 寻找叛徒留下的</i><b><i>线索</i></b>
+                            <i>· 击败</i><b><i>裂地者</i></b><i>（</i><entry type="link-img" count="2" id="715"></entry><i>）</i>
+                            <i>· 通过</i><b><i>扫描</i></b><i>，追踪施术痕迹</i>
+                            <i>· 击败</i><b><i>裂地者</i></b>
+                            <i>· 跟随</i><b><i>乔万尼</i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>了解狼卫的目的后，管理员决定与他一起继续追查狼群叛徒的踪迹</b>
+                            <i>· 与</i><b><i>狼卫</i></b><i>交谈</i>
+                            <i>· </i><i><u>（可选）</u></i><i>与</i><b><i>乔万尼</i></b><i>交谈</i>
+                            <i>· 进入</i><b><i>谷地通道内部</i></b>
+                            <i>· 从</i><b><i>工团成员处</i></b><i>收集线索</i>
+                            <i>· 使用</i><b><i>扫描</i></b><i>功能，寻找失踪的工团成员</i>
+                            <i>· 与</i><b><i>乔万尼</i></b><i>会合</i>
+                            <i>· 击败</i><b><i>裂地者</i></b>
+                            <i>· 与</i><b><i>乔万尼</i></b><i>交谈</i>
+                            <i>· 击败驻守的</i><b><i>裂地者</i></b>
+                            <i>· 击败</i><b><i>裂地者</i></b>
+                            <i>· 寻找</i><b><i>地下营地的入口</i></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            tips：为了探寻狼族叛徒的内情，狼卫和管理员与嫌疑重重的乔万尼相互试探了一路......如今，这场戏剧即将在此迎来落幕。
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="11">
+                            <b>沉浸模式：</b>
+                            <i>·探索</i><b><i>地下营地</i></b>
+                            <i>·击败</i><b><i>裂地者</i></b>
+                            <i>·寻找打开大门的 方法</i>
+                            <i>·继续探索</i><b><i>地下营地</i></b>
+                            <i>·击败</i><b><i>裂地者</i></b><i>（</i><entry type="link-img" count="1" id="730"></entry><i>）</i>
+                            <i>·继续探索</i><b><i>地下营地</i></b>
+                            <i>·击败</i><b><i>裂地者</i></b>
+                            <i>·继续探索</i><b><i>地下营地</i></b>
+                            <i>·追上</i><b><i>乔万尼</i></b>
+                            <i>·关闭</i><b><i>引燃装置</i></b>
+                            <i>·前往</i><b><i>地下营地更深处</i></b>
+                            <i>·击败</i><b><i>裂地者</i></b>
+                            <i>·启动</i><b><i>电梯</i></b>
+                            <i>·前往</i><b><i>地下营地更深处</i></b>
+                            <i>·击败</i><b><i>裂地者头目</i></b><i>（</i><entry type="link-img" count="1" id="762"></entry><i>）</i>
+                            <i>·离开</i><b><i>地下营地</i></b>
+                            <i>·找到</i><b><i>狼卫</i></b>
+                        </td>
+                    </tr>
+                </table>
+
+                <line kind="1"></line>
+
+                <table header="row" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <th col="1" colspan="6">
+                            <align value="center"><b>任务奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><entry type="card-big" count="600" id="926"></entry></align>
+                        </td>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="14100" id="19"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="5" id="212"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="26" id="223"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="4" id="224"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="600" id="14"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

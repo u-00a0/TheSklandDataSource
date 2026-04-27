@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>60</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283035"},"item":{"name":"浪潮","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150070","lastAuditPassedAt":"1774961593","tagIds":["10004","10226"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>浪潮</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/14/4898765/cafdf9f78f54077d77fbed07b0d1678c.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10223">10226</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-梅什科工业的中端产品之一。潮流新锐的造型，惊人的性价比，使其成为环塔商会的时尚消费新宠。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>浪潮</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/3644013/a7744d5089aeaa230548473aa6aaa594.gif</imgUrl>
+                    <description>基础攻击力 34</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·小 </color></b><b>1/3</b>
+                <h3><b>智识</b><b><color value="f_blue">+12</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">攻击提升·小 </color></b><b>1/3</b>
+                <h3><b>攻击力</b><b><color value="f_blue">+3.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">追袭·生生不息</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>装备者施放连携技时，攻击力<color value="f_blue">+12.0%</color>，持续20秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>浪潮</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/3644013/b3d0b0f4beb58e5d2060faf2bafc7949.gif</imgUrl>
+                    <description>基础攻击力 341</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·小 </color></b><b>9/9</b>
+                <h3><b>智识</b><b><color value="f_blue">+93</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">攻击提升·小 </color></b><b>9/9</b>
+                <h3><b>攻击力</b><b><color value="f_blue">+23.4%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">追袭·生生不息</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>装备者施放连携技时，攻击力<color value="f_blue">+33.6%</color>，持续20秒。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>大世界探索获取</li>
+                    <li>武器池抽卡抽取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="智识提升·小" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <b>智识</b><b><color value="f_blue">+12</color></b>
+                        </td>
+                        <td col="2">
+                            <b>智识</b><b><color value="f_blue">+21</color></b>
+                        </td>
+                        <td col="3">
+                            <b>智识</b><b><color value="f_blue">+31</color></b>
+                        </td>
+                        <td col="4">
+                            <b>智识</b><b><color value="f_blue">+40</color></b>
+                        </td>
+                        <td col="5">
+                            <b>智识</b><b><color value="f_blue">+50</color></b>
+                        </td>
+                        <td col="6">
+                            <b>智识</b><b><color value="f_blue">+60</color></b>
+                        </td>
+                        <td col="7">
+                            <b>智识</b><b><color value="f_blue">+69</color></b>
+                        </td>
+                        <td col="8">
+                            <b>智识</b><b><color value="f_blue">+79</color></b>
+                        </td>
+                        <td col="9">
+                            <b>智识</b><b><color value="f_blue">+93</color></b>
+                        </td>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="466"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="攻击提升·小" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+3.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+5.4%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+7.8%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+10.2%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+12.6%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+15.0%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+17.4%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+19.8%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+23.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="466"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="追袭·生生不息" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>装备者施放连携技后时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+14.4%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+16.8%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+19.2%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+21.6%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+24.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+26.4%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+28.8%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+33.6%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="466"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,196,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 100</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 169</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>1/3</b>
+                            <b>智识</b><b><color value="r_3">+12</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+21</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>1/3</b>
+                            <b>攻击力</b><b><color value="r_3">+3.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+3.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 169</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 238</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+21</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+21</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+3.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>2/6</b>
+                            <b>攻击力</b><b><color value="r_3">+5.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 238</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 307</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+21</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+31</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>2/6</b>
+                            <b>攻击力</b><b><color value="r_3">+5.4%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>2/7</b>
+                            <b>攻击力</b><b><color value="r_3">+5.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="218"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 307</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <color value="s_2">基础攻击力</color><b><color value="s_1"> 341</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+31</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·小 </color></b><b>3/9</b>
+                            <b>智识</b><b><color value="r_3">+31</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>2/7</b>
+                            <b>攻击力</b><b><color value="r_3">+5.4%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·小 </color></b><b>3/9</b>
+                            <b>攻击力</b><b><color value="r_3">+7.8%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">追袭·生生不息 </color></b><b>1/4</b>
+                            <b>装备者施放连携技时，攻击力</b><b><color value="r_3">+12.0%</color></b><b>，持续20秒。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            在荒地的某个角落，一队重型大篷车熄火停在一道路障前。风卷起覆在地面的黄沙刮过车窗，远处隐隐传来爆炸和撞击地面的轰鸣。
+            年轻的司机摇下车窗，探出头喊道:“这鬼天气，又要下雨！前面是又有天使拦路?这个月遇到第三次了！”
+            年迈的司机下了车，身后大篷车上的源石装置正擦拭着挡风玻璃上的黄沙:“我看到调度站派来的应急队已经上去了。看见前面那辆工程车没？他们已经在清理路上的碎石了。
+            “欸，老哥，看你年龄挺大的，有见过什么比较特别的天使吗？”年轻司机好奇地问道。
+            年迈司机点起了烟:“十年前，在这附近的一个定居点见过一个大家伙，比大篷车都要高。当时我看见一个司机连滚带爬地上了车。”
+            “他跑掉了吗？”
+            “那天使也跟着往车上爬，但没有站稳，带着大篷车的货箱滚了下去，被几十吨源石原矿压碎了。”
+            “那司机运气还挺好，碰到个不大聪明的天使。听说当时这块到处都是天使？”
+            “可比那糟多了。”年老的司机吐着烟圈,“没有这条公路，没有商会的调度站，也没有会来支援的队伍。那时候，这周围的几个定居点无论大小，都经常会为了几个罐头和来抢东西的裂地者动手。”
+            年轻司机顿时来了兴致，将半个身子探出了车窗:“欸，为了几个罐头都能和裂地者动手，那是怎么发展成现在那么多人在这里卖工艺品？我看还有从耶尔什来的。”
+            “和商会刚建立时一样，最开始是十几个经验丰富的司机自发地跑这里来送货，带我的师傅也在那支队伍里面。”年老的司机笑了笑，“看见那边那个终末地工业的驻地没?十年前那里断了次粮，我们就冒险穿过这片原本裂地者频繁出没的区域，那也是我第一次开大篷车，把粮食给送了进去。”
+            “我想他们肯定抱着粮食痛哭吧。”
+            “没，在我们到达前，一帮裂地者不知死活地去找他们麻烦，结果被打得落荒而逃。他们缴了裂地者的干粮，好歹垫垫肚子。”
+        </chapter>
+    </chapters>
+</sklandDocument>

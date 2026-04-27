@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>701</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283358"},"item":{"name":"流言蜚语","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768150940","lastAuditPassedAt":"1767793064","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>流言蜚语</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/07/402818/016e0b189ea1424e9cbaad9cf056c9b4.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">枢纽区</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>描述</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        集成工业研究所的分管负责人希茜疑似失踪。前往求援信息指示地点，确保人员安全。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        灾害发生时，集成工业研究所的分管负责人希茜正在前往停车场。前去该位置查看，展开搜救。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        管理员顺利清理了停车场区域的天使，救出了集成工业研究所的分管负责人希茜。不过，异常聚集的天使引起了众人的注意。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        人们仍在顾虑终末地工业对天使的“研究”。与秦茳尺一起前去解释原委，争取信任。
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往<b>停车场</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        击败聚集的天使
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        寻找<b>希茜</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        击败天使
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        护送<b>希茜</b>离开
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        探明天使聚集的原因
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>秦茳尺</b>会合
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往目标地点
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        寻找进入的方法
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>受困人员</b>交谈
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="232,232,232,232,232">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="60" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="3300" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="15" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="11" id="225"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="240" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>457</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283234"},"item":{"name":"高纯基质·附术","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"7","name":"武器基质","fatherTypeId":"1","style":7,"status":2,"position":4,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10264","children":[{"id":"10265","children":[],"name":"浑浊","type":1,"value":"","hide":false},{"id":"10268","children":[],"name":"稳定","type":1,"value":"","hide":false},{"id":"10267","children":[],"name":"净态","type":1,"value":"","hide":false},{"id":"10269","children":[],"name":"高纯","type":1,"value":"","hide":false},{"id":"10266","children":[],"name":"无瑕","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4179300744269","nickname":"二分桃酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"},"createdUser":{"id":"4179300744269","nickname":"二分桃酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"},"status":2,"publishedAtTs":"1767799727","lastAuditPassedAt":"1776681286","tagIds":["10004","10269"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>高纯基质·附术</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260201/490491/697e5d562687d7923e489e9c_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10264">10269</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可以注入到武器内，提升武器技能等级。</b>
+        击败危险敌人掉落的活性化物质，可以用于调整武器，强化特殊武器性能。此样品为<color value="r_4">高纯级</color>。
+        <color value="s_3">该基质的属性词条数量为</color><b><color value="s_1">3</color></b><color value="s_3">条</color>
+    </description>
+    <chapters name="基质属性">
+        <chapter size="large" name="该基质必定出现的技能属性">
+            <table header="none" widths="430,236,100,235,159">
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="s_2">属性名称</color></b></align>
+                    </td>
+                    <td col="2" colspan="3">
+                        <align value="center"><b><color value="s_2">属性词条初始数值</color></b></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><b><color value="s_2">蚀刻上限</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>附术</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="该基质可能出现的基础属性">
+            <table header="none" widths="430,238,100,236,156">
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="s_2">属性名称</color></b></align>
+                    </td>
+                    <td col="2" colspan="3">
+                        <align value="center"><b><color value="s_2">属性词条初始数值</color></b></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><b><color value="s_2">蚀刻上限</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>力量提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>敏捷提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>智识提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>意志提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>主能力提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="该基质可能出现的附加属性">
+            <table header="none" widths="430,238,100,236,156">
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="s_2">属性名称</color></b></align>
+                    </td>
+                    <td col="2" colspan="3">
+                        <align value="center"><b><color value="s_2">属性词条初始数值</color></b></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><b><color value="s_2">蚀刻上限</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>攻击提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>生命提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>暴击率提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>物理伤害提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>法术伤害提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>灼热伤害提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>电磁伤害提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>寒冷伤害提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>自然伤害提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>源石技艺提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>治疗效率提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>终结技充能效率提升</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="该基质可能出现的技能属性">
+            <table header="none" widths="179,100,100,100,100,181,100,100,100,100">
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="s_2">属性名称</color></b></align>
+                    </td>
+                    <td col="2" colspan="3">
+                        <align value="center"><b><color value="s_2">属性词条初始数值</color></b></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><b><color value="s_2">蚀刻上限</color></b></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b><color value="s_2">属性名称</color></b></align>
+                    </td>
+                    <td col="7" colspan="3">
+                        <align value="center"><b><color value="s_2">属性词条初始数值</color></b></align>
+                    </td>
+                    <td col="10">
+                        <align value="center"><b><color value="s_2">蚀刻上限</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>强攻</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b>压制</b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="8">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="9">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="10">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>追袭</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b>粉碎</b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="8">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="9">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="10">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>昂扬</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b>巧技</b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="8">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="9">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="10">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>残暴</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b><color value="s_4">附术</color></b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center"><color value="s_4">+1</color></align>
+                    </td>
+                    <td col="8">
+                        <align value="center"><color value="s_4">~</color></align>
+                    </td>
+                    <td col="9">
+                        <align value="center"><color value="s_4">+3</color></align>
+                    </td>
+                    <td col="10">
+                        <align value="center"><color value="s_4">—</color></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>医疗</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b>切骨</b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="8">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="9">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="10">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>迸发</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b>夜幕</b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="8">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="9">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="10">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>流转</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><b>效益</b></align>
+                    </td>
+                    <td col="7">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="8">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="9">
+                        <align value="center">+3</align>
+                    </td>
+                    <td col="10">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+            </table>
+            <color value="r_2">注意：</color><color value="s_3">出现复数技能属性词条时，其他技能属性词条的初始数值</color><color value="f_red">不会</color><color value="s_3">大于定名技能的初始数值</color>
+        </chapter>
+    </chapters>
+    <chapters name="获取方式">
+        <chapter size="large" name="所属区域">
+            <tab name="四号谷地" icon="">
+                <ul>
+                    <li>
+                        <b>重度能量淤积点</b>
+                        <ul>
+                            <li><color value="s_2">重度能量淤积点·源石研究园</color></li>
+                            <li><color value="s_2">重度能量淤积点·矿脉源区</color></li>
+                            <li><color value="s_2">重度能量淤积点·供能高地</color></li>
+                        </ul>
+                    </li>
+                    <li><b>敌人掉落</b></li>
+                </ul>
+
+                <color value="r_2">注意：</color><color value="s_3">通过预刻写获得的基质必定同时出现三类属性词条</color>
+            </tab>
+            <tab name="武陵" icon="">
+                <ul>
+                    <li>
+                        <b>重度能量淤积点</b>
+                        <ul>
+                            <li><color value="s_2">重度能量淤积点·首墩</color></li>
+                        </ul>
+                    </li>
+                    <li><b>敌人掉落</b></li>
+                </ul>
+
+                <color value="r_2">注意：</color><color value="s_3">通过预刻写获得的基质必定同时出现三类属性词条</color>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>207</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283107"},"item":{"name":"据点建设·基建前站·其一","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1768902953521","nickname":"萨奕义","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/25/7d8ffdad421150776db82a42efba8c65.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1768151258","lastAuditPassedAt":"1770043921","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>据点建设·基建前站·其一</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/30/402818/0132faca6e2556bc2fb2892c317ee165.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">源石研究园</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="667"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="link-img" count="0" id="332"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <i>·提升</i><b><i>据点发展值</i></b><i>至当前上限</i>
+                        <i>·查看</i><b><i>基建前站临时通讯群</i></b><i>的消息</i>
+                        （<b>BAKER/事务通讯</b>
+                        <b>大潘：</b>终末地的各位，你们在忙吗？
+                        <b>陈千语：</b>潘叔？出啥事了？
+                        <b>大潘：😔</b>
+                        <b>大潘：</b>诺夫曼带人出去搜救，到现在还没回来，怕是碰上麻烦了。
+                        <b>管理员：</b>怎么了？他又带人出去了？
+                        <b>大潘：</b>和失踪的那三个工友有关。他一听说可能有线索，立马就跟着去了。
+                        <b>佩丽卡：</b>您把大概位置发过来，我们这就出发。
+                        <b>管理员：</b>嗯，到时候就在那里会合吧。）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>管理员从大潘那里得知，基建前站负责人诺夫曼带队进行搜救，却久久未归。管理员决定出发寻找诺夫曼。</b>
+                        <i>·前往指定地点，调查诺夫曼的下落</i>
+                        <i>·击败裂地者</i>
+                        <i>·继续寻找诺夫曼</i>
+                        <i>·与诺夫曼交谈</i>
+                        <i>·在</i><b><i>伤员附近</i></b><i>修建滑索并为其供电</i>
+                        <i>·在</i><b><i>据点附近</i></b><i>修建滑索并为其供电</i>
+                        <i>·乘坐滑索，接应伤员</i>
+                        <i>·与诺夫曼交谈</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="585,575">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

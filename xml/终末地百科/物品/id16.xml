@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>16</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283013"},"item":{"name":"信用","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1766384649","lastAuditPassedAt":"1771309138","tagIds":["10004","10257","10256"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>信用</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/07/3048259/ee67c1c5cf97ffd2fc5074233d90a449.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10253">10257</subType>
+            <subType id="10254">10256</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可用于在采购中心 - 信用交易处兑换养成材料等重要资源。</b>
+        <color value="s_3">友谊的见证。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>采购中心 - 信用交易所获取。</b>
+            <ul>
+                <li>每日凌晨 <b>4:00 </b>后可以在<b><color value="r_5">信用交易所</color></b>获取每日固定奖励<entry type="link-img" count="300" id="16"></entry>，同时清除玩家拥有信用数量超出 <b>300</b> 的部分。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>帝江号-生产助力与物资调度终端等。</b>
+            <ul>
+                <li>在帝江号上有多种途径可以获得信用：</li>
+            </ul>
+            <table header="row" widths="196,628,336">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>相关地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>获取途径</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>获取数量</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="4">
+                        <align value="center"><b><color value="r_5">帝江号-会客室</color></b></align>
+                    </td>
+                    <td col="2">
+                        开展<b><color value="r_5">情报交流</color></b>。
+                    </td>
+                    <td col="3">
+                        每次<entry type="link-img" count="400" id="16"></entry>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="2">
+                        <b><color value="r_5">情报交流</color></b>期间好友助力。
+                    </td>
+                    <td col="3">
+                        每次<entry type="link-img" count="15" id="16"></entry>，上限20人
+                    </td>
+                </tr>
+                <tr>
+                    <td col="2">
+                        向好友赠予对方<b>已有</b>线索。
+                    </td>
+                    <td col="3">
+                        每份<entry type="link-img" count="30" id="16"></entry>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="2">
+                        向好友赠予对方<b>需求</b>线索。
+                    </td>
+                    <td col="3">
+                        每份<entry type="link-img" count="40" id="16"></entry>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="r_5">帝江号-生产终端</color></b></align>
+                    </td>
+                    <td col="2">
+                        好友售出物资。
+                    </td>
+                    <td col="3">
+                        根据货品总售价每日获得最多<entry type="link-img" count="60" id="16"></entry>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2">
+                        <align value="center">好友的帝江号</align>
+                    </td>
+                    <td col="2">
+                        前往好友的帝江号<b><color value="r_5">生产终端</color></b>处可以进行生产助力。
+                    </td>
+                    <td col="3">
+                        每次<entry type="link-img" count="20" id="16"></entry>，每日最多5次
+                    </td>
+                </tr>
+                <tr>
+                    <td col="2">
+                        参与好友的<b><color value="r_5">情报交流</color></b>。
+                    </td>
+                    <td col="3">
+                        每次<entry type="link-img" count="50" id="16"></entry>，每日最多5次
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <b>采购中心 - 信用交易所购买物品。</b>
+            <ul>
+                <li>
+                    <b><color value="r_5">信用交易所</color></b>中的出售物品每日凌晨 <b>4:00 </b>都会自动刷新，也可以花费信用手动刷新。
+                    <ul>
+                        <li>每名玩家每日仅能进行4次刷新，首次刷新花费<entry type="link-img" count="80" id="16"></entry>，之后每一次刷新的价格都会递增<entry type="link-img" count="40" id="16"></entry>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

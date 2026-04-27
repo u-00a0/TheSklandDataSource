@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>81</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283045"},"item":{"name":"终点之声","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150314","lastAuditPassedAt":"1772095224","tagIds":["10005","10225"]},"brief":{"associate":{"id":"94e1b2da1900c1dcab313abf4c3ff144","name":"终点之声","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>终点之声</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/cb0a7a607ef53fb880b4a02038cf3a54.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10223">10225</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-梅什科工业小规模生产的特别产品。本品是梅什科工业与骑士竞技专家克伦威尔合作系列的最后一款设计。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>终点之声</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/f5109790df642fc3638141ae88e3f5a3.gif</imgUrl>
+                    <description>基础攻击力 42</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·中 </color></b><b>1/3</b>
+                <h3><b>力量</b><b><color value="f_blue">+16</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·中 </color></b><b>1/3</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+8.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·骑士荣光</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>副能力<color value="f_blue">+5.0%</color>。</h3>
+                <h3>连携技造成的治疗效果<color value="f_blue">+20.0%</color>。</h3>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>终点之声</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/6f9b9e4c949cfa09cb9ac00490196341.gif</imgUrl>
+                    <description>基础攻击力 411</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·中 </color></b><b>9/9</b>
+                <h3><b>力量</b><b><color value="f_blue">+124</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·中 </color></b><b>9/9</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+62.4%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·骑士荣光</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>副能力<color value="f_blue">+14.0%</color>。</h3>
+                <h3>连携技造成的治疗效果<color value="f_blue">+56.0%</color>。</h3>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li>四号谷地-物资调度获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="力量提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+54</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+67</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+80</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+92</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+105</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+124</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="生命提升·中" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+20.8%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+27.2%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+33.6%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+40.0%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+46.4%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+52.8%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+62.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="医疗·骑士荣光" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>副能力</b>
+                            <b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>副能力</b>
+                            <b><color value="r_3">+6.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+24.0%</color></b><b>。</b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>副能力</b>
+                            <b><color value="r_3">+7.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+28.0%</color></b><b>。</b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>副能力</b>
+                            <b><color value="r_3">+8.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+32.0%</color></b><b>。</b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>副能力</b>
+                            <b><color value="r_3">+9.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+10.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+40.0%</color></b><b>。</b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+11.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+44.0%</color></b><b>。</b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+12.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+48.0%</color></b><b>。</b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>副能力</b><b><color value="r_3">+14.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+56.0%</color></b><b>。</b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,190,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 120</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 203</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>1/3</b>
+                            <b>力量</b><b><color value="r_3">+16</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/5</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>1/3</b>
+                            <b>最大生命值</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 203</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 286</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/5</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+8.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 286</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 369</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+28</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="218"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 369</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 411</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·中 </color></b><b>3/9</b>
+                            <b>力量</b><b><color value="r_3">+41</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+14.4%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·中 </color></b><b>3/9</b>
+                            <b>最大生命值</b><b><color value="r_3">+20.8%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·骑士荣光 </color></b><b>1/4</b>
+                            <b>副能力</b><b><color value="r_3">+5.0%</color></b><b>。</b>
+                            <b>连携技造成的治疗效果</b><b><color value="r_3">+20.0%</color></b><b>。</b>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            “黑骑士朴实刚健，技艺精湛。她不借助任何源石技艺便能力压群雄，看似以力破巧，实际上招招看准要害。每逢兵刃交击，黑骑士都屡占上风，说明她对支点与平衡的掌握远超对手。据传这柄大剑并非黑骑士真正擅长使用的武器，且曾有人目击她在谢拉格使用双锏血战千余士兵，足以证明我的猜想。
+            “血骑士力量更甚，战法也大有文章可作。相比黑骑士总是一点突破，此人实际更加擅长利用源石技艺制造压制局面，逼迫对方在自己期望的时机展开决战。一人成军，处处造势。
+            “耀骑士的战斗记录……多说无益，不是重点。她的高强技艺毋庸置疑，但大家心里都清楚，令她如此成功的根本原因并不是战斗本身。就算更换武器，改变战法，甚至换一个人，只要带着那样的理念在那个时刻挺身而出，切实行动，都能成为耀骑士——当然，这本身就已经无从学起了。“
+            …………
+            “这个骑士……应该是骑士吧。这份录像是什么时候，从哪里得来的？不……我不确定……但我对此人毫无印象。画面断断续续，敌人也乱七八糟，但他确实很强，不知为何，我总觉得他真正的战场应该在大海？你看他的身后……但他的身姿让我心潮澎湃，比起技艺，那股力量，那股愤怒，那简直是海浪组成的一首歌。对，歌声，我之前都在想什么？真相，联系……太亮了，好渴，渴，我要一一“
+
+            “没了？”
+            “到这儿就断了，字都没写完。先生写到这儿，突然就不省人事了。”
+            “你说，先生都这样了，这份草稿真的没问题吗？”
+            “别想太多，任务就是任务。把先生的手放回去，我们走。”
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>206</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283107"},"item":{"name":"据点建设·难民暂居处·其二","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1768151211","lastAuditPassedAt":"1769957203","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>据点建设·难民暂居处·其二</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/30/402818/54e490fe00738ed85e8009eddab32682.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">谷地通道</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="162"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="link-img" count="0" id="366"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>为难民暂居处供应所需物资，提升它的发展值。</b>
+                        <i>·提升</i><b><i>据点发展值</i></b><i>至当前上限</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>难民暂居处的建设工作已经进行了一段时间。与索斯交谈，确认据点的发展近况。</b>
+                        <i>·向</i><b><i>索斯</i></b><i>了解近况</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>陈千语有些担心阿杜的状态。找到阿杜，确认他在做什么。</b>
+                        <i>·和</i><b><i>阿杜</i></b><i>聊一聊</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>阿杜坚持要外出营救幸存者。前往目标地点，帮助阿杜开展行动。</b>
+                        <i>·前往目标地点寻找</i><b><i>阿杜</i></b>
+                        <i>·寻找</i><b><i>幸存者</i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>管理员等人在裂地者聚集处救出了一名幸存者。返回难民暂居处，安置这位工人。</b>
+                        <i>·与难民暂居处的</i><b><i>众人</i></b><i>交谈</i>
+                        <i>·与</i><b><i>安德烈</i></b><i>联络</i>
+                        （<b>BAKER/事务通讯</b>
+                        <b>管理员：</b>安德烈，我们在难民暂居处安置了一位叫斯托布的乌萨斯工人。
+                        <b>管理员：</b>他想在据点搭把手，还特意让我们联系你。
+                        <b>安德烈：✨</b>斯托布？谢天谢地，听起来他没什么事。
+                        <b>安德烈：</b>我明白他的想法，请各位帮忙带点紫晶零件来集成核心区域吧。
+                        <b>管理员：🤨</b>你要紫晶零件做什么？
+                        <b>安德烈：</b>到时候您就知道了！）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>安德烈希望管理员带一下紫晶零件到集成核心区域。筹备所需的紫晶零件，交给安德烈。</b>
+                        <i>·将生产的</i><b><i>紫晶零件</i></b><i>放入背包</i>
+                        <i>·向</i><b><i>安德烈</i></b><i>提交紫晶零件</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="580,580">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

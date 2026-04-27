@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>162</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283084"},"item":{"name":"据点建设·难民暂居处·其一","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1768151200","lastAuditPassedAt":"1769956218","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>据点建设·难民暂居处·其一</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/30/402818/5e65c02531fb04d20e5c7afc1abf9919.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">谷地通道</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="link-img" count="0" id="206"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>为难民暂居处供应所需物资，提升它的发展值。</b>
+                        <i>·提升</i><b><i>据点发展值</i></b><i>至当前上限</i>
+                        <i>·查看</i><b><i>暂居处通讯群</i></b><i>的消息</i>
+                        （<b>BAKER/事务通讯</b>
+                        <b>索斯</b>：救急。
+                        <b>索斯：</b>快来帮忙。
+                        <b>陈千语：😮</b>
+                        <b>陈千语：</b>什么情况？
+                        <b>陈千语：😨</b>索斯？？？
+                        <b>管理员：</b>看来现在的情况不太正常。
+                        <b>佩丽卡：</b>我们直接去暂居处找他吧。）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>索斯发来了仓促的留言。前往难民暂居处，确认现场是否有状况发生。</b>
+                        <i>·前往</i><b><i>难民暂居处</i></b><i>查看情况</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>难民暂居处突然多了许多伤员。帮助阿吉，给暂居处的伤员们分发物资。</b>
+                        <i>·向</i><b><i>伤员们</i></b><i>分发物资</i>
+                        <i>·与</i><b><i>佩丽卡</i></b><i>会合</i>
+                        <i>·搜寻</i><b><i>卡贾</i></b><i>的踪迹</i>
+                        <i>·确认</i><b><i>难民暂居处</i></b><i>的现状</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>索斯希望管理员前往工人之家寻求更多帮助。和罗曼交谈，为支援难民暂居处进行准备。</b>
+                        <i>·前往工人之家寻找</i><b><i>罗曼</i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>罗曼准备亲自去难民暂居处提供帮助。协助罗曼备齐他需要的样本，并取回放在培育室的应急经验笔记。</b>
+                        <i>·取回罗曼的</i><b><i>应急经验笔记</i></b>
+                        <i>·获取</i><b><i>荞花</i></b><i>并放入背包</i>
+                        <i>·获取</i><b><i>柑实</i></b><i>并放入背包</i>
+                        <i>·将植物样本和笔记带给</i><b><i>罗曼</i></b>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>完成此任务可解锁<b><u>区域防护作战系列任务</u></b></li>
+            </ul>
+            <line kind="3"></line>
+            <table header="none" widths="571,589">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

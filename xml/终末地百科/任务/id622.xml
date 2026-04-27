@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>622</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283320"},"item":{"name":"送货任务","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768151441","lastAuditPassedAt":"1770117010","tagIds":["10271"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>送货任务</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/11/402818/07e7800ac1c978de75334e8faf94cb78.png</cover>
+        <subTypes>
+            <subType id="10270">10271</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><color value="r_5">四号谷地/武陵</color></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">解锁、升级该地区的<b><color value="f_brown">仓储节点</color></b></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>去指定仓储节点取货后，再将货物运送至指定目标处，即可获得尾款调度券。</b>
+                        <b>以较高的货物完整度送达时会获得额外尾款，完整度每降低一定程度则会损失一定尾款。</b>
+                        <i>·请前往指定仓储节点接取货物</i>
+                        <i>·把货物尽可能完整地送至</i><b><i><color value="f_brown">指定地点</color></i></b>
+                        <i>·</i><b><i><color value="f_brown">跳跃，受伤，使用协议传送</color></i></b><i>会损失完整度</i>
+                        <b><i><color value="f_brown">（每次跳跃损失1%；队内任意角色每次受伤损失1%；使用协议传送损失20%）</color></i></b>
+                        <b><i><color value="f_brown">（落水，坠崖等非常规受伤行为损失1%）</color></i></b>
+                        <b><i><color value="f_orange">（特别注意：回血属于受到负数的伤害，所以回血也会导致损失完整度。）</color></i></b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <i>·</i>把货物尽可能完整地送至<b><color value="f_brown">资源回收站</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">英格</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">陆言</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">基特</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">法比安·柯林斯</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">莫莉</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">越医生</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">库济米尼奇娜</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">里斯卡</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">彦宁</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">戈里昂</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">常沄</color></b>
+                        <i>·</i>把货物尽可能完整地交给<b><color value="f_brown">齐纶</color></b>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="580,580">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="0" id="32"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="0" id="382"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>294</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283149"},"item":{"name":"陈千语的信物","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"16","name":"贵重品库","fatherTypeId":"1","style":7,"status":2,"position":9,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10321","children":[{"id":"10323","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10326","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10325","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10327","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10330","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10324","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10322","children":[{"id":"10331","children":[],"name":"培养素材","type":1,"value":"","hide":false},{"id":"10329","children":[],"name":"任务物品","type":1,"value":"","hide":false},{"id":"10328","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"createdUser":{"id":"1225401989759","nickname":"玉酱不吃鱼子酱","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"},"status":2,"publishedAtTs":"1766383651","lastAuditPassedAt":"1769165921","tagIds":["10005","10330","10328"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>陈千语的信物</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/20/3048259/1e3f97130ab78efac80585af586b328e.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10321">10330</subType>
+            <subType id="10322">10328</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>用于提升陈千语的潜能。</b>
+        <color value="s_3"> 一根被精心修去了毛刺和树皮的树枝。年幼的她曾以此为剑，挥舞出自己心中的侠义。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            干员入职的馈赠，通过<b>寻访</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <line kind="5"></line>
+            <ul>
+                <li>提升干员<entry type="link-img" count="0" id="12"></entry>的潜能。具体提升如下：</li>
+            </ul>
+            <table header="row" widths="100,100,100,100,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>信物数量</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>武库配额</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>保障配额</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>集成配额</b></align>
+                    </th>
+                    <th col="5" colspan="2">
+                        <align value="center"><b>作用</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>1</b></align>
+                    </td>
+                    <td col="2" rowspan="6">
+                        <align value="center">200</align>
+                    </td>
+                    <td col="3" rowspan="6">
+                        <align value="center">10</align>
+                    </td>
+                    <td col="4" rowspan="5">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="5" colspan="2">
+                        <align value="center"><b>“绝影”</b></align>
+                        <align value="center">对生命值少于50%的敌人造成的伤害<color value="f_blueness">+20%</color>。</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>2</b></align>
+                    </td>
+                    <td col="5" colspan="2">
+                        <align value="center"><b>家传武学</b></align>
+                        <align value="center">敏捷<color value="f_blueness">+15</color>，造成的物理伤害<color value="f_blueness">+8%</color>。</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>3</b></align>
+                    </td>
+                    <td col="5" colspan="2">
+                        <align value="center"><b>双剑奇侠</b></align>
+                        <align value="center">战技<color value="r_3">归穹宇</color>、连携技<color value="r_3">见天河</color>和终结技<color value="r_3">冽风霜</color>的伤害倍率提升至原本的<color value="f_blueness">1.1</color>倍。</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>4</b></align>
+                    </td>
+                    <td col="5" colspan="2">
+                        <align value="center"><b>自研赤霄剑</b></align>
+                        <align value="center">终结技<color value="r_3">冽风霜</color>所需的终结技能量<color value="f_blueness">-15%</color>。</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>5</b></align>
+                    </td>
+                    <td col="5" colspan="2">
+                        <align value="center"><b>心兼人间</b></align>
+                        <align value="center">连携技<color value="r_3">见天河</color>的冷却时间<color value="f_blueness">-3</color>秒。</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>≥6</b></align>
+                    </td>
+                    <td col="4">
+                        <align value="center">20</align>
+                    </td>
+                    <td col="5" colspan="2">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>651</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283333"},"item":{"name":"幻觉","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768229451","lastAuditPassedAt":"1768227383","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>幻觉</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/12/402818/2a5179e864a8c9d80fcf41ab5c0b4920.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">源石研究园</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>描述</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        两个工团研究员正在因为一瓶药剂的丢失而感到困扰。了解情况后，管理员打算帮助他们。
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往<b>转运枢纽</b>寻找药剂
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往公路边的<b>工作平台</b>寻找药剂
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往“路断掉了”的地方寻找<b>药剂</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        击败<b>裂地者</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        带回林奈的药剂
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        追上吃了荞花的<b>长耳兽</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        给长耳兽喂<b>荞花</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        采集<b>荞花</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        带回<b>荞花</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        给长耳兽喂<b>柑实</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        追上吃了柑实的<b>长耳兽</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        采集<b>柑实</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        带回<b>柑实</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        跟随林奈，前往<b>实验场地</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        追上喝了药剂的<b>长耳兽</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        给长耳兽喂<b>林奈的药剂</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        采集<b>稀有真菌</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        带回<b>稀有真菌</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>林奈</b>交谈
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572,165.71428571428572">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="75" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="4600" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="14" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="11" id="225"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="8" id="223"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="300" id="14"></entry></align>
+                    </td>
+                    <td col="7">
+                        <align value="center"><entry type="card-big" count="0" id="44"></entry></align>
+                        <align value="center">制作蓝图</align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

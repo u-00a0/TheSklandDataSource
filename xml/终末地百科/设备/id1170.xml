@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1170</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283594"},"item":{"name":"二型耐酸水泵","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"5","name":"设备","fatherTypeId":"1","style":7,"status":2,"position":6,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10307","children":[{"id":"10309","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10311","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10310","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10312","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10370","children":[],"name":"金色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10244","children":[{"id":"10246","children":[],"name":"物流设备","type":1,"value":"","hide":false},{"id":"10247","children":[],"name":"资源开采","type":1,"value":"","hide":false},{"id":"10250","children":[],"name":"仓储存取","type":1,"value":"","hide":false},{"id":"10252","children":[],"name":"基础生产","type":1,"value":"","hide":false},{"id":"10248","children":[],"name":"合成制造","type":1,"value":"","hide":false},{"id":"10251","children":[],"name":"电力供应","type":1,"value":"","hide":false},{"id":"10249","children":[],"name":"功能设备","type":1,"value":"","hide":false},{"id":"10245","children":[],"name":"战斗辅助","type":1,"value":"","hide":false},{"id":"10333","children":[],"name":"种植调配","type":1,"value":"","hide":false},{"id":"10410","children":[],"name":"装饰物品","type":1,"value":"","hide":false}],"name":"设备类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"createdUser":{"id":"9769520938084","nickname":"陆刀刀","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"},"status":2,"publishedAtTs":"1776760724","lastAuditPassedAt":"1776704495","tagIds":["10003","10310","10247"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>二型耐酸水泵</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260417/3048259/69e241842f344b108650c852_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10000">10003</subType>
+            <subType id="10244">10247</subType>
+            <subType id="10307">10310</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>在通电状态下，用于抽取液体的设备，可以进行腐蚀性液体的抽取。</b>
+        <color value="s_3">据较不可靠消息，研发二型耐酸水泵的工程师们曾在帝江号食堂角落小声表示过对本产品的担忧。诚然沉积酸已被证明是一种足够安全的材料，但他们仍担心其是否会和其他天使相关物品发生不可控的反应，因此为该款水泵添加了应急锁定模块。</color>
+    </description>
+    <chapters name="相关来源">
+        <chapter size="middle" name="设备来源">
+            <line kind="5"></line>
+            <ul>
+                <li>在研究完成<b>耐酸技术</b>后可获得5台二型耐酸水泵。</li>
+                <li>
+                    在<b>协议核心</b>范围内，点击<b>工具箱-设备列表-制造设备</b>通过以下配方制造。
+                    <ul>
+                        <li><entry type="link-img" count="20" id="1128"></entry><b>→ 二型耐酸水泵（1）</b></li>
+                    </ul>
+                </li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="蓝图来源">
+            <line kind="5"></line>
+            在<b>武陵工业-武陵工业三期</b>研究<b>耐酸技术</b>获取。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="使用方式">
+        <chapter size="middle" name="相关信息">
+            <line kind="5"></line>
+            <b>二型耐酸水泵</b>是资源开采类型的机器，可以用于抽取更稀有的液体，典型液体如<b>沉积酸</b>。
+            <b>二型耐酸水泵</b>可放置在协议核心范围外。
+            <b>二型耐酸水泵</b>需要电力维持运转，1个<b>二型耐酸水泵</b>耗电功率值为20。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="small" name="面积需求">
+            <line kind="5"></line>
+            放置<b>二型耐酸水泵</b>需要长<b>3</b>格、宽<b>3</b>格的可用空地，且水泵的取水管必须接触液体或容器。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="相关配方">
+            <line kind="5"></line>
+            <b>二型耐酸水泵</b>支持以下合成配方。
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>原料需求</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>制作产物</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>消耗时长</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">清水存放点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="381"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1s</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">污水存放点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="1162"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1s</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">锦草溶液存放点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="201"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1s</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">芽针溶液存放点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="769"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1s</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">液化息壤存放点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1" id="892"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1s</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">液化重息壤存放点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">液化重息壤（1）</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1s</align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">沉积酸存放点</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">沉积酸（1）</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1s</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>366</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283186"},"item":{"name":"据点建设·难民暂居处·其三","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"status":2,"publishedAtTs":"1769955038","lastAuditPassedAt":"1769955131","tagIds":["10274"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>据点建设·难民暂居处·其三</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260201/856392/697f5bac3a151ae915611626_2f76db19.png</cover>
+        <subTypes>
+            <subType id="10270">10274</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">谷地通道</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="206"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>进程</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>为难民暂居处供应所需物资，提升它的发展值。</b>
+                        <i>·提升</i><b><i>据点发展值</i></b><i>至当前上限</i>
+                        <i>·查看</i><b><i>联络员菲奥娜</i></b><i>发来的消息</i>
+                        （<b>BAKER/事务通讯</b>
+                        <b>联络员菲奥娜：</b>管理员，卡贾托人留言，他想邀请你当面进行商谈。
+                        <b>联络员菲奥娜：</b>不过，他似乎希望你单独前往......而且也没在应急通讯群里直接问，我不明白为什么要这么做。
+                        <b>联络员菲奥娜：</b>总之情况就是这样，交给你判断啦。）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>卡贾希望能与管理员进行一次单独交谈。前往难民暂居处，与卡贾见面。</b>
+                        <i>·与</i><b><i>卡贾</i></b><i>交谈</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>卡贾想要为支援难民暂居处的各位准备一份惊喜。打探罗曼和安德烈的喜好，帮助卡贾准备礼物。</b>
+                        <i>·打探</i><b><i>罗曼</i></b><i>的喜好</i>
+                        <i>·打探</i><b><i>安德烈</i></b><i>的喜好</i>
+                        <i>·与</i><b><i>陈千语</i></b><i>交谈</i>
+                        <i>·返回难民暂居处，与</i><b><i>卡贾</i></b><i>交谈</i>
+                        <i>·制作</i><b><i>秘方醒神茶</i></b><i>并放入背包</i>
+                        <i>·制作</i><b><i>简易镇痛药膏</i></b><i>并放入背包</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>管理员准备好了适合送给罗曼与安德烈的礼物，庆祝活动即将开始。前往难民暂居处，加入大家的行列。</b>
+                        <i>·将两种礼物交给</i><b><i>卡贾</i></b>
+                        <i>·与</i><b><i>索斯</i></b><i>交谈</i>
+                        <i>·与</i><b><i>斯托布</i></b><i>交谈</i>
+                        <i>·与</i><b><i>卡贾</i></b><i>交谈</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="580,580">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="50" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="200" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

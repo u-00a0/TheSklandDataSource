@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>643</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283330"},"item":{"name":"童心速绘","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1770449697","lastAuditPassedAt":"1770962007","tagIds":["10275","10363"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>童心速绘</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260213/856392/698e3465249b73d6a939e545_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10270">10275</subType>
+            <subType id="10362">10363</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>拍照活动</b>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <table header="row" widths="290,290,290,290">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>相关活动</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>前置任务</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="link-img" count="0" id="393"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成主线「第一章 - 进程Ⅱ - 开拓前路」</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="small" name="任务详情">
+            <line kind="5"></line>
+            <h3><b>地点</b></h3>
+            <ul>
+                <li>
+                    <align value="center"><color value="r_5">枢纽区</color></align>
+                </li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>触发位置</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>相关人物</b></h3>
+            <ul>
+                <li><b><color value="f_brown">卡莉</color></b></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>任务道具</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>解锁内容</b></h3>
+            <quote>
+                <b>任务</b>
+            </quote>
+            <ul>
+                <li>/</li>
+            </ul>
+            <quote>
+                <b>功能</b>
+            </quote>
+            <ul>
+                <li><b>/</b></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="任务进程">
+            <line kind="5"></line>
+            <h2><b>进程</b></h2>
+            <b>工人之家的小女孩卡莉想要见管理员一面。前往工人之家，了解具体发生了什么。</b>
+            <ul>
+                <li><i>查看</i><b><i><color value="f_brown">菲奥娜</color></i></b><i>发来的消息</i></li>
+            </ul>
+            （<b>BAKER/事务通讯</b>
+            <b>联络员菲奥娜：</b>管理员，工人之家的工团成员们向我们提出申请，有个叫卡莉的小朋友想见管理员一面。
+            <b>管理员：</b>这个小朋友想见我一面？
+            <b>联络员菲奥娜：</b>据说她一个人跑去野外很多次。
+            <b>联络员菲奥娜：</b>最近一次被找到后，她就一直要见你，暂不清楚原因。
+            <b>联络员菲奥娜：</b>如果你现在有时间，请前往工人之家一趟，了解下情况吧。）
+            <ul>
+                <li><i>前往</i><b><i><color value="f_brown">工人之家</color></i></b><i>，与卡莉交谈</i></li>
+            </ul>
+            <line kind="1"></line>
+            <b>卡莉想要画一本让大家开心的故事书。帮助她完成故事书。</b>
+            <ul>
+                <li><i>帮助卡莉完成</i><b><i><color value="f_brown">故事书</color></i></b></li>
+            </ul>
+            <line kind="1"></line>
+            <b>帮卡莉完成故事书后，和卡莉聊一聊。</b>
+            <ul>
+                <li><i>和</i><b><i><color value="f_brown">卡莉</color></i></b><i>聊一聊</i></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="任务奖励">
+            <line kind="5"></line>
+            <align value="center"><entry type="card-big" count="4250" id="19"></entry></align>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>435</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283221"},"item":{"name":"稳定基质·效益","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"7","name":"武器基质","fatherTypeId":"1","style":7,"status":2,"position":4,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10264","children":[{"id":"10265","children":[],"name":"浑浊","type":1,"value":"","hide":false},{"id":"10268","children":[],"name":"稳定","type":1,"value":"","hide":false},{"id":"10267","children":[],"name":"净态","type":1,"value":"","hide":false},{"id":"10269","children":[],"name":"高纯","type":1,"value":"","hide":false},{"id":"10266","children":[],"name":"无瑕","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4179300744269","nickname":"二分桃酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"},"createdUser":{"id":"4179300744269","nickname":"二分桃酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/b1082582638888938555f12d59330e33.webp"},"status":2,"publishedAtTs":"1767799608","lastAuditPassedAt":"1767085541","tagIds":["10002","10268"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>稳定基质·效益</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/30/490491/c9e2098f3cbe64dd7db70ca57bc3edf4.png</cover>
+        <subTypes>
+            <subType id="10000">10002</subType>
+            <subType id="10264">10268</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>可以注入到武器内，提升武器技能等级。</b>
+        击败危险敌人掉落的活性化物质，可以用于调整武器，强化特殊武器性能。此样品为<color value="r_2">稳定级</color>。
+        <color value="s_3">该基质的属性词条数量为</color><b><color value="s_1">1</color></b><color value="s_3">条</color>
+    </description>
+    <chapters name="基质属性">
+        <chapter size="large" name="该基质必定出现的技能属性">
+            <table header="none" widths="430,236,100,235,159">
+                <tr>
+                    <td col="1">
+                        <align value="center"><b><color value="s_2">属性名称</color></b></align>
+                    </td>
+                    <td col="2" colspan="3">
+                        <align value="center"><b><color value="s_2">属性词条初始数值</color></b></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><b><color value="s_2">蚀刻上限</color></b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>效益</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">~</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">+1</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">—</align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="获取方式">
+        <chapter size="large" name="所属区域">
+            <tab name="四号谷地" icon="">
+                <ul>
+                    <li><b>能量淤积点</b></li>
+                    <li><b>敌人掉落</b></li>
+                </ul>
+            </tab>
+            <tab name="武陵" icon="">
+                <ul>
+                    <li><b>能量淤积点</b></li>
+                    <li><b>敌人掉落</b></li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

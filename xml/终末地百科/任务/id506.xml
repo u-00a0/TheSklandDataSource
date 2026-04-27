@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>506</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283263"},"item":{"name":"拍摄倒塌的天师桩","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768150825","lastAuditPassedAt":"1770644744","tagIds":["10271"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>拍摄倒塌的天师桩</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/11/402818/beffb7cd3d9a2bb888f5d05475a6b2a6.png</cover>
+        <subTypes>
+            <subType id="10270">10271</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><color value="r_5">景玉谷</color></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">解锁<b>武陵</b>地区<b>环境监测</b>功能</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="3"></line>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <b>一个被弃用的天师桩。需要收集生长在倒塌天师桩上的植被信息，协助对“是否有必要搬移倒塌天师桩”的调查评估。</b>
+                        <i>·前往拍摄倒塌的天师桩</i>
+                        <img>
+                            <id>6989e13e7e5ae7bb4fef8f20</id>
+                            <format>webp</format>
+                            <width>2560</width>
+                            <height>1600</height>
+                            <size>430900</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260209/856392/6989e13e7e5ae7bb4fef8f20_ef3391c4.webp</url>
+                            <description>随着新天师桩的部署，一些位置已不再关键的天师桩会被放弃，若不对当地生态造成影响便不会考虑搬移。</description>
+                        </img>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <align value="center"><entry type="card-big" count="210000" id="382"></entry></align>
+        </chapter>
+    </chapters>
+</sklandDocument>

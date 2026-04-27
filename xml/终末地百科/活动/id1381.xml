@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1381</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283667"},"item":{"name":"生存特训","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1776521402","lastAuditPassedAt":"1776870192","tagIds":["10369","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>生存特训</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260418/856392/69e30a80cacb3db10e65d783_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10276">10369</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>挑战活动</b>
+    </description>
+    <chapters name="活动展示">
+        <chapter size="large" name="">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69e30af62f344b108650cd2e</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>54232</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e30af62f344b108650cd2e_0095c241.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动时间</b></align>
+                    </td>
+                    <td col="2">
+                        2026/04/09 12:00 - 2026/04/30 04:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动奖励</b></align>
+                    </td>
+                    <td col="2">
+                        活动开放期间，完成挑战关卡，累计可获得<entry type="link-img" count="0" id="1460"></entry><entry type="link-img" count="0" id="926"></entry><entry type="link-img" count="0" id="216"></entry><entry type="link-img" count="0" id="290"></entry>等活动奖励。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务<entry type="link-img" count="0" id="1107"></entry>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>文本介绍</b></align>
+                    </td>
+                    <td col="2">
+                        为了让干员们适应荒野，克拉拉特意准备了恰到好处的生存训练。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>相关任务</b></align>
+                    </td>
+                    <td col="2">
+                        <entry type="link-img" count="0" id="1462"></entry>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="活动说明">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，完成挑战关卡，即可领取对应奖励。</li>
+                <li>活动共有8个挑战关卡。活动开启时，将会开放2个关卡。从第3日起，每日04:00（服务器时间）将会开放1个新的关卡。</li>
+                <li>通关全部挑战关卡后，可获得本活动的蚀刻章；在指定时间内通关最后一个挑战关卡，即可对该蚀刻章进行镀层。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="生存特训">
+            <tab name="物以类聚" icon="">
+                <line kind="5"></line>
+                “第一课！物以类聚，人以群分，兽......呃......虫......呃......总之有共性的生物往往会聚集在一起......”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <quote>
+                                <b>lv.40</b>
+                            </quote>
+                            <entry type="card-big" count="0" id="908"></entry><entry type="card-big" count="0" id="911"></entry>
+                        </th>
+                        <th col="2">
+                            <quote>
+                                <b>lv.15</b>
+                            </quote>
+                            <entry type="card-big" count="0" id="910"></entry>
+                        </th>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="50" id="223"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>击败所有敌人后获得胜利。</li>
+                    <li>潜地虬兽与原生钳兽死亡时，其毒液会残留在地面，对<b><color value="r_5">毒液范围内的单位造成伤害及减速效果。</color></b></li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="爆破练习" icon="">
+                <line kind="5"></line>
+                “第二课！当‘野兽’视您为敌人，您必须严肃待之！最大火力，不要手下留情！”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <quote>
+                    <b>lv.40</b>
+                </quote>
+                <entry type="card-big" count="0" id="757"></entry><entry type="card-big" count="0" id="715"></entry><entry type="card-big" count="0" id="730"></entry><entry type="card-big" count="0" id="732"></entry><entry type="card-big" count="0" id="913"></entry>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="25" id="212"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>利用工业爆炸物击败来袭的敌人，保护物资。</li>
+                    <li>火雾源石虫死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="虫海求生" icon="">
+                <line kind="5"></line>
+                “第三课！巧妙利用大自然的残酷，无论生命还是死亡，起始与终结都可以利用。”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <table header="row" widths="580,580">
+                    <tr>
+                        <th col="1">
+                            <quote>
+                                <b>lv.50</b>
+                            </quote>
+                            <entry type="card-big" count="0" id="908"></entry><entry type="card-big" count="0" id="910"></entry>
+                        </th>
+                        <th col="2">
+                            <quote>
+                                <b>lv.30</b>
+                            </quote>
+                            <entry type="card-big" count="0" id="918"></entry>
+                        </th>
+                    </tr>
+                </table>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="25" id="224"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>击败所有敌人后获得胜利。</li>
+                    <li>酸液源石虫·α<b><color value="r_5">抵达漂浮源石处会自爆造成大量伤害</color></b>，需要小心，其死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="多向爆破" icon="">
+                <line kind="5"></line>
+                “第四课！取舍。大自然向您展示的信息是复杂的，您需要取舍，请高效安排事务处理的顺序。”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <quote>
+                    <b>lv.50</b>
+                </quote>
+                <entry type="card-big" count="0" id="757"></entry><entry type="card-big" count="0" id="715"></entry><entry type="card-big" count="0" id="730"></entry><entry type="card-big" count="0" id="732"></entry><entry type="card-big" count="0" id="860"></entry><entry type="card-big" count="0" id="910"></entry><entry type="card-big" count="0" id="913"></entry>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="50" id="222"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>利用工业爆炸物击败来袭的敌人，保护物资。</li>
+                    <li>原生钳兽死亡时会<b><color value="r_5">对周围的敌人持续造成伤害</color></b>，善加利用可显著提升战斗效率。</li>
+                    <li>火雾源石虫死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="恶邻" icon="">
+                <line kind="5"></line>
+                “第五课！观察。无论是扎营，还是狩猎，选好您的目标，当然，也要选好您的邻居。”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <quote>
+                    <b>lv.60</b>
+                </quote>
+                <entry type="card-big" count="0" id="909"></entry><entry type="card-big" count="0" id="911"></entry>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="25" id="210"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>击败所有敌人后获得胜利。</li>
+                    <li>引诱斧甲兽撞击酸液源石虫，使酸液源石虫进入<b><color value="r_5">失衡状态</color></b>后，再利用<b><color value="r_5">处决伤害</color></b>或者斧甲兽的撞击击败酸液源石虫。</li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="城堡准则" icon="">
+                <line kind="5"></line>
+                “第六课！宣称。向眼前的一切，宣告您的领地范围。消灭入侵者！”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <quote>
+                    <b>lv.60</b>
+                </quote>
+                <entry type="card-big" count="0" id="1"></entry><entry type="card-big" count="0" id="9"></entry><entry type="card-big" count="0" id="353"></entry><entry type="card-big" count="0" id="757"></entry><entry type="card-big" count="0" id="715"></entry><entry type="card-big" count="0" id="730"></entry><entry type="card-big" count="0" id="732"></entry><entry type="card-big" count="0" id="860"></entry><entry type="card-big" count="0" id="910"></entry><entry type="card-big" count="0" id="360"></entry><entry type="card-big" count="0" id="913"></entry>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="50" id="214"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>利用工业爆炸物击败来袭的敌人，保护物资。</li>
+                    <li>原生钳兽死亡时会<b><color value="r_5">对周围的敌人持续造成伤害</color></b>，善加利用可显著提升战斗效率。</li>
+                    <li>火雾源石虫死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="野性苦果" icon="">
+                <line kind="5"></line>
+                “第七课！分析。请不要沉沦于荒地的野性，回忆起您人类的身份，分析这头凶暴野兽的弱点，击败它！”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <quote>
+                    <b>lv.65</b>
+                </quote>
+                <entry type="card-big" count="0" id="909"></entry>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="50" id="227"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>击败所有敌人后获得胜利。</li>
+                    <li>引诱斧甲兽撞击石块，使其进入<b><color value="r_5">失衡状态</color></b>后，再利用<b><color value="r_5">处决伤害</color></b>将其击败。</li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="最终考核" icon="">
+                <line kind="5"></line>
+                “那么，最终考核现在开始，请您尽力而为。”
+                <line kind="3"></line>
+                <h1>敌方情报</h1>
+                <quote>
+                    <b>lv.65</b>
+                </quote>
+                <entry type="card-big" count="0" id="909"></entry><entry type="card-big" count="0" id="911"></entry>
+                <line kind="3"></line>
+                <h1>奖励</h1>
+                <entry type="card-big" count="0" id="1460"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="15" id="290"></entry><entry type="card-big" count="1" id="216"></entry><entry type="card-big" count="40000" id="19"></entry>
+                <line kind="3"></line>
+                <h1>机制特性</h1>
+                <ul>
+                    <li>击败所有敌人后获得胜利。</li>
+                    <li>引诱斧甲兽撞击酸液源石虫，使酸液源石虫进入<b><color value="r_5">失衡状态</color></b>后，再利用<b><color value="r_5">处决伤害</color></b>或者斧甲兽的撞击击败酸液源石虫。</li>
+                </ul>
+                <u>※ 此项任务有记录排行榜</u>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+        <chapter size="large" name="详情机制">
+            <tab name="物以类聚" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e32034fd2b852705f8b813</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>61892</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e32034fd2b852705f8b813_96d20048.webp</url>
+                    <description>生存特训 - 物以类聚</description>
+                </img>
+                <align value="center">潜地虬兽与原生钳兽死亡时，其毒液会残留在地面，对<b><color value="r_5">毒液范围内的单位造成伤害及减速效果。</color></b></align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="爆破练习" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e32045fb782837ee03e64e</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>117020</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e32045fb782837ee03e64e_96d20048.webp</url>
+                    <description>生存特训 - 爆破练习</description>
+                </img>
+                <align value="center">利用工业爆炸物击败来袭的敌人，保护物资。</align>
+                <line kind="1"></line>
+                <img>
+                    <id>69e3204ccacb3db10e65d875</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>138442</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e3204ccacb3db10e65d875_91c496d2.webp</url>
+                    <description>生存特训 - 爆破练习</description>
+                </img>
+                <align value="center">火雾源石虫死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="虫海求生" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e32066cacb3db10e65d876</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>84882</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e32066cacb3db10e65d876_004865de.webp</url>
+                    <description>生存特训 - 虫海求生</description>
+                </img>
+                <align value="center">酸液源石虫·α<b><color value="r_5">抵达漂浮源石处会自爆造成大量伤害</color></b>，需要小心，其死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="多向爆破" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e31fc5fd2b852705f8b80f</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>113458</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e31fc5fd2b852705f8b80f_e71aef33.webp</url>
+                    <description>生存特训 - 多向爆破</description>
+                </img>
+                <align value="center">利用工业爆炸物击败来袭的敌人，保护物资。</align>
+                <line kind="1"></line>
+                <img>
+                    <id>69e31fd07c7aea6c28120edb</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>93082</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e31fd07c7aea6c28120edb_e71aef33.webp</url>
+                    <description>生存特训 - 多向爆破</description>
+                </img>
+                <align value="center">原生钳兽死亡时会<b><color value="r_5">对周围的敌人持续造成伤害</color></b>，善加利用可显著提升战斗效率。</align>
+                <line kind="1"></line>
+                <img>
+                    <id>69e31fdafd2b852705f8b810</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>138308</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e31fdafd2b852705f8b810_65de0095.webp</url>
+                    <description>生存特训 - 多向爆破</description>
+                </img>
+                <align value="center">火雾源石虫死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="恶邻" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e320742f344b108650cdfd</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>67670</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e320742f344b108650cdfd_e71aef33.webp</url>
+                    <description>生存特训 - 恶邻</description>
+                </img>
+                <align value="center">引诱斧甲兽撞击酸液源石虫，使酸液源石虫进入<b><color value="r_5">失衡状态</color></b>后，再利用<b><color value="r_5">处决伤害</color></b>或者斧甲兽的撞击击败酸液源石虫。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="城堡准则" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e3209fcacb3db10e65d878</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>113228</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e3209fcacb3db10e65d878_004865de.webp</url>
+                    <description>生存特训 - 城堡准则</description>
+                </img>
+                <align value="center">利用工业爆炸物击败来袭的敌人，保护物资。</align>
+                <line kind="1"></line>
+                <img>
+                    <id>69e320a6fb782837ee03e64f</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>92660</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e320a6fb782837ee03e64f_96d20048.webp</url>
+                    <description>生存特训 - 城堡准则</description>
+                </img>
+                <align value="center">原生钳兽死亡时会<b><color value="r_5">对周围的敌人持续造成伤害</color></b>，善加利用可显著提升战斗效率。</align>
+                <line kind="1"></line>
+                <img>
+                    <id>69e320ac7c7aea6c28120ee3</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>138788</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e320ac7c7aea6c28120ee3_96d20048.webp</url>
+                    <description>生存特训 - 城堡准则</description>
+                </img>
+                <align value="center">火雾源石虫死亡时会<b><color value="r_5">吸附周围的敌人</color></b>，善加利用可显著提升战斗效率。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="野性苦果" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e320ec7c7aea6c28120ee5</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>61588</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e320ec7c7aea6c28120ee5_ef3391c4.webp</url>
+                    <description>生存特训 - 野性苦果</description>
+                </img>
+                <align value="center">引诱斧甲兽撞击石块，使其进入<b><color value="r_5">失衡状态</color></b>后，再利用<b><color value="r_5">处决伤害</color></b>将其击败。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="最终考核" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69e3210a2f344b108650ce03</id>
+                    <format>webp</format>
+                    <width>1650</width>
+                    <height>853</height>
+                    <size>67372</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260418/856392/69e3210a2f344b108650ce03_0095c241.webp</url>
+                    <description>生存特训 - 最终考核</description>
+                </img>
+                <align value="center">引诱斧甲兽撞击酸液源石虫，使酸液源石虫进入<b><color value="r_5">失衡状态</color></b>后，再利用<b><color value="r_5">处决伤害</color></b>或者斧甲兽的撞击击败酸液源石虫。</align>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

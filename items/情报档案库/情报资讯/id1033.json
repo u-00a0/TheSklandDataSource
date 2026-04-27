@@ -1,0 +1,620 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1033"
+  },
+  "name": "加油吧！终末地",
+  "icon": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b681972dca5d7ffe125a_3eac6ad0.png",
+  "tags": [
+    "main:情报档案库",
+    "sub:情报资讯"
+  ],
+  "source": "情报档案库/情报资讯/id1033.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1777283526",
+    "data": {
+      "item": {
+        "itemId": "1033",
+        "document": {
+          "documentMap": {
+            "8AQ7DdVm": {
+              "id": "document-id",
+              "blockIds": [
+                "YLrcEaM75bWe"
+              ],
+              "blockMap": {
+                "IOYB75yOVZTs": {
+                  "id": "IOYB75yOVZTs",
+                  "parentId": "UtZknm_3nKKtL",
+                  "kind": "image",
+                  "image": {
+                    "id": "69d0b6f2b3527e6cc802d066",
+                    "url": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b6f2b3527e6cc802d066_0095c241.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "135162",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "LPiAcSFTocFd": {
+                  "id": "LPiAcSFTocFd",
+                  "parentId": "pEY6jP_3nKKtL",
+                  "kind": "image",
+                  "image": {
+                    "id": "69d0b6c53100547639e6de59",
+                    "url": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b6c53100547639e6de59_96d20048.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "122334",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "Lxt0ZpllXFXC": {
+                  "id": "Lxt0ZpllXFXC",
+                  "parentId": "J1l4Eb_OzZrho",
+                  "kind": "image",
+                  "image": {
+                    "id": "69d0b6e3972dca5d7ffe125c",
+                    "url": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b6e3972dca5d7ffe125c_ef3391c4.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "192552",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "NmlGpqRZ8ICw": {
+                  "id": "NmlGpqRZ8ICw",
+                  "parentId": "UtZknm_OzZrho",
+                  "kind": "image",
+                  "image": {
+                    "id": "69d0b6fb2d9e251705bec95d",
+                    "url": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b6fb2d9e251705bec95d_e71aef33.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "123104",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "Vq4tyAod7jf6": {
+                  "id": "Vq4tyAod7jf6",
+                  "parentId": "aZd7b7_3nKKtL",
+                  "kind": "image",
+                  "image": {
+                    "id": "69d0b7013100547639e6de5c",
+                    "url": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b7013100547639e6de5c_96d20048.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "65400",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "YLrcEaM75bWe": {
+                  "id": "YLrcEaM75bWe",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "YLrcEaM75bWe",
+                    "rowIds": [
+                      "pEY6jP",
+                      "J1l4Eb",
+                      "UtZknm",
+                      "aZd7b7"
+                    ],
+                    "columnIds": [
+                      "3nKKtL",
+                      "OzZrho"
+                    ],
+                    "rowMap": {
+                      "J1l4Eb": {
+                        "id": "J1l4Eb"
+                      },
+                      "UtZknm": {
+                        "id": "UtZknm"
+                      },
+                      "aZd7b7": {
+                        "id": "aZd7b7"
+                      },
+                      "pEY6jP": {
+                        "id": "pEY6jP"
+                      }
+                    },
+                    "columnMap": {
+                      "3nKKtL": {
+                        "id": "3nKKtL",
+                        "width": 580
+                      },
+                      "OzZrho": {
+                        "id": "OzZrho",
+                        "width": 580
+                      }
+                    },
+                    "cellMap": {
+                      "J1l4Eb_3nKKtL": {
+                        "id": "J1l4Eb_3nKKtL",
+                        "childIds": [
+                          "iKIPKJPstc7A"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "J1l4Eb_OzZrho": {
+                        "id": "J1l4Eb_OzZrho",
+                        "childIds": [
+                          "Lxt0ZpllXFXC"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "UtZknm_3nKKtL": {
+                        "id": "UtZknm_3nKKtL",
+                        "childIds": [
+                          "IOYB75yOVZTs"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "UtZknm_OzZrho": {
+                        "id": "UtZknm_OzZrho",
+                        "childIds": [
+                          "NmlGpqRZ8ICw"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aZd7b7_3nKKtL": {
+                        "id": "aZd7b7_3nKKtL",
+                        "childIds": [
+                          "Vq4tyAod7jf6"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "aZd7b7_OzZrho": {
+                        "id": "aZd7b7_OzZrho",
+                        "childIds": [
+                          "Zrdg9ZqAnSnr"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "pEY6jP_3nKKtL": {
+                        "id": "pEY6jP_3nKKtL",
+                        "childIds": [
+                          "LPiAcSFTocFd"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "pEY6jP_OzZrho": {
+                        "id": "pEY6jP_OzZrho",
+                        "childIds": [
+                          "zQAdFnqN0y1G"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "Zrdg9ZqAnSnr": {
+                  "id": "Zrdg9ZqAnSnr",
+                  "parentId": "aZd7b7_OzZrho",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "iKIPKJPstc7A": {
+                  "id": "iKIPKJPstc7A",
+                  "parentId": "J1l4Eb_3nKKtL",
+                  "kind": "image",
+                  "image": {
+                    "id": "69d0b6d0972dca5d7ffe125b",
+                    "url": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b6d0972dca5d7ffe125b_004865de.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "155934",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "zQAdFnqN0y1G": {
+                  "id": "zQAdFnqN0y1G",
+                  "parentId": "pEY6jP_OzZrho",
+                  "kind": "image",
+                  "image": {
+                    "id": "69d0b6ca3100547639e6de5a",
+                    "url": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b6ca3100547639e6de5a_91c496d2.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "60882",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "SquG8YVz": {
+              "id": "document-id",
+              "blockIds": [
+                "CXUjxGhMG3jA"
+              ],
+              "blockMap": {
+                "30CxeqHOUWnT": {
+                  "id": "30CxeqHOUWnT",
+                  "parentId": "C6t3zn_HmGxle",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "6INXHGiIn0Qi": {
+                  "id": "6INXHGiIn0Qi",
+                  "parentId": "C6t3zn_DcyBlb",
+                  "kind": "image",
+                  "image": {
+                    "id": "69e3092a7c7aea6c28120e12",
+                    "url": "https://bbs.hycdn.cn/image/common/20260418/3002335/69e3092a7c7aea6c28120e12_65de0095.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "65400",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "CXUjxGhMG3jA": {
+                  "id": "CXUjxGhMG3jA",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "CXUjxGhMG3jA",
+                    "rowIds": [
+                      "jla8dO",
+                      "rqDd83",
+                      "C6t3zn"
+                    ],
+                    "columnIds": [
+                      "DcyBlb",
+                      "HmGxle"
+                    ],
+                    "rowMap": {
+                      "C6t3zn": {
+                        "id": "C6t3zn"
+                      },
+                      "jla8dO": {
+                        "id": "jla8dO"
+                      },
+                      "rqDd83": {
+                        "id": "rqDd83"
+                      }
+                    },
+                    "columnMap": {
+                      "DcyBlb": {
+                        "id": "DcyBlb",
+                        "width": 580
+                      },
+                      "HmGxle": {
+                        "id": "HmGxle",
+                        "width": 580
+                      }
+                    },
+                    "cellMap": {
+                      "C6t3zn_DcyBlb": {
+                        "id": "C6t3zn_DcyBlb",
+                        "childIds": [
+                          "6INXHGiIn0Qi"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "C6t3zn_HmGxle": {
+                        "id": "C6t3zn_HmGxle",
+                        "childIds": [
+                          "30CxeqHOUWnT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "jla8dO_DcyBlb": {
+                        "id": "jla8dO_DcyBlb",
+                        "childIds": [
+                          "r6TPTsp34Ml1"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "jla8dO_HmGxle": {
+                        "id": "jla8dO_HmGxle",
+                        "childIds": [
+                          "wPBGXTUuM2z4"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rqDd83_DcyBlb": {
+                        "id": "rqDd83_DcyBlb",
+                        "childIds": [
+                          "zzXDVN6Utcml"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "rqDd83_HmGxle": {
+                        "id": "rqDd83_HmGxle",
+                        "childIds": [
+                          "cQh55FHKCt1C"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                },
+                "cQh55FHKCt1C": {
+                  "id": "cQh55FHKCt1C",
+                  "parentId": "rqDd83_HmGxle",
+                  "kind": "image",
+                  "image": {
+                    "id": "69e30925fd2b852705f8b722",
+                    "url": "https://bbs.hycdn.cn/image/common/20260418/3002335/69e30925fd2b852705f8b722_0095c241.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "131388",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "r6TPTsp34Ml1": {
+                  "id": "r6TPTsp34Ml1",
+                  "parentId": "jla8dO_DcyBlb",
+                  "kind": "image",
+                  "image": {
+                    "id": "69e3090b7c7aea6c28120e0f",
+                    "url": "https://bbs.hycdn.cn/image/common/20260418/3002335/69e3090b7c7aea6c28120e0f_004865de.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "122334",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "wPBGXTUuM2z4": {
+                  "id": "wPBGXTUuM2z4",
+                  "parentId": "jla8dO_HmGxle",
+                  "kind": "image",
+                  "image": {
+                    "id": "69e309137c7aea6c28120e11",
+                    "url": "https://bbs.hycdn.cn/image/common/20260418/3002335/69e309137c7aea6c28120e11_65de0095.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "156568",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "zzXDVN6Utcml": {
+                  "id": "zzXDVN6Utcml",
+                  "parentId": "rqDd83_DcyBlb",
+                  "kind": "image",
+                  "image": {
+                    "id": "69e309202f344b108650cd1e",
+                    "url": "https://bbs.hycdn.cn/image/common/20260418/3002335/69e309202f344b108650cd1e_004865de.webp",
+                    "width": "1200",
+                    "height": "1697",
+                    "size": "200606",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "status": "",
+                    "infos": []
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "2026年",
+              "widgets": [
+                {
+                  "id": "5AUd4UH2",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "5AUd4UH2": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1775285907059",
+                  "title": "第1话",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1776486634074",
+                  "title": "第2话",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1775285907059": {
+                  "intro": null,
+                  "content": "8AQ7DdVm",
+                  "audioList": []
+                },
+                "tab_1776486634074": {
+                  "intro": null,
+                  "content": "SquG8YVz",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "加油吧！终末地",
+        "mainType": {
+          "id": "3",
+          "name": "情报档案库",
+          "status": 2,
+          "position": 3,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "12",
+          "name": "情报资讯",
+          "fatherTypeId": "3",
+          "style": 5,
+          "status": 2,
+          "position": 18,
+          "icon": "",
+          "items": [],
+          "filterTagTree": []
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "3260573475636",
+          "nickname": "陇凉水",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2025/05/01/c7115b5e09aa451f2824c83f574b9677.png"
+        },
+        "createdUser": {
+          "id": "3260573475636",
+          "nickname": "陇凉水",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2025/05/01/c7115b5e09aa451f2824c83f574b9677.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260404/3002335/69d0b681972dca5d7ffe125a_3eac6ad0.png",
+          "name": "加油吧！终末地",
+          "description": null,
+          "associate": null,
+          "subTypeList": [],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1775286559",
+        "lastAuditPassedAt": "1776512103",
+        "tagIds": []
+      }
+    }
+  }
+}

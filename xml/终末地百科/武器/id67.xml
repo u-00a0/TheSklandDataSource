@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>67</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283038"},"item":{"name":"宏愿","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150139","lastAuditPassedAt":"1772544561","tagIds":["10006","10226"]},"brief":{"associate":{"id":"c9713c1d4deeb6352eabfbb38dff0961","name":"宏愿","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>宏愿</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/15/4898765/10a946a1f8349176f208d5c63789d6b2.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10226</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-终末地工业制造的优质武器，极具创意地将实验型源石材料作为剑身主体，使其拥有了极佳的能量传导性能。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>宏愿</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/29/179550/333e31c39adf150a1685b86462a3654d.gif</imgUrl>
+                    <description>基础攻击力 51</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                <h3><b>敏捷</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">攻击提升·大 </color></b><b>1/3</b>
+                <h3><b>攻击力</b><b><color value="f_blue">+5.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">附术·长愿</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>源石技艺强度<color value="f_blue">+30</color>。</h3>
+                <h3>装备者施加<color value="r_3">源石结晶</color>或<color value="f_turquoise">冻结</color>时，20秒内的下次战技或终结技期间，造成的物理伤害<color value="f_blue">+36.0%</color>。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>宏愿</name>
+                    <type>单手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/29/179550/219d52a9884831ea35a74ec8ad777707.gif</imgUrl>
+                    <description>基础攻击力 500</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">敏捷提升·大 </color></b><b>9/9</b>
+                <h3><b>敏捷</b><b><color value="f_blue">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">攻击提升·大 </color></b><b>9/9</b>
+                <h3><b>攻击力</b><b><color value="f_blue">+39.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">附术·长愿</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>源石技艺强度<color value="f_blue">+84</color>。</h3>
+                <h3>装备者施加<color value="r_3">源石结晶</color>或<color value="f_turquoise">冻结</color>时，20秒内的下次战技或终结技期间，造成的物理伤害<color value="f_blue">+100.8%</color>。</h3>
+                <color value="s_4">同名效果无法叠加。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                    <li>购买【宏愿兵装组合包】获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="敏捷提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>敏捷</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="471"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="攻击提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+5.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+9.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+13.0%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+17.0%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+21.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+25.0%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+29.0%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+33.0%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>攻击力</b>
+                            <b><color value="r_3">+39.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="471"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="附术·长愿" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+36</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+43.2%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+42</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+50.4%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+48</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+57.6%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+54</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+64.8%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+60</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+72.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+66</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+79.2%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+72</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+86.4%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>源石技艺强度</b>
+                            <b><color value="r_3">+84</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+100.8%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="471"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,198,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 146</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 247</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>1/3</b>
+                            <b>敏捷</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/5</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>1/3</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 247</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 348</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/5</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>1/4</b>
+                            <b>攻击力</b><b><color value="r_3">+5.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/6</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 348</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 449</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>2/6</b>
+                            <b>敏捷</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/6</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/7</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="221"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 449</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 500</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/8</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">敏捷提升·大 </color></b><b>3/9</b>
+                            <b>敏捷</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>2/7</b>
+                            <b>攻击力</b><b><color value="r_3">+9.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">攻击提升·大 </color></b><b>3/9</b>
+                            <b>攻击力</b><b><color value="r_3">+13.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">附术·长愿 </color></b><b>1/4</b>
+                            <b>源石技艺强度</b><b><color value="r_3">+30</color></b><b>。</b>
+                            <b>装备者施加</b><b><color value="r_3">源石结晶</color></b><b>或</b><b><color value="f_turquoise">冻结</color></b><b>时，20秒内的下次战技或终结技期间，造成的物理伤害</b><b><color value="r_3">+36.0%</color></b><b>。</b>
+                            <color value="s_4">同名效果无法叠加。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,100,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="9">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2">
+                        <align value="center">管理员</align>
+                    </td>
+                    <td col="3" rowspan="2" colspan="9">
+                        <align value="center">该武器的技能和<b>管理员</b>的能力较为配合</align>
+                    </td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="9"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            好像一口井啊……
+            他将手肘搭在观景台的栏杆上，让视线随着第十二个飞向远处海里的空酒瓶前进。随即，他看到了那个巨大的“圆环”，它是某种设施，他工作的地方。这还是他第一次，站在这样高，这样远的地方俯瞰它。
+            它究竟是用来做什么的呢?是某种海下避难所吗?但好像也听到过什么发射一类的说法⋯…
+            他开始胡乱猜测，但很快又制止了自己涌起的念头，无论这设施为何存在，都和自己没什么关系⋯⋯或许再提前几个月，在自己的小队没有横尸在战场上之前，在自己没有丢掉一只眼睛之前，他会接受人员选拔，接触设施里机密程度更高的工作内容。但现在，他已经没有什么为人类奉献的雄心壮志了，那些东西都已经被埋在了战友们的尸骨下。
+            如今他只是一个普通的甲板清洁工⋯⋯谁家的来着?低头看看挂在胸前的工牌⋯⋯哦，终末地工业，算了，谁家的都一样⋯⋯终末地的、工团的、商会的、宏科院的⋯⋯这里什么地方的人都有。
+            在这种远离主要战场的地方，各势力的大人物们又在拼凑什么大项目⋯⋯
+            没什么用处吧，战线一个接着一个崩溃，人类生存空间在被不断压缩，还有什么手段能挽救颓势?
+            别想了⋯⋯只是徒增烦恼…⋯
+            既然已经决定了要浑浑噩噩度日，那就要更彻底一点。只不过，他还是能听到一些议论：军人世家的独子，青年俊杰，甘于堕落，退到距离战场最远的地方，只愿意做一个甲板清洁工——这样的话时不时仍会灌进他的耳朵。
+            他诧异于如此话语为什么还能刺到自己，所以今日才来到这种地方开解自己，当然，开解到最后无非就是连续不断地灌酒罢了。第十三个空酒瓶飞进海里。
+            所以，为什么呢?还有什么是自己没放下的吗?勋章?都扔干净了。惯用的武器?埋在哪里了来着?噢……对呀，还有这东西，哎呀，真是……这可真是最标准的“视而不见”。
+            他解开眼罩，将眼窝中怎么也捂不热的东西取出来，由黄金和晶体外壳制成的义眼在掌心注视着他。在代代相传的故事中，它是由众王赐予的黄金铸成⋯⋯他的祖先曾在四皇会战的战场上，亲眼见证了高卢的灭亡⋯⋯无论是富甲一方的巨商，还是足迹遍布泰拉的旅人，它在之后的每一代子孙手中流传，直到他——失败者手中。
+            家族荣光穿透黄金丝缕嵌成的瞳孔，向他投来刺骨的瞥视。
+            他攥紧拳头，把绵延不绝的历史遮住，接着，毫不拖泥带水地扔进海里。
+            好了，这下干干净净。
+            他打着酒嗝，看向远处的圆环，确实很像一口井。他想起在泰拉游学时，在某个小村落里看到过的许愿井，人们将金币和银币扔进井中，祈求自己的愿望能够实现，扔进井中的东西越珍贵，能实现的愿望就越宏大。
+            呵呵，真够蠢的。
+            若这种说法是真的，那么他刚刚扔进“井”里的东西，能帮助他实现怎样的愿望呢?
+            见证过大国崩溃、文明变迁的珍宝，见证过杀戮与新生、毁灭与延续的珍宝，能被“井”塑造成什么样的东西呢?
+            算了吧，还是睡一觉好。
+            他抬手，将第十四个酒瓶抛上半空，而后，看着它静滞于天上。“许愿井”的馈赠已至。
+            万物皆静，之后是巨大的晶簇。
+            天空被开启了，源石之路自天上来。
+            无数宏伟的身影隐在云中，就在长路尽头，巨大的星门在他们身后。
+            为什么?众王，为什么?
+            因为我抛弃了你们的赠予?因为我抛弃了我的历史，我的血脉，我的光荣?
+            昔日丧生的战友们自源石的道路上生长出来，他们伸出枯瘦的残肢、崩碎的武器，竭尽所能地挽留着。
+            于是他拔出长矛。
+            每刺穿一具尸骸，身上便会现出许多文字，那文字极重，他低头看去，是一个个名字。
+            父亲的名字、祖父的名字、帕夏的名字、教宗的名字、审判官的名字、拓荒者的名字、矿工的名字⋯⋯
+            他逆着死者的河流向上走，又走过那些史书中的身影。
+            众王将自己的名字留在他的矛尖上。
+            所以他高举着断矛，刺向那巨大的门扉。而后，被轰鸣声唤醒。远处的圆环上，大海被打开，那尖锐的矛，那由所有势力、所有人的绝望与希望、渴盼与伤痕所铸成的井中巨物，就此刺入天空。
+            ■■年■■月■■日，帝江号发射成功。
+        </chapter>
+    </chapters>
+</sklandDocument>

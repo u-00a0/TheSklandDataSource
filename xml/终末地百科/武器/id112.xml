@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>112</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283063"},"item":{"name":"艺术暴君","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768120906","lastAuditPassedAt":"1773129964","tagIds":["10006","10224"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>艺术暴君</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/e87e7164507ab8320f55a37d9cd0b912.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10224</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-梅什科工业大胆推出的艺术家联名系列中最受欢迎的产品之一。充满个性的造型匹配狂暴的性能，在二级市场的溢价足以证明它的人气。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>艺术暴君</name>
+                    <type>手铳</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/26/179550/fdaad392d46ea48322c8253938cbb440.gif</imgUrl>
+                    <description>基础攻击力 51</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·大 </color></b><b>1/3</b>
+                <h3><b>智识</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">暴击率提升·大 </color></b><b>1/3</b>
+                <h3><b>暴击率</b><b><color value="f_blue">+2.5%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">切骨·艺术暴论</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>寒冷伤害<color value="f_blue">+16.0%</color>。</h3>
+                <h3>装备者的战技或连携技造成暴击伤害后，寒冷伤害<color value="f_blue">+14.0%</color>，持续30秒。</h3>
+                <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>艺术暴君</name>
+                    <type>手铳</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/26/179550/5cb55e802e160877bb431055ed7c43ef.gif</imgUrl>
+                    <description>基础攻击力 505</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">智识提升·大 </color></b><b>9/9</b>
+                <h3><b>智识</b><b><color value="f_blue">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">暴击率提升·大 </color></b><b>9/9</b>
+                <h3><b>暴击率</b><b><color value="f_blue">+19.5%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">切骨·艺术暴论</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>寒冷伤害<color value="f_blue">+44.8%</color>。</h3>
+                <h3>装备者的战技或连携技造成暴击伤害后，寒冷伤害<color value="f_blue">+39.2%</color>，持续30秒。</h3>
+                <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="智识提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>智识</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="473"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="暴击率提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+6.5%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+8.5%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+10.5%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+12.5%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+14.5%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+16.5%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>暴击率</b><b><color value="r_3">+19.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="473"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="切骨·艺术暴论" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+19.2%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+16.8%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+22.4%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+19.6%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+25.6%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+22.4%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+28.8%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+25.2%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+32.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+28.0%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+35.2%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+30.8%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+38.4%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+33.6%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>寒冷伤害</b><b><color value="r_3">+44.8%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+39.2%，</color></b><b>持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="473"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,196,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 148</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 250</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>1/3</b>
+                            <b>智识</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>1/3</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>1/4</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 250</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 352</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/5</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>1/4</b>
+                            <b>暴击率</b><b><color value="r_3">+2.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/6</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 352</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 454</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>2/6</b>
+                            <b>智识</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/6</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/7</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="219"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="197"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 454</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 505</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/8</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">智识提升·大 </color></b><b>3/9</b>
+                            <b>智识</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>2/7</b>
+                            <b>暴击率</b><b><color value="r_3">+4.5%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">暴击率提升·大 </color></b><b>3/9</b>
+                            <b>暴击率</b><b><color value="r_3">+6.5%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">切骨·艺术暴论 </color></b><b>1/4</b>
+                            <b>寒冷伤害</b><b><color value="r_3">+16.0%</color></b><b>。</b>
+                            <b>装备者的战技或连携技造成暴击伤害后，寒冷伤害</b><b><color value="r_3">+14.0%</color></b><b>，持续30秒。</b>
+                            <color value="s_4">同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            对塔卫二当今“前卫”艺术的挑战书
+
+            致自诩“前卫”的大艺术家们：
+            你们好吗？我指的是那些在废墟墙上喷涂图案，在菈梵朵玛的地下酒吧里嘶吼，自认为创造“史无前例”艺术的各位。
+            告诉你们一个残酷事实，你们所谓的前卫艺术，九成都是从泰拉历史中翻出的陈年旧货。
+            菈梵朵玛的新说唱厂牌？在看完汐斯塔黑曜石音乐节的十大经典音乐现场后，我并不觉得他们比起那位名为“大帝”的说唱巨星在律动和韵脚上有任何的创新。[链接已失效]
+            艾什柏环岛的百人涂鸦？根据我挖到的资料，这些东西在泰拉曾经的乌萨斯工厂基地早就烂大街了。许多年前，感染者工人就在厂房墙上画着同样的东西。[附件已丢失]
+            至于新蓝卡坞的新青年电影节？那就更搞笑了，因为他们连自由市的名字都沿用的泰拉上的蓝卡坞！
+            真正属于塔卫二的前卫艺术在哪儿？
+            既然渴望创新，我告诉你们什么才是真前卫。
+            这是我挖到的关于终末地协议源石技术的一段视频。[作者已将此视频设为付费观看]
+            可能很多人会对我提到协议源石技术感到困惑，但想想看，艺术离不开工艺技术，我们如果一直在源自泰拉的技术基础上进行审美文化的再创作，就像我先前举的那些例子那样，那么我们当然就难以摆脱泰拉文化的标签！
+            而协议源石技术，可以说是塔卫二独有的最“前卫”、最“酷”的技术了，不是么？它彻底打破了我们对空间维度的认知，怎么我还没看到将它应用于艺术创作的艺术家？
+            前卫艺术不是翻新旧货，不是给古董贴新标签。
+            如果你们继续玩祖父辈的把戏，请不要再自诩“前卫”。
+
+            本文不代表任何官方立场，仅为个人观点。如有不适，请自行离开。
+
+            作者：艺术暴君
+            发布时间：151年■■月■■ 日
+        </chapter>
+    </chapters>
+</sklandDocument>

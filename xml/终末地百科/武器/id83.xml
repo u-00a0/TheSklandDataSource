@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>83</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283046"},"item":{"name":"大雷斑","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"2","name":"武器","fatherTypeId":"1","style":2,"status":2,"position":2,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10223","children":[{"id":"10227","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10224","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10226","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10225","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10228","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4346788520925","nickname":"薯儿糍","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/a58bf95b2ea87b96c563621f5ca9aecb.png"},"createdUser":{"id":"4105640507543","nickname":"纯黑无极","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2025/01/16/07569778ab14e1c02b7fb3d7e9186dd4.png"},"status":2,"publishedAtTs":"1768150307","lastAuditPassedAt":"1772627628","tagIds":["10006","10225"]},"brief":{"associate":{"id":"8c92c8afba87482f3fb0d918bd44167b","name":"大雷斑","type":"weapon","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>大雷斑</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/179550/1387fa14d4f6b3f85b1225aaa7579f5b.png</cover>
+        <subTypes>
+            <subType id="10000">10006</subType>
+            <subType id="10223">10225</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>-终末地干员用武器，装备之后可以显著提升干员的作战能力。</b>
+        <b>-终末地工业制造的特别装备之一。焰形剑搭配的交错式源石线路能提高基质效率。灵感来于观测到的塔罗斯现象。</b>
+    </description>
+    <chapters name="基本信息">
+        <chapter size="large" name="">
+            <tab name="初始面板" icon="">
+                <imgIntro>
+                    <name>大雷斑</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/90745d5b657ce8a393cf5237ee6af343.gif</imgUrl>
+                    <description>基础攻击力 50</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·大 </color></b><b>1/3</b>
+                <h3><b>力量</b><b><color value="f_blue">+20</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·大 </color></b><b>1/3</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+10.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·塔罗斯之眼</color></b><b><color value="f_yellow"> </color></b><b>1/4</b>
+                <h3>施加的<color value="f_blue">护盾</color>效果<color value="f_green">+24.0%</color>。</h3>
+                <h3>装备者通过自身连携技治疗后，额外使主控干员获得<color value="f_green">[7.0%×装备者最大生命值]</color>的<color value="f_blue">护盾</color>，持续15秒。</h3>
+                <color value="s_4">每15秒最多触发一次。</color>
+            </tab>
+            <tab name="满级面板" icon="">
+                <imgIntro>
+                    <name>大雷斑</name>
+                    <type>双手剑</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/28/179550/e0ddceace967fef5a71a6d0d2ccbfe0d.gif</imgUrl>
+                    <description>基础攻击力 495</description>
+                </imgIntro>
+                <h2>属性能力</h2>
+                <line kind="4"></line>
+                <b><color value="r_5">力量提升·大 </color></b><b>9/9</b>
+                <h3><b>力量</b><b><color value="f_blue">+156</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">生命提升·大 </color></b><b>9/9</b>
+                <h3><b>最大生命值</b><b><color value="f_blue">+78.0%</color></b></h3>
+                <line kind="5"></line>
+                <b><color value="r_5">医疗·塔罗斯之眼</color></b><b><color value="f_yellow"> </color></b><b>9/9</b>
+                <h3>施加的<color value="f_blue">护盾</color>效果<color value="f_green">+67.2%</color>。</h3>
+                <h3>装备者通过自身连携技治疗后，额外使主控干员获得<color value="f_green">[19.6%×装备者最大生命值]</color>的<color value="f_blue">护盾</color>，持续15秒。</h3>
+                <color value="s_4">每15秒最多触发一次。</color>
+            </tab>
+            <tab name="获取方式" icon="">
+                <ul>
+                    <li>武器池抽卡获取</li>
+                </ul>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="武器技能和基质">
+        <chapter size="large" name="技能详情">
+            <tab name="力量提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+68</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+84</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+100</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+116</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+132</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>力量</b><b><color value="r_3">+156</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="生命提升·大" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+26.0%</color></b>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+34.0%</color></b>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+42.0%</color></b>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+50.0%</color></b>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+58.0%</color></b>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+66.0%</color></b>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>最大生命值</b><b><color value="r_3">+78.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="医疗·塔罗斯之眼" icon="">
+                <h2>武器技能数值</h2>
+                <table header="row" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="2" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+28.8%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[8.4%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="3" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+33.6%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[9.8%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+38.4%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[11.2%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="5" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+43.2%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[12.6%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="6" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+48.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[14.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="7" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+52.8%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[15.4%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="8" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+57.6%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[16.8%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="9" rowspan="5">
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+67.2%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[19.6%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+                <h2>武器基质推荐</h2>
+                <table header="none" widths="128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889,128.88888888888889">
+                    <tr>
+                        <td col="1" rowspan="2" colspan="9">
+                            <entry type="link-img" count="0" id="472"></entry>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="突破材料">
+        <chapter size="large" name="材料一览">
+            <tab name="20级突破" icon="">
+                <table header="none" widths="193.33333333333334,190,193,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="3" id="136"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 145</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 245</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>1/3</b>
+                            <b>力量</b><b><color value="r_3">+20</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/5</b>
+                            <b>力量</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/3</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="40级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="18" id="228"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="383"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 245</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 345</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+36</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>1/4</b>
+                            <b>最大生命值</b><b><color value="r_3">+10.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="60级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><entry type="card-big" count="20" id="227"></entry></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><entry type="card-big" count="5" id="592"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 345</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 445</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>2/6</b>
+                            <b>力量</b><b><color value="r_3">+36</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/6</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="80级突破" icon="">
+                <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>所需材料的种类与数量</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="2">
+                            <align value="center"><entry type="card-big" count="30" id="227"></entry></align>
+                        </td>
+                        <td col="3" colspan="2">
+                            <align value="center"><entry type="card-big" count="16" id="220"></entry></align>
+                        </td>
+                        <td col="5" colspan="2">
+                            <align value="center"><entry type="card-big" count="8" id="141"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="6">
+                            <align value="center"><b>关键数据</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <align value="center"><b>突破前上限面板</b></align>
+                        </td>
+                        <td col="4" colspan="3">
+                            <align value="center"><b>突破后上限面板</b></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 445</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="s_4">基础攻击力</color></b><b><color value="s_1"> 495</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>3/8</b>
+                            <b>力量</b><b><color value="r_3">+52</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">力量提升·大 </color></b><b>3/9</b>
+                            <b>力量</b><b><color value="r_3">+52</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>2/7</b>
+                            <b>最大生命值</b><b><color value="r_3">+18.0%</color></b>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">生命提升·大 </color></b><b>3/9</b>
+                            <b>最大生命值</b><b><color value="r_3">+26.0%</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                        <td col="4" colspan="3">
+                            <b><color value="r_5">医疗·塔罗斯之眼 </color></b><b>1/4</b>
+                            <b>施加的</b><b><color value="r_3">护盾</color></b><b>效果</b><b><color value="r_2">+24.0%</color></b><b>。</b>
+                            <b>装备者通过自身连携技治疗后，额外使主控干员获得</b><b><color value="r_2">[7.0%×装备者最大生命值]</color></b><b>的</b><b><color value="r_3">护盾</color></b><b>，持续15秒。</b>
+                            <color value="s_4">每15秒最多触发一次。</color>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="推荐装备干员">
+        <chapter size="large" name="">
+            <table header="none" widths="116,116,116,116,116,113,116,116,116,116">
+                <tr>
+                    <td col="1" colspan="2">
+                        <align value="center"><b>推荐干员</b></align>
+                    </td>
+                    <td col="3" colspan="8">
+                        <align value="center"><b>推荐理由</b></align>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td col="1" rowspan="2" colspan="2"></td>
+                    <td col="3" rowspan="2" colspan="8"></td>
+                </tr>
+                <tr>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="档案">
+        <chapter size="large" name="基础信息">
+            她比其他人看得更清楚一些。
+            跨过那扇门的旅途比她想象的要局促一些。一些幻影，一些迷离的色彩，肌肤上一闪而过的不切实际的触感，还有短暂的眩晕、低语、关于过往的碎片，紧接着，是严寒。从冬天回到冬天的严寒，很有真实感。
+            她立刻询问身边的每一个人，每一个人都告诉了她不同的答案。有些人觉得眼睛一闭一睁就没事了，有些人则气喘吁吁地表示自己仿佛静滞了好几天的时间。
+            她很好奇自己所见的东西是否有什么意义——好奇是她的天性。她花了几个小时在脑海里锚定那些色块、线条和不规律的音色。但它们就像春天小憩时的梦境那样难以捉摸，缺乏含义。
+            直到她在一片旖旎的光线中看向了没有阻隔层的星空。
+            塔罗斯。
+
+            时间并没有把夕阳带到塔卫二的极点，巨大的星球占据了所有人的视野，像是某种远超巫王的巫术那样死死掐住了她的灵魂。她无法移开目光，她从未想过知识和财富之外，自然的景色会如此吸引她——如果宇宙这个崭新的视角能归类为自然的话，她不是很确定。
+            她端详着塔罗斯。这是一颗几乎静止的大星球，戴上了可爱的环形丝带。她只在婶婶的缝纫机上见过这样可爱的丝带，像是花瓣的边缘。很快，她就发现静止只是塔罗斯可爱的小伎俩，这颗星球似乎正在不起眼地运动着。表面的光泽在流动，她能听见风声。
+            但很快，这一切都消失了。塔罗斯又变回了那个一动不动的巨物。她感到心跳加速，一些不规律的想法涌现在脑海里。从儿时第一份法术课答卷开始，一直到去年在高塔上完成的进取研究。她看到了父母的面孔，看到了老师，看到了残垣断壁里伸出的一只手，看到了深远的流沙。她在漆黑的海岸边站稳脚跟，最后是自己的面庞，儿时所见的莱塔尼亚的天空，数星星的玩伴变成了无数个自己。
+            她生平第一次有了这样的冲动。她狂热地爱上塔罗斯，狂热地想要触碰那颗巨大的星星。
+            她感到那颗巨大的星星将一切联系了起来。
+            依照这种联系，流淌在她体内的源石开始轻声合唱。
+            从那一天起，她不再变化，她必须成为一位长生者，一如她痴爱的星球。
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>354</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283180"},"item":{"name":"刚角天使","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1767797666","lastAuditPassedAt":"1775064983","tagIds":["10231"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>刚角天使</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/139426/5436f06fa9b6f53e1108e45dd40960d0.png</cover>
+        <subTypes>
+            <subType id="10229">10231</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>刚角天使</b>（Heavy Ram）是《明日方舟：终末地》中的一类<b><color value="r_3">进阶敌人</color></b>。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="进阶敌人" icon="">
+                <imgIntro>
+                    <name>刚角天使</name>
+                    <type>天使</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png</imgUrl>
+                    <description>“提利索隆|Thrylissoron”（归档编号：ACL072），ACL071的非模式种。它们能够利用周围环境，表现出一定的决策能力。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">C</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">C</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>该敌人无特殊能力。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>阿伯莉采石场</li>
+                    <li>矿脉源区</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人掉落</h3>
+                <ul>
+                    <li><entry type="link-img" count="0" id="36"></entry></li>
+                </ul>
+            </tab>
+        </chapter>
+        <chapter size="small" name="刚角天使(预警终端)">
+            <i>“塔防模式”中的刚角天使。</i>
+            <i>分布于部分据点的</i><b><i>区域防护作战</i></b><i>内：打开预警终端即可进行区域防护作战。</i>
+            <h3>|敌人详情</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            “<b>提利索隆</b>”（归档编号：ACL072），ACL071的非模式种。它们能够利用周围环境，表现出一定的决策能力。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            刚角天使会靠近距离自己最近的作战设备，砸地攻击会使一定范围内的作战设备暂时失效5秒。
+        </chapter>
+        <chapter size="small" name="刚角天使(狂冲盾止·普通)">
+            <entry type="link-img" count="0" id="394"></entry>
+            <i>登场于</i><b><i>「无机造物」狂冲盾止</i></b><i>的刚角天使。</i>
+            <h3><b>|</b>敌方情报</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            “<b>提利索隆</b>”（归档编号：ACL072），ACL071的非模式种。它们能够利用周围环境，表现出一定的决策能力。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            能力获得强化。移动速度提升、失衡状态的持续时间减少。
+        </chapter>
+        <chapter size="small" name="刚角天使(狂冲盾止·苦难)">
+            <entry type="link-img" count="0" id="394"></entry>
+            <i>登场于</i><b><i>「无机造物」狂冲盾止·苦难</i></b><i>的刚角天使。</i>
+            <h3><b>|</b>敌方情报</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            “<b>提利索隆</b>”（归档编号：ACL072），ACL071的非模式种。它们能够利用周围环境，表现出一定的决策能力。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            能力获得强化。移动速度提升、失衡状态的持续时间减少。
+            有其他刚角天使被击败后，自身进入狂暴状态，更难被打断、不断提高攻击力并回复生命值。
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>412</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283209"},"item":{"name":"希望与代价 · 其二","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"createdUser":{"id":"1768902953521","nickname":"萨奕义","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/25/7d8ffdad421150776db82a42efba8c65.png"},"status":2,"publishedAtTs":"1768229319","lastAuditPassedAt":"1768224131","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>希望与代价 · 其二</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/12/402818/3c0c4c302890b91ee678f64ca87d717d.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>谷地通道</b></align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成希望与代价 · 其一</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>描述</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        洞窟的铁牢中有数位受困者，必须尽快将他们解救出来。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        管理员一行成功开启了山洞里的暗门。前方也许能找到有关米娅去向的线索。
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        穿过<b>暗门</b>，继续前进
+                        击败<b>裂地者</b>
+                        寻找<b>搭救米娅的“哥哥姐姐”们</b>
+                        击败<b>裂地者</b>
+                        确认<b>受困者</b>的状况
+                        寻找<b>铁门钥匙</b>
+                        与<b>弧光</b>交谈
+                        寻找<b>金属元件</b>
+                        将金属元件交给<b>弧光</b>
+                        击败&lt;<b>裂地者</b>&gt;
+                        和<b>扎克</b>聊一聊
+                        （<i>可选）和</i><b><i>其他人</i></b><i>聊一聊</i>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="232,232,232,232,232">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="75" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="4250" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="18" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="14" id="225"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="300" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>

@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>94</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283054"},"item":{"name":"卡契尔","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"1","name":"干员","fatherTypeId":"1","style":1,"status":2,"position":1,"icon":"","items":[],"filterTagTree":[{"id":"10200","children":[{"id":"10201","children":[],"name":"近卫","type":4,"value":"profession_guard","hide":false},{"id":"10202","children":[],"name":"术师","type":4,"value":"profession_caster","hide":false},{"id":"10203","children":[],"name":"突击","type":4,"value":"profession_assault","hide":false},{"id":"10204","children":[],"name":"先锋","type":4,"value":"profession_vanguard","hide":false},{"id":"10205","children":[],"name":"重装","type":4,"value":"profession_defender","hide":false},{"id":"10206","children":[],"name":"辅助","type":4,"value":"profession_supporter","hide":false}],"name":"干员职业","type":4,"value":"","hide":false},{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10100","children":[{"id":"10101","children":[],"name":"灼热","type":3,"value":"char_property_fire","hide":false},{"id":"10102","children":[],"name":"电磁","type":3,"value":"char_property_pulse","hide":false},{"id":"10103","children":[],"name":"寒冷","type":3,"value":"char_property_cryst","hide":false},{"id":"10104","children":[],"name":"自然","type":3,"value":"char_property_natural","hide":false},{"id":"10105","children":[],"name":"物理","type":3,"value":"char_property_physical","hide":false}],"name":"属性","type":3,"value":"","hide":false},{"id":"10208","children":[{"id":"10214","children":[],"name":"施术单元","type":1,"value":"","hide":false},{"id":"10218","children":[],"name":"手铳","type":1,"value":"","hide":false},{"id":"10219","children":[],"name":"单手剑","type":1,"value":"","hide":false},{"id":"10216","children":[],"name":"双手剑","type":1,"value":"","hide":false},{"id":"10213","children":[],"name":"长柄武器","type":1,"value":"","hide":false}],"name":"武器","type":1,"value":"","hide":false},{"id":"10207","children":[{"id":"10210","children":[],"name":"力量","type":1,"value":"","hide":false},{"id":"10211","children":[],"name":"敏捷","type":1,"value":"","hide":false},{"id":"10217","children":[],"name":"智识","type":1,"value":"","hide":false},{"id":"10212","children":[],"name":"意志","type":1,"value":"","hide":false}],"name":"主能力","type":1,"value":"","hide":false},{"id":"10209","children":[{"id":"10221","children":[],"name":"力量","type":1,"value":"","hide":false},{"id":"10222","children":[],"name":"敏捷","type":1,"value":"","hide":false},{"id":"10220","children":[],"name":"智识","type":1,"value":"","hide":false},{"id":"10215","children":[],"name":"意志","type":1,"value":"","hide":false}],"name":"副能力","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"7494162216009","nickname":"维尔汀的复乐园","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/16/6f8c590b7a9e886fa825eec1fa84fb80.png"},"createdUser":{"id":"4518824118634","nickname":"卅玍丨","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768192612","lastAuditPassedAt":"1775148874","tagIds":["10205","10004","10105","10210","10216","10215"]},"brief":{"associate":{"id":"e6c2a3e9f0b1917eb0b1fe29a4b94b3d","name":"卡契尔","type":"char","dotType":""},"composite":null},"documentExtraInfo":{"showType":"","illustration":"https://bbs.hycdn.cn/image/common/20260202/5246026/6980afa14973d8a11340c0a2_13673ac9.png","composite":""}}</publicMeta>
+    <metainfo>
+        <name>卡契尔</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260202/5246026/6980af993a151ae9156136ea_f1525633.png</cover>
+        <subTypes>
+            <subType id="10000">10004</subType>
+            <subType id="10100">10105</subType>
+            <subType id="10200">10205</subType>
+            <subType id="10207">10210</subType>
+            <subType id="10208">10216</subType>
+            <subType id="10209">10215</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        “需要掩护吗？我会全力以赴的。”
+        终末地Z7行动组成员，负责掩护和后勤工作。卡契尔曾接受过完整的军事训练，大量的相关知识储备让他常能在关键时刻为队友们提供合适的建议。他出生于环塔商会一个军人家庭，备受父母与兄姐的关爱。幼年时因意外导致的病痛没有将他击垮，反而促使他逐渐成长为一名坚忍不拔的战士。
+        在小队中，卡契尔年纪最小，但心智的成熟程度却远超队内其他人。他能与每个队友都配合默契，能在队友出状况时主动善后，也能为队友们准备一顿照顾了每个人需求的营地晚餐。很显然，有卡契尔在的地方，总让他的队友们感到安心和自在。
+        “根据大家的建议，最近我又改良了一版野炊浓汤……管理员，有空你可以来尝尝。”
+    </description>
+    <chapters name="干员资料">
+        <chapter size="large" name="干员资料" table="true">
+            <table>
+                <row>
+                    <cell label="代号">卡契尔</cell>
+                    <cell label="性别">男</cell>
+                </row>
+                <row>
+                    <cell label="身份认证">终末地工业</cell>
+                    <cell label="生日">8月16日</cell>
+                </row>
+                <row>
+                    <cell label="种族">佩洛</cell>
+                    <cell label="词缀">庇护；护盾；虚弱</cell>
+                </row>
+                <row>
+                    <cell label="主要获取方式">特许寻访；基础寻访</cell>
+                    <cell label="上线时间">2026年1月22日</cell>
+                </row>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="能力扩延">
+        <chapter size="large" name="精英化">
+            <line kind="5"></line>
+            <h3><b>干员属性</b></h3>
+            <table header="both" widths="185,158,156,160,163,163,171">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>干员等级</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>1级</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>20级</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>40级</b></align>
+                    </th>
+                    <th col="5">
+                        <align value="center"><b>60级</b></align>
+                    </th>
+                    <th col="6">
+                        <align value="center"><b>80级</b></align>
+                    </th>
+                    <th col="7">
+                        <align value="center"><b>90级</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>基础生命值</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">500</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">1566</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">2689</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">3811</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">4934</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">5495</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>基础攻击力</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">30</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">88</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">148</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">209</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">270</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">300</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b><color value="r_5">力量</color></b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">21</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">54</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">89</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">124</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">159</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">176</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b><color value="s_3">敏捷</color></b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">9</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">28</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">47</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">67</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">87</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">96</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b><color value="s_3">智识</color></b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">8</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">25</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">42</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">60</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">77</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">86</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>意志</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">11</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">31</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">53</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">74</align>
+                    </td>
+                    <td col="6">
+                        <align value="center">96</align>
+                    </td>
+                    <td col="7">
+                        <align value="center">106</align>
+                    </td>
+                </tr>
+            </table>
+            注：<b><color value="f_yellow">金色</color></b>表示该能力为本干员主能力，<b>黑色</b>表示该能力为本干员副能力。
+            <line kind="5"></line>
+            <h3>精英化材料</h3>
+            <table header="both" widths="184,242,239,237,258">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>精英化阶段</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>精英化·一</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>精英化·二</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>精英化·三</b></align>
+                    </th>
+                    <th col="5">
+                        <align value="center"><b>精英化·四</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>激活条件</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">干员等级达到20级</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">干员等级达到40级</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">干员等级达到60级</align>
+                    </td>
+                    <td col="5">
+                        <align value="center">干员等级达到80级</align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>材料消耗</b></align>
+                    </th>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="1600" id="19"></entry><entry type="card-big" count="3" id="39"></entry><entry type="card-big" count="8" id="215"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="6500" id="19"></entry><entry type="card-big" count="5" id="641"></entry><entry type="card-big" count="25" id="215"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="18000" id="19"></entry><entry type="card-big" count="5" id="538"></entry><entry type="card-big" count="24" id="214"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="100000" id="19"></entry><entry type="card-big" count="8" id="754"></entry><entry type="card-big" count="20" id="219"></entry><entry type="card-big" count="36" id="214"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter size="large" name="战斗技能">
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260202/5246026/6980b76151a1ffd966c07d35_13673ac9.png">
+                <imgIntro>
+                    <name>基础战术</name>
+                    <type>普通攻击</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260202/5246026/6980b7a051acf5ca27ba69ba_3eac6ad0.gif</imgUrl>
+                    <description>普通攻击：
+对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成22点失衡。
+
+下落攻击：
+处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。
+
+处决攻击：
+附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h3>技能数据</h3>
+                <table header="both" widths="157,100,100,100,100,100,100,100,100,100,100,100,100">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="13">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>普攻第一段倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">35%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">39%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">42%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">46%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">49%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">53%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">56%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">60%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">63%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">67%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">73%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">79%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>普攻第二段倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">39%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">42%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">46%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">50%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">54%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">58%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">62%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">65%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">69%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">74%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">80%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">87%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>普攻第三段倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">54%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">59%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">65%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">70%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">76%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">81%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">86%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">92%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">97%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">104%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">112%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">122%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>普攻第四段倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">71%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">78%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">85%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">92%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">99%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">107%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">114%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">121%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">128%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">137%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">147%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">160%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>处决攻击倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">400%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">440%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">480%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">520%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">560%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">600%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">640%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">680%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">720%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">770%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">830%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">900%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>下落攻击倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">80%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">88%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">96%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">104%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">112%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">120%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">128%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">136%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">144%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">154%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">166%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">180%</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="5"></line>
+                <h3>技能升级材料</h3>
+                <table header="both" widths="157,109,109,106,109,105,105,106,106,187,185,188">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1000" id="19"></entry><entry type="card-big" count="6" id="223"></entry><entry type="card-big" count="1" id="40"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="2700" id="19"></entry><entry type="card-big" count="12" id="223"></entry><entry type="card-big" count="2" id="40"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="3200" id="19"></entry><entry type="card-big" count="16" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="4200" id="19"></entry><entry type="card-big" count="21" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="5400" id="19"></entry><entry type="card-big" count="27" id="223"></entry><entry type="card-big" count="2" id="539"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="8200" id="19"></entry><entry type="card-big" count="6" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="10500" id="19"></entry><entry type="card-big" count="8" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="18000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="2" id="755"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="24000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="3" id="325"></entry><entry type="card-big" count="6" id="221"></entry><entry type="card-big" count="1" id="216"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="24" id="222"></entry><entry type="card-big" count="6" id="325"></entry><entry type="card-big" count="16" id="221"></entry><entry type="card-big" count="2" id="216"></entry></align>
+                        </td>
+                        <td col="12">
+                            <align value="center"><entry type="card-big" count="65000" id="19"></entry><entry type="card-big" count="50" id="222"></entry><entry type="card-big" count="12" id="325"></entry><entry type="card-big" count="36" id="221"></entry><entry type="card-big" count="3" id="216"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260202/5246026/6980b76b2687d7923e48e19f_f1525633.png">
+                <imgIntro>
+                    <name>刚性阻击</name>
+                    <type>战技</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260202/5246026/6980bf1e74509b556106c20e_6ad0f152.gif</imgUrl>
+                    <description>架起盾牌格挡攻击，使自身及周围干员获得庇护，并立即返还一定技力。
+若在立盾期间受到攻击，则发动一次反击，尝试对敌人造成物理伤害并施加1层破防。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h3>技能数据</h3>
+                <table header="both" widths="157,100,100,100,100,100,100,100,100,100,100,100,100">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="13">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技力消耗</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">100</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">100</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>伤害倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">178%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">196%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">213%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">231%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">249%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">267%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">285%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">302%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">320%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">342%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">369%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">400%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>失衡值</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">20</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>庇护效果</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">90%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">90%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>返还技力</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">30</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">30</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="5"></line>
+                <h3>技能升级材料</h3>
+                <table header="both" widths="157,109,109,106,109,105,105,106,106,187,185,188">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1000" id="19"></entry><entry type="card-big" count="6" id="223"></entry><entry type="card-big" count="1" id="40"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="2700" id="19"></entry><entry type="card-big" count="12" id="223"></entry><entry type="card-big" count="2" id="40"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="3200" id="19"></entry><entry type="card-big" count="16" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="4200" id="19"></entry><entry type="card-big" count="21" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="5400" id="19"></entry><entry type="card-big" count="27" id="223"></entry><entry type="card-big" count="2" id="539"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="8200" id="19"></entry><entry type="card-big" count="6" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="10500" id="19"></entry><entry type="card-big" count="8" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="18000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="2" id="755"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="24000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="3" id="325"></entry><entry type="card-big" count="6" id="220"></entry><entry type="card-big" count="1" id="216"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="24" id="222"></entry><entry type="card-big" count="6" id="325"></entry><entry type="card-big" count="16" id="220"></entry><entry type="card-big" count="2" id="216"></entry></align>
+                        </td>
+                        <td col="12">
+                            <align value="center"><entry type="card-big" count="65000" id="19"></entry><entry type="card-big" count="50" id="222"></entry><entry type="card-big" count="12" id="325"></entry><entry type="card-big" count="36" id="220"></entry><entry type="card-big" count="3" id="216"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260202/5246026/6980b772d262875d5b986c5f_6ad0f152.png">
+                <imgIntro>
+                    <name>即时压制</name>
+                    <type>连携技</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260202/5246026/6980c3b774509b556106c2d0_2f76db19.gif</imgUrl>
+                    <description>当敌人开始蓄力，或主控干员受到攻击后生命值低于40%可以发动。
+挥拳向前用力扣下，对敌人造成物理伤害，并使自身和另一名友方干员（主控干员优先）获得护盾。
+防御力可以额外提高护盾值。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h3>技能数据</h3>
+                <table header="both" widths="158,100,100,100,100,100,100,100,100,100,100,100,100">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="13">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>冷却时间</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">35秒</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">33秒</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第一段伤害倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">25%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">27%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">30%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">32%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">34%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">37%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">39%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">42%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">44%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">47%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">51%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">55%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第二段伤害倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">100%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">110%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">120%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">130%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">140%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">150%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">160%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">170%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">180%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">193%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">208%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">225%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>失衡值</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">10</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>基础值护盾</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">360</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">432</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">504</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">576</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">612</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">648</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">684</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">720</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">756</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">774</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">792</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">810</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>每点防御力提升的</b></align>
+                            <align value="center"><b>护盾值</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">2.25</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">2.7</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">3.15</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">3.6</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">3.83</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">4.05</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">4.28</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">4.5</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">4.73</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">4.84</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">4.95</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">5.06</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>护盾持续时间（秒）</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">10</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="5"></line>
+                <h3>技能升级材料</h3>
+                <table header="both" widths="157,109,109,106,109,105,105,106,106,187,185,188">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1000" id="19"></entry><entry type="card-big" count="6" id="223"></entry><entry type="card-big" count="1" id="40"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="2700" id="19"></entry><entry type="card-big" count="12" id="223"></entry><entry type="card-big" count="2" id="40"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="3200" id="19"></entry><entry type="card-big" count="16" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="4200" id="19"></entry><entry type="card-big" count="21" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="5400" id="19"></entry><entry type="card-big" count="27" id="223"></entry><entry type="card-big" count="2" id="539"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="8200" id="19"></entry><entry type="card-big" count="6" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="10500" id="19"></entry><entry type="card-big" count="8" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="18000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="2" id="755"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="24000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="3" id="325"></entry><entry type="card-big" count="6" id="221"></entry><entry type="card-big" count="1" id="216"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="24" id="222"></entry><entry type="card-big" count="6" id="325"></entry><entry type="card-big" count="16" id="221"></entry><entry type="card-big" count="2" id="216"></entry></align>
+                        </td>
+                        <td col="12">
+                            <align value="center"><entry type="card-big" count="65000" id="19"></entry><entry type="card-big" count="50" id="222"></entry><entry type="card-big" count="12" id="325"></entry><entry type="card-big" count="36" id="221"></entry><entry type="card-big" count="3" id="216"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260202/5246026/6980b77db2a055d757271030_3eac6ad0.png">
+                <imgIntro>
+                    <name>教科书式猛攻</name>
+                    <type>终结技</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260202/5246026/6980c7213a151ae915613a5c_2f76db19.gif</imgUrl>
+                    <description>挥动大剑快速向前斩击2次，造成物理伤害并施加虚弱。最后向下猛砸，对目标范围内的所有敌人造成大量物理伤害并造成倒地。</description>
+                </imgIntro>
+                <line kind="5"></line>
+                <h3>技能数据</h3>
+                <table header="both" widths="158,100,100,100,100,100,100,100,100,100,100,100,100">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 1</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="13">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>所需终结技能量</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">80</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">80</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>冷却时间</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">15秒</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">15秒</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第一段伤害倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">89%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">98%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">107%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">116%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">125%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">134%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">143%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">151%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">160%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">172%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">185%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">200%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第一段失衡值</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">5</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第二段伤害倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">120%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">132%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">144%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">156%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">168%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">180%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">192%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">204%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">216%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">231%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">249%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">270%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第二段失衡值</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">5</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第三段伤害倍率</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">178%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">196%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">213%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">231%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">249%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">267%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">284%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">302%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">320%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">342%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">369%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">400%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>第三段失衡值</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">10</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>虚弱效果</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">20%</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">20%</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">20%</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">20%</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">20%</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">25%</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">25%</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">25%</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">25%</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">30%</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">30%</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">30%</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>虚弱持续时间（秒）</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="10">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="11">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="12">
+                            <align value="center">8</align>
+                        </td>
+                        <td col="13">
+                            <align value="center">8</align>
+                        </td>
+                    </tr>
+                </table>
+                <line kind="5"></line>
+                <h3>技能升级材料</h3>
+                <table header="both" widths="157,109,109,106,109,105,105,106,106,187,185,188">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>技能等级</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>RANK 2</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>RANK 3</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>RANK 4</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>RANK 5</b></align>
+                        </th>
+                        <th col="6">
+                            <align value="center"><b>RANK 6</b></align>
+                        </th>
+                        <th col="7">
+                            <align value="center"><b>RANK 7</b></align>
+                        </th>
+                        <th col="8">
+                            <align value="center"><b>RANK 8</b></align>
+                        </th>
+                        <th col="9">
+                            <align value="center"><b>RANK 9</b></align>
+                        </th>
+                        <th col="10">
+                            <align value="center"><b>专精1</b></align>
+                        </th>
+                        <th col="11">
+                            <align value="center"><b>专精2</b></align>
+                        </th>
+                        <th col="12">
+                            <align value="center"><b>专精3</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center"><entry type="card-big" count="1000" id="19"></entry><entry type="card-big" count="6" id="223"></entry><entry type="card-big" count="1" id="40"></entry></align>
+                        </td>
+                        <td col="3">
+                            <align value="center"><entry type="card-big" count="2700" id="19"></entry><entry type="card-big" count="12" id="223"></entry><entry type="card-big" count="2" id="40"></entry></align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="3200" id="19"></entry><entry type="card-big" count="16" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="5">
+                            <align value="center"><entry type="card-big" count="4200" id="19"></entry><entry type="card-big" count="21" id="223"></entry><entry type="card-big" count="1" id="539"></entry></align>
+                        </td>
+                        <td col="6">
+                            <align value="center"><entry type="card-big" count="5400" id="19"></entry><entry type="card-big" count="27" id="223"></entry><entry type="card-big" count="2" id="539"></entry></align>
+                        </td>
+                        <td col="7">
+                            <align value="center"><entry type="card-big" count="8200" id="19"></entry><entry type="card-big" count="6" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="8">
+                            <align value="center"><entry type="card-big" count="10500" id="19"></entry><entry type="card-big" count="8" id="222"></entry><entry type="card-big" count="1" id="755"></entry></align>
+                        </td>
+                        <td col="9">
+                            <align value="center"><entry type="card-big" count="18000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="2" id="755"></entry></align>
+                        </td>
+                        <td col="10">
+                            <align value="center"><entry type="card-big" count="24000" id="19"></entry><entry type="card-big" count="15" id="222"></entry><entry type="card-big" count="3" id="325"></entry><entry type="card-big" count="6" id="220"></entry><entry type="card-big" count="1" id="216"></entry></align>
+                        </td>
+                        <td col="11">
+                            <align value="center"><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="24" id="222"></entry><entry type="card-big" count="6" id="325"></entry><entry type="card-big" count="16" id="220"></entry><entry type="card-big" count="2" id="216"></entry></align>
+                        </td>
+                        <td col="12">
+                            <align value="center"><entry type="card-big" count="65000" id="19"></entry><entry type="card-big" count="50" id="222"></entry><entry type="card-big" count="12" id="325"></entry><entry type="card-big" count="36" id="220"></entry><entry type="card-big" count="3" id="216"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+        <chapter size="large" name="天赋阵列">
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260203/5246026/6980cdee51a1ffd966c080ff_db193eac.png">
+                <line kind="5"></line>
+                <h3><b>锤炼</b></h3>
+                能力值提升
+                <table header="both" widths="158,450,238,308">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>天赋阶段</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>描述</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>激活条件</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>锤炼·一</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">干员力量能力值提升<b><color value="f_blueness">10</color></b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center">干员信赖度达到20%</align>
+                            <align value="center">晋升至精英化阶段1</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1000" id="19"></entry><entry type="card-big" count="5" id="223"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>锤炼·二</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">干员力量能力值提升<b><color value="f_blueness">15</color></b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center">干员信赖度达到50%</align>
+                            <align value="center">晋升至精英化阶段2</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1800" id="19"></entry><entry type="card-big" count="10" id="223"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>锤炼·三</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">干员力量能力值提升<b><color value="f_blueness">15</color></b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center">干员信赖度达到100%</align>
+                            <align value="center">晋升至精英化阶段3</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="6000" id="19"></entry><entry type="card-big" count="10" id="222"></entry>﻿</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>锤炼·四</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">干员力量能力值提升<b><color value="f_blueness">20</color></b></align>
+                        </td>
+                        <td col="3">
+                            <align value="center">干员信赖度达到100%</align>
+                            <align value="center">晋升至精英化阶段4</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="12000" id="19"></entry><entry type="card-big" count="20" id="222"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260203/5246026/6980ce1c51a1ffd966c08107_56331367.png">
+                <line kind="5"></line>
+                <h3>坚韧防线</h3>
+                干员天赋
+                <table header="both" widths="159,454,233,312">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>天赋阶段</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>描述</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>解锁条件</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>坚韧防线·一</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">每有10点意志，防御力<b><color value="f_blueness">+1.0</color></b>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段1</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="2400" id="19"></entry><entry type="card-big" count="12" id="223"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>坚韧防线·二</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">每有10点意志，防御力<b><color value="f_blueness">+1.2</color></b>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段2</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="8600" id="19"></entry><entry type="card-big" count="40" id="223"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260203/5246026/6980ce95deae33c4ae130799_13673ac9.png">
+                <line kind="5"></line>
+                <h3>全局思维</h3>
+                干员天赋
+                <table header="both" widths="161,455,228,314">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>天赋阶段</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>描述</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>解锁条件</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>全局思维·一</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">终结技<color value="f_blue">教科书式猛攻</color>的最后一击产生<b><color value="f_blueness">2</color></b>次冲击波，</align>
+                            <align value="center">每次冲击波造成攻击力<b><color value="f_blueness">30%</color></b>的<color value="f_sandstone">物理伤害</color>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段2</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="10000" id="19"></entry><entry type="card-big" count="48" id="223"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>全局思维·二</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">终结技<color value="f_blue">教科书式猛攻</color>的最后一击产生<b><color value="f_blueness">3</color></b>次冲击波，</align>
+                            <align value="center">每次冲击波造成攻击力<b><color value="f_blueness">45%</color></b>的<color value="f_sandstone">物理伤害</color>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段3</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="24000" id="19"></entry><entry type="card-big" count="28" id="222"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260403/4826366/69ce9d483100547639e6d1b3_f1525633.png">
+                <line kind="5"></line>
+                <h3>缄默关怀</h3>
+                后勤技能
+                <table header="both" widths="163,452,227,312">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>天赋阶段</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>描述</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>激活条件</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>缄默关怀·α</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">进驻总控中枢时，所有干员心情恢复提升<b><color value="f_blueness">8%</color></b>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段1</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1600" id="19"></entry><entry type="card-big" count="6" id="223"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>缄默关怀·β</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">进驻总控中枢时，所有干员心情恢复提升<b><color value="f_blueness">12%</color></b>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段3</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="8000" id="19"></entry>﻿<entry type="card-big" count="12" id="222"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/common/20260403/4826366/69ce9d602f37943f5acfa4b3_56331367.png">
+                <line kind="5"></line>
+                <h3>务实心态</h3>
+                后勤技能
+                <table header="both" widths="162,458,227,310">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>天赋阶段</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>描述</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>激活条件</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>务实心态·β</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">进驻培养舱时，舱室内干员心情消耗降低<b><color value="f_blueness">14%</color></b>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段2</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="3000" id="19"></entry><entry type="card-big" count="12" id="223"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>务实心态·γ</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">进驻培养舱时，舱室内干员心情消耗降低<b><color value="f_blueness">18%</color></b>。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段4</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="20000" id="19"></entry>﻿<entry type="card-big" count="20" id="222"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/2026/01/09/4826366/18312d7160ccbc6a76b4e76fa163fd85.png">
+                <line kind="5"></line>
+                <h3>装备适配</h3>
+                <table header="both" widths="163,461,226,309">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>天赋阶段</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>描述</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>解锁条件</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>材料消耗</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>装备适配·一</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">激活后，允许干员穿戴<b><color value="r_3">蓝色</color></b>品质装备。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段1</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="1800" id="19"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>装备适配·二</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">激活后，允许干员穿戴<b><color value="r_4">紫色</color></b>品质装备。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段2</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="6500" id="19"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>装备适配·三</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">激活后，允许干员穿戴<b><color value="r_5">金色</color></b>品质装备。</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">晋升至精英化阶段3</align>
+                        </td>
+                        <td col="4">
+                            <align value="center"><entry type="card-big" count="18000" id="19"></entry></align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="干员潜能">
+        <chapter size="large" name="干员潜能">
+            <tab name="" icon="https://bbs.hycdn.cn/image/2026/01/08/4826366/21f302f7f34aa4de8c10fbd52630b602.png">
+                <line kind="5"></line>
+                <h3><b>多重战备</b></h3>
+                战技<color value="r_3">刚性阻击</color>和终结技<color value="r_3">教科书式猛攻</color>命中敌人时，额外造成一次<b><color value="f_blueness">[300+防御力×5.0]</color></b>的<color value="f_sandstone">物理伤害</color>。
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/2026/01/08/4826366/b843474b4c85ffab623a853424d1fae4.png">
+                <line kind="5"></line>
+                <h3><b>额外特训</b></h3>
+                防御力<b><color value="f_blueness">+20</color></b>，意志<b><color value="f_blueness">+10</color></b>。
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/2026/01/08/4826366/b6e5ca9f7fb9a8193feb4439dc6c66bf.png">
+                <line kind="5"></line>
+                <h3><b>不屈心锚</b></h3>
+                连携技<color value="r_3">即时压制</color>提供的<u><color value="r_3">护盾</color></u>持续时间<b><color value="f_blueness">+5</color></b>秒。
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/2026/01/08/4826366/781729c833b2144e9a30faf94408365b.png">
+                <line kind="5"></line>
+                <h3><b>苦难代偿</b></h3>
+                终结技<color value="r_3">教科书式猛攻</color>所需的终结技能量<b><color value="f_blueness">-10%</color></b>。
+            </tab>
+            <tab name="" icon="https://bbs.hycdn.cn/image/2026/01/08/4826366/acc51dd6cbdc93e8f37e82ccd6d73ae6.png">
+                <line kind="5"></line>
+                <h3><b>无悔抉择</b></h3>
+                卡契尔存在<u><color value="r_3">护盾</color></u>时，战技<color value="r_3">刚性阻击</color>成功命中敌人后<u>返还</u><b><color value="f_blueness">10</color></b>点技力。
+            </tab>
+        </chapter>
+        <chapter size="large" name="潜能明信片">
+            <tab name="时刻坚守" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>699858a809128d45e065a5a5</id>
+                    <format>webp</format>
+                    <width>1820</width>
+                    <height>1024</height>
+                    <size>193742</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260220/5246026/699858a809128d45e065a5a5_91c496d2.webp</url>
+                    <description>画师：九鸟山</description>
+                </img>
+                <align value="center"><b>无论何时，那道手执坚盾的湛蓝身影始终在那里。</b></align>
+            </tab>
+            <tab name="战前准备" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>699858bceb6e9d74c5db349c</id>
+                    <format>webp</format>
+                    <width>1820</width>
+                    <height>1024</height>
+                    <size>157130</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260220/5246026/699858bceb6e9d74c5db349c_0095c241.webp</url>
+                    <description>画师：EXP</description>
+                </img>
+                <align value="center"><b>在任务开始之前，他已经为后续的每种情况都准备了十种应急方案。</b></align>
+            </tab>
+            <tab name="坚实后盾" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>699858cd754fea398aa63435</id>
+                    <format>webp</format>
+                    <width>1820</width>
+                    <height>1024</height>
+                    <size>153946</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260220/5246026/699858cd754fea398aa63435_004865de.webp</url>
+                    <description>画师：かしまき</description>
+                </img>
+                <align value="center"><b>令人放心的安全感与让人满足的饱腹感——永远是他所在的队伍里最不会缺乏的东西。</b></align>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="干员档案">
+        <chapter size="small" name="干员情报">
+            <line kind="5"></line>
+            <h3>阵营</h3>
+            罗德岛工业
+            <line kind="1"></line>
+            <h3>种族</h3>
+            佩洛
+            <line kind="1"></line>
+            <h3>专长·一</h3>
+            <quote>
+                <b><color value="s_3">工具制造</color></b>
+            </quote>
+            他经手过的武器总拥有远超平均值的使用寿命。
+            <line kind="1"></line>
+            <h3>专长·二</h3>
+            <quote>
+                <b><color value="s_3">烹饪</color></b>
+            </quote>
+            “烤羽兽、土豆炖肉、野炊浓汤——总是那老三样，但也总让人吃不腻。”
+            <line kind="1"></line>
+            <h3>爱好·一</h3>
+            <quote>
+                <b><color value="s_3">生活</color></b>
+            </quote>
+            见识了他在烹饪、打扫、家电维修等方面的一丝不苟后，某位热心同事毅然给他颁发了“万能管家”的称号。
+            <line kind="1"></line>
+            <h3>爱好·二</h3>
+            <quote>
+                <b><color value="s_3">运动</color></b>
+            </quote>
+            每天做三十个深蹲是他在训练营学到的第一个锻炼方式，而目前已坚持完成了一千九百四十六天。
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="档案">
+            <tab name="基础档案" icon="">
+                <line kind="5"></line>
+                【代号】卡契尔
+                【性别】男
+                【身份认证】终末地工业
+                【生日】8月16日
+                【种族】佩洛
+                【矿石病感染情况】
+                参照医学检测报告，确认为感染者。
+
+                【综合体检测试】
+                生理强度：标准
+                作战技巧：标准
+                战术规划：标准
+                源石技艺适应性：标准
+
+                卡契尔干员的过往病历让我们对他现如今的测试结果感到惊讶，难以想象他是如何做到在那样的身体状况下，将自身生理强度提升到目前这个水平。基于诸多考虑，医疗部门将密切关注卡契尔干员后续的例行检查情况。
+                <line kind="2"></line>
+            </tab>
+            <tab name="人事简述" icon="">
+                <line kind="5"></line>
+                干员卡契尔，本名鲁伊·范·卡契尔，出生于文明环带的军人家庭。经干员秋栗申请，纳入Z7行动组管理。
+
+                基于已有的任务反馈，卡契尔先生应是Z7行动组中最令人放心的一位干员。他从不缺勤，总是按时提交报告，无任何不良嗜好，具备极好的合作性。
+                但与此同时，我们也注意到，受幼年经历影响，卡契尔先生对自身的要求存在过于严苛的倾向。简而言之，他会逼迫自己承担一些他本不需要承担的责任与任务目标。因此建议在为卡契尔先生安排工作时，尽量参考Z7行动组组长秋栗的建议。
+                ——终末地人事助理 马丁·马文·马伦
+                <line kind="2"></line>
+            </tab>
+            <tab name="档案资料·一" icon="">
+                <line kind="5"></line>
+                卡契尔无疑是Z7行动组中备受队友信赖的一位。尽管他平日里似乎更习惯沉默地站在队友们的身后，仿佛对其他人的闲聊毫无兴趣，但实际上，但凡有任何提及他的话题出现，他总会第一时间应声并给予妥善回复，教人有理由相信他从头到尾都没漏听掉一句。
+
+                是的，没错，我们的“万能管家”先生就是这么一个很难让人挑出错的家伙。有时候我真的很怀疑，他是不是每次行动结束都要回去写一份反省报告，然后还定期回看？不然你觉得一般人至于连“上上上次行动漏带了一支手电筒”这种事都记得清清楚楚吗？反正我可做不到。
+                ——萤石
+
+                卡契尔这个人，简单得有些不可思议了……他的表情管理和安塔尔一样厉害，好像很少有什么特别的变化……嗯，除了那次，我把放了一周忘记扔的奶油蛋糕不小心甩到了他的大剑上……他居然第一次对我皱眉了，真是太不容易了。
+                ——埃特拉
+
+                他很擅长解决一些麻烦的问题，也很懂得聆听的重要性，就是不太爱说话，让人忧心他平日的社交。好在他会做烤羽兽，味道甚至可以和我奶奶一拼，所以也就用不着忧心了——没什么能难倒一个会做烤羽兽的人。
+                ——安塔尔
+
+                虽然每次说到“Z7最让我省心的人”，大家都会一致认为是卡契尔，但我并不这么认为。因为不管是在任务中还是生活中，他都习惯性地把其他人的想法和诉求看得比自己重要……而作为队长，这绝不是我想要看到的。所以每次发现卡契尔又在自行承担额外工作时，我也会主动调整他后续的任务安排，让他不至于太辛苦。
+                ——秋栗
+                <line kind="2"></line>
+            </tab>
+            <tab name="档案资料·二" icon="">
+                <line kind="5"></line>
+                七年前，在我离开蓝松子安保后的那个秋天，为了方便照料我父亲并为他筹集更多的治疗费用，我在家附近的青少年训练营找了一份教官的兼职。我的主要工作就是把部队里一些最基本的常识一点点讲给这些估计连环带边缘都没去过的孩子们。而在我任教的三年间，有一位年仅15岁，名叫鲁伊的学员最令我印象深刻。他是那一届学员里唯一一个临时入营的，据说他父母本不愿意他来受训，但在他的强烈要求下最终妥协。后来我经常会想，或许我在刚得知这件事之后就应对鲁伊提高一些警惕的，至少该明白这个瘦削得让人怀疑是不是营养不良的孩子，并不像看起来的那么听话。
+                整个学期我一共教过他十一节课，其中八节都曾被他“找过茬儿”。从与教科书稍有区别的演示姿势到一两个无伤大雅的记忆差错，只要我的课堂中存在任何称得上失误的地方，都免不了被他一一指出。以至于后来我几乎每堂课前都要先自己预习一遍，以免再被他纠错。
+                后来在他快结业的某天，我终于第一次放下作为教官的矜持，向他问出了那个困扰我多时的问题：“到底是因为什么，让你一直这么执着地给我这个教官挑错？总不会是我哪里得罪了你吧？”而他当时的表情，直到现在我也记忆犹新——他先是摇了摇头，然后拿出了他那本边角都因为翻阅次数太多而卷起来、环塔商会统一发行的《如何成为一名合格的军人？（青少年版）》，指着它看向我，目光无比认真。
+                “不，卢卡老师，你讲的课很有趣，举的例子也比书上写的生动多了，我其实很喜欢听你的课……但是，你可能不知道，这本书里讲述的一切，曾经是激励我来到这里的支柱……”
+                “我……会那么在乎里面的每一条常识，只是因为我希望有一天能真正地在战场上应用它们……就像我9岁时梦想的那样……”
+                在得到他的回答后，我总算从熟识的另一名教官那里知道了鲁伊的童年往事——他曾因为家人的一时疏忽患上了矿石病，虽然治疗得非常及时，却还是让他差点儿就一辈子只能待在病床上。
+                我不知道他为了像普通学员那样正常受训，到底经历过什么，付出过什么……但至少作为教官，我很肯定，他确实是我值得骄傲的学生，哪怕我确实曾对他的种种行为深感头疼。
+                而现在想想，如果没有鲁伊那时近乎不依不饶的指正，我恐怕不会那么努力地对照教材进行备课，也不可能改正自己在部队时囫囵学习、不求甚解的习惯，更不会在后来加入高级武装安保人员训练计划，成为一名真正的雇佣兵教官了。
+                …………
+                再后来，我的父亲去世，我也离开了合金萝卜城，与训练营的同事也断了联系……不清楚鲁伊后来的去向。
+                只是从一位意外遇到的学员那里得知，鲁伊似乎是入职了一家颇有名望的公司，从事类似安保的工作……老实说，我有些意外，我本以为他会成为一名军人或是教官……
+                但无论如何，我依然衷心希望他能有机会善用那些学到的知识，真正实现他那个童年的梦想。
+                ——节选自传奇教官卢卡·伦蒂的回忆录《那些不被记住的》
+                <line kind="2"></line>
+            </tab>
+            <tab name="档案资料·三" icon="">
+                <line kind="5"></line>
+                “卡契尔先生！你总算来了！那个包裹的收件人一栏虽然写了你的名字，但我们一致认为，还是由你亲自确认一下比较好……它现在就放在卸货区——对，最大的那个！就在安德烈先生采购的装置模型旁边。”
+                “可以给我看看寄件人的地址和名字吗？”
+                “噢，没问题，我找找……地址是‘塞什卡’，寄件人是……‘卡珊卓’？好耳熟的名字……”
+                “……我知道了。确实是寄给我的。”
+                “真、真的吗？但例行检测的时候，我们发现这个包裹上有专门施放防止追踪的源石技艺……”
+                “别担心，真的是寄给我的……寄件人是我姐姐，她因为职业关系，习惯做一些这样的保护措施。”
+                “你姐姐？等等，我想起来了……你姐姐不会就是给塞什卡商人当保镖当出名头的那个‘雾中的卡珊卓’吧？！”
+                “嗯。”
+                “好吧……我完全理解。确实是必要的‘保护措施’。”
+                …………
+                “呼，那么相关的流程就走完了，卡契尔先生，现在你可以把这个包裹带走了。”
+                “我能直接在这里拆开它吗？”
+                “当然可以！如果需要搬运，可以直接找我们帮忙。”
+                …………
+                “这、这是什么？！不会是……外骨骼吧？！”
+                “……等一下，卡契尔先生，你手上拿的装置是？不然还是找个空旷的地方再按——”
+                （录音开始播放）
+                “亲爱的小弟，礼物收到了吗？”
+                “原谅姐姐最近实在忙得抽不开身，没法去你那边和你一起过生日了。”
+                “唉，原本那天听大哥说他临时接到命令要去北方一趟的时候，我就打算提前请几天假的，谁知道老板他们突然又接到一笔大单子，选的路还特别偏，只能我亲自出马了……”
+                “作为补偿，我给你买了这架商会最新推出的民用U-47重型外骨骼作为今年的礼物，哼哼，是不是比大哥上次送你那把还得自己拼的合金大剑帅多了？”
+                “而且因为听说你要经常出任务，我还托人给它办了五年的维修保养服务，这样你每次穿着它出门，爸妈也能放心点……”
+                “你也知道的，他们俩一辈子什么都不怕，就怕你什么时候不小心受了伤，又变得和那时一样……”
+                “所以务必保重身体，别忘了你当初离家时答应我和你哥的事，别忘了爸妈的嘱咐。”
+                “最后，生日快乐，我最最放心不下的弟弟。”
+                “——老姐不管去到哪里都会记挂着你的。”
+                （录音播放结束）
+
+                “果然是今年的生日礼物……唉……算了，总比去年的八国草药大礼包好一点。”
+                <line kind="2"></line>
+            </tab>
+            <tab name="档案资料·四" icon="">
+                <line kind="5"></line>
+                【一份泛黄的病历】
+                患者姓名：鲁伊·范·卡契尔
+                患者年龄：4岁
+                就诊时间：8月15日
+                就诊医院：合金萝卜自由市布朗宁医院
+                主治医师：拉曼·哈伦特
+
+                现病史：患者三小时前因不慎卷入一场源石装置失控事故，导致后颈脊椎受到轻微创伤。就诊一小时后，出现眩晕、盗汗、下肢力量不足、呕吐等症状。发病以来，患者精神较差，检测表明其肌群力量持续下降，建议立即入院并进行手术治疗。
+
+                诊断结果：确诊为急性矿石病，并伴有相关并发症，待后续观察。
+
+                【一段十年前的医疗记录存档】
+                “卡契尔小先生，作为你的主治医师，我想我有义务提醒你，虽然以当前医疗观察的结论来说，你身上的矿石病已得到了控制，但相比普通人，你的身体素质已远低于平均水平。除了需要长期卧床，最好也尽量不要下床行动，任何对身体造成负担的行为都可能会危及你的生命……我希望你和你的家人都时刻注意。”
+
+                【一段六年前的医疗记录存档】
+                “我需要再次强调，卡契尔小——好吧，看起来你更希望我用‘先生’称呼你，总之，你的病情虽然并未因此恶化，但这种运动量还是已经远远超出我给你提供的参考值了。我非常建议你在接下来几个月里，至少来医院进行三次全身体检，并接受我本人的问询。还有……如果你继续坚持这样超标的康复训练，那么务必保证十米内有家人或是专业护工的看护。我会根据你目前的情况再开一份药品清单，但请记住，在你这样的身体状况下，即使是最高效的药物，能发挥的作用依旧是有限的……”
+
+                【一段两年前的医疗记录存档】
+                “好吧，我想我必须承认，这个世界上确实存在只靠医学常识难以解释的……一些意外状况。卡契尔先生，你能将自己的身体锻炼到现今的水平，我想除了所谓的‘奇迹’，或许更多是因为你本人的意志与毅力……我不认为有生之年我还能见证第二个像你这样打破了常理的患者。当然，基于医生的职责，我仍希望你能每半年进行一次例行检查，以免意外发生。”
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="语音记录">
+        <chapter size="large" name="干员语音" audio="true">
+            <audios>
+                <audio name="行动准备1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/bb7af04e90775d739e1b5711a858e1bb.wav">
+                    嗯？有新任务？
+                </audio>
+                <audio name="行动准备2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/e0c80fe18189cb3668ee93e73e7fcde0.wav">
+                    我已准备就绪。
+                </audio>
+                <audio name="编入队伍1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/8f06f3e591399692250e920fb2199c75.wav">
+                    任何与掩护、后勤有关的任务，都可以交给我。
+                </audio>
+                <audio name="编入队伍2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/63d52d660ca7028393b99b719c8a7d36.wav">
+                    希望这次任务的过程也能少一点风险，多一点稳妥。
+                </audio>
+                <audio name="更换武器" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/f314556246a3f5f916cf1bf8c40fab48.wav">
+                    泛用性和实用性都不错，能应对不少场合的突袭。
+                </audio>
+                <audio name="更换装备" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/ed9baf6dfa00058864a1897e27e3bab8.wav">
+                    这种制式的装备我只在训练营的教材里见过……嗯，实物比想象中更精良。
+                </audio>
+                <audio name="激活天赋阵列" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/43dcbd8ba2cbf15a4c9781a117140cea.wav">
+                    通常情况下，我会准备额外的应急预案……多数时候都用得上。
+                </audio>
+                <audio name="观看作战记录" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/c0f870c5de20cd3a55f11949140c4bab.wav">
+                    嗯，需要注意的点我都记下了……之后我会给队长再发一份总结报告的。
+                </audio>
+                <audio name="精英化晋升1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/6a2e508807647aeed6dbf05c91bbd54b.wav">
+                    谢谢，今后的任务我也将尽力而为。
+                </audio>
+                <audio name="精英化晋升2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/8524cd6e1333575b74816ae5e0718dea.wav">
+                    下次请将更棘手的任务交给我吧，现在的我想必可以胜任。
+                </audio>
+                <audio name="精英化晋升3" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/7855e8c227b2ca5706b44ba999d90078.wav">
+                    管理员，为了感谢您的认可，我已经做完了未来三个月的任务准备，随时可以验收。
+                </audio>
+                <audio name="精英化晋升4" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/1a91f77c05dc4c2dd6022d67362e1ba8.wav">
+                    有时候我也会想，如果当初没有违背家人的意愿，恐怕会过上比现在平淡不少也安逸不少的生活……只是那个早上，当我下定决心拿起这把剑走出家门，我便不打算回头了。
+                </audio>
+                <audio name="干员报到" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/74b25c343933dcbf37a4a13b8f520441.wav">
+                    Z7行动组卡契尔，主要负责掩护与后勤，比较擅长防卫战，剑术尚可……但愿能帮上各位的忙。
+                </audio>
+                <audio name="待命1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/f83bded3a67d78e3f1707c703eecb60e.wav">
+                    需要掩护吗？我会全力以赴的。
+                </audio>
+                <audio name="待命2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/3a11c6be4df4fa475c99afd407a5b641.wav">
+                    我认为最好再多做些准备。
+                </audio>
+                <audio name="进驻设施" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/53ba7355b3881cd9cfe68a21cbc55447.wav">
+                    命令已收到。我会将它视作目前最优先的任务完成的。
+                </audio>
+                <audio name="打招呼1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/4ea6f12b888c1a9807895f66065bb43f.wav">
+                    管理员，您好，又有新任务了吗？
+                </audio>
+                <audio name="打招呼2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/3bf1fc66633ff377588874b236508f74.wav">
+                    管理员，我又整理了十卷Z7的作战总结，要看看吗？
+                </audio>
+                <audio name="帝江号闲聊1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/52a6cae10ee2df3bd9bf70e495c79adf.wav">
+                    管理员？有事找我？嗯，我今天不算忙，就是半小时后需要连上五堂剑术训练课……剩下的时间都挺空的。
+                </audio>
+                <audio name="帝江号闲聊2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/38f99feeb97cfbcc7e4e1219f5bc5f62.wav">
+                    根据大家的建议，最近我又改良了一版野炊浓汤……管理员，有空你可以来尝尝。
+                </audio>
+                <audio name="帝江号闲聊3" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/dcc05c09cb9325e8c2ee9ad65d4bdd41.wav">
+                    每次回到帝江号，我都觉得有种莫名的安心感……安塔尔坚称这和宿舍床铺的舒适程度脱不开关系，当然，这点我不打算反驳。
+                </audio>
+                <audio name="帝江号闲聊4" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/3337406ded3bbd3758a83b7a59cb6cac.wav">
+                    在任务中，我会无条件信任Z7的每个队友。但要我相信他们会听队长的话回来乖乖休息？那还是算了。估计不是在图书室废寝忘食，就是在娱乐室捉弄新人……必须要我亲自“送”他们回宿舍才行。
+                </audio>
+                <audio name="帝江号闲聊5" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/5fa5afd99472c3dbec9ceea14d5152a8.wav">
+                    前两天我回了趟老家，虽然家里人依然不太能接受我现在的工作，但我还是跟他们讲了不少在Z7的经历。他们没多说什么，只是临走前多给我塞了好几袋特产，大概是够Z7全员吃半年的量……管理员，回头我也分你半袋吧。
+                </audio>
+                <audio name="帝江号闲聊6" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/d2e927c2309763acf39cb4cdc2fb566b.wav">
+                    每天都很充实，每天都感觉自己被很多人需要着……这些应该是来到终末地后我最大的感受。即使时不时会累到睡不着，我也不认为是什么坏事，因为对我而言，这也算一种“认可”。
+                </audio>
+                <audio name="赠送礼物" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/05c3516591d953e29e2ca378a2999b56.wav">
+                    管理员，一点微不足道的慰问品……希望你能收下。
+                </audio>
+                <audio name="接收礼物" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/00907a691601ed221bf0c3454b086dcf.wav">
+                    是送给我的？谢谢，我会把它放在保险箱里妥善保管的。
+                </audio>
+                <audio name="信赖对话1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/d8648c7348e789248c12d3456ee29216.wav">
+                    ……抱歉，管理员，我只是在思考下次任务的准备工作。对了，您觉得手持焊枪、浮力调整器和源石粉尘防护面罩哪个更实用？……嗯，还是全都带上吧。
+                </audio>
+                <audio name="信赖对话2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/3f45cec99bcaa474ec96233de7345392.wav">
+                    我出生在一个很平凡的五口之家，父母都是军人，大哥是商会部队里的教官，二姐则是受雇于塞什卡的保镖。他们一直在保护我，一直不愿意我走上与他们相似的路，希望我能过上平稳的生活……然而在塔卫二，谁又能一生都活在家人的保护伞里呢？
+                </audio>
+                <audio name="信赖对话3" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/f3ab3a5f4600f1902afc03380a332b24.wav">
+                    我不太会怀念九岁之前的时光，就像我至今也对消毒水的味道心存偏见……那时的我连稍微重一点的水壶都拿不动，甚至不止一次被医生禁止户外活动，连晒太阳都是难得的奢侈体验……直到现在我都记得，痊愈后我第一次单独走到阳光下，那种仿佛整个人重新活过来的感觉。
+                </audio>
+                <audio name="信赖对话4" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/760d5980cab2d4e6222ff633d84a622f.wav">
+                    也许在一些人眼里，Z7并不是个多么优秀的行动组。我并非不能理解这点，毕竟队长她太过年轻，萤石又老会得罪人，埃特拉和安塔尔更是一个比一个不着调。但我依然愿意待在Z7……嗯，待一辈子也不是不行。
+                </audio>
+                <audio name="信赖对话5" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/049e251cb1d3396383e578221515fd32.wav">
+                    刚来终末地的时候，我一度很怀疑自己是否真的具备足以被他人信任的能力……但无论是Z7的各位，还是你，管理员，你们总会让我更清晰地意识到——我能回应的期待，远比我以为的多得多。
+                </audio>
+                <audio name="交谈1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/39810edf298ab53e55778fa56ecbeee2.wav">
+                    训练营教的东西其实都大同小异，一些作战常识再加一点户外求生技巧，差不多就是全部了。不过很少会有人指望在里面学到多少实战用得上的知识吧……我可能是个例外，所以会在演练课上为教官姿势和理论标准的差异跟他辩论了一堂课。后来？后来他被我说服了，在第三堂课开讲前。
+                </audio>
+                <audio name="交谈2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/c721987d43913ae8e3cc752b45d262e7.wav">
+                    在我们家，我其实是最没有作战天赋的那个，无论是体能还是作战技巧都远远逊于我的家人们……但即便如此，我也从没想过放弃，而是选择付出更多的努力——每天比大哥早起两小时，将训练量提到二姐的三倍……就这样，一步步坚持到了今天。
+                </audio>
+                <audio name="交谈3" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/83d5c3d0cb504e2371e6018306cd27b5.wav">
+                    我学习厨艺的契机？唔，其实没有什么特别的理由，就是刚加入Z7的时候，我有幸品尝过其他队员做的菜，然后第二天就去请教了小道奇教官，接受了数周的野战生存保障训练。
+                </audio>
+                <audio name="交谈4" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/9035d1f2988601ad0057e002f68e73f1.wav">
+                    在来终末地之前，我也试过在一些雇佣兵公司实习，但每家或多或少都希望我更“专业”一点……直白点说就是，“只拿钱办事，少问为什么”。我承认这不是什么不可理喻的要求，只是我可能这辈子都做不到吧。
+                </audio>
+                <audio name="交谈5" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/d9853785b38e07f437332fa821a035fc.wav">
+                    希望下个任务别再出现让安塔尔他们蹦出新点子的家伙，我们这个月给武库工程师添的麻烦已经够多了……对，您猜得没错，队长没来得及写的那些意见反馈报告现在还堆在我房间里。不过请放心，我会挑个第二天没任务的晚上通宵写完的。
+                </audio>
+                <audio name="话题：秋栗" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/67fe0d03c83374aa4493e94e99d10441.wav">
+                    队长是个非常有责任感的人，总是努力照顾我们Z7每个人的感受……只是很多时候，我还是希望她能更在乎自己一点，至少不必在聚餐时勉强配合其他人的口味，这样我就不用每次都找理由做她喜欢的东国点心了。
+                </audio>
+                <audio name="话题：萤石" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/b245651a7bb68c42283f881b5333b311.wav">
+                    我确实在环带见过像她这样的雇佣兵，狡诈、刻薄，也不合群，笑起来比不笑的时候更让人忌惮……但考虑到她最近都开始和安塔尔大聊源石虫的投掷技巧了，嗯，或许……应该再观察一段时间再下判断？
+                </audio>
+                <audio name="话题：埃特拉" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/729237df79e3f978c7eaa5090a1aaf5c.wav">
+                    也不知道是出于什么原因，埃特拉每次看我写的报告都会显得……很震惊。我只是把任务中发生的每件事都记了下来，顺带写了一些不成熟的感想而已……应该没什么值得惊讶的。毕竟相比她偏好的那些“艺术创作”，我的报告实属平平无奇。
+                </audio>
+                <audio name="话题：安塔尔" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/60e4726d72aea3074bdd151a65898081.wav">
+                    安塔尔不仅博学，还总乐于为人解惑。但问题是，他太喜欢为人解惑了。上回埃特拉随口问了句“长耳兽的耳朵为什么那么长？”，于是安塔尔一整天都在跟我们讲解相关的生物生态知识，直到返回帝江号才终于讲完——而这还是他省略了七成内容的精简版。
+                </audio>
+                <audio name="发现资源1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/6dc0d5c43c4f9b11b73212b1f41903ec.wav">
+                    根据经验，那边应该有可以收集的东西。
+                </audio>
+                <audio name="发现资源2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/8a3d9eae6ba0038df813a689bd865050.wav">
+                    嗯，那边的东西……就算需要绕路，也是值得的。
+                </audio>
+                <audio name="发现未探索区域" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/1694d88472f2b483d0ba57102851a208.wav">
+                    危险程度未知，建议慎重行动。
+                </audio>
+                <audio name="发现强敌" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/d98acf037689c7b2a6d5481e548be597.wav">
+                    如果有作战需求，我会提前规划好撤退方案。
+                </audio>
+                <audio name="采集矿物1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/1e44f1390de389fea60f8b4a7fbfb79b.wav">
+                    这也是一种珍贵的物资，尽快收集比较好。
+                </audio>
+                <audio name="采集矿物2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/9b42cdaba5a0ecbafc8ba65ed92f2d01.wav">
+                    团队合作总是更高效点……一起挖吧。
+                </audio>
+                <audio name="打开储藏箱" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/c054f2204caf7295f6d857722ab1db7c.wav">
+                    收集到了不少实用性较强的物资，是好事。
+                </audio>
+                <audio name="获得醚质" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/060bab25aac712141674d9e6917d04a2.wav">
+                    这就是手册上说过的“醚质”吧……
+                </audio>
+                <audio name="消除侵蚀" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/5d5d306ac62f38efad84224096dc64d4.wav">
+                    侵蚀的危害比常人以为的更可怕，必须慎重对待。
+                </audio>
+                <audio name="休整" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/f901e2771aa95ee06cf20748857ccbdb.wav">
+                    工作手册上写过，适当休息有助于更好地完成任务。
+                </audio>
+                <audio name="使用战术物品1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/e8796803d4080d2b47e39e78ef852e41.wav">
+                    支援品储备还够用，给。
+                </audio>
+                <audio name="使用战术物品2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/3e3f5935f0b318a4c310742760d05c22.wav">
+                    ……是我的失误。
+                </audio>
+                <audio name="危险提醒" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/33c33c868b96fee9107f7edb781dd9d1.wav">
+                    小心，别逞强。
+                </audio>
+                <audio name="负伤" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/df85f136c9e493e2713138cfcbae5d9d.wav">
+                    我的剑还撑得住。
+                </audio>
+                <audio name="力竭" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/ca19e7449a8d16449ab6af76b9c7395c.wav">
+                    抱歉……我又……拖后腿了吗……
+                </audio>
+                <audio name="小队激励1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/fd6e96d9facd2a1dba60e0528f67ac5f.wav">
+                    这招不赖。
+                </audio>
+                <audio name="小队激励2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/fdd80255d562908acccf88f40dde533e.wav">
+                    配合得不错，回去给各位加餐。
+                </audio>
+                <audio name="回应激励1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/4fa129194d449fc5908859d6cbfbbdd9.wav">
+                    ……有点过奖了。
+                </audio>
+                <audio name="回应激励2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/8cd4de8295540cafb64f370d503477f8.wav">
+                    是所有人的功劳。
+                </audio>
+                <audio name="作战开始1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/57b6d07d351783e40b6f3cf9d86d9df2.wav">
+                    保险起见，最好慎重行动。
+                </audio>
+                <audio name="作战开始2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/37f002d7bd303dfe071ef0d27b11853e.wav">
+                    我会做好支援工作的。
+                </audio>
+                <audio name="作战胜利1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/b517409a3841b8762ed4ee7d9b754bab.wav">
+                    都解决了吗？再检查一下吧。
+                </audio>
+                <audio name="作战胜利2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/b1c4b80cb3bf12aba07f32baf0dda689.wav">
+                    是个理想的结果。
+                </audio>
+                <audio name="作战胜利3" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/7f2a4a23c7344ca1a761a6e3072d1257.wav">
+                    真不愧是你……做得不错。
+                </audio>
+                <audio name="作战胜利4" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/7dcfe8b559a73d2f3f31d5e7433ac302.wav">
+                    无论如何，至少达成了这次的任务目标。
+                </audio>
+                <audio name="作战失败" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/7cab8c826618e884866a571ac1a1d80d.wav">
+                    我人生中的大部分经历都在教我一件事：学会接受每一次失败，然后想办法跨过去。
+                </audio>
+                <audio name="重击1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/100cdab6ae087e47addcbf48026d2190.wav">
+                    别碍事。
+                </audio>
+                <audio name="重击2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/3dfbbdbf8cbf058a5efc51d4f53d535e.wav">
+                    到你了。
+                </audio>
+                <audio name="战技1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/613d79e28098b8675e3b05d9aff9eb76.wav">
+                    休想靠近！
+                </audio>
+                <audio name="战技2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/46be745389132072a4758afc98e566e8.wav">
+                    站住！
+                </audio>
+                <audio name="战技3" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/cbef32f25275f26fd6baa3867e2c9918.wav">
+                    由我掩护！
+                </audio>
+                <audio name="连携技就绪1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/ef48bcd2e2ad9b96aa0644ec45c5c481.wav">
+                    久等了。
+                </audio>
+                <audio name="连携技就绪2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/ed48b6855375a6619da31b69362f044e.wav">
+                    该我了。
+                </audio>
+                <audio name="连携技1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/8c6114a87a5d7b98c471febcd66d5368.wav">
+                    接得住吗？
+                </audio>
+                <audio name="连携技2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/91b8f73d3e08049d2e9acec81718010b.wav">
+                    尝尝这招！
+                </audio>
+                <audio name="处决1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/aa73f80391ce1a64943c22b2a3fd94b6.wav">
+                    别想逃。
+                </audio>
+                <audio name="处决2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/83fb0908598dd556ce029056e2acaf2b.wav">
+                    结束了。
+                </audio>
+                <audio name="终结技1" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/176ea30a1a9ed604f838cffa80228f5b.wav">
+                    我来解决你们！
+                </audio>
+                <audio name="终结技2" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/ad5ad8780ce4d1c0044d9898496f317a.wav">
+                    不会让你过去的！
+                </audio>
+                <audio name="终结技3" src="https://bbs.hycdn.cn/audio/wiki/2026/02/09/5246026/8d33b26792bebf0280869890f86a56eb.wav">
+                    滚开！
+                </audio>
+            </audios>
+        </chapter>
+    </chapters>
+    <chapters name="官方情报">
+        <chapter size="large" name="干员演示">
+            <tab name="干员履历" icon="">
+                <line kind="5"></line>
+                <table header="none" widths="580,580">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69ce9ef0b3527e6cc802c351</id>
+                                <format>webp</format>
+                                <width>1080</width>
+                                <height>1920</height>
+                                <size>188942</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260403/4826366/69ce9ef0b3527e6cc802c351_65de0095.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                        <td col="2">
+                            <img>
+                                <id>69ce9ef3972dca5d7ffe0563</id>
+                                <format>webp</format>
+                                <width>1080</width>
+                                <height>1920</height>
+                                <size>154198</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260403/4826366/69ce9ef3972dca5d7ffe0563_96d20048.webp</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="待机动作" icon="">
+                <line kind="5"></line>
+                <table header="none" widths="580,580">
+                    <tr>
+                        <td col="1">
+                            <img>
+                                <id>69ce9f002f37943f5acfa4bd</id>
+                                <format>gif</format>
+                                <width>540</width>
+                                <height>960</height>
+                                <size>6618819</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260403/4826366/69ce9f002f37943f5acfa4bd_004865de.gif</url>
+                                <description></description>
+                            </img>
+                        </td>
+                        <td col="2">
+                            <img>
+                                <id>69ce9f03b3527e6cc802c352</id>
+                                <format>gif</format>
+                                <width>640</width>
+                                <height>1138</height>
+                                <size>7531055</size>
+                                <url>https://bbs.hycdn.cn/image/common/20260403/4826366/69ce9f03b3527e6cc802c352_65de0095.gif</url>
+                                <description></description>
+                            </img>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="干员展示图" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>69ce9f132f37943f5acfa4be</id>
+                    <format>webp</format>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <size>173044</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260403/4826366/69ce9f132f37943f5acfa4be_004865de.webp</url>
+                    <description></description>
+                </img>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

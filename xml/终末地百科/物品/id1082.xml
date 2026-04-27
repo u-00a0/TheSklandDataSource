@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1082</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283550"},"item":{"name":"武陵地区建设值","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1772026033","lastAuditPassedAt":"1777041313","tagIds":["10005","10259"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>武陵地区建设值</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260216/203953/6992c388a630795e389b7143_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10253">10259</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>通过武陵地区的各类建设活动增加的建设值，可提升地区建设等级以获得大量奖励。</b>
+        <color value="s_3">武陵地区发展的留痕，是每一位奉献者辛劳工作的证明。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>完成特定任务的报酬。</b>
+            <ul>
+                <li><b><color value="r_5">紧要任务</color></b><entry type="link-img" count="0" id="1246"></entry>完成后的报酬包含<entry type="link-img" count="200" id="1082"></entry>。</li>
+            </ul>
+            <line kind="5"></line>
+            <b>进行地区建设获取。</b>
+            <ul>
+                <li>通过在<b><color value="r_5">武陵</color></b>各处进行的建设可以获取数量不等的武陵地区建设值，例如：</li>
+                <li>在<b><color value="r_5">集中矿点</color></b>的每个矿脉首次放置矿机。</li>
+                <li>在<b><color value="r_5">武陵</color></b>各个据点建立联系并提升其发展阶段。</li>
+                <li>解锁或升级<b><color value="r_5">武陵</color></b>各处的资源回收站和仓储节点。</li>
+                <li>物资调度员接入与扩大调度范围（即升级<b><color value="r_5">武陵</color></b>各处的物资调度终端）。</li>
+                <li><b><color value="r_5">环境检测终端</color></b>接入与提升操作等级。</li>
+                <li>完成特定的任务。</li>
+                <li>其他的获取途径。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="地区建设等级">
+            <tab name="概述" icon="">
+                <line kind="5"></line>
+                每获得一定数量的谷地地区建设值后，就会提升<b><color value="r_5">武陵</color></b>的地区建设等级：
+                <ul>
+                    <li>建设等级每次提升后，都可以在<b><color value="r_5">地区建设-地区建设等级总览</color></b>中领取相应的里程碑奖励。</li>
+                    <li>建设等级提升可以为<b><color value="r_5">武陵</color></b>各地区提供各类增益或解锁新功能。</li>
+                </ul>
+                 
+                <b>关于各个等级的相关内容，可以通过该栏的分页查看。</b>
+                <line kind="2"></line>
+            </tab>
+            <tab name="1" icon="">
+                <table header="row" widths="117,891,152">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>1</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center">-</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" colspan="3">
+                            基础规划已完成，地区建设即将开始。
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="2" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>2</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">6万→25万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="4">
+                            <align value="center"><b><color value="r_5">景玉谷</color></b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <b>矿物纯度</b>提升。
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>协议容量</b>提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">130→150</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">14→16</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">7→8</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="3" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>3</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">25万→42万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="4">
+                            <align value="center"><b><color value="r_5">武陵城</color></b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <b>矿物纯度</b>提升。
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>协议容量</b>提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">200→250</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">20→30</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">10→11</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="4" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>4</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">42万→150万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="4">
+                            <align value="center"><b><color value="r_5">景玉谷</color></b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <b>矿物纯度</b>提升。
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>协议容量</b>提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">150→180</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">16→20</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">8→9</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="5" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>5</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">150万→300万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="3">
+                            <align value="center"><b><color value="r_5">武陵城</color></b></align>
+                        </td>
+                        <td col="2">
+                            <b>协议容量</b>提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">250→300</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">30→40</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">11→13</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="6" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>6</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">300万→630万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="3">
+                            <align value="center"><b><color value="r_5">景玉谷</color></b></align>
+                        </td>
+                        <td col="2">
+                            <b>协议容量</b>提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">180→210</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">20→25</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">9→10</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="7" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>7</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">630万→740万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="3">
+                            <align value="center"><b><color value="r_5">武陵城</color></b></align>
+                        </td>
+                        <td col="2">
+                            <b>协议容量</b>提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">300→350</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">40→50</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">13→15</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">清波寨</color></b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <b>矿物纯度</b>提升。
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="8" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>8</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">740万→850万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">景玉谷</color></b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <b>矿物纯度</b>提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵城</color></b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <b>矿物纯度</b>提升。
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="3">
+                            <align value="center"><b><color value="r_5">清波寨</color></b></align>
+                        </td>
+                        <td col="2">
+                            <b>协议容量</b>提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">120→160</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">16→20</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。<b><color value="f_blue">将达到最大值</color></b>
+                        </td>
+                        <td col="3">
+                            <align value="center">13→15</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="9" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>9</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">850万→960万</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="10" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>10</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">960万→1100万</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1" rowspan="3"></td>
+                        <td col="2">
+                            <b>协议容量</b>提升。
+                        </td>
+                        <td col="3"></td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>滑索</b>可放置数量提升。
+                        </td>
+                        <td col="3"></td>
+                    </tr>
+                    <tr>
+                        <td col="2">
+                            <b>作战设备</b>可放置数量提升。
+                        </td>
+                        <td col="3"></td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="11" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>11</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="30000" id="19"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">1100万→1250万</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="12" icon="">
+                <table header="row" widths="117,798,245">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>地区建设等级</b></align>
+                        </th>
+                        <th col="2" colspan="2">
+                            <align value="center"><b>里程碑奖励</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b>12</b></align>
+                        </td>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="363"></entry><entry type="card-big" count="200" id="926"></entry><entry type="card-big" count="40" id="211"></entry><entry type="card-big" count="15" id="222"></entry><b>名片·行至武陵</b>（1）</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center"><b><color value="r_5">武陵</color></b></align>
+                        </td>
+                        <td col="2">
+                            <entry type="link-img" count="0" id="382"></entry>持有上限提升。
+                        </td>
+                        <td col="3">
+                            <align value="center">1250万→1400万</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="后续地区建设等级尚未开放" icon="">
+                <line kind="3"></line>
+                <h1><b>后续地区建设等级尚未开放。</b></h1>
+                <line kind="3"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

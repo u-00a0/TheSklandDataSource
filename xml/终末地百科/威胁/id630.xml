@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>630</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283324"},"item":{"name":"白垩界卫","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1767797984","lastAuditPassedAt":"1773930573","tagIds":["10231"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>白垩界卫</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/13/139426/94696e8b725ad9a7e50965cbc75a7810.png</cover>
+        <subTypes>
+            <subType id="10229">10231</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>白垩界卫</b>（Marble Aggelomoirai）是《明日方舟：终末地》中的一类<b><color value="r_6">领袖敌人</color></b>。位于供能高地的超域试验场处，是主线「第一章 - 进程IV - <b>余火狼烟 </b>- 未熄火种」的最终Boss。
+        白垩界卫是一只由聂菲斯召唤出来，并模仿其外形的人形天使。在四号谷地袭击事件中，聂菲斯最终在超域试验场召唤了这一巨大的天使，并与管理员一行人正面对决。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="沉眠状态" icon="">
+                <imgIntro>
+                    <name>白垩界卫</name>
+                    <type>天使</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2026/01/08/139426/24685fb06650f1c0f36eb15853238867.png</imgUrl>
+                    <description>未归档。因形成特征，推定为天使。它的形成模式经过了重组，却仍在模仿聂菲斯的外形，所有进一步推定结论均判断为不可靠。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>只有击杀全部的白垩附肢，沉眠状态下的白垩界卫才会暂时露出可被攻击的核心部位。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>供能高地</li>
+                </ul>
+                <line kind="3"></line>
+            </tab>
+            <tab name="苏醒状态" icon="">
+                <imgIntro>
+                    <name>白垩界卫</name>
+                    <type>天使</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/12/11/139426/fcb7729414a998d1448e76afd25edf74.png</imgUrl>
+                    <description>未归档。因形成特征，推定为天使。形成模式模仿聂菲斯的外形，核心能量指示值高，但表现出不稳定性。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>苏醒后的白垩界卫可以从宇宙中召唤无数锚点砸向大地，只有躲避这些攻击，才能找到反击的机会。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>供能高地</li>
+                </ul>
+                <line kind="3"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

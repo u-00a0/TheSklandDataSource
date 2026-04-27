@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>909</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283464"},"item":{"name":"斧甲兽","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"1404450078881","nickname":"四氯化碳_CCl4","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/doc.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1767849573","lastAuditPassedAt":"1773932094","tagIds":["10230"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>斧甲兽</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/25/139426/6e8037893fb9423de13a8e01c7af9a27.png</cover>
+        <subTypes>
+            <subType id="10229">10230</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>斧甲兽</b>（Axe Armorbeast）是《明日方舟：终末地》中的一类<b><color value="r_4">精英敌人</color></b>。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="精英敌人" icon="">
+                <imgIntro>
+                    <name>斧甲兽</name>
+                    <type>野外生物</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/2025/11/29/139426/52e865440956c605bf295ee61c962e71.png</imgUrl>
+                    <description>自然环境中的野生斧甲兽，身披骨甲。在冲锋状态下，其斧状巨角甚至能破开厚重的合金门。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,228,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>愤怒的斧甲兽会把一切闯入领地的敌人用巨角驱赶出去，一定要小心他的冲撞。</li>
+                    <li>会进行各种大范围的攻击，在它愤怒时及时打断。</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>枢纽区</li>
+                    <li>能量淤积点·枢纽区</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人掉落</h3>
+                <ul>
+                    <li><entry type="link-img" count="0" id="191"></entry></li>
+                </ul>
+            </tab>
+        </chapter>
+        <chapter size="small" name="斧甲兽(预警终端)">
+            <i>“塔防模式”中的斧甲兽。</i>
+            <i>分布于部分据点的</i><b><i>区域防护作战</i></b><i>内：打开预警终端即可进行区域防护作战。</i>
+            <h3>|敌人详情</h3>
+            <ul>
+                <li><b>描述</b></li>
+            </ul>
+            自然环境中的野生斧甲兽，身披骨甲。在冲锋状态下，其斧状巨角甚至能破开厚重的合金门。
+            <ul>
+                <li><b>能力</b></li>
+            </ul>
+            斧甲兽周围存在敌方单位时，会释放技能加强周围的敌方单位，大幅度提升它们的速度和防御力，并使其更加难以被打断。
+        </chapter>
+    </chapters>
+</sklandDocument>

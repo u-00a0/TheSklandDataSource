@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>681</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777283348"},"item":{"name":"内部敌人","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1768229481","lastAuditPassedAt":"1768221967","tagIds":["10273"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>内部敌人</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/2026/01/12/402818/afea6fa7b396eb26e4b37d2786d2c800.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>地点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>开启条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">供能高地</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>描述</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        克劳的学徒安格鲁发来消息，似乎是需要管理员一行帮什么忙。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        目前的线索暂不能断定尤莉娅有泄密行为，管理员一行决定从她的上司季米特里查起。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        无论格奥尔基是否叛变，储藏点的异常损耗都是实证，管理员一行决定和他当面对质。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        虽然不是安格鲁指定的嫌疑人，但阿尔乔姆的异常行迹十分可疑。管理员一行决定顺藤摸瓜，继续查下去。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        调查有了一定进展，是时候找安格鲁和肖娜聊聊目前的进度了。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        收到安格鲁发来的消息，似乎是工人们得知了目前调查的内容，得加快调查进程以稳定局势。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        肖娜发来了消息，她似乎想和管理员当面聊聊。
+                    </td>
+                </tr>
+            </table>
+            <table header="row" widths="1160">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>目标</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往<b>源石发电站</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>季米特里</b>换个地方交谈
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        使用<b>扫描</b>寻找丢失的物资
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>格奥尔基</b>交谈
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往调查<b>阿尔乔姆</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往中转站寻找<b>阿尔乔姆</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        击败<b>裂地者</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>阿尔乔姆</b>交谈
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>安格鲁</b>和<b>肖娜</b>交谈
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        查看<b>安格鲁</b>发来的的消息
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前去同<b>安格鲁</b>会合
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前去与<b>季米特里</b>交谈
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往<b>监控室</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        使用源石技艺重构<b>终端机</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往<b>交易地点</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        击败<b>潜地虬兽</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        审问<b>中间人</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        返回<b>源石发电站</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        和<b>肖娜</b>聊一聊
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        等待<b>安格鲁</b>的消息
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        还原<b>终端机</b>数据
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        查看<b>安格鲁</b>发来的消息
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        查看<b>肖娜</b>发来的消息
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        跟随<b>格奥尔基</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        找到<b>尤莉娅</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        与<b>格奥尔基</b>谈话
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        使用<b>扫描</b>功能寻找线索
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        跟随<b>脚印</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往附近的<b>终端机</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        前往<b>桥头区营地</b>调查
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="任务奖励">
+        <chapter size="large" name="">
+            <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="100" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="6950" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="21" id="213"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="16" id="225"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="12" id="223"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="400" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+</sklandDocument>
