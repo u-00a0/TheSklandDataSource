@@ -4,7 +4,7 @@
   },
   "name": "启明驻留平台模型",
   "icon": "https://bbs.hycdn.cn/image/common/20260424/203953/69eafc8ec59b9648df1d3880_6ad0f152.png",
-  "description": "获取方式:\n特定活动奖励。\n参与活动镌宇铭星·留影，于帝江号-中央环厅完成拍照任务“求知与勇气”后可以领取启明驻留平台模型（1）。\n\n用途:\n放置在帝江号中央环厅的行迹高塔中进行展示。\n当启明驻留平台模型放置于行迹高塔中时，中央环厅内喜好[科技]与[生活]的干员会有特殊反应。\n科技 | [赛希][余烬][伊冯]\n生活 | [卡契尔][大潘][艾维文娜][佩丽卡][艾尔黛拉][莱万汀]",
+  "description": "获取方式:\n特定活动奖励。\n参与活动镌宇铭星·留影，于帝江号-中央环厅完成拍照任务“求知与勇气”后可以领取[启明驻留平台模型x1]。\n\n用途:\n放置在帝江号中央环厅的行迹高塔中进行展示。\n当[启明驻留平台模型]放置于行迹高塔中时，中央环厅内喜好[科技]与[生活]的干员会有特殊反应：\n科技 | [赛希][余烬][伊冯]\n生活 | [卡契尔][大潘][艾维文娜][佩丽卡][艾尔黛拉][莱万汀]",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,153 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777345165",
+    "timestamp": "1777431664",
     "data": {
       "item": {
         "itemId": "1367",
         "document": {
           "documentMap": {
-            "8QzsIqsb": {
+            "G5LA1H68": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "QB7bLN",
+                "2nHcjG",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "2nHcjG": {
+                  "id": "2nHcjG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "2nHcjG",
+                    "itemIds": [
+                      "ZQeKqJ"
+                    ],
+                    "itemMap": {
+                      "ZQeKqJ": {
+                        "id": "ZQeKqJ",
+                        "childIds": [
+                          "zBL8xGc9UPfA"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "QB7bLN": {
+                  "id": "QB7bLN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "特定活动奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "zBL8xGc9UPfA": {
+                  "id": "zBL8xGc9UPfA",
+                  "parentId": "ZQeKqJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "参与活动"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "镌宇铭星·留影"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "帝江号-中央环厅"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成拍照任务“"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "求知与勇气"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "”后可以领取"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1367",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "moPFnC4G": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -52,10 +192,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "启明驻留平台模型"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1367",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
@@ -101,7 +242,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "的干员会有特殊反应。"
+                          "text": "的干员会有特殊反应："
                         }
                       }
                     ],
@@ -383,145 +524,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "VUgvdK2q": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "QB7bLN",
-                "2nHcjG",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "2nHcjG": {
-                  "id": "2nHcjG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "2nHcjG",
-                    "itemIds": [
-                      "ZQeKqJ"
-                    ],
-                    "itemMap": {
-                      "ZQeKqJ": {
-                        "id": "ZQeKqJ",
-                        "childIds": [
-                          "zBL8xGc9UPfA"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "QB7bLN": {
-                  "id": "QB7bLN",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "特定活动奖励。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "zBL8xGc9UPfA": {
-                  "id": "zBL8xGc9UPfA",
-                  "parentId": "ZQeKqJ",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "参与活动"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "镌宇铭星·留影"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "，于"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "帝江号-中央环厅"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "完成拍照任务“"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "求知与勇气"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "”后可以领取"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "启明驻留平台模型"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "（1）。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -559,7 +561,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "8QzsIqsb",
+                  "content": "moPFnC4G",
                   "audioList": []
                 }
               }
@@ -571,7 +573,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "VUgvdK2q",
+                  "content": "G5LA1H68",
                   "audioList": []
                 }
               }
@@ -828,7 +830,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777211573",
-        "lastAuditPassedAt": "1777028533",
+        "lastAuditPassedAt": "1777367157",
         "tagIds": [
           "10005",
           "10330",

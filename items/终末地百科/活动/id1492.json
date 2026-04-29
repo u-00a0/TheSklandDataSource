@@ -1,0 +1,670 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1492"
+  },
+  "name": "集成援助·掌中救星",
+  "icon": "https://bbs.hycdn.cn/image/common/20260427/856392/69ef6ae116c55468b68b06ed_db193eac.png",
+  "description": "用途:\n活动期间，完成特定任务以解锁援助物品配方与物资兑换处。生产援助物品并提交至据点可获得【武陵调度券】与【援助成果券】，使用【援助成果券】可在物资兑换处兑换物资。（活动开启后第8天，物资兑换处将新增额外的可兑换物资。） 5月13日16:00（服务器时间）活动结束后，已生产但未提交至据点的援助物品，将会自动兑换为【武陵调度券】与【援助成果券】，并通过邮件发送。其中，超出可兑换调度券上限的部分将自动兑换为【援助成果券】。 活动结束后，物资兑换处还会额外开放一段时间便于管理员兑换剩余物资。请管理员在5月19日04:00（服务器时间）前及时兑换。 活动期间，达成指定条件即可获得本活动专属蚀刻章。",
+  "tags": [
+    "main:终末地百科",
+    "sub:活动"
+  ],
+  "source": "终末地百科/活动/id1492.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1777431947",
+    "data": {
+      "item": {
+        "itemId": "1492",
+        "document": {
+          "documentMap": {
+            "6h5RigVb": {
+              "id": "document-id",
+              "blockIds": [
+                "RlWjKF"
+              ],
+              "blockMap": {
+                "HdaFYU": {
+                  "id": "HdaFYU",
+                  "parentId": "75PtSE_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2026/04/28 12:00 - 2026/05/13 16:00（服务器时间）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "K0YWVzsAfvlD": {
+                  "id": "K0YWVzsAfvlD",
+                  "parentId": "60RaI3_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动奖励"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RlWjKF": {
+                  "id": "RlWjKF",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "RlWjKF",
+                    "rowIds": [
+                      "IFHv28",
+                      "75PtSE",
+                      "60RaI3",
+                      "CfHnSk"
+                    ],
+                    "columnIds": [
+                      "hn1Qaj",
+                      "dxAzT8"
+                    ],
+                    "rowMap": {
+                      "60RaI3": {
+                        "id": "60RaI3"
+                      },
+                      "75PtSE": {
+                        "id": "75PtSE"
+                      },
+                      "CfHnSk": {
+                        "id": "CfHnSk"
+                      },
+                      "IFHv28": {
+                        "id": "IFHv28"
+                      }
+                    },
+                    "columnMap": {
+                      "dxAzT8": {
+                        "id": "dxAzT8",
+                        "width": 1003
+                      },
+                      "hn1Qaj": {
+                        "id": "hn1Qaj",
+                        "width": 157
+                      }
+                    },
+                    "cellMap": {
+                      "60RaI3_dxAzT8": {
+                        "id": "60RaI3_dxAzT8",
+                        "childIds": [
+                          "U9ljtZeNVN4t"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "60RaI3_hn1Qaj": {
+                        "id": "60RaI3_hn1Qaj",
+                        "childIds": [
+                          "K0YWVzsAfvlD"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_dxAzT8": {
+                        "id": "75PtSE_dxAzT8",
+                        "childIds": [
+                          "HdaFYU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_hn1Qaj": {
+                        "id": "75PtSE_hn1Qaj",
+                        "childIds": [
+                          "oOhutB"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_dxAzT8": {
+                        "id": "CfHnSk_dxAzT8",
+                        "childIds": [
+                          "kqOP8Uk1SaBM"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_hn1Qaj": {
+                        "id": "CfHnSk_hn1Qaj",
+                        "childIds": [
+                          "mikKCH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "IFHv28_hn1Qaj": {
+                        "id": "IFHv28_hn1Qaj",
+                        "childIds": [
+                          "nCl46zP8c20j"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "U9ljtZeNVN4t": {
+                  "id": "U9ljtZeNVN4t",
+                  "parentId": "60RaI3_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动开放期间，完成任务，累计可获得"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "290",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "210",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "216",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "等活动奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kqOP8Uk1SaBM": {
+                  "id": "kqOP8Uk1SaBM",
+                  "parentId": "CfHnSk_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成主线任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1105",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mikKCH": {
+                  "id": "mikKCH",
+                  "parentId": "CfHnSk_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "参与条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nCl46zP8c20j": {
+                  "id": "nCl46zP8c20j",
+                  "parentId": "IFHv28_hn1Qaj",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ef6951f3587aee4905eaac",
+                    "url": "https://bbs.hycdn.cn/image/common/20260427/856392/69ef6951f3587aee4905eaac_0095c241.webp",
+                    "width": "1650",
+                    "height": "300",
+                    "size": "53182",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 1135,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "oOhutB": {
+                  "id": "oOhutB",
+                  "parentId": "75PtSE_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动时间"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "ndY495tI": {
+              "id": "document-id",
+              "blockIds": [
+                "p1dUvsFmuMWe",
+                "LIlKjR8YDDvy",
+                "9ARPrkN07tcQ"
+              ],
+              "blockMap": {
+                "9ARPrkN07tcQ": {
+                  "id": "9ARPrkN07tcQ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "KbMbyCgKFDtS": {
+                  "id": "KbMbyCgKFDtS",
+                  "parentId": "PiszV9BdHrRr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "5月13日16:00（服务器时间）活动结束后，已生产但未提交至据点的援助物品，将会自动兑换为【武陵调度券】与【援助成果券】，并通过邮件发送。其中，超出可兑换调度券上限的部分将自动兑换为【援助成果券】。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LIlKjR8YDDvy": {
+                  "id": "LIlKjR8YDDvy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "LIlKjR8YDDvy",
+                    "itemIds": [
+                      "9C8LpyKsuhb0",
+                      "PiszV9BdHrRr",
+                      "0SM9uTLUjHCJ",
+                      "lCVdyWyZYAfO"
+                    ],
+                    "itemMap": {
+                      "0SM9uTLUjHCJ": {
+                        "id": "0SM9uTLUjHCJ",
+                        "childIds": [
+                          "veB9U4HYr1Ih"
+                        ]
+                      },
+                      "9C8LpyKsuhb0": {
+                        "id": "9C8LpyKsuhb0",
+                        "childIds": [
+                          "t6N1Abju7waJ"
+                        ]
+                      },
+                      "PiszV9BdHrRr": {
+                        "id": "PiszV9BdHrRr",
+                        "childIds": [
+                          "KbMbyCgKFDtS"
+                        ]
+                      },
+                      "lCVdyWyZYAfO": {
+                        "id": "lCVdyWyZYAfO",
+                        "childIds": [
+                          "liCqv9FlQKi0"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "liCqv9FlQKi0": {
+                  "id": "liCqv9FlQKi0",
+                  "parentId": "lCVdyWyZYAfO",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动期间，达成指定条件即可获得本活动专属蚀刻章。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "p1dUvsFmuMWe": {
+                  "id": "p1dUvsFmuMWe",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "t6N1Abju7waJ": {
+                  "id": "t6N1Abju7waJ",
+                  "parentId": "9C8LpyKsuhb0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动期间，完成特定任务以解锁援助物品配方与物资兑换处。生产援助物品并提交至据点可获得【武陵调度券】与【援助成果券】，使用【援助成果券】可在物资兑换处兑换物资。（活动开启后第8天，物资兑换处将新增额外的可兑换物资。）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "veB9U4HYr1Ih": {
+                  "id": "veB9U4HYr1Ih",
+                  "parentId": "0SM9uTLUjHCJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动结束后，物资兑换处还会额外开放一段时间便于管理员兑换剩余物资。请管理员在5月19日04:00（服务器时间）前及时兑换。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "活动展示",
+              "widgets": [
+                {
+                  "id": "0OLkjM9m",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "活动说明",
+              "widgets": [
+                {
+                  "id": "Zs3TH0Gw",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "0OLkjM9m": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "6h5RigVb",
+                  "audioList": []
+                }
+              }
+            },
+            "Zs3TH0Gw": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "ndY495tI",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "集成援助·掌中救星",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "9",
+          "name": "活动",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 12,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10276",
+              "children": [
+                {
+                  "id": "10277",
+                  "children": [],
+                  "name": "零号委托",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10369",
+                  "children": [],
+                  "name": "新潮起，故渊离",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10411",
+                  "children": [],
+                  "name": "春晓时",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "版本",
+              "type": 1,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10366",
+              "children": [
+                {
+                  "id": "10368",
+                  "children": [],
+                  "name": "限时活动",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10367",
+                  "children": [],
+                  "name": "常驻活动",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "活动类型",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
+        },
+        "createdUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260427/856392/69ef6ae116c55468b68b06ed_db193eac.png",
+          "name": "集成援助·掌中救星",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "e1I0lH"
+            ],
+            "blockMap": {
+              "e1I0lH": {
+                "id": "e1I0lH",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "集成生产活动"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "subTypeList": [
+            {
+              "subTypeId": "10276",
+              "value": "10411"
+            },
+            {
+              "subTypeId": "10366",
+              "value": "10368"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1777388262",
+        "lastAuditPassedAt": "1777388180",
+        "tagIds": [
+          "10411",
+          "10368"
+        ]
+      }
+    }
+  }
+}

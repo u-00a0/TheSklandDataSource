@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1492</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777431947"},"item":{"name":"集成援助·掌中救星","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1777388262","lastAuditPassedAt":"1777388180","tagIds":["10411","10368"]},"brief":{"associate":null,"composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>集成援助·掌中救星</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260427/856392/69ef6ae116c55468b68b06ed_db193eac.png</cover>
+        <subTypes>
+            <subType id="10276">10411</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>集成生产活动</b>
+    </description>
+    <chapters name="活动展示">
+        <chapter size="large" name="">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>69ef6951f3587aee4905eaac</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>53182</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260427/856392/69ef6951f3587aee4905eaac_0095c241.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动时间</b></align>
+                    </td>
+                    <td col="2">
+                        2026/04/28 12:00 - 2026/05/13 16:00（服务器时间）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动奖励</b></align>
+                    </td>
+                    <td col="2">
+                        活动开放期间，完成任务，累计可获得<entry type="link-img" count="0" id="926"></entry><entry type="link-img" count="0" id="290"></entry><entry type="link-img" count="0" id="210"></entry><entry type="link-img" count="0" id="216"></entry>等活动奖励。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务<entry type="link-img" count="0" id="1105"></entry>
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="活动说明">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>活动期间，完成特定任务以解锁援助物品配方与物资兑换处。生产援助物品并提交至据点可获得【武陵调度券】与【援助成果券】，使用【援助成果券】可在物资兑换处兑换物资。（活动开启后第8天，物资兑换处将新增额外的可兑换物资。）</li>
+                <li>5月13日16:00（服务器时间）活动结束后，已生产但未提交至据点的援助物品，将会自动兑换为【武陵调度券】与【援助成果券】，并通过邮件发送。其中，超出可兑换调度券上限的部分将自动兑换为【援助成果券】。</li>
+                <li>活动结束后，物资兑换处还会额外开放一段时间便于管理员兑换剩余物资。请管理员在5月19日04:00（服务器时间）前及时兑换。</li>
+                <li>活动期间，达成指定条件即可获得本活动专属蚀刻章。</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>
