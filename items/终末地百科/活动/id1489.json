@@ -1,0 +1,1060 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1489"
+  },
+  "name": "镌宇铭星签到",
+  "icon": "https://bbs.hycdn.cn/image/common/20260424/856392/69eabef312a9f0f6029fddda_13673ac9.png",
+  "tags": [
+    "main:终末地百科",
+    "sub:活动"
+  ],
+  "source": "终末地百科/活动/id1489.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1777518264",
+    "data": {
+      "item": {
+        "itemId": "1489",
+        "document": {
+          "documentMap": {
+            "0D8xsJ9j": {
+              "id": "document-id",
+              "blockIds": [
+                "RlWjKF"
+              ],
+              "blockMap": {
+                "HdaFYU": {
+                  "id": "HdaFYU",
+                  "parentId": "75PtSE_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2026/04/24 12:00（服务器时间） - 版本更新维护前"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "K0YWVzsAfvlD": {
+                  "id": "K0YWVzsAfvlD",
+                  "parentId": "60RaI3_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动奖励"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RlWjKF": {
+                  "id": "RlWjKF",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "RlWjKF",
+                    "rowIds": [
+                      "IFHv28",
+                      "75PtSE",
+                      "60RaI3",
+                      "CfHnSk",
+                      "KXKNi3"
+                    ],
+                    "columnIds": [
+                      "hn1Qaj",
+                      "dxAzT8"
+                    ],
+                    "rowMap": {
+                      "60RaI3": {
+                        "id": "60RaI3"
+                      },
+                      "75PtSE": {
+                        "id": "75PtSE"
+                      },
+                      "CfHnSk": {
+                        "id": "CfHnSk"
+                      },
+                      "IFHv28": {
+                        "id": "IFHv28"
+                      },
+                      "KXKNi3": {
+                        "id": "KXKNi3"
+                      }
+                    },
+                    "columnMap": {
+                      "dxAzT8": {
+                        "id": "dxAzT8",
+                        "width": 1003
+                      },
+                      "hn1Qaj": {
+                        "id": "hn1Qaj",
+                        "width": 157
+                      }
+                    },
+                    "cellMap": {
+                      "60RaI3_dxAzT8": {
+                        "id": "60RaI3_dxAzT8",
+                        "childIds": [
+                          "kRwpR0PU5332"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "60RaI3_hn1Qaj": {
+                        "id": "60RaI3_hn1Qaj",
+                        "childIds": [
+                          "K0YWVzsAfvlD"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_dxAzT8": {
+                        "id": "75PtSE_dxAzT8",
+                        "childIds": [
+                          "HdaFYU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_hn1Qaj": {
+                        "id": "75PtSE_hn1Qaj",
+                        "childIds": [
+                          "oOhutB"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_dxAzT8": {
+                        "id": "CfHnSk_dxAzT8",
+                        "childIds": [
+                          "lQiwSJLm8bbl"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_hn1Qaj": {
+                        "id": "CfHnSk_hn1Qaj",
+                        "childIds": [
+                          "mikKCH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "IFHv28_hn1Qaj": {
+                        "id": "IFHv28_hn1Qaj",
+                        "childIds": [
+                          "e0w4fn23WdTq"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "KXKNi3_dxAzT8": {
+                        "id": "KXKNi3_dxAzT8",
+                        "childIds": [
+                          "iXArKy9GxdfL"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "KXKNi3_hn1Qaj": {
+                        "id": "KXKNi3_hn1Qaj",
+                        "childIds": [
+                          "lFs6KOxMngkQ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "e0w4fn23WdTq": {
+                  "id": "e0w4fn23WdTq",
+                  "parentId": "IFHv28_hn1Qaj",
+                  "kind": "image",
+                  "image": {
+                    "id": "69eabf1fc59b9648df1d3740",
+                    "url": "https://bbs.hycdn.cn/image/common/20260424/856392/69eabf1fc59b9648df1d3740_91c496d2.webp",
+                    "width": "1650",
+                    "height": "300",
+                    "size": "47008",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 1135,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "iXArKy9GxdfL": {
+                  "id": "iXArKy9GxdfL",
+                  "parentId": "KXKNi3_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "参与签到，累计可领取贴纸·启明、佩丽卡的信物、联动头像框"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "「铭星」以及嵌晶玉×500等奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kRwpR0PU5332": {
+                  "id": "kRwpR0PU5332",
+                  "parentId": "60RaI3_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动开放期间，完成3日签到，累计可获得【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1368",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1369",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "293",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】等奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lFs6KOxMngkQ": {
+                  "id": "lFs6KOxMngkQ",
+                  "parentId": "KXKNi3_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "文本介绍"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lQiwSJLm8bbl": {
+                  "id": "lQiwSJLm8bbl",
+                  "parentId": "CfHnSk_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成主线任务"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "504",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mikKCH": {
+                  "id": "mikKCH",
+                  "parentId": "CfHnSk_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "参与条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oOhutB": {
+                  "id": "oOhutB",
+                  "parentId": "75PtSE_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动时间"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "ef3WtUk2": {
+              "id": "document-id",
+              "blockIds": [
+                "UH285rPh9488",
+                "GRTD0wzZ2isk",
+                "pOwKxIXrzk7H"
+              ],
+              "blockMap": {
+                "GRTD0wzZ2isk": {
+                  "id": "GRTD0wzZ2isk",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "GRTD0wzZ2isk",
+                    "itemIds": [
+                      "IbEMpbBZH9ZL"
+                    ],
+                    "itemMap": {
+                      "IbEMpbBZH9ZL": {
+                        "id": "IbEMpbBZH9ZL",
+                        "childIds": [
+                          "mlvjtXc1HUmZ"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "UH285rPh9488": {
+                  "id": "UH285rPh9488",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "mlvjtXc1HUmZ": {
+                  "id": "mlvjtXc1HUmZ",
+                  "parentId": "IbEMpbBZH9ZL",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每日登录游戏即可领取签到奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pOwKxIXrzk7H": {
+                  "id": "pOwKxIXrzk7H",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "swlFI0dK": {
+              "id": "document-id",
+              "blockIds": [
+                "7lquJQiGZ0bV",
+                "5PBUOjIa0HTr",
+                "PqY4qHKRW8Zk"
+              ],
+              "blockMap": {
+                "2Fq8aGciANLh": {
+                  "id": "2Fq8aGciANLh",
+                  "parentId": "5NX1UT_O6P5WQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "293",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "4uGoHjJIaLDu": {
+                  "id": "4uGoHjJIaLDu",
+                  "parentId": "efuCN8_O6P5WQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "DAY 1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "5PBUOjIa0HTr": {
+                  "id": "5PBUOjIa0HTr",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "5PBUOjIa0HTr",
+                    "rowIds": [
+                      "efuCN8",
+                      "5NX1UT",
+                      "Gw1CPx"
+                    ],
+                    "columnIds": [
+                      "O6P5WQ",
+                      "F9uGEi",
+                      "ytL8M2"
+                    ],
+                    "rowMap": {
+                      "5NX1UT": {
+                        "id": "5NX1UT"
+                      },
+                      "Gw1CPx": {
+                        "id": "Gw1CPx"
+                      },
+                      "efuCN8": {
+                        "id": "efuCN8"
+                      }
+                    },
+                    "columnMap": {
+                      "F9uGEi": {
+                        "id": "F9uGEi",
+                        "width": 386.6666666666667
+                      },
+                      "O6P5WQ": {
+                        "id": "O6P5WQ",
+                        "width": 386.6666666666667
+                      },
+                      "ytL8M2": {
+                        "id": "ytL8M2",
+                        "width": 386.6666666666667
+                      }
+                    },
+                    "cellMap": {
+                      "5NX1UT_F9uGEi": {
+                        "id": "5NX1UT_F9uGEi",
+                        "childIds": [
+                          "yiW8lUzu0GE2"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "5NX1UT_O6P5WQ": {
+                        "id": "5NX1UT_O6P5WQ",
+                        "childIds": [
+                          "2Fq8aGciANLh"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "5NX1UT_ytL8M2": {
+                        "id": "5NX1UT_ytL8M2",
+                        "childIds": [
+                          "GkL10yQ70deh"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Gw1CPx_F9uGEi": {
+                        "id": "Gw1CPx_F9uGEi",
+                        "childIds": [
+                          "FlJZQvzVrvgE"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Gw1CPx_O6P5WQ": {
+                        "id": "Gw1CPx_O6P5WQ",
+                        "childIds": [
+                          "AyHJYBinhfvp"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Gw1CPx_ytL8M2": {
+                        "id": "Gw1CPx_ytL8M2",
+                        "childIds": [
+                          "HjwZ9AFeuS6G"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "efuCN8_F9uGEi": {
+                        "id": "efuCN8_F9uGEi",
+                        "childIds": [
+                          "PGkyyAwxHXdo"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "efuCN8_O6P5WQ": {
+                        "id": "efuCN8_O6P5WQ",
+                        "childIds": [
+                          "4uGoHjJIaLDu"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "efuCN8_ytL8M2": {
+                        "id": "efuCN8_ytL8M2",
+                        "childIds": [
+                          "81wCLD7sZ0iH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "7lquJQiGZ0bV": {
+                  "id": "7lquJQiGZ0bV",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "81wCLD7sZ0iH": {
+                  "id": "81wCLD7sZ0iH",
+                  "parentId": "efuCN8_ytL8M2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "DAY 3"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "AyHJYBinhfvp": {
+                  "id": "AyHJYBinhfvp",
+                  "parentId": "Gw1CPx_O6P5WQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1369",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FlJZQvzVrvgE": {
+                  "id": "FlJZQvzVrvgE",
+                  "parentId": "Gw1CPx_F9uGEi",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "212",
+                          "showType": "card-big",
+                          "count": "15"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GkL10yQ70deh": {
+                  "id": "GkL10yQ70deh",
+                  "parentId": "5NX1UT_ytL8M2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1368",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "HjwZ9AFeuS6G": {
+                  "id": "HjwZ9AFeuS6G",
+                  "parentId": "Gw1CPx_ytL8M2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "19",
+                          "showType": "card-big",
+                          "count": "30000"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PGkyyAwxHXdo": {
+                  "id": "PGkyyAwxHXdo",
+                  "parentId": "efuCN8_F9uGEi",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "DAY 2"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "PqY4qHKRW8Zk": {
+                  "id": "PqY4qHKRW8Zk",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "yiW8lUzu0GE2": {
+                  "id": "yiW8lUzu0GE2",
+                  "parentId": "5NX1UT_F9uGEi",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "500"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "活动展示",
+              "widgets": [
+                {
+                  "id": "0OLkjM9m",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "活动说明",
+              "widgets": [
+                {
+                  "id": "DdbKJxA0",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "活动内容",
+              "widgets": [
+                {
+                  "id": "cvKr5Xls",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "0OLkjM9m": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "0D8xsJ9j",
+                  "audioList": []
+                }
+              }
+            },
+            "DdbKJxA0": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "ef3WtUk2",
+                  "audioList": []
+                }
+              }
+            },
+            "cvKr5Xls": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "swlFI0dK",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "镌宇铭星签到",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "9",
+          "name": "活动",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 12,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10276",
+              "children": [
+                {
+                  "id": "10277",
+                  "children": [],
+                  "name": "零号委托",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10369",
+                  "children": [],
+                  "name": "新潮起，故渊离",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10411",
+                  "children": [],
+                  "name": "春晓时",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "版本",
+              "type": 1,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10366",
+              "children": [
+                {
+                  "id": "10368",
+                  "children": [],
+                  "name": "限时活动",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10367",
+                  "children": [],
+                  "name": "常驻活动",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "活动类型",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
+        },
+        "createdUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260424/856392/69eabef312a9f0f6029fddda_13673ac9.png",
+          "name": "镌宇铭星签到",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "e1I0lH"
+            ],
+            "blockMap": {
+              "e1I0lH": {
+                "id": "e1I0lH",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "联动活动"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10276",
+              "value": "10411"
+            },
+            {
+              "subTypeId": "10366",
+              "value": "10368"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1777473909",
+        "lastAuditPassedAt": "1777473882",
+        "tagIds": [
+          "10411",
+          "10368"
+        ]
+      }
+    }
+  }
+}
