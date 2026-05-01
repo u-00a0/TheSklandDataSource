@@ -4,7 +4,7 @@
   },
   "name": "塑形机",
   "icon": "https://bbs.hycdn.cn/image/2025/12/18/2696356/265ad5366519a9d3383da22daa40c21f.png",
-  "description": "获取方式:\n在研究完成物品塑形后可获得1台塑形机。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [晶体外壳x10]→ [塑形机x1]\n在工业计划-基础工业一期研究物品塑形获取。\n\n用途:\n塑形机是基础生产类型的机器，可以用于加工固体。\n塑形机可放置在协议核心或次级核心范围外。\n塑形机需要电力维持运转，1个塑形机耗电功率值为10。\n放置塑形机需要长3格、宽3格的可用空地。\n塑形机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[蓝铁块x2] | [蓝铁瓶x1] | 2s\n[紫晶纤维x2] | [紫晶质瓶x1] | 2s\n[钢块x2] | [钢质瓶x1] | 2s\n[高晶纤维x2] | [高晶质瓶x1] | 2s\n[赤铜块x2] | [赤铜瓶x1] | 2s\n赫铜块（2） | 赫铜瓶（1） | 2s",
+  "description": "获取方式:\n在研究完成物品塑形后可获得1台塑形机。 在协议核心或次级核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [晶体外壳x10]→ [塑形机x1]\n在工业计划-基础工业一期研究物品塑形获取。\n\n用途:\n塑形机是基础生产类型的机器，可以用于加工固体。\n塑形机可放置在协议核心或次级核心范围外。\n塑形机需要电力维持运转，1个塑形机耗电功率值为10。\n放置塑形机需要长3格、宽3格的可用空地。\n塑形机支持以下合成配方。\n原料需求 | 制作产物 | 消耗时长\n[蓝铁块x2] | [蓝铁瓶x1] | 2s\n[紫晶纤维x2] | [紫晶质瓶x1] | 2s\n[钢块x2] | [钢质瓶x1] | 2s\n[高晶纤维x2] | [高晶质瓶x1] | 2s\n[赤铜块x2] | [赤铜瓶x1] | 2s\n[赫铜块x2] | [赫铜瓶x1] | 2s",
   "rarity": {
     "stars": 2,
     "label": "2星",
@@ -21,522 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777515121",
+    "timestamp": "1777601743",
     "data": {
       "item": {
         "itemId": "172",
         "document": {
           "documentMap": {
-            "GExb0SB4": {
-              "id": "document-id",
-              "blockIds": [
-                "1WTlpz",
-                "QVMU9x",
-                "044sIK",
-                "o0yABL",
-                "c2ITB9"
-              ],
-              "blockMap": {
-                "044sIK": {
-                  "id": "044sIK",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "塑形机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可放置在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围外。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "1WTlpz": {
-                  "id": "1WTlpz",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QVMU9x": {
-                  "id": "QVMU9x",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "塑形机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "是基础生产类型的机器，可以用于加工固体。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "c2ITB9": {
-                  "id": "c2ITB9",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "o0yABL": {
-                  "id": "o0yABL",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "塑形机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要电力维持运转，1个"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "塑形机"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "耗电功率值为10。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "NdY1V26f": {
-              "id": "document-id",
-              "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
-              ],
-              "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "E1hNMw": {
-                  "id": "E1hNMw",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "工业计划-基础工业一期"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "研究"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "物品塑形"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "kUT3we8f": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "放置"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "塑形机"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格、宽"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "3"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "格的可用空地。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k7oiwY": {
-                  "id": "k7oiwY",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "lr3PMXsH": {
-              "id": "document-id",
-              "blockIds": [
-                "9VmF2q",
-                "7ONjqy",
-                "QOP1hV"
-              ],
-              "blockMap": {
-                "0w0lxy": {
-                  "id": "0w0lxy",
-                  "parentId": "xowYkN",
-                  "kind": "list",
-                  "list": {
-                    "id": "0w0lxy",
-                    "itemIds": [
-                      "tufDCM"
-                    ],
-                    "itemMap": {
-                      "tufDCM": {
-                        "id": "tufDCM",
-                        "childIds": [
-                          "5482eu"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "5482eu": {
-                  "id": "5482eu",
-                  "parentId": "tufDCM",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "33",
-                          "showType": "link-imgText",
-                          "count": "10"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "→ "
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "172",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "7ONjqy": {
-                  "id": "7ONjqy",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "7ONjqy",
-                    "itemIds": [
-                      "zepTkr",
-                      "xowYkN"
-                    ],
-                    "itemMap": {
-                      "xowYkN": {
-                        "id": "xowYkN",
-                        "childIds": [
-                          "zEHbeI",
-                          "0w0lxy"
-                        ]
-                      },
-                      "zepTkr": {
-                        "id": "zepTkr",
-                        "childIds": [
-                          "VchwKv"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "9VmF2q": {
-                  "id": "9VmF2q",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QOP1hV": {
-                  "id": "QOP1hV",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "VchwKv": {
-                  "id": "VchwKv",
-                  "parentId": "zepTkr",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在研究完成"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "物品塑形"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "后可获得1台塑形机。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "zEHbeI": {
-                  "id": "zEHbeI",
-                  "parentId": "xowYkN",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "或"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "次级核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围内，点击"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "工具箱-设备列表-制造设备"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通过以下配方制造。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "zvQ2Vmof": {
+            "6CYyvKED": {
               "id": "document-id",
               "blockIds": [
                 "xCzIfj",
@@ -984,9 +475,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "赫铜瓶（1）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1461",
+                          "showType": "card-big",
+                          "count": "1"
                         }
                       }
                     ],
@@ -1078,9 +571,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "赫铜块（2）"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1361",
+                          "showType": "card-big",
+                          "count": "2"
                         }
                       }
                     ],
@@ -1284,6 +779,515 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "GzjjbYgR": {
+              "id": "document-id",
+              "blockIds": [
+                "k7oiwY",
+                "XbWEoo",
+                "6vmeiZ"
+              ],
+              "blockMap": {
+                "6vmeiZ": {
+                  "id": "6vmeiZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XbWEoo": {
+                  "id": "XbWEoo",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "塑形机"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格、宽"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格的可用空地。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k7oiwY": {
+                  "id": "k7oiwY",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "RX37U60b": {
+              "id": "document-id",
+              "blockIds": [
+                "E1hNMw",
+                "gQ7KDY",
+                "5iumDx"
+              ],
+              "blockMap": {
+                "5iumDx": {
+                  "id": "5iumDx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "E1hNMw": {
+                  "id": "E1hNMw",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "gQ7KDY": {
+                  "id": "gQ7KDY",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-基础工业一期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "物品塑形"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "Wus3DydF": {
+              "id": "document-id",
+              "blockIds": [
+                "9VmF2q",
+                "7ONjqy",
+                "QOP1hV"
+              ],
+              "blockMap": {
+                "0w0lxy": {
+                  "id": "0w0lxy",
+                  "parentId": "xowYkN",
+                  "kind": "list",
+                  "list": {
+                    "id": "0w0lxy",
+                    "itemIds": [
+                      "tufDCM"
+                    ],
+                    "itemMap": {
+                      "tufDCM": {
+                        "id": "tufDCM",
+                        "childIds": [
+                          "5482eu"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "5482eu": {
+                  "id": "5482eu",
+                  "parentId": "tufDCM",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "33",
+                          "showType": "link-imgText",
+                          "count": "10"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "→ "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "172",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7ONjqy": {
+                  "id": "7ONjqy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "7ONjqy",
+                    "itemIds": [
+                      "zepTkr",
+                      "xowYkN"
+                    ],
+                    "itemMap": {
+                      "xowYkN": {
+                        "id": "xowYkN",
+                        "childIds": [
+                          "zEHbeI",
+                          "0w0lxy"
+                        ]
+                      },
+                      "zepTkr": {
+                        "id": "zepTkr",
+                        "childIds": [
+                          "VchwKv"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9VmF2q": {
+                  "id": "9VmF2q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QOP1hV": {
+                  "id": "QOP1hV",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "VchwKv": {
+                  "id": "VchwKv",
+                  "parentId": "zepTkr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在研究完成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "物品塑形"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后可获得1台塑形机。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zEHbeI": {
+                  "id": "zEHbeI",
+                  "parentId": "xowYkN",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围内，点击"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "工具箱-设备列表-制造设备"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过以下配方制造。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "nIeztR7n": {
+              "id": "document-id",
+              "blockIds": [
+                "1WTlpz",
+                "QVMU9x",
+                "044sIK",
+                "o0yABL",
+                "c2ITB9"
+              ],
+              "blockMap": {
+                "044sIK": {
+                  "id": "044sIK",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "塑形机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "可放置在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "协议核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "或"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "次级核心"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "范围外。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "1WTlpz": {
+                  "id": "1WTlpz",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QVMU9x": {
+                  "id": "QVMU9x",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "塑形机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "是基础生产类型的机器，可以用于加工固体。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c2ITB9": {
+                  "id": "c2ITB9",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "o0yABL": {
+                  "id": "o0yABL",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "塑形机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "需要电力维持运转，1个"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "塑形机"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "耗电功率值为10。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -1336,7 +1340,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "kUT3we8f",
+                  "content": "GzjjbYgR",
                   "audioList": []
                 }
               }
@@ -1348,7 +1352,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "lr3PMXsH",
+                  "content": "Wus3DydF",
                   "audioList": []
                 }
               }
@@ -1360,7 +1364,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "zvQ2Vmof",
+                  "content": "6CYyvKED",
                   "audioList": []
                 }
               }
@@ -1372,7 +1376,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "GExb0SB4",
+                  "content": "nIeztR7n",
                   "audioList": []
                 }
               }
@@ -1384,7 +1388,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "NdY1V26f",
+                  "content": "RX37U60b",
                   "audioList": []
                 }
               }
@@ -1671,6 +1675,7 @@
             "version": "1.0.0"
           },
           "associate": null,
+          "dotType": "",
           "subTypeList": [
             {
               "subTypeId": "10000",
@@ -1690,7 +1695,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767098688",
-        "lastAuditPassedAt": "1776833990",
+        "lastAuditPassedAt": "1777546092",
         "tagIds": [
           "10002",
           "10311",

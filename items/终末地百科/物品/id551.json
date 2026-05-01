@@ -4,7 +4,7 @@
   },
   "name": "高晶质瓶",
   "icon": "https://bbs.hycdn.cn/image/2025/12/21/4863030/96989d5e6a492206c1deb34c46fe8aa1.png",
-  "description": "用途:\n用于便携工具-盛装。\n便携工具-盛装中进行液体盛装时，可以选中背包中的高晶质瓶作为容器，每个高晶质瓶可以盛装 1 个单位的液体。 便携工具-盛装中进行液体倾倒时，可以选中背包中盛装有液体的高晶质瓶进行清空，并返还空的高晶质瓶。\n用于仓储节点货物装箱。\n每装箱[高晶质瓶x1]需要2点货箱容量。",
+  "description": "用途:\n用于便携工具-盛装。\n便携工具-盛装中进行 液体盛装时，可以选中背包中的 高晶质瓶作为容器，每个 高晶质瓶可以盛装 1个单位的液体。 便携工具-盛装中进行 液体倾倒时，可以选中背包中盛装有液体的 高晶质瓶进行清空，并返还空的 高晶质瓶。\n用于仓储节点货物装箱。\n每装箱 [高晶质瓶x1]需要2点货箱容量。",
   "rarity": {
     "stars": 3,
     "label": "3星",
@@ -21,68 +21,22 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777516082",
+    "timestamp": "1777602706",
     "data": {
       "item": {
         "itemId": "551",
         "document": {
           "documentMap": {
-            "PPbyWPha": {
+            "931z3xez": {
               "id": "document-id",
               "blockIds": [
-                "TpCpHkA71p5o",
-                "3PzSYvxXtFA5"
+                "FmksOEGQOtBP",
+                "SnL1Tka3OZoA"
               ],
               "blockMap": {
-                "3PzSYvxXtFA5": {
-                  "id": "3PzSYvxXtFA5",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "3"
-                  }
-                },
-                "8d5BetWZRI9Q": {
-                  "id": "8d5BetWZRI9Q",
-                  "parentId": "rAs0n3_AYSRAX",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "745",
-                          "showType": "card-big",
-                          "count": "0"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "90UClUFWe7pW": {
-                  "id": "90UClUFWe7pW",
-                  "parentId": "3LdUX8_AYSRAX",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "176",
-                          "showType": "card-big",
-                          "count": "0"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "9liNrygjiOIU": {
-                  "id": "9liNrygjiOIU",
-                  "parentId": "2WdIkw_BiMmgK",
+                "3Ns5RsTHBoTi": {
+                  "id": "3Ns5RsTHBoTi",
+                  "parentId": "MplMdWYPLw8u_XuL9b9feLyno",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -98,101 +52,56 @@
                     "kind": "body"
                   }
                 },
-                "Fqb2k6u5cnCf": {
-                  "id": "Fqb2k6u5cnCf",
-                  "parentId": "2WdIkw_AYSRAX",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "合成设备"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "HPweryhPWgA2": {
-                  "id": "HPweryhPWgA2",
-                  "parentId": "rAs0n3_BiMmgK",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "551",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "381",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "TpCpHkA71p5o": {
-                  "id": "TpCpHkA71p5o",
+                "FmksOEGQOtBP": {
+                  "id": "FmksOEGQOtBP",
                   "parentId": "document-id",
                   "kind": "table",
                   "table": {
-                    "id": "TpCpHkA71p5o",
+                    "id": "FmksOEGQOtBP",
                     "rowIds": [
-                      "2WdIkw",
-                      "rAs0n3",
-                      "3LdUX8",
-                      "IM3THI"
+                      "MplMdWYPLw8u",
+                      "IV6KvITvYUQp",
+                      "Ezca0kz0ED05",
+                      "RkMwjFhqrFqk"
                     ],
                     "columnIds": [
-                      "AYSRAX",
-                      "PkSuqM",
-                      "BiMmgK"
+                      "PbS7QrKzkvgo",
+                      "jKkaDbb5yRTM",
+                      "XuL9b9feLyno"
                     ],
                     "rowMap": {
-                      "2WdIkw": {
-                        "id": "2WdIkw"
+                      "Ezca0kz0ED05": {
+                        "id": "Ezca0kz0ED05"
                       },
-                      "3LdUX8": {
-                        "id": "3LdUX8"
+                      "IV6KvITvYUQp": {
+                        "id": "IV6KvITvYUQp"
                       },
-                      "IM3THI": {
-                        "id": "IM3THI"
+                      "MplMdWYPLw8u": {
+                        "id": "MplMdWYPLw8u"
                       },
-                      "rAs0n3": {
-                        "id": "rAs0n3"
+                      "RkMwjFhqrFqk": {
+                        "id": "RkMwjFhqrFqk"
                       }
                     },
                     "columnMap": {
-                      "AYSRAX": {
-                        "id": "AYSRAX",
+                      "PbS7QrKzkvgo": {
+                        "id": "PbS7QrKzkvgo",
                         "width": 386.6666666666667
                       },
-                      "BiMmgK": {
-                        "id": "BiMmgK",
+                      "XuL9b9feLyno": {
+                        "id": "XuL9b9feLyno",
                         "width": 386.6666666666667
                       },
-                      "PkSuqM": {
-                        "id": "PkSuqM",
+                      "jKkaDbb5yRTM": {
+                        "id": "jKkaDbb5yRTM",
                         "width": 386.6666666666667
                       }
                     },
                     "cellMap": {
-                      "2WdIkw_AYSRAX": {
-                        "id": "2WdIkw_AYSRAX",
+                      "Ezca0kz0ED05_PbS7QrKzkvgo": {
+                        "id": "Ezca0kz0ED05_PbS7QrKzkvgo",
                         "childIds": [
-                          "Fqb2k6u5cnCf"
+                          "qd90TChMePso"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -201,10 +110,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "2WdIkw_BiMmgK": {
-                        "id": "2WdIkw_BiMmgK",
+                      "Ezca0kz0ED05_XuL9b9feLyno": {
+                        "id": "Ezca0kz0ED05_XuL9b9feLyno",
                         "childIds": [
-                          "9liNrygjiOIU"
+                          "QZrnUNI5cQsU"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -213,10 +122,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "2WdIkw_PkSuqM": {
-                        "id": "2WdIkw_PkSuqM",
+                      "Ezca0kz0ED05_jKkaDbb5yRTM": {
+                        "id": "Ezca0kz0ED05_jKkaDbb5yRTM",
                         "childIds": [
-                          "UNfDzdPtTlZJ"
+                          "w3NwnVC7oWUa"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -225,10 +134,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "3LdUX8_AYSRAX": {
-                        "id": "3LdUX8_AYSRAX",
+                      "IV6KvITvYUQp_PbS7QrKzkvgo": {
+                        "id": "IV6KvITvYUQp_PbS7QrKzkvgo",
                         "childIds": [
-                          "90UClUFWe7pW"
+                          "agoZNXrVGgat"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -237,10 +146,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "3LdUX8_BiMmgK": {
-                        "id": "3LdUX8_BiMmgK",
+                      "IV6KvITvYUQp_XuL9b9feLyno": {
+                        "id": "IV6KvITvYUQp_XuL9b9feLyno",
                         "childIds": [
-                          "i3RBbqa8bNna"
+                          "wIbwJKIjT5c9"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -249,10 +158,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "3LdUX8_PkSuqM": {
-                        "id": "3LdUX8_PkSuqM",
+                      "IV6KvITvYUQp_jKkaDbb5yRTM": {
+                        "id": "IV6KvITvYUQp_jKkaDbb5yRTM",
                         "childIds": [
-                          "wA8pxtnSPfhn"
+                          "UZpl8aNjTWlV"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -261,51 +170,51 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "IM3THI_AYSRAX": {
-                        "id": "IM3THI_AYSRAX",
+                      "MplMdWYPLw8u_PbS7QrKzkvgo": {
+                        "id": "MplMdWYPLw8u_PbS7QrKzkvgo",
                         "childIds": [
-                          "px7ochl0UijI",
-                          "mBK1wkEBJ9M3",
-                          "bb9VWU9gO0ja"
+                          "gTP4hvXehib0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "MplMdWYPLw8u_XuL9b9feLyno": {
+                        "id": "MplMdWYPLw8u_XuL9b9feLyno",
+                        "childIds": [
+                          "3Ns5RsTHBoTi"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "MplMdWYPLw8u_jKkaDbb5yRTM": {
+                        "id": "MplMdWYPLw8u_jKkaDbb5yRTM",
+                        "childIds": [
+                          "GxpU0tc1ZZtl"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "RkMwjFhqrFqk_PbS7QrKzkvgo": {
+                        "id": "RkMwjFhqrFqk_PbS7QrKzkvgo",
+                        "childIds": [
+                          "kDlhYKfwuObr",
+                          "HGldC2sXX25f",
+                          "JMvsBfsEYym8"
                         ],
                         "rowSpan": "1",
                         "colSpan": "3",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "rAs0n3_AYSRAX": {
-                        "id": "rAs0n3_AYSRAX",
-                        "childIds": [
-                          "8d5BetWZRI9Q"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "rAs0n3_BiMmgK": {
-                        "id": "rAs0n3_BiMmgK",
-                        "childIds": [
-                          "HPweryhPWgA2"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "rAs0n3_PkSuqM": {
-                        "id": "rAs0n3_PkSuqM",
-                        "childIds": [
-                          "WZYUdSyiZkZ2"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
                         "borderKind": "",
                         "borderColor": "",
                         "backgroundColor": "",
@@ -317,9 +226,9 @@
                     "colHeader": false
                   }
                 },
-                "UNfDzdPtTlZJ": {
-                  "id": "UNfDzdPtTlZJ",
-                  "parentId": "2WdIkw_PkSuqM",
+                "GxpU0tc1ZZtl": {
+                  "id": "GxpU0tc1ZZtl",
+                  "parentId": "MplMdWYPLw8u_jKkaDbb5yRTM",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -335,36 +244,17 @@
                     "kind": "body"
                   }
                 },
-                "WZYUdSyiZkZ2": {
-                  "id": "WZYUdSyiZkZ2",
-                  "parentId": "rAs0n3_PkSuqM",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "551",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "381",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      }
-                    ],
-                    "kind": "body"
+                "HGldC2sXX25f": {
+                  "id": "HGldC2sXX25f",
+                  "parentId": "RkMwjFhqrFqk_PbS7QrKzkvgo",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
                   }
                 },
-                "bb9VWU9gO0ja": {
-                  "id": "bb9VWU9gO0ja",
-                  "parentId": "IM3THI_AYSRAX",
+                "JMvsBfsEYym8": {
+                  "id": "JMvsBfsEYym8",
+                  "parentId": "RkMwjFhqrFqk_PbS7QrKzkvgo",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -429,9 +319,9 @@
                     "kind": "body"
                   }
                 },
-                "i3RBbqa8bNna": {
-                  "id": "i3RBbqa8bNna",
-                  "parentId": "3LdUX8_BiMmgK",
+                "QZrnUNI5cQsU": {
+                  "id": "QZrnUNI5cQsU",
+                  "parentId": "Ezca0kz0ED05_XuL9b9feLyno",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -456,17 +346,81 @@
                     "kind": "body"
                   }
                 },
-                "mBK1wkEBJ9M3": {
-                  "id": "mBK1wkEBJ9M3",
-                  "parentId": "IM3THI_AYSRAX",
+                "SnL1Tka3OZoA": {
+                  "id": "SnL1Tka3OZoA",
+                  "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
-                    "kind": "1"
+                    "kind": "3"
                   }
                 },
-                "px7ochl0UijI": {
-                  "id": "px7ochl0UijI",
-                  "parentId": "IM3THI_AYSRAX",
+                "UZpl8aNjTWlV": {
+                  "id": "UZpl8aNjTWlV",
+                  "parentId": "IV6KvITvYUQp_jKkaDbb5yRTM",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "551",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "381",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "agoZNXrVGgat": {
+                  "id": "agoZNXrVGgat",
+                  "parentId": "IV6KvITvYUQp_PbS7QrKzkvgo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "745",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gTP4hvXehib0": {
+                  "id": "gTP4hvXehib0",
+                  "parentId": "MplMdWYPLw8u_PbS7QrKzkvgo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "合成设备"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kDlhYKfwuObr": {
+                  "id": "kDlhYKfwuObr",
+                  "parentId": "RkMwjFhqrFqk_PbS7QrKzkvgo",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -483,9 +437,55 @@
                     "kind": "body"
                   }
                 },
-                "wA8pxtnSPfhn": {
-                  "id": "wA8pxtnSPfhn",
-                  "parentId": "3LdUX8_PkSuqM",
+                "qd90TChMePso": {
+                  "id": "qd90TChMePso",
+                  "parentId": "Ezca0kz0ED05_PbS7QrKzkvgo",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "176",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "w3NwnVC7oWUa": {
+                  "id": "w3NwnVC7oWUa",
+                  "parentId": "Ezca0kz0ED05_jKkaDbb5yRTM",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "551",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "381",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wIbwJKIjT5c9": {
+                  "id": "wIbwJKIjT5c9",
+                  "parentId": "IV6KvITvYUQp_XuL9b9feLyno",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -514,16 +514,433 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "hzxji0zs": {
+            "YPzWiETE": {
               "id": "document-id",
               "blockIds": [
-                "bGKSuM",
-                "QrH5Tk"
+                "CGmETbJnTtsD",
+                "keWGjNqBqsDE",
+                "5PhplptOe0zb",
+                "vXSOnqnLsK2h",
+                "uGq8o2CUXOW0",
+                "JGuEtRAAPPwj",
+                "1Mv3I6bsnXE4"
               ],
               "blockMap": {
-                "6mFAkc": {
-                  "id": "6mFAkc",
-                  "parentId": "169I5m_VD7uDo",
+                "1Mv3I6bsnXE4": {
+                  "id": "1Mv3I6bsnXE4",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "5PhplptOe0zb": {
+                  "id": "5PhplptOe0zb",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "5PhplptOe0zb",
+                    "itemIds": [
+                      "erW39FwOGqOj",
+                      "ZXfMXEASusnK"
+                    ],
+                    "itemMap": {
+                      "ZXfMXEASusnK": {
+                        "id": "ZXfMXEASusnK",
+                        "childIds": [
+                          "lqt4usJXH6Qd",
+                          "jbcR57U9dJyB",
+                          "S1wU0ZodYP00",
+                          "RKS5vN2IFIg1"
+                        ]
+                      },
+                      "erW39FwOGqOj": {
+                        "id": "erW39FwOGqOj",
+                        "childIds": [
+                          "KZfZwEsD5IeS",
+                          "NOrakpZzqvGj",
+                          "IRsqvt1jshg8",
+                          "pU5nyKpVzriy",
+                          "jPNoMYDbdVC1"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9DX1BIdqrp76": {
+                  "id": "9DX1BIdqrp76",
+                  "parentId": "wNWcRf9UiDSC",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "551",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要2点货箱容量。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "CGmETbJnTtsD": {
+                  "id": "CGmETbJnTtsD",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "IRsqvt1jshg8": {
+                  "id": "IRsqvt1jshg8",
+                  "parentId": "erW39FwOGqOj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "高晶质瓶"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "作为容器，每个"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JGuEtRAAPPwj": {
+                  "id": "JGuEtRAAPPwj",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "JGuEtRAAPPwj",
+                    "itemIds": [
+                      "wNWcRf9UiDSC"
+                    ],
+                    "itemMap": {
+                      "wNWcRf9UiDSC": {
+                        "id": "wNWcRf9UiDSC",
+                        "childIds": [
+                          "uOcDrVVtmHod",
+                          "9DX1BIdqrp76"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "KZfZwEsD5IeS": {
+                  "id": "KZfZwEsD5IeS",
+                  "parentId": "erW39FwOGqOj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "便携工具-盛装"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "中进行"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NOrakpZzqvGj": {
+                  "id": "NOrakpZzqvGj",
+                  "parentId": "erW39FwOGqOj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "液体盛装"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "时，可以选中背包中的"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RKS5vN2IFIg1": {
+                  "id": "RKS5vN2IFIg1",
+                  "parentId": "ZXfMXEASusnK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "高晶质瓶"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "S1wU0ZodYP00": {
+                  "id": "S1wU0ZodYP00",
+                  "parentId": "ZXfMXEASusnK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "高晶质瓶"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "进行清空，并返还空的"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "jPNoMYDbdVC1": {
+                  "id": "jPNoMYDbdVC1",
+                  "parentId": "erW39FwOGqOj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "个单位的液体。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "jbcR57U9dJyB": {
+                  "id": "jbcR57U9dJyB",
+                  "parentId": "ZXfMXEASusnK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "液体倾倒"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "时，可以选中背包中盛装有液体的"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "keWGjNqBqsDE": {
+                  "id": "keWGjNqBqsDE",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "用于便携工具-盛装。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lqt4usJXH6Qd": {
+                  "id": "lqt4usJXH6Qd",
+                  "parentId": "ZXfMXEASusnK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "便携工具-盛装"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "中进行"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pU5nyKpVzriy": {
+                  "id": "pU5nyKpVzriy",
+                  "parentId": "erW39FwOGqOj",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "高晶质瓶"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "可以盛装"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uGq8o2CUXOW0": {
+                  "id": "uGq8o2CUXOW0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "用于仓储节点货物装箱。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uOcDrVVtmHod": {
+                  "id": "uOcDrVVtmHod",
+                  "parentId": "wNWcRf9UiDSC",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "每装箱"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vXSOnqnLsK2h": {
+                  "id": "vXSOnqnLsK2h",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "aLfTqpCS": {
+              "id": "document-id",
+              "blockIds": [
+                "tiDVShyF4Epi",
+                "6TpwnmnPFZWE"
+              ],
+              "blockMap": {
+                "6TpwnmnPFZWE": {
+                  "id": "6TpwnmnPFZWE",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "MQ6AtafRShK9": {
+                  "id": "MQ6AtafRShK9",
+                  "parentId": "t3MgbH4Aiuvh_VHbjlhOYF2Pt",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "原料需求"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "T1pWMi8l0ixQ": {
+                  "id": "T1pWMi8l0ixQ",
+                  "parentId": "TWYVS1sVrT42_fp3eE5qHgeDb",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -540,9 +957,9 @@
                     "kind": "body"
                   }
                 },
-                "8hwKgY": {
-                  "id": "8hwKgY",
-                  "parentId": "1CYfiZ_VD7uDo",
+                "WFRXHZsFNjUY": {
+                  "id": "WFRXHZsFNjUY",
+                  "parentId": "t3MgbH4Aiuvh_fp3eE5qHgeDb",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -558,35 +975,9 @@
                     "kind": "body"
                   }
                 },
-                "JTyDqe": {
-                  "id": "JTyDqe",
-                  "parentId": "1CYfiZ_IMxSAY",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "合成设备"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "QrH5Tk": {
-                  "id": "QrH5Tk",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "3"
-                  }
-                },
-                "Tu89zS": {
-                  "id": "Tu89zS",
-                  "parentId": "169I5m_IMxSAY",
+                "WiO8EKhHiect": {
+                  "id": "WiO8EKhHiect",
+                  "parentId": "TWYVS1sVrT42_U7xM4Ao8cGOE",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -603,48 +994,66 @@
                     "kind": "body"
                   }
                 },
-                "bGKSuM": {
-                  "id": "bGKSuM",
+                "tcoOA0iqAU4w": {
+                  "id": "tcoOA0iqAU4w",
+                  "parentId": "t3MgbH4Aiuvh_U7xM4Ao8cGOE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "合成设备"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "tiDVShyF4Epi": {
+                  "id": "tiDVShyF4Epi",
                   "parentId": "document-id",
                   "kind": "table",
                   "table": {
-                    "id": "bGKSuM",
+                    "id": "tiDVShyF4Epi",
                     "rowIds": [
-                      "1CYfiZ",
-                      "169I5m"
+                      "t3MgbH4Aiuvh",
+                      "TWYVS1sVrT42"
                     ],
                     "columnIds": [
-                      "IMxSAY",
-                      "l07u7G",
-                      "VD7uDo"
+                      "U7xM4Ao8cGOE",
+                      "VHbjlhOYF2Pt",
+                      "fp3eE5qHgeDb"
                     ],
                     "rowMap": {
-                      "169I5m": {
-                        "id": "169I5m"
+                      "TWYVS1sVrT42": {
+                        "id": "TWYVS1sVrT42"
                       },
-                      "1CYfiZ": {
-                        "id": "1CYfiZ"
+                      "t3MgbH4Aiuvh": {
+                        "id": "t3MgbH4Aiuvh"
                       }
                     },
                     "columnMap": {
-                      "IMxSAY": {
-                        "id": "IMxSAY",
+                      "U7xM4Ao8cGOE": {
+                        "id": "U7xM4Ao8cGOE",
                         "width": 386.6666666666667
                       },
-                      "VD7uDo": {
-                        "id": "VD7uDo",
+                      "VHbjlhOYF2Pt": {
+                        "id": "VHbjlhOYF2Pt",
                         "width": 386.6666666666667
                       },
-                      "l07u7G": {
-                        "id": "l07u7G",
+                      "fp3eE5qHgeDb": {
+                        "id": "fp3eE5qHgeDb",
                         "width": 386.6666666666667
                       }
                     },
                     "cellMap": {
-                      "169I5m_IMxSAY": {
-                        "id": "169I5m_IMxSAY",
+                      "TWYVS1sVrT42_U7xM4Ao8cGOE": {
+                        "id": "TWYVS1sVrT42_U7xM4Ao8cGOE",
                         "childIds": [
-                          "Tu89zS"
+                          "WiO8EKhHiect"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -653,10 +1062,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "169I5m_VD7uDo": {
-                        "id": "169I5m_VD7uDo",
+                      "TWYVS1sVrT42_VHbjlhOYF2Pt": {
+                        "id": "TWYVS1sVrT42_VHbjlhOYF2Pt",
                         "childIds": [
-                          "6mFAkc"
+                          "zDvGKVZT2PdG"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -665,10 +1074,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "169I5m_l07u7G": {
-                        "id": "169I5m_l07u7G",
+                      "TWYVS1sVrT42_fp3eE5qHgeDb": {
+                        "id": "TWYVS1sVrT42_fp3eE5qHgeDb",
                         "childIds": [
-                          "qBMHno"
+                          "T1pWMi8l0ixQ"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -677,10 +1086,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "1CYfiZ_IMxSAY": {
-                        "id": "1CYfiZ_IMxSAY",
+                      "t3MgbH4Aiuvh_U7xM4Ao8cGOE": {
+                        "id": "t3MgbH4Aiuvh_U7xM4Ao8cGOE",
                         "childIds": [
-                          "JTyDqe"
+                          "tcoOA0iqAU4w"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -689,10 +1098,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "1CYfiZ_VD7uDo": {
-                        "id": "1CYfiZ_VD7uDo",
+                      "t3MgbH4Aiuvh_VHbjlhOYF2Pt": {
+                        "id": "t3MgbH4Aiuvh_VHbjlhOYF2Pt",
                         "childIds": [
-                          "8hwKgY"
+                          "MQ6AtafRShK9"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -701,10 +1110,10 @@
                         "backgroundColor": "",
                         "verticalAlign": "unknown"
                       },
-                      "1CYfiZ_l07u7G": {
-                        "id": "1CYfiZ_l07u7G",
+                      "t3MgbH4Aiuvh_fp3eE5qHgeDb": {
+                        "id": "t3MgbH4Aiuvh_fp3eE5qHgeDb",
                         "childIds": [
-                          "r0ZAnP"
+                          "WFRXHZsFNjUY"
                         ],
                         "rowSpan": "1",
                         "colSpan": "1",
@@ -719,9 +1128,9 @@
                     "colHeader": false
                   }
                 },
-                "qBMHno": {
-                  "id": "qBMHno",
-                  "parentId": "169I5m_l07u7G",
+                "zDvGKVZT2PdG": {
+                  "id": "zDvGKVZT2PdG",
+                  "parentId": "TWYVS1sVrT42_VHbjlhOYF2Pt",
                   "align": "center",
                   "kind": "text",
                   "text": {
@@ -737,339 +1146,6 @@
                     ],
                     "kind": "body"
                   }
-                },
-                "r0ZAnP": {
-                  "id": "r0ZAnP",
-                  "parentId": "1CYfiZ_l07u7G",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "原料需求"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "xagpN9wz": {
-              "id": "document-id",
-              "blockIds": [
-                "paPhDh",
-                "UUG49Q",
-                "4xd2UG",
-                "czI8jF",
-                "VLHJm1",
-                "Vn5hvf",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "4xd2UG": {
-                  "id": "4xd2UG",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "4xd2UG",
-                    "itemIds": [
-                      "toYPys",
-                      "onMdsf"
-                    ],
-                    "itemMap": {
-                      "onMdsf": {
-                        "id": "onMdsf",
-                        "childIds": [
-                          "5oU4fX"
-                        ]
-                      },
-                      "toYPys": {
-                        "id": "toYPys",
-                        "childIds": [
-                          "gc7a61"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "5oU4fX": {
-                  "id": "5oU4fX",
-                  "parentId": "onMdsf",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "便携工具-盛装"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中进行"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "液体倾倒"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "时，可以选中背包中盛装有液体的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "高晶质瓶"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "进行清空，并返还空的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "高晶质瓶"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "91w3Ju": {
-                  "id": "91w3Ju",
-                  "parentId": "kwPhM2",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "每装箱"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "551",
-                          "showType": "link-imgText",
-                          "count": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要2点货箱容量。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "UUG49Q": {
-                  "id": "UUG49Q",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于便携工具-盛装。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "VLHJm1": {
-                  "id": "VLHJm1",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "用于仓储节点货物装箱。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Vn5hvf": {
-                  "id": "Vn5hvf",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "Vn5hvf",
-                    "itemIds": [
-                      "kwPhM2"
-                    ],
-                    "itemMap": {
-                      "kwPhM2": {
-                        "id": "kwPhM2",
-                        "childIds": [
-                          "91w3Ju"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "czI8jF": {
-                  "id": "czI8jF",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gc7a61": {
-                  "id": "gc7a61",
-                  "parentId": "toYPys",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "便携工具-盛装"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中进行"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "液体盛装"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "时，可以选中背包中的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "高晶质瓶"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "作为容器，每个"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "高晶质瓶"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可以盛装 "
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "1"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": " 个单位的液体。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "paPhDh": {
-                  "id": "paPhDh",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
                 }
               },
               "authorMap": {},
@@ -1081,7 +1157,7 @@
               "title": "物品用途",
               "widgets": [
                 {
-                  "id": "BrfRWXDB",
+                  "id": "U9e5dGnW",
                   "title": "相关用途",
                   "size": "large"
                 }
@@ -1091,7 +1167,7 @@
               "title": "参与配方",
               "widgets": [
                 {
-                  "id": "ZQxNP3i5",
+                  "id": "3ArFCBEE",
                   "title": "工业合成",
                   "size": "large"
                 }
@@ -1104,42 +1180,42 @@
             "composite": ""
           },
           "widgetCommonMap": {
-            "BrfRWXDB": {
+            "3ArFCBEE": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_krO824VLhDdj",
+                  "title": "高晶质瓶（空）",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_wOYaw4fHyOTK",
+                  "title": "液体拆解与灌装",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_krO824VLhDdj": {
+                  "intro": null,
+                  "content": "aLfTqpCS",
+                  "audioList": []
+                },
+                "tab_wOYaw4fHyOTK": {
+                  "intro": null,
+                  "content": "931z3xez",
+                  "audioList": []
+                }
+              }
+            },
+            "U9e5dGnW": {
               "type": "common",
               "tableList": [],
               "tabList": [],
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "xagpN9wz",
-                  "audioList": []
-                }
-              }
-            },
-            "ZQxNP3i5": {
-              "type": "common",
-              "tableList": [],
-              "tabList": [
-                {
-                  "tabId": "tab_1771465254956",
-                  "title": "高晶质瓶（空）",
-                  "icon": ""
-                },
-                {
-                  "tabId": "tab_1774230892085",
-                  "title": "液体拆解与灌装",
-                  "icon": ""
-                }
-              ],
-              "tabDataMap": {
-                "tab_1771465254956": {
-                  "intro": null,
-                  "content": "hzxji0zs",
-                  "audioList": []
-                },
-                "tab_1774230892085": {
-                  "intro": null,
-                  "content": "PPbyWPha",
+                  "content": "YPzWiETE",
                   "audioList": []
                 }
               }
@@ -1347,10 +1423,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9228422493033",
-          "nickname": "骷髅先生",
+          "id": "4119159299717",
+          "nickname": "曾小皮",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/fd72b2740985507fe4aa02496c93ddd5.webp"
         },
         "createdUser": {
           "id": "3358404863657",
@@ -1364,12 +1440,12 @@
           "description": {
             "id": "document-id",
             "blockIds": [
-              "9bzHRe",
-              "1yMZeE"
+              "iRHwfopr0v1c",
+              "QyAI8PK5wWOZ"
             ],
             "blockMap": {
-              "1yMZeE": {
-                "id": "1yMZeE",
+              "QyAI8PK5wWOZ": {
+                "id": "QyAI8PK5wWOZ",
                 "parentId": "document-id",
                 "align": "left",
                 "kind": "text",
@@ -1379,15 +1455,15 @@
                       "color": "light_text_tertiary",
                       "kind": "text",
                       "text": {
-                        "text": "部分特殊化学试剂仅能以高品质瓶储存，其中就包括凶名显赫的\"蚀水\"——域化三氯化铁溶液。"
+                        "text": "部分特殊化学试剂仅能以高晶质瓶储存，其中就包括凶名显赫的\"蚀水\"——域化三氯化铁溶液。"
                       }
                     }
                   ],
                   "kind": "body"
                 }
               },
-              "9bzHRe": {
-                "id": "9bzHRe",
+              "iRHwfopr0v1c": {
+                "id": "iRHwfopr0v1c",
                 "parentId": "document-id",
                 "align": "left",
                 "kind": "text",
@@ -1409,6 +1485,7 @@
             "version": "1.0.0"
           },
           "associate": null,
+          "dotType": "",
           "subTypeList": [
             {
               "subTypeId": "10000",
@@ -1428,7 +1505,7 @@
         },
         "status": 2,
         "publishedAtTs": "1767117006",
-        "lastAuditPassedAt": "1774453558",
+        "lastAuditPassedAt": "1777558978",
         "tagIds": [
           "10003",
           "10263",

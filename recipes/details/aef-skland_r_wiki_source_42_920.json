@@ -1,0 +1,318 @@
+{
+  "id": "aef-skland:r/wiki_source_42/920",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_43",
+      "amount": 1
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_345",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_42",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "2rEAUvVg8kU2",
+        "Urmh4dhCcvwE",
+        "WPPbEyFPMULN",
+        "c9KuTyZcBSCf",
+        "aKk4NM57ehie",
+        "Za2HQT5erwRa",
+        "IV55vaJF2xyM"
+      ],
+      "blockMap": {
+        "2rEAUvVg8kU2": {
+          "id": "2rEAUvVg8kU2",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "FNdGhQkBjrAh": {
+          "id": "FNdGhQkBjrAh",
+          "parentId": "XEgspZ8xQCUq",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "HXr4DuwzpXHT": {
+          "id": "HXr4DuwzpXHT",
+          "parentId": "XEgspZ8xQCUq",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "待建设区"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "极其容易获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "IV55vaJF2xyM": {
+          "id": "IV55vaJF2xyM",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "MWSu91PPbY8p": {
+          "id": "MWSu91PPbY8p",
+          "parentId": "46PZDQR2kbCF",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "柑实的采集点有概率会被替换为"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "NKHutKQ6YSqO": {
+          "id": "NKHutKQ6YSqO",
+          "parentId": "Inw0lry9Vtta",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "42",
+                  "showType": "link-imgText",
+                  "count": "10"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Urmh4dhCcvwE": {
+          "id": "Urmh4dhCcvwE",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "枢纽区-待建设区等地采集。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "WPPbEyFPMULN": {
+          "id": "WPPbEyFPMULN",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "WPPbEyFPMULN",
+            "itemIds": [
+              "XEgspZ8xQCUq",
+              "46PZDQR2kbCF"
+            ],
+            "itemMap": {
+              "46PZDQR2kbCF": {
+                "id": "46PZDQR2kbCF",
+                "childIds": [
+                  "MWSu91PPbY8p",
+                  "t3VE6owBvBSL"
+                ]
+              },
+              "XEgspZ8xQCUq": {
+                "id": "XEgspZ8xQCUq",
+                "childIds": [
+                  "FNdGhQkBjrAh",
+                  "HXr4DuwzpXHT"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "Za2HQT5erwRa": {
+          "id": "Za2HQT5erwRa",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Za2HQT5erwRa",
+            "itemIds": [
+              "Inw0lry9Vtta"
+            ],
+            "itemMap": {
+              "Inw0lry9Vtta": {
+                "id": "Inw0lry9Vtta",
+                "childIds": [
+                  "aKa1i2GK1xcu",
+                  "fjfhoM5rogL1",
+                  "NKHutKQ6YSqO"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "aKa1i2GK1xcu": {
+          "id": "aKa1i2GK1xcu",
+          "parentId": "Inw0lry9Vtta",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "aKk4NM57ehie": {
+          "id": "aKk4NM57ehie",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "生态种植区"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "进行种植培育。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "c9KuTyZcBSCf": {
+          "id": "c9KuTyZcBSCf",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "fjfhoM5rogL1": {
+          "id": "fjfhoM5rogL1",
+          "parentId": "Inw0lry9Vtta",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "345",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "并进行育苗和浇水，等待其成熟时收获可以获取"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "t3VE6owBvBSL": {
+          "id": "t3VE6owBvBSL",
+          "parentId": "46PZDQR2kbCF",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "43",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "的采集点。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

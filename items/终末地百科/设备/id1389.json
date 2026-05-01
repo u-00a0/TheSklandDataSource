@@ -4,7 +4,7 @@
   },
   "name": "“酸洗”MK-I",
   "icon": "https://bbs.hycdn.cn/image/common/20260418/2696356/69e2fd3c7c7aea6c28120db8_3eac6ad0.png",
-  "description": "获取方式:\n在研究完成“酸洗”MK-I后可获得1台“酸洗”MK-I。 在协议核心范围内，点击工具箱-设备列表-制造设备通过以下配方制造。 [赫铜零件x20]→ [“酸洗”MK-Ix1]\n在工业计划-武陵工业三期研究“酸洗”MK-I获取。\n\n用途:\n“酸洗”MK-I是战斗辅助类型的机器，可以用于富足共计敌人。\n“酸洗”MK-I可放置在协议核心范围外。\n“酸洗”MK-I需要电力维持运转，1个“酸洗”MK-I耗电功率值为20。\n“酸洗”MK-I的战斗性能： 攻击力：12375 自然伤害 攻击间隔：5秒 攻击范围：15米\n放置“酸洗”MK-I需要长2格、宽2格的可用空地，且与其他战斗辅助设备间隔≥3格。",
+  "description": "获取方式:\n在研究完成 “酸洗”MK-I后可获得1台“酸洗”MK-I。 在工业模式下，点击 工具箱-设备列表-制造设备通过以下配方制造。 [赫铜零件x20]→[“酸洗”MK-Ix1]\n在\n工业计划-武陵工业三期研究\n“酸洗”MK-I获取。\n\n用途:\n“酸洗”MK-I是战斗辅助类型的机器，可以用于富足共计敌人。\n“酸洗”MK-I可放置在协议核心范围外。\n“酸洗”MK-I需要电力维持运转，1个\n“酸洗”MK-I耗电功率值为20。\n“酸洗”MK-I的 战斗性能： 攻击力： 12375自然伤害 攻击间隔： 5秒 攻击范围： 15米\n放置",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,114 +21,23 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777518029",
+    "timestamp": "1777604676",
     "data": {
       "item": {
         "itemId": "1389",
         "document": {
           "documentMap": {
-            "EuuYTOks": {
+            "8g9Qsw7s": {
               "id": "document-id",
               "blockIds": [
-                "E1hNMw",
-                "gQ7KDY",
-                "5iumDx"
+                "uxNahYCL7tPO",
+                "dKmr1MOYsXhw",
+                "ay9rRHEhynhm"
               ],
               "blockMap": {
-                "5iumDx": {
-                  "id": "5iumDx",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "E1hNMw": {
-                  "id": "E1hNMw",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gQ7KDY": {
-                  "id": "gQ7KDY",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "工业计划-武陵工业三期"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "研究"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "“酸洗”MK-I"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "获取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "O8fRcUzw": {
-              "id": "document-id",
-              "blockIds": [
-                "9VmF2q",
-                "7ONjqy",
-                "QOP1hV"
-              ],
-              "blockMap": {
-                "0w0lxy": {
-                  "id": "0w0lxy",
-                  "parentId": "xowYkN",
-                  "kind": "list",
-                  "list": {
-                    "id": "0w0lxy",
-                    "itemIds": [
-                      "tufDCM"
-                    ],
-                    "itemMap": {
-                      "tufDCM": {
-                        "id": "tufDCM",
-                        "childIds": [
-                          "5482eu"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "5482eu": {
-                  "id": "5482eu",
-                  "parentId": "tufDCM",
+                "2772C2gvAjQ5": {
+                  "id": "2772C2gvAjQ5",
+                  "parentId": "k4BPIkn1ty6U",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -145,7 +54,7 @@
                         "bold": true,
                         "kind": "text",
                         "text": {
-                          "text": "→ "
+                          "text": "→"
                         }
                       },
                       {
@@ -160,53 +69,108 @@
                     "kind": "body"
                   }
                 },
-                "7ONjqy": {
-                  "id": "7ONjqy",
-                  "parentId": "document-id",
+                "AuaOiaQLPKCM": {
+                  "id": "AuaOiaQLPKCM",
+                  "parentId": "OSsRiemuddqe",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在工业模式下，点击"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DlUUGoO78uca": {
+                  "id": "DlUUGoO78uca",
+                  "parentId": "OSsRiemuddqe",
                   "kind": "list",
                   "list": {
-                    "id": "7ONjqy",
+                    "id": "DlUUGoO78uca",
                     "itemIds": [
-                      "zepTkr",
-                      "xowYkN"
+                      "k4BPIkn1ty6U"
                     ],
                     "itemMap": {
-                      "xowYkN": {
-                        "id": "xowYkN",
+                      "k4BPIkn1ty6U": {
+                        "id": "k4BPIkn1ty6U",
                         "childIds": [
-                          "zEHbeI",
-                          "0w0lxy"
-                        ]
-                      },
-                      "zepTkr": {
-                        "id": "zepTkr",
-                        "childIds": [
-                          "VchwKv"
+                          "2772C2gvAjQ5"
                         ]
                       }
                     },
                     "kind": "unordered"
                   }
                 },
-                "9VmF2q": {
-                  "id": "9VmF2q",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
+                "YkLrW1IlRluB": {
+                  "id": "YkLrW1IlRluB",
+                  "parentId": "OSsRiemuddqe",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工具箱-设备列表-制造设备"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "通过以下配方制造。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
-                "QOP1hV": {
-                  "id": "QOP1hV",
+                "ay9rRHEhynhm": {
+                  "id": "ay9rRHEhynhm",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
                   }
                 },
-                "VchwKv": {
-                  "id": "VchwKv",
-                  "parentId": "zepTkr",
+                "dKmr1MOYsXhw": {
+                  "id": "dKmr1MOYsXhw",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "dKmr1MOYsXhw",
+                    "itemIds": [
+                      "3mGxEOl77vwD",
+                      "OSsRiemuddqe"
+                    ],
+                    "itemMap": {
+                      "3mGxEOl77vwD": {
+                        "id": "3mGxEOl77vwD",
+                        "childIds": [
+                          "dkUwQbQyeLaJ",
+                          "iRqIblWVd4J4"
+                        ]
+                      },
+                      "OSsRiemuddqe": {
+                        "id": "OSsRiemuddqe",
+                        "childIds": [
+                          "AuaOiaQLPKCM",
+                          "YkLrW1IlRluB",
+                          "DlUUGoO78uca"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "dkUwQbQyeLaJ": {
+                  "id": "dkUwQbQyeLaJ",
+                  "parentId": "3mGxEOl77vwD",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -216,7 +180,18 @@
                         "text": {
                           "text": "在研究完成"
                         }
-                      },
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "iRqIblWVd4J4": {
+                  "id": "iRqIblWVd4J4",
+                  "parentId": "3mGxEOl77vwD",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
                       {
                         "bold": true,
                         "kind": "text",
@@ -234,150 +209,46 @@
                     "kind": "body"
                   }
                 },
-                "zEHbeI": {
-                  "id": "zEHbeI",
-                  "parentId": "xowYkN",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "协议核心"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "范围内，点击"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "工具箱-设备列表-制造设备"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通过以下配方制造。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
+                "uxNahYCL7tPO": {
+                  "id": "uxNahYCL7tPO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
                   }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "SLbdx8ym": {
+            "Q1gBIpcb": {
               "id": "document-id",
               "blockIds": [
-                "1WTlpz",
-                "QVMU9x",
-                "044sIK",
-                "o0yABL",
-                "6qelTU",
-                "oJmOoo",
-                "c2ITB9"
+                "1uyeISDOA2fM",
+                "fF3acbOeuQqg",
+                "AflZm2jbdTEW",
+                "dBbGvadaSVsH",
+                "Ih2RDEBJaIaK",
+                "XhO9ZLNW1XBs",
+                "nULUkSVWqelS",
+                "LXa079hxwo5Q"
               ],
               "blockMap": {
-                "044sIK": {
-                  "id": "044sIK",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "“酸洗”MK-I"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "可放置在协议核心范围外。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "1WTlpz": {
-                  "id": "1WTlpz",
+                "1uyeISDOA2fM": {
+                  "id": "1uyeISDOA2fM",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "5"
                   }
                 },
-                "4NNsrx": {
-                  "id": "4NNsrx",
-                  "parentId": "iZDMQB",
-                  "kind": "list",
-                  "list": {
-                    "id": "4NNsrx",
-                    "itemIds": [
-                      "39BW49",
-                      "QxpZM4",
-                      "apk0Nf"
-                    ],
-                    "itemMap": {
-                      "39BW49": {
-                        "id": "39BW49",
-                        "childIds": [
-                          "rb6RpY"
-                        ]
-                      },
-                      "QxpZM4": {
-                        "id": "QxpZM4",
-                        "childIds": [
-                          "6E3VKA"
-                        ]
-                      },
-                      "apk0Nf": {
-                        "id": "apk0Nf",
-                        "childIds": [
-                          "v6ao8W"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "6E3VKA": {
-                  "id": "6E3VKA",
-                  "parentId": "QxpZM4",
+                "6AlbBo9iNCuS": {
+                  "id": "6AlbBo9iNCuS",
+                  "parentId": "tzuhaBT6JPVc",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "攻击间隔："
-                        }
-                      },
                       {
                         "color": "light_function_blue",
                         "kind": "text",
@@ -395,16 +266,215 @@
                     "kind": "body"
                   }
                 },
-                "6qelTU": {
-                  "id": "6qelTU",
+                "AflZm2jbdTEW": {
+                  "id": "AflZm2jbdTEW",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“酸洗”MK-I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "可放置在协议核心范围外。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Dp8L01IxSISs": {
+                  "id": "Dp8L01IxSISs",
+                  "parentId": "o4d2bcYVL3aZ",
+                  "kind": "list",
+                  "list": {
+                    "id": "Dp8L01IxSISs",
+                    "itemIds": [
+                      "7xX45zmSBcxA",
+                      "tzuhaBT6JPVc",
+                      "ldchmI6oRCOk"
+                    ],
+                    "itemMap": {
+                      "7xX45zmSBcxA": {
+                        "id": "7xX45zmSBcxA",
+                        "childIds": [
+                          "XUrDCzN5K3kL",
+                          "qrDjzlzDfg2G"
+                        ]
+                      },
+                      "ldchmI6oRCOk": {
+                        "id": "ldchmI6oRCOk",
+                        "childIds": [
+                          "wtNibv1fQPok",
+                          "KWZeQj9mcIob"
+                        ]
+                      },
+                      "tzuhaBT6JPVc": {
+                        "id": "tzuhaBT6JPVc",
+                        "childIds": [
+                          "aMkbabAP24j6",
+                          "6AlbBo9iNCuS"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Ih2RDEBJaIaK": {
+                  "id": "Ih2RDEBJaIaK",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“酸洗”MK-I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "耗电功率值为20。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KWZeQj9mcIob": {
+                  "id": "KWZeQj9mcIob",
+                  "parentId": "ldchmI6oRCOk",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_function_blue",
+                        "kind": "text",
+                        "text": {
+                          "text": "15"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "米"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "LXa079hxwo5Q": {
+                  "id": "LXa079hxwo5Q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "MkiCSvGbrTEX": {
+                  "id": "MkiCSvGbrTEX",
+                  "parentId": "o4d2bcYVL3aZ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“酸洗”MK-I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XUrDCzN5K3kL": {
+                  "id": "XUrDCzN5K3kL",
+                  "parentId": "7xX45zmSBcxA",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "攻击力："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XhO9ZLNW1XBs": {
+                  "id": "XhO9ZLNW1XBs",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "5"
                   }
                 },
-                "QVMU9x": {
-                  "id": "QVMU9x",
+                "aMkbabAP24j6": {
+                  "id": "aMkbabAP24j6",
+                  "parentId": "tzuhaBT6JPVc",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "攻击间隔："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dBbGvadaSVsH": {
+                  "id": "dBbGvadaSVsH",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“酸洗”MK-I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要电力维持运转，1个"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fF3acbOeuQqg": {
+                  "id": "fF3acbOeuQqg",
                   "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
@@ -427,94 +497,40 @@
                     "kind": "body"
                   }
                 },
-                "c2ITB9": {
-                  "id": "c2ITB9",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "o0yABL": {
-                  "id": "o0yABL",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“酸洗”MK-I"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "需要电力维持运转，1个"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "“酸洗”MK-I"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "耗电功率值为20。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "oJmOoo": {
-                  "id": "oJmOoo",
+                "nULUkSVWqelS": {
+                  "id": "nULUkSVWqelS",
                   "parentId": "document-id",
                   "kind": "list",
                   "list": {
-                    "id": "oJmOoo",
+                    "id": "nULUkSVWqelS",
                     "itemIds": [
-                      "iZDMQB"
+                      "o4d2bcYVL3aZ"
                     ],
                     "itemMap": {
-                      "iZDMQB": {
-                        "id": "iZDMQB",
+                      "o4d2bcYVL3aZ": {
+                        "id": "o4d2bcYVL3aZ",
                         "childIds": [
-                          "wNbLJz",
-                          "4NNsrx"
+                          "MkiCSvGbrTEX",
+                          "v8fJmKYdBGS7",
+                          "Dp8L01IxSISs"
                         ]
                       }
                     },
                     "kind": "unordered"
                   }
                 },
-                "rb6RpY": {
-                  "id": "rb6RpY",
-                  "parentId": "39BW49",
+                "qrDjzlzDfg2G": {
+                  "id": "qrDjzlzDfg2G",
+                  "parentId": "7xX45zmSBcxA",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
-                        "kind": "text",
-                        "text": {
-                          "text": "攻击力："
-                        }
-                      },
-                      {
                         "color": "light_function_blue",
                         "kind": "text",
                         "text": {
-                          "text": "12375 "
+                          "text": "12375"
                         }
                       },
                       {
@@ -529,56 +545,13 @@
                     "kind": "body"
                   }
                 },
-                "v6ao8W": {
-                  "id": "v6ao8W",
-                  "parentId": "apk0Nf",
+                "v8fJmKYdBGS7": {
+                  "id": "v8fJmKYdBGS7",
+                  "parentId": "o4d2bcYVL3aZ",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "攻击范围："
-                        }
-                      },
-                      {
-                        "color": "light_function_blue",
-                        "kind": "text",
-                        "text": {
-                          "text": "15"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "米"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "wNbLJz": {
-                  "id": "wNbLJz",
-                  "parentId": "iZDMQB",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "“酸洗”MK-I"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "的"
-                        }
-                      },
                       {
                         "bold": true,
                         "kind": "text",
@@ -595,30 +568,10 @@
                     ],
                     "kind": "body"
                   }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "vDkCZvV7": {
-              "id": "document-id",
-              "blockIds": [
-                "k7oiwY",
-                "XbWEoo",
-                "6vmeiZ"
-              ],
-              "blockMap": {
-                "6vmeiZ": {
-                  "id": "6vmeiZ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
                 },
-                "XbWEoo": {
-                  "id": "XbWEoo",
-                  "parentId": "document-id",
+                "wtNibv1fQPok": {
+                  "id": "wtNibv1fQPok",
+                  "parentId": "ldchmI6oRCOk",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -626,22 +579,44 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "放置"
+                          "text": "攻击范围："
                         }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "“酸洗”MK-I"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "需要长"
-                        }
-                      },
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "cJnByLKg": {
+              "id": "document-id",
+              "blockIds": [
+                "0UIkRUONoufN",
+                "YXb0gIhZuBaN",
+                "hJBjrnUYjLaj",
+                "5zSnrNkL5GFE",
+                "7Z2VMQvPZUJs",
+                "Qlpct0yXPDKJ",
+                "IW15hD30iyFE"
+              ],
+              "blockMap": {
+                "0UIkRUONoufN": {
+                  "id": "0UIkRUONoufN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "5zSnrNkL5GFE": {
+                  "id": "5zSnrNkL5GFE",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
                       {
                         "bold": true,
                         "kind": "text",
@@ -654,7 +629,18 @@
                         "text": {
                           "text": "格、宽"
                         }
-                      },
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7Z2VMQvPZUJs": {
+                  "id": "7Z2VMQvPZUJs",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
                       {
                         "bold": true,
                         "kind": "text",
@@ -665,47 +651,179 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "格的可用空地，"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "且与其他战斗辅助设备间隔"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "≥3"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "格"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
+                          "text": "格的可用空地，且与其他战斗辅助设备间隔"
                         }
                       }
                     ],
                     "kind": "body"
                   }
                 },
-                "k7oiwY": {
-                  "id": "k7oiwY",
+                "IW15hD30iyFE": {
+                  "id": "IW15hD30iyFE",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "Qlpct0yXPDKJ": {
+                  "id": "Qlpct0yXPDKJ",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "≥3"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "格。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "YXb0gIhZuBaN": {
+                  "id": "YXb0gIhZuBaN",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "hJBjrnUYjLaj": {
+                  "id": "hJBjrnUYjLaj",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“酸洗”MK-I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "需要长"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "mllvEBHq": {
+              "id": "document-id",
+              "blockIds": [
+                "MVyd43E4SCtE",
+                "EOeVWvkyUMyM",
+                "rZH7QqU5Bznx",
+                "CwxQRVSt7oOl",
+                "RQYcvAKmaZ0I"
+              ],
+              "blockMap": {
+                "CwxQRVSt7oOl": {
+                  "id": "CwxQRVSt7oOl",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "“酸洗”MK-I"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "EOeVWvkyUMyM": {
+                  "id": "EOeVWvkyUMyM",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MVyd43E4SCtE": {
+                  "id": "MVyd43E4SCtE",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "5"
+                  }
+                },
+                "RQYcvAKmaZ0I": {
+                  "id": "RQYcvAKmaZ0I",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "rZH7QqU5Bznx": {
+                  "id": "rZH7QqU5Bznx",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "工业计划-武陵工业三期"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "研究"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 }
               },
@@ -718,12 +836,12 @@
               "title": "相关来源",
               "widgets": [
                 {
-                  "id": "YlWuXRzm",
+                  "id": "xpOkusUw",
                   "title": "设备来源",
                   "size": "middle"
                 },
                 {
-                  "id": "xj06SD9V",
+                  "id": "JIZ24zwR",
                   "title": "蓝图来源",
                   "size": "small"
                 }
@@ -733,12 +851,12 @@
               "title": "使用方式",
               "widgets": [
                 {
-                  "id": "gpZUFOXi",
+                  "id": "QgljyFGE",
                   "title": "相关信息",
                   "size": "middle"
                 },
                 {
-                  "id": "4gEMjiYx",
+                  "id": "YXK5hLXn",
                   "title": "面积需求",
                   "size": "small"
                 }
@@ -751,50 +869,50 @@
             "composite": ""
           },
           "widgetCommonMap": {
-            "4gEMjiYx": {
+            "JIZ24zwR": {
               "type": "common",
               "tableList": [],
               "tabList": [],
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "vDkCZvV7",
+                  "content": "mllvEBHq",
                   "audioList": []
                 }
               }
             },
-            "YlWuXRzm": {
+            "QgljyFGE": {
               "type": "common",
               "tableList": [],
               "tabList": [],
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "O8fRcUzw",
+                  "content": "Q1gBIpcb",
                   "audioList": []
                 }
               }
             },
-            "gpZUFOXi": {
+            "YXK5hLXn": {
               "type": "common",
               "tableList": [],
               "tabList": [],
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "SLbdx8ym",
+                  "content": "cJnByLKg",
                   "audioList": []
                 }
               }
             },
-            "xj06SD9V": {
+            "xpOkusUw": {
               "type": "common",
               "tableList": [],
               "tabList": [],
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "EuuYTOks",
+                  "content": "8g9Qsw7s",
                   "audioList": []
                 }
               }
@@ -1018,10 +1136,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "9769520938084",
-          "nickname": "陆刀刀",
+          "id": "4119159299717",
+          "nickname": "曾小皮",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/fd72b2740985507fe4aa02496c93ddd5.webp"
         },
         "createdUser": {
           "id": "9769520938084",
@@ -1035,14 +1153,14 @@
           "description": {
             "id": "document-id",
             "blockIds": [
-              "Iu1g4l",
-              "R8nayXHZkqVm",
-              "7zl2sfycS4j1",
-              "N3zrMl"
+              "C2HddVaXifcA",
+              "2lFhSfi2FORf",
+              "orfMVGeXWnZ1",
+              "Dy6iiLbyFZnX"
             ],
             "blockMap": {
-              "7zl2sfycS4j1": {
-                "id": "7zl2sfycS4j1",
+              "2lFhSfi2FORf": {
+                "id": "2lFhSfi2FORf",
                 "parentId": "document-id",
                 "align": "left",
                 "kind": "text",
@@ -1050,34 +1168,32 @@
                   "inlineElements": [
                     {
                       "bold": true,
-                      "color": "light_text_primary",
                       "kind": "text",
                       "text": {
-                        "text": "攻击方式：发射特制酸液弹，酸液弹会在敌人附近地面爆炸并造成范围"
+                        "text": "攻击间隔："
                       }
                     },
                     {
                       "bold": true,
-                      "color": "light_function_green",
+                      "color": "light_rank_blue",
                       "kind": "text",
                       "text": {
-                        "text": "自然伤害"
+                        "text": "5"
                       }
                     },
                     {
                       "bold": true,
-                      "color": "light_text_primary",
                       "kind": "text",
                       "text": {
-                        "text": "，同时降低范围内敌人的防御力。"
+                        "text": "秒"
                       }
                     }
                   ],
                   "kind": "body"
                 }
               },
-              "Iu1g4l": {
-                "id": "Iu1g4l",
+              "C2HddVaXifcA": {
+                "id": "C2HddVaXifcA",
                 "parentId": "document-id",
                 "align": "left",
                 "kind": "text",
@@ -1085,7 +1201,6 @@
                   "inlineElements": [
                     {
                       "bold": true,
-                      "color": "light_text_primary",
                       "kind": "text",
                       "text": {
                         "text": "攻击力："
@@ -1103,8 +1218,8 @@
                   "kind": "body"
                 }
               },
-              "N3zrMl": {
-                "id": "N3zrMl",
+              "Dy6iiLbyFZnX": {
+                "id": "Dy6iiLbyFZnX",
                 "parentId": "document-id",
                 "align": "left",
                 "kind": "text",
@@ -1121,8 +1236,8 @@
                   "kind": "body"
                 }
               },
-              "R8nayXHZkqVm": {
-                "id": "R8nayXHZkqVm",
+              "orfMVGeXWnZ1": {
+                "id": "orfMVGeXWnZ1",
                 "parentId": "document-id",
                 "align": "left",
                 "kind": "text",
@@ -1130,26 +1245,24 @@
                   "inlineElements": [
                     {
                       "bold": true,
-                      "color": "light_text_primary",
                       "kind": "text",
                       "text": {
-                        "text": "攻击间隔："
+                        "text": "攻击方式：发射特制酸液弹，酸液弹会在敌人附近地面爆炸并造成范围"
                       }
                     },
                     {
                       "bold": true,
-                      "color": "light_rank_blue",
+                      "color": "light_function_green",
                       "kind": "text",
                       "text": {
-                        "text": "5"
+                        "text": "自然伤害"
                       }
                     },
                     {
                       "bold": true,
-                      "color": "light_text_primary",
                       "kind": "text",
                       "text": {
-                        "text": "秒"
+                        "text": "，同时降低范围内敌人的防御力。"
                       }
                     }
                   ],
@@ -1181,7 +1294,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776860246",
-        "lastAuditPassedAt": "1776923103",
+        "lastAuditPassedAt": "1777559034",
         "tagIds": [
           "10005",
           "10370",
