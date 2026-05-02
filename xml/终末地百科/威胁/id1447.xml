@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1447</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777690329"},"item":{"name":"聂菲斯，“征服者”","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1777645140","lastAuditPassedAt":"1777645088","tagIds":["10232"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>聂菲斯，“征服者”</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260417/139426/69e1ef517c7aea6c281205e1_f1525633.png</cover>
+        <subTypes>
+            <subType id="10229">10232</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>聂菲斯，“征服者”</b>是一类<b><color value="r_6">领袖敌人</color></b>。位于武陵城的总桩办公室处，是主线「第二章 - 进程V - <b>怒潮 </b>- 决战总桩」的最终Boss。
+        在被逼入绝境后，聂菲斯展现出自己的心象，意图与管理员、庄方宜等人决一死战。在最后被管理员和庄方宜携手击败。
+    </description>
+    <chapters name="基本介绍">
+        <chapter size="large" name="敌人简介">
+            <tab name="领袖敌人" icon="">
+                <imgIntro>
+                    <name>聂菲斯，“征服者”</name>
+                    <type>裂地者</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260418/139426/69e2663dcacb3db10e65d45e_6ad0f152.gif</imgUrl>
+                    <description>征服者的心象，她毫不掩饰自己肆虐文明的欲望。</description>
+                </imgIntro>
+                <line kind="2"></line>
+                <h3>|敌人能力</h3>
+                <table header="row" widths="232,232,232,232,232">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>物理抗性</b></align>
+                        </th>
+                        <th col="2">
+                            <align value="center"><b>灼热抗性</b></align>
+                        </th>
+                        <th col="3">
+                            <align value="center"><b>电磁抗性</b></align>
+                        </th>
+                        <th col="4">
+                            <align value="center"><b>寒冷抗性</b></align>
+                        </th>
+                        <th col="5">
+                            <align value="center"><b>自然抗性</b></align>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td col="1">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="2">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">D</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">D</align>
+                        </td>
+                    </tr>
+                </table>
+                <ul>
+                    <li>平时被超域护盾保护，受到的伤害大幅度降低，需要打断蓄力才能暂时破除护盾。</li>
+                    <li>有撕裂时空，让干员无法行动的能力，此类技能需要优先打断。</li>
+                    <li>会用锚点困住友方干员，需要攻击锚点解救干员</li>
+                </ul>
+                <line kind="3"></line>
+                <h3>|敌人分布区域</h3>
+                <ul>
+                    <li>武陵城</li>
+                </ul>
+                <line kind="3"></line>
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="进阶介绍">
+        <chapter size="small" name="作战环境">
+            <tab name="庄方宜的息壤支援" icon="">
+                与聂菲斯作战时，<b>庄方宜</b>会使用息壤支援管理员。
+                <line kind="5"></line>
+                <ul>
+                    <li>在任意时刻使用时，所有干员将会借助息壤跃升至空中，随后缓慢下落。</li>
+                    <li>在下落前点按攻击键，在一定范围内，<entry type="link-img" count="0" id="1132"></entry>会使用雷法协助管理员攻击敌人。雷法可以打断聂菲斯的<b><u><color value="f_red">蓄力</color></u></b><b>攻击</b>。</li>
+                    <li>在地面上释放时，该能力的冷却时间为<b>3s</b>；在空中释放时则为<b>5s</b>。</li>
+                </ul>
+            </tab>
+            <tab name="征服者的野心之火" icon="">
+                征服者的野心之火正纵情肆虐……
+                <line kind="5"></line>
+                <ul>
+                    <li>聂菲斯的攻击造成<b><color value="r_4">超域伤害</color></b>，命中时还会对我方的干员施加一层<b><color value="f_red">火焰附着</color></b>。</li>
+                    <li>聂菲斯会化作火焰来进行<b>瞬间移动</b>。聂菲斯既可以利用这一能力迅速拉开与我方干员之间的距离，也可以传送至我方干员的身后进行突袭。</li>
+                    <li>聂菲斯在常态下被<b>超域护盾</b>保护，只会受到正常伤害的约<u>十分之一</u>，需要通过打断蓄力的方式才能够短暂的破除护盾。在游戏内，以覆盖在聂菲斯全身的紫色特效显示。在恢复保护状态后，还会对附近的我方干员造成小幅度的击退效果。</li>
+                </ul>
+            </tab>
+        </chapter>
+        <chapter size="middle" name="敌人行为">
+            <tab name="撕裂时空" icon="">
+                <img>
+                    <id>69e8fc90b03297f4b5886378</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>20191939</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260423/139426/69e8fc90b03297f4b5886378_6ad0f152.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯怒吼，震退⁽¹⁾我方干员，随即甩尾撕开一道时空裂缝，<b>蓄力</b>，蓄力结束后，展开心象使时间停止⁽²⁾，随后对我方主控干员施展投技⁽³⁾。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）在特定的时机发动<b><color value="r_2">息壤支援</color></b>，或是干员处于<s>某种特殊状态</s>时，可以避免被聂菲斯震退。</li>
+                    <li>（2）该技能发动时，任何除聂菲斯本体的动作都会陷入停滞，在聂菲斯攻击生效成功时，时停将结束。</li>
+                    <li>（3）投技时，聂菲斯无法被打断。若我方主控干员使用<b><color value="r_2">息壤支援</color></b>滞留空中时，聂菲斯的投技改为向我方主控干员所在的位置发射飞弹。</li>
+                </ul>
+            </tab>
+            <tab name="二连震地" icon="">
+                <img>
+                    <id>69ea3df7b03297f4b58868ff</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>15300524</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260423/139426/69ea3df7b03297f4b58868ff_65de0095.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯高举武器砸向地面，击飞⁽¹⁾我方干员，随即进行一次<b>蓄力</b>，蓄力结束后，再次砸向地面并击飞我方干员。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）被击飞时，玩家无法进行任何行动，这也就意味着只要被第一次震地击飞，则一定会再次被第二次震地击飞。</li>
+                </ul>
+            </tab>
+            <tab name="空中蓄力" icon="">
+                <img>
+                    <id>69ea40a8b03297f4b5886914</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>19123212</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260423/139426/69ea40a8b03297f4b5886914_13673ac9.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯怒吼，发射飞弹后飞至空中，发射两道超域能量波之后，在空中<b>蓄力</b>，蓄力结束后砸向地面，造成一次全屏伤害并击飞我方干员。
+                <line kind="5"></line>
+            </tab>
+            <tab name="三连吐息" icon="">
+                <img>
+                    <id>69ea42d4b03297f4b5886926</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>15147997</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260424/139426/69ea42d4b03297f4b5886926_0095c241.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯起飞，<b>蓄力</b>⁽¹⁾，向我方主控干员的位置⁽²⁾进行三次冲刺。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）每一次冲刺时，聂菲斯都会处于蓄力状态。</li>
+                    <li>（2）仅在第一次冲刺前锁定我方主控干员的位置，随后的两轮冲刺不再更改冲刺路径。</li>
+                </ul>
+            </tab>
+            <tab name="心象爪击" icon="">
+                <img>
+                    <id>69ea44f212a9f0f6029fdcd2</id>
+                    <format>gif</format>
+                    <width>800</width>
+                    <height>450</height>
+                    <size>20384327</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260424/139426/69ea44f212a9f0f6029fdcd2_91c496d2.gif</url>
+                    <description></description>
+                </img>
+
+                聂菲斯高举左翼爪，向我方主控干员的位置进行爪击，命中后使我方主控干员受困于一个较小球形的心象空间中，<b>蓄力</b>⁽¹⁾，随后向我方主控干员的位置刺出武器，造成伤害并小幅击飞我方主控干员。
+                <line kind="5"></line>
+                <ul>
+                    <li>（1）由于在此时只有我方的主控干员受控，因此可以使用其它干员的连携技、终结技来打断蓄力。</li>
+                </ul>
+            </tab>
+            <tab name="“见证超域”" icon="">
+                <img>
+                    <id>69ea4d9e05e6b92ab9840d37</id>
+                    <format>gif</format>
+                    <width>480</width>
+                    <height>270</height>
+                    <size>20585639</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260424/139426/69ea4d9e05e6b92ab9840d37_e71aef33.gif</url>
+                    <description></description>
+                </img>
+
+                <line kind="5"></line>
+                聂菲斯跃升至空中，使用锚点困住除我方主控干员以外的其它干员，在受困期间，我方干员将受到持续性的<b><color value="r_4">超域伤害</color></b>，此外聂菲斯还会周期性的释放超域能量波、地火等攻击方式来攻击我方干员。
+                一定时间后，聂菲斯斩开空间，从超域中召唤并向我方受困干员处砸下一个巨型锚点。
+            </tab>
+        </chapter>
+    </chapters>
+    <chapters name="其他信息">
+        <chapter size="large" name="相关蚀刻章">
+            <tab name="“征服者之死”" icon="">
+                <imgIntro>
+                    <name>“征服者之死”</name>
+                    <type>主线任务奖章</type>
+                    <imgUrl>https://bbs.hycdn.cn/image/common/20260417/139426/69e1f8737c7aea6c2812062e_13673ac9.png</imgUrl>
+                    <description>被野心之火点燃，欲以万千生命为代价窥伺绝境的征服者，聂菲斯的恶意被您粉碎。
+获得方式：完成主线任务「第二章-进程V-决战总桩」</description>
+                </imgIntro>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

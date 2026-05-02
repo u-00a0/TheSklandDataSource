@@ -10,90 +10,53 @@
   },
   "params": {
     "sectionType": "usage",
-    "title": "使用方式 / 面积需求",
+    "title": "使用方式 / 相关信息",
     "context": {
       "groupTitle": "使用方式",
-      "widgetTitle": "面积需求",
+      "widgetTitle": "相关信息",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "k7oiwY",
-        "XbWEoo",
-        "6vmeiZ"
+        "1WTlpz",
+        "aeOD00597rmG",
+        "c2ITB9"
       ],
       "blockMap": {
-        "6vmeiZ": {
-          "id": "6vmeiZ",
+        "1WTlpz": {
+          "id": "1WTlpz",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
-            "kind": "2"
+            "kind": "5"
           }
         },
-        "XbWEoo": {
-          "id": "XbWEoo",
+        "aeOD00597rmG": {
+          "id": "aeOD00597rmG",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "kind": "text",
-                "text": {
-                  "text": "放置"
-                }
-              },
-              {
                 "bold": true,
+                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "充气教授"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "需要长"
-                }
-              },
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "1"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "格、宽"
-                }
-              },
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "1"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "格的可用空地。"
+                  "text": "可放置的装饰物品。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "k7oiwY": {
-          "id": "k7oiwY",
+        "c2ITB9": {
+          "id": "c2ITB9",
           "parentId": "document-id",
           "kind": "horizontalLine",
           "horizontalLine": {
-            "kind": "5"
+            "kind": "2"
           }
         }
       },

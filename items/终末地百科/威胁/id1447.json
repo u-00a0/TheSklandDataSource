@@ -1,0 +1,2312 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1447"
+  },
+  "name": "聂菲斯，“征服者”",
+  "icon": "https://bbs.hycdn.cn/image/common/20260417/139426/69e1ef517c7aea6c281205e1_f1525633.png",
+  "description": "用途:\n与聂菲斯作战时，庄方宜会使用息壤支援管理员。\n在任意时刻使用时，所有干员将会借助息壤跃升至空中，随后缓慢下落。 在下落前点按攻击键，在一定范围内，[庄方宜]会使用雷法协助管理员攻击敌人。雷法可以打断聂菲斯的蓄力攻击。 在地面上释放时，该能力的冷却时间为3s；在空中释放时则为5s。\n征服者的野心之火正纵情肆虐……\n聂菲斯的攻击造成超域伤害，命中时还会对我方的干员施加一层火焰附着。 聂菲斯会化作火焰来进行瞬间移动。聂菲斯既可以利用这一能力迅速拉开与我方干员之间的距离，也可以传送至我方干员的身后进行突袭。 聂菲斯在常态下被超域护盾保护，只会受到正常伤害的约十分之一，需要通过打断蓄力的方式才能够短暂的破除护盾。在游戏内，以覆盖在聂菲斯全身的紫色特效显示。在恢复保护状态后，还会对附近的我方干员造成小幅度的击退效果。\n聂菲斯怒吼，震退⁽¹⁾我方干员，随即甩尾撕开一道时空裂缝，蓄力，蓄力结束后，展开心象使时间停止⁽²⁾，随后对我方主控干员施展投技⁽³⁾。\n（1）在特定的时机发动息壤支援，或是干员处于某种特殊状态时，可以避免被聂菲斯震退。 （2）该技能发动时，任何除聂菲斯本体的动作都会陷入停滞，在聂菲斯攻击生效成功时，时停将结束。 （3）投技时，聂菲斯无法被打断。若我方主控干员使用息壤支援滞留空中时，聂菲斯的投技改为向我方主控干员所在的位置发射飞弹。",
+  "tags": [
+    "main:终末地百科",
+    "sub:威胁"
+  ],
+  "source": "终末地百科/威胁/id1447.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1777690329",
+    "data": {
+      "item": {
+        "itemId": "1447",
+        "document": {
+          "documentMap": {
+            "5jQyAr5V": {
+              "id": "document-id",
+              "blockIds": [
+                "AGxPcbSjUAfT",
+                "FUdbHumcChRu",
+                "U2Bp3IghkRSg",
+                "HjBBcJpPuZff",
+                "alkjuXgJTY0c"
+              ],
+              "blockMap": {
+                "9ysMMi7jX46I": {
+                  "id": "9ysMMi7jX46I",
+                  "parentId": "ysGe2vRyE2qK",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）每一次冲刺时，聂菲斯都会处于蓄力状态。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "AGxPcbSjUAfT": {
+                  "id": "AGxPcbSjUAfT",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ea42d4b03297f4b5886926",
+                    "url": "https://bbs.hycdn.cn/image/common/20260424/139426/69ea42d4b03297f4b5886926_0095c241.gif",
+                    "width": "800",
+                    "height": "450",
+                    "size": "15147997",
+                    "format": "gif",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 509,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "EUjJb6YCJ2fU": {
+                  "id": "EUjJb6YCJ2fU",
+                  "parentId": "NRlIQixEoESL",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（2）仅在第一次冲刺前锁定我方主控干员的位置，随后的两轮冲刺不再更改冲刺路径。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FUdbHumcChRu": {
+                  "id": "FUdbHumcChRu",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "HjBBcJpPuZff": {
+                  "id": "HjBBcJpPuZff",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "U2Bp3IghkRSg": {
+                  "id": "U2Bp3IghkRSg",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯起飞，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "蓄力"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "⁽¹⁾"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，向我方主控干员的位置"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "⁽²⁾进行三次冲刺。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "alkjuXgJTY0c": {
+                  "id": "alkjuXgJTY0c",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "alkjuXgJTY0c",
+                    "itemIds": [
+                      "ysGe2vRyE2qK",
+                      "NRlIQixEoESL"
+                    ],
+                    "itemMap": {
+                      "NRlIQixEoESL": {
+                        "id": "NRlIQixEoESL",
+                        "childIds": [
+                          "EUjJb6YCJ2fU"
+                        ]
+                      },
+                      "ysGe2vRyE2qK": {
+                        "id": "ysGe2vRyE2qK",
+                        "childIds": [
+                          "9ysMMi7jX46I"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "8FqZDa6v": {
+              "id": "document-id",
+              "blockIds": [
+                "9WeGM3iuZX89",
+                "YntAEMBPUZGb",
+                "nn2hRcrKRLO8"
+              ],
+              "blockMap": {
+                "80MGyZOyh7vW": {
+                  "id": "80MGyZOyh7vW",
+                  "parentId": "phLxuc9rIcHt",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯在常态下被"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "超域护盾"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "保护，只会受到正常伤害的约"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "十分之一"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，需要通过打断蓄力的方式才能够短暂的破除护盾。在游戏内，以覆盖在聂菲斯全身的紫色特效显示。在恢复保护状态后，还会对附近的我方干员造成小幅度的击退效果。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9WeGM3iuZX89": {
+                  "id": "9WeGM3iuZX89",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "征服者的野心之火正纵情肆虐……"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "CGO6vk7avr3Y": {
+                  "id": "CGO6vk7avr3Y",
+                  "parentId": "iwaicffUkCpC",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯的攻击造成"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_purple",
+                        "kind": "text",
+                        "text": {
+                          "text": "超域伤害"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，命中时还会对我方的干员施加一层"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "火焰附着"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "YntAEMBPUZGb": {
+                  "id": "YntAEMBPUZGb",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "bi8R8qCv3gER": {
+                  "id": "bi8R8qCv3gER",
+                  "parentId": "XEXuT3JmvOev",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯会化作火焰来进行"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "瞬间移动"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。聂菲斯既可以利用这一能力迅速拉开与我方干员之间的距离，也可以传送至我方干员的身后进行突袭。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nn2hRcrKRLO8": {
+                  "id": "nn2hRcrKRLO8",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "nn2hRcrKRLO8",
+                    "itemIds": [
+                      "iwaicffUkCpC",
+                      "XEXuT3JmvOev",
+                      "phLxuc9rIcHt"
+                    ],
+                    "itemMap": {
+                      "XEXuT3JmvOev": {
+                        "id": "XEXuT3JmvOev",
+                        "childIds": [
+                          "bi8R8qCv3gER"
+                        ]
+                      },
+                      "iwaicffUkCpC": {
+                        "id": "iwaicffUkCpC",
+                        "childIds": [
+                          "CGO6vk7avr3Y"
+                        ]
+                      },
+                      "phLxuc9rIcHt": {
+                        "id": "phLxuc9rIcHt",
+                        "childIds": [
+                          "80MGyZOyh7vW"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "8p7meHL2": {
+              "id": "document-id",
+              "blockIds": [
+                "ZLjAzk"
+              ],
+              "blockMap": {
+                "ZLjAzk": {
+                  "id": "ZLjAzk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "征服者的心象，她毫不掩饰自己肆虐文明的欲望。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "AEcXJwNT": {
+              "id": "document-id",
+              "blockIds": [
+                "U4dudgQTkCfa",
+                "ayko9BzVlJUI"
+              ],
+              "blockMap": {
+                "U4dudgQTkCfa": {
+                  "id": "U4dudgQTkCfa",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_tertiary",
+                        "kind": "text",
+                        "text": {
+                          "text": "被野心之火点燃，欲以万千生命为代价窥伺绝境的征服者，聂菲斯的恶意被您粉碎。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ayko9BzVlJUI": {
+                  "id": "ayko9BzVlJUI",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "获得方式"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "：完成主线任务「第二章-进程V-决战总桩」"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "DDsITjsw": {
+              "id": "document-id",
+              "blockIds": [
+                "256b7rxOwdIl",
+                "4NSILVim5yso",
+                "UfDcrX8mRTVn"
+              ],
+              "blockMap": {
+                "256b7rxOwdIl": {
+                  "id": "256b7rxOwdIl",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与聂菲斯作战时，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "庄方宜"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "会使用息壤支援管理员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "4NSILVim5yso": {
+                  "id": "4NSILVim5yso",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "UfDcrX8mRTVn": {
+                  "id": "UfDcrX8mRTVn",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "UfDcrX8mRTVn",
+                    "itemIds": [
+                      "qjZBh3MZC2Kx",
+                      "VoDQtetnyocI",
+                      "cuCVU4bAsP6H"
+                    ],
+                    "itemMap": {
+                      "VoDQtetnyocI": {
+                        "id": "VoDQtetnyocI",
+                        "childIds": [
+                          "dSY108bryDAj"
+                        ]
+                      },
+                      "cuCVU4bAsP6H": {
+                        "id": "cuCVU4bAsP6H",
+                        "childIds": [
+                          "fkcjrkmUN2qY"
+                        ]
+                      },
+                      "qjZBh3MZC2Kx": {
+                        "id": "qjZBh3MZC2Kx",
+                        "childIds": [
+                          "lnex0R8tP7UD"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "dSY108bryDAj": {
+                  "id": "dSY108bryDAj",
+                  "parentId": "VoDQtetnyocI",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在下落前点按攻击键，在一定范围内，"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1132",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "会使用雷法协助管理员攻击敌人。雷法可以打断聂菲斯的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "underline": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "蓄力"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "攻击"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fkcjrkmUN2qY": {
+                  "id": "fkcjrkmUN2qY",
+                  "parentId": "cuCVU4bAsP6H",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在地面上释放时，该能力的冷却时间为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "3s"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "；在空中释放时则为"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "5s"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lnex0R8tP7UD": {
+                  "id": "lnex0R8tP7UD",
+                  "parentId": "qjZBh3MZC2Kx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在任意时刻使用时，所有干员将会借助息壤跃升至空中，随后缓慢下落。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "J6OPccbG": {
+              "id": "document-id",
+              "blockIds": [
+                "PyvE4lphJQc2",
+                "r5t6zapAcaLi",
+                "L5Q7wxre3vQ8",
+                "Mie3DOGAF8Op",
+                "qF8YDtMWfwMW"
+              ],
+              "blockMap": {
+                "J57a1CYDlapQ": {
+                  "id": "J57a1CYDlapQ",
+                  "parentId": "lkTFn9vUwBSE",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）由于在此时只有我方的主控干员受控，因此可以使用其它干员的连携技、终结技来打断蓄力。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "L5Q7wxre3vQ8": {
+                  "id": "L5Q7wxre3vQ8",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯高举左翼爪，向我方主控干员的位置"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "进行爪击，命中后使我方主控干员受困于一个较小球形的心象空间中，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "蓄力"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "⁽¹⁾"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，随后向我方主控干员的位置刺出武器，造成伤害并小幅击飞我方主控干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Mie3DOGAF8Op": {
+                  "id": "Mie3DOGAF8Op",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "PyvE4lphJQc2": {
+                  "id": "PyvE4lphJQc2",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ea44f212a9f0f6029fdcd2",
+                    "url": "https://bbs.hycdn.cn/image/common/20260424/139426/69ea44f212a9f0f6029fdcd2_91c496d2.gif",
+                    "width": "800",
+                    "height": "450",
+                    "size": "20384327",
+                    "format": "gif",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 508,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "qF8YDtMWfwMW": {
+                  "id": "qF8YDtMWfwMW",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "qF8YDtMWfwMW",
+                    "itemIds": [
+                      "lkTFn9vUwBSE"
+                    ],
+                    "itemMap": {
+                      "lkTFn9vUwBSE": {
+                        "id": "lkTFn9vUwBSE",
+                        "childIds": [
+                          "J57a1CYDlapQ"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "r5t6zapAcaLi": {
+                  "id": "r5t6zapAcaLi",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "UgKxl8oB": {
+              "id": "document-id",
+              "blockIds": [
+                "Qh78Jk",
+                "l2RXET",
+                "iz7J9H",
+                "1RUIiq",
+                "gLi8Lo",
+                "6tyDgx",
+                "ZoTWjI",
+                "r3E9Ve",
+                "nMuAMC"
+              ],
+              "blockMap": {
+                "1RUIiq": {
+                  "id": "1RUIiq",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "1RUIiq",
+                    "rowIds": [
+                      "GstY0r",
+                      "ImXoPN"
+                    ],
+                    "columnIds": [
+                      "MRsYym",
+                      "lGo6ja",
+                      "TSscPK",
+                      "ksedC1",
+                      "GAVhL9"
+                    ],
+                    "rowMap": {
+                      "GstY0r": {
+                        "id": "GstY0r"
+                      },
+                      "ImXoPN": {
+                        "id": "ImXoPN"
+                      }
+                    },
+                    "columnMap": {
+                      "GAVhL9": {
+                        "id": "GAVhL9",
+                        "width": 232
+                      },
+                      "MRsYym": {
+                        "id": "MRsYym",
+                        "width": 232
+                      },
+                      "TSscPK": {
+                        "id": "TSscPK",
+                        "width": 232
+                      },
+                      "ksedC1": {
+                        "id": "ksedC1",
+                        "width": 232
+                      },
+                      "lGo6ja": {
+                        "id": "lGo6ja",
+                        "width": 232
+                      }
+                    },
+                    "cellMap": {
+                      "GstY0r_GAVhL9": {
+                        "id": "GstY0r_GAVhL9",
+                        "childIds": [
+                          "lHHAM7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "GstY0r_MRsYym": {
+                        "id": "GstY0r_MRsYym",
+                        "childIds": [
+                          "bMGfGT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "GstY0r_TSscPK": {
+                        "id": "GstY0r_TSscPK",
+                        "childIds": [
+                          "VeLuiU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "GstY0r_ksedC1": {
+                        "id": "GstY0r_ksedC1",
+                        "childIds": [
+                          "naczjm"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "GstY0r_lGo6ja": {
+                        "id": "GstY0r_lGo6ja",
+                        "childIds": [
+                          "xyqW3g"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ImXoPN_GAVhL9": {
+                        "id": "ImXoPN_GAVhL9",
+                        "childIds": [
+                          "6ZFT7b"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ImXoPN_MRsYym": {
+                        "id": "ImXoPN_MRsYym",
+                        "childIds": [
+                          "boFT3N"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ImXoPN_TSscPK": {
+                        "id": "ImXoPN_TSscPK",
+                        "childIds": [
+                          "pxEmsK"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ImXoPN_ksedC1": {
+                        "id": "ImXoPN_ksedC1",
+                        "childIds": [
+                          "VVctjw"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "ImXoPN_lGo6ja": {
+                        "id": "ImXoPN_lGo6ja",
+                        "childIds": [
+                          "JAeXlS"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "6ZFT7b": {
+                  "id": "6ZFT7b",
+                  "parentId": "ImXoPN_GAVhL9",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "6tyDgx": {
+                  "id": "6tyDgx",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "I4qfh4": {
+                  "id": "I4qfh4",
+                  "parentId": "G4YrCm",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JAeXlS": {
+                  "id": "JAeXlS",
+                  "parentId": "ImXoPN_lGo6ja",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Qh78Jk": {
+                  "id": "Qh78Jk",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "heading3"
+                  }
+                },
+                "T5LbIE": {
+                  "id": "T5LbIE",
+                  "parentId": "nx2AAl",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "平时被超域护盾保护，受到的伤害大幅度降低，需要打断蓄力才能暂时破除护盾。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VVctjw": {
+                  "id": "VVctjw",
+                  "parentId": "ImXoPN_ksedC1",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VeLuiU": {
+                  "id": "VeLuiU",
+                  "parentId": "GstY0r_TSscPK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "电磁抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZoTWjI": {
+                  "id": "ZoTWjI",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人分布区域"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "bMGfGT": {
+                  "id": "bMGfGT",
+                  "parentId": "GstY0r_MRsYym",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "物理抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "boFT3N": {
+                  "id": "boFT3N",
+                  "parentId": "ImXoPN_MRsYym",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fXTalwlSKDar": {
+                  "id": "fXTalwlSKDar",
+                  "parentId": "WWj8yz2eyoMJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "会用锚点困住友方干员，需要攻击锚点解救干员"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gLi8Lo": {
+                  "id": "gLi8Lo",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "gLi8Lo",
+                    "itemIds": [
+                      "nx2AAl",
+                      "ohZpgiFc1Vt0",
+                      "WWj8yz2eyoMJ"
+                    ],
+                    "itemMap": {
+                      "WWj8yz2eyoMJ": {
+                        "id": "WWj8yz2eyoMJ",
+                        "childIds": [
+                          "fXTalwlSKDar"
+                        ]
+                      },
+                      "nx2AAl": {
+                        "id": "nx2AAl",
+                        "childIds": [
+                          "T5LbIE"
+                        ]
+                      },
+                      "ohZpgiFc1Vt0": {
+                        "id": "ohZpgiFc1Vt0",
+                        "childIds": [
+                          "hRgiCH1VODab"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "hRgiCH1VODab": {
+                  "id": "hRgiCH1VODab",
+                  "parentId": "ohZpgiFc1Vt0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "有撕裂时空，让干员无法行动的能力，此类技能需要优先打断。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "iz7J9H": {
+                  "id": "iz7J9H",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "|敌人能力"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "l2RXET": {
+                  "id": "l2RXET",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "lHHAM7": {
+                  "id": "lHHAM7",
+                  "parentId": "GstY0r_GAVhL9",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "自然抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nMuAMC": {
+                  "id": "nMuAMC",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "naczjm": {
+                  "id": "naczjm",
+                  "parentId": "GstY0r_ksedC1",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "寒冷抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pxEmsK": {
+                  "id": "pxEmsK",
+                  "parentId": "ImXoPN_TSscPK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "D"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "r3E9Ve": {
+                  "id": "r3E9Ve",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "r3E9Ve",
+                    "itemIds": [
+                      "G4YrCm"
+                    ],
+                    "itemMap": {
+                      "G4YrCm": {
+                        "id": "G4YrCm",
+                        "childIds": [
+                          "I4qfh4"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "xyqW3g": {
+                  "id": "xyqW3g",
+                  "parentId": "GstY0r_lGo6ja",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "灼热抗性"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "eIergkxY": {
+              "id": "document-id",
+              "blockIds": [
+                "3NIkKaEtXCRk",
+                "qRzC6vyIzHS7",
+                "gSSfPlmQuTjA",
+                "hOhaqmkVIvI9",
+                "VSREZ5CxWQJh",
+                "qkm2PxqVAdXz"
+              ],
+              "blockMap": {
+                "3NIkKaEtXCRk": {
+                  "id": "3NIkKaEtXCRk",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ea4d9e05e6b92ab9840d37",
+                    "url": "https://bbs.hycdn.cn/image/common/20260424/139426/69ea4d9e05e6b92ab9840d37_e71aef33.gif",
+                    "width": "480",
+                    "height": "270",
+                    "size": "20585639",
+                    "format": "gif",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 511,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "VSREZ5CxWQJh": {
+                  "id": "VSREZ5CxWQJh",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯跃升至空中，使用锚点困住除我方主控干员以外的其它干员"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，在受困期间，我方干员将受到持续性的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_purple",
+                        "kind": "text",
+                        "text": {
+                          "text": "超域伤害"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，此外聂菲斯还会周期性的释放超域能量波、地火等攻击方式来攻击我方干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gSSfPlmQuTjA": {
+                  "id": "gSSfPlmQuTjA",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "hOhaqmkVIvI9": {
+                  "id": "hOhaqmkVIvI9",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "qRzC6vyIzHS7": {
+                  "id": "qRzC6vyIzHS7",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "qkm2PxqVAdXz": {
+                  "id": "qkm2PxqVAdXz",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "一定时间后，聂菲斯斩开空间，从超域中召唤并向我方受困干员处砸下一个巨型锚点。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "eWhp1KHT": {
+              "id": "document-id",
+              "blockIds": [
+                "TijtcXBicHqU",
+                "fPH6mrws9alt",
+                "QkHspLMExRvu",
+                "7EDWP5F429gc",
+                "1oX2egoNG3gc"
+              ],
+              "blockMap": {
+                "1oX2egoNG3gc": {
+                  "id": "1oX2egoNG3gc",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "1oX2egoNG3gc",
+                    "itemIds": [
+                      "ArmuQrEHTGgy",
+                      "lQ3sywpc9asB",
+                      "FFtsZnJtYX3a"
+                    ],
+                    "itemMap": {
+                      "ArmuQrEHTGgy": {
+                        "id": "ArmuQrEHTGgy",
+                        "childIds": [
+                          "VqPGppsBfKI7"
+                        ]
+                      },
+                      "FFtsZnJtYX3a": {
+                        "id": "FFtsZnJtYX3a",
+                        "childIds": [
+                          "HoCXoDOGocu4"
+                        ]
+                      },
+                      "lQ3sywpc9asB": {
+                        "id": "lQ3sywpc9asB",
+                        "childIds": [
+                          "bJd4ZOot1bYG"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "7EDWP5F429gc": {
+                  "id": "7EDWP5F429gc",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "HoCXoDOGocu4": {
+                  "id": "HoCXoDOGocu4",
+                  "parentId": "FFtsZnJtYX3a",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（3）投技时，聂菲斯无法被打断。若我方主控干员使用"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "息壤支援"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "滞留空中时，聂菲斯的投技改为向我方主控干员所在的位置发射飞弹。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QkHspLMExRvu": {
+                  "id": "QkHspLMExRvu",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯怒吼，震退"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "⁽¹⁾"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "我方干员，随即甩尾撕开一道时空裂缝，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "蓄力"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，蓄力结束后，展开心象使时间停止⁽²⁾，随后对我方主控干员施展投技⁽"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "³"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "⁾。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TijtcXBicHqU": {
+                  "id": "TijtcXBicHqU",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69e8fc90b03297f4b5886378",
+                    "url": "https://bbs.hycdn.cn/image/common/20260423/139426/69e8fc90b03297f4b5886378_6ad0f152.gif",
+                    "width": "800",
+                    "height": "450",
+                    "size": "20191939",
+                    "format": "gif",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 507,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "VqPGppsBfKI7": {
+                  "id": "VqPGppsBfKI7",
+                  "parentId": "ArmuQrEHTGgy",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）在特定的时机发动"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "息壤支援"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，或是干员处于"
+                        }
+                      },
+                      {
+                        "strikeThrough": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "某种特殊状态"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "时，可以避免被聂菲斯震退。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bJd4ZOot1bYG": {
+                  "id": "bJd4ZOot1bYG",
+                  "parentId": "lQ3sywpc9asB",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（2）该技能发动时，任何除聂菲斯本体的动作都会陷入停滞，在聂菲斯攻击生效成功时，时停将结束。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fPH6mrws9alt": {
+                  "id": "fPH6mrws9alt",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "kwevELjO": {
+              "id": "document-id",
+              "blockIds": [
+                "csDg7UvDDXyK",
+                "ZXDiNGp9LUCS",
+                "4pcE92I1rCVj",
+                "UfchZx4XxukX",
+                "4yheiY6hg7xd"
+              ],
+              "blockMap": {
+                "4pcE92I1rCVj": {
+                  "id": "4pcE92I1rCVj",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯怒吼，发射飞弹后飞至空中，发射两道超域能量波之后，在空中"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "蓄力"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，蓄力结束后砸向地面，造成一次全屏伤害并击飞我方干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "4yheiY6hg7xd": {
+                  "id": "4yheiY6hg7xd",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "UfchZx4XxukX": {
+                  "id": "UfchZx4XxukX",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "ZXDiNGp9LUCS": {
+                  "id": "ZXDiNGp9LUCS",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "csDg7UvDDXyK": {
+                  "id": "csDg7UvDDXyK",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ea40a8b03297f4b5886914",
+                    "url": "https://bbs.hycdn.cn/image/common/20260423/139426/69ea40a8b03297f4b5886914_13673ac9.gif",
+                    "width": "800",
+                    "height": "450",
+                    "size": "19123212",
+                    "format": "gif",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 512,
+                    "status": "",
+                    "infos": []
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "vcnafp8H": {
+              "id": "document-id",
+              "blockIds": [
+                "EiBuPYDjCJXt",
+                "mfiymLisz1iz",
+                "a6vwaLRpg6Hd",
+                "wdV4YjBmvmTt",
+                "jCCQbQyetFY6"
+              ],
+              "blockMap": {
+                "EiBuPYDjCJXt": {
+                  "id": "EiBuPYDjCJXt",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ea3df7b03297f4b58868ff",
+                    "url": "https://bbs.hycdn.cn/image/common/20260423/139426/69ea3df7b03297f4b58868ff_65de0095.gif",
+                    "width": "800",
+                    "height": "450",
+                    "size": "15300524",
+                    "format": "gif",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 509,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "RNabr5Mh8Q1A": {
+                  "id": "RNabr5Mh8Q1A",
+                  "parentId": "jVFYHlx2BfeD",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）被击飞时，玩家无法进行任何行动，这也就意味着只要被第一次震地击飞，则一定会再次被第二次震地击飞。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "a6vwaLRpg6Hd": {
+                  "id": "a6vwaLRpg6Hd",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "聂菲斯高举武器砸向地面，击飞"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "⁽¹⁾"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "我方干员，随即进行一次"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "蓄力"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，蓄力结束后，再次砸向地面并击飞我方干员。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "jCCQbQyetFY6": {
+                  "id": "jCCQbQyetFY6",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "jCCQbQyetFY6",
+                    "itemIds": [
+                      "jVFYHlx2BfeD"
+                    ],
+                    "itemMap": {
+                      "jVFYHlx2BfeD": {
+                        "id": "jVFYHlx2BfeD",
+                        "childIds": [
+                          "RNabr5Mh8Q1A"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "mfiymLisz1iz": {
+                  "id": "mfiymLisz1iz",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "wdV4YjBmvmTt": {
+                  "id": "wdV4YjBmvmTt",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "基本介绍",
+              "widgets": [
+                {
+                  "id": "MX3syh2E",
+                  "title": "敌人简介",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "进阶介绍",
+              "widgets": [
+                {
+                  "id": "i9ri32F2",
+                  "title": "作战环境",
+                  "size": "small"
+                },
+                {
+                  "id": "DjxgnRtZ",
+                  "title": "敌人行为",
+                  "size": "middle"
+                }
+              ]
+            },
+            {
+              "title": "其他信息",
+              "widgets": [
+                {
+                  "id": "858jDNoI",
+                  "title": "相关蚀刻章",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "858jDNoI": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1776415563845",
+                  "title": "“征服者之死”",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1776415563845": {
+                  "intro": {
+                    "name": "“征服者之死”",
+                    "type": "主线任务奖章",
+                    "imgUrl": "https://bbs.hycdn.cn/image/common/20260417/139426/69e1f8737c7aea6c2812062e_13673ac9.png",
+                    "description": "AEcXJwNT"
+                  },
+                  "content": "",
+                  "audioList": []
+                }
+              }
+            },
+            "DjxgnRtZ": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1776876674751",
+                  "title": "撕裂时空",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1776958955953",
+                  "title": "二连震地",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1776959646954",
+                  "title": "空中蓄力",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1776960190435",
+                  "title": "三连吐息",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1776960733483",
+                  "title": "心象爪击",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1776961301008",
+                  "title": "“见证超域”",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1776876674751": {
+                  "intro": null,
+                  "content": "eWhp1KHT",
+                  "audioList": []
+                },
+                "tab_1776958955953": {
+                  "intro": null,
+                  "content": "vcnafp8H",
+                  "audioList": []
+                },
+                "tab_1776959646954": {
+                  "intro": null,
+                  "content": "kwevELjO",
+                  "audioList": []
+                },
+                "tab_1776960190435": {
+                  "intro": null,
+                  "content": "5jQyAr5V",
+                  "audioList": []
+                },
+                "tab_1776960733483": {
+                  "intro": null,
+                  "content": "J6OPccbG",
+                  "audioList": []
+                },
+                "tab_1776961301008": {
+                  "intro": null,
+                  "content": "eIergkxY",
+                  "audioList": []
+                }
+              }
+            },
+            "MX3syh2E": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1764349954656",
+                  "title": "领袖敌人",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1764349954656": {
+                  "intro": {
+                    "name": "聂菲斯，“征服者”",
+                    "type": "裂地者",
+                    "imgUrl": "https://bbs.hycdn.cn/image/common/20260418/139426/69e2663dcacb3db10e65d45e_6ad0f152.gif",
+                    "description": "8p7meHL2"
+                  },
+                  "content": "UgKxl8oB",
+                  "audioList": []
+                }
+              }
+            },
+            "i9ri32F2": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1776873531967",
+                  "title": "庄方宜的息壤支援",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1776873594567",
+                  "title": "征服者的野心之火",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1776873531967": {
+                  "intro": null,
+                  "content": "DDsITjsw",
+                  "audioList": []
+                },
+                "tab_1776873594567": {
+                  "intro": null,
+                  "content": "8FqZDa6v",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "聂菲斯，“征服者”",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "3",
+          "name": "威胁",
+          "fatherTypeId": "1",
+          "style": 2,
+          "status": 2,
+          "position": 5,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10229",
+              "children": [
+                {
+                  "id": "10231",
+                  "children": [],
+                  "name": "天使",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10232",
+                  "children": [],
+                  "name": "裂地者",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10233",
+                  "children": [],
+                  "name": "沧贼",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10230",
+                  "children": [],
+                  "name": "野外生物",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "威胁",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9203146710665",
+          "nickname": "SilentTwilight",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+        },
+        "createdUser": {
+          "id": "9203146710665",
+          "nickname": "SilentTwilight",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260417/139426/69e1ef517c7aea6c281205e1_f1525633.png",
+          "name": "聂菲斯，“征服者”",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "8uzpoy",
+              "jy6iQYM5qDok"
+            ],
+            "blockMap": {
+              "8uzpoy": {
+                "id": "8uzpoy",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "聂菲斯，“征服者”"
+                      }
+                    },
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "是一类"
+                      }
+                    },
+                    {
+                      "bold": true,
+                      "color": "light_rank_orange",
+                      "kind": "text",
+                      "text": {
+                        "text": "领袖敌人"
+                      }
+                    },
+                    {
+                      "kind": "text",
+                      "text": {
+                        "text": "。"
+                      }
+                    },
+                    {
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "位于武陵城的总桩办公室处，是主线「第二章 - 进程V - "
+                      }
+                    },
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "怒潮 "
+                      }
+                    },
+                    {
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "- 决战总桩」的最终Boss。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "jy6iQYM5qDok": {
+                "id": "jy6iQYM5qDok",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "在被逼入绝境后，聂菲斯展现出自己的心象，意图与管理员、庄方宜等人决一死战。在最后被管理员和庄方宜携手击败。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10229",
+              "value": "10232"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1777645140",
+        "lastAuditPassedAt": "1777645088",
+        "tagIds": [
+          "10232"
+        ]
+      }
+    }
+  }
+}
