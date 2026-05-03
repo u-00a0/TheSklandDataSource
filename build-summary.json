@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T02:54:02.521Z",
+  "generatedAt": "2026-05-03T02:59:38.427Z",
   "input": {
     "infoRoot": "/home/runner/work/TheSklandDataSource/TheSklandDataSource/temp/info",
     "methodsRoot": "/home/runner/work/TheSklandDataSource/TheSklandDataSource/temp/skland-methods"
@@ -9,19 +9,19 @@
     "packId": "aef-skland",
     "gameId": "aef-skland",
     "displayName": "Arknights:Endfield (Skland Wiki)",
-    "version": "2026-05-02"
+    "version": "2026-05-03"
   },
   "stats": {
-    "items": 1459,
-    "baseItems": 1388,
+    "items": 1467,
+    "baseItems": 1396,
     "extraItems": 71,
     "recipeTypes": 39,
-    "recipes": 2646,
-    "docRecipes": 2279,
+    "recipes": 2665,
+    "docRecipes": 2295,
     "downloadedImages": 0,
-    "xmlFiles": 1388,
+    "xmlFiles": 1396,
     "xmlWarnings": 0,
-    "dedupedRecipes": 506,
+    "dedupedRecipes": 508,
     "machineTypesPatched": 23,
     "machineTemplatesMatched": 0
   },
@@ -29,7 +29,7 @@
     {
       "name": "industrial",
       "recipeTypes": 14,
-      "recipes": 402
+      "recipes": 407
     },
     {
       "name": "simple",
@@ -44,16 +44,16 @@
     {
       "name": "source_doc",
       "recipeTypes": 6,
-      "recipes": 1560
+      "recipes": 1568
     },
     {
       "name": "usage_doc",
       "recipeTypes": 6,
-      "recipes": 719
+      "recipes": 727
     }
   ],
   "postprocess": {
-    "dedupedRecipes": 506,
+    "dedupedRecipes": 508,
     "machineTypesPatched": 23,
     "machineTemplatesMatched": 0
   }

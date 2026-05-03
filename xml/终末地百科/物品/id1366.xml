@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1366</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777776848"},"item":{"name":"援助成果券","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"6","name":"物品","fatherTypeId":"1","style":7,"status":2,"position":7,"icon":"","items":[],"filterTagTree":[{"id":"10000","children":[{"id":"10001","children":[],"name":"1星","type":2,"value":"rarity_1","hide":false},{"id":"10002","children":[],"name":"2星","type":2,"value":"rarity_2","hide":false},{"id":"10003","children":[],"name":"3星","type":2,"value":"rarity_3","hide":false},{"id":"10004","children":[],"name":"4星","type":2,"value":"rarity_4","hide":false},{"id":"10005","children":[],"name":"5星","type":2,"value":"rarity_5","hide":false},{"id":"10006","children":[],"name":"6星","type":2,"value":"rarity_6","hide":false}],"name":"星级","type":2,"value":"","hide":false},{"id":"10253","children":[{"id":"10261","children":[],"name":"灰色品质","type":1,"value":"","hide":false},{"id":"10260","children":[],"name":"绿色品质","type":1,"value":"","hide":false},{"id":"10263","children":[],"name":"蓝色品质","type":1,"value":"","hide":false},{"id":"10257","children":[],"name":"紫色品质","type":1,"value":"","hide":false},{"id":"10259","children":[],"name":"金色品质","type":1,"value":"","hide":false},{"id":"10313","children":[],"name":"橙色品质","type":1,"value":"","hide":false}],"name":"品质","type":1,"value":"","hide":false},{"id":"10254","children":[{"id":"10320","children":[],"name":"自然资源","type":1,"value":"","hide":false},{"id":"10255","children":[],"name":"采集材料","type":1,"value":"","hide":false},{"id":"10332","children":[],"name":"珍贵材料","type":1,"value":"","hide":false},{"id":"10318","children":[],"name":"工业产物","type":1,"value":"","hide":false},{"id":"10317","children":[],"name":"可用道具","type":1,"value":"","hide":false},{"id":"10316","children":[],"name":"功能道具","type":1,"value":"","hide":false},{"id":"10256","children":[],"name":"珍贵物品","type":1,"value":"","hide":false}],"name":"物品分类","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"createdUser":{"id":"9228422493033","nickname":"骷髅先生","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"},"status":2,"publishedAtTs":"1777757396","lastAuditPassedAt":"1777776437","tagIds":["10005","10259"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>援助成果券</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260430/203953/69f2a4a2b1f1df85ae6f47de_2f76db19.png</cover>
+        <subTypes>
+            <subType id="10000">10005</subType>
+            <subType id="10253">10259</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>在特殊时间点下与据点交易获得的票券，可在活动中心-集成援助·掌中救星-物资兑换处兑换珍贵物品。</b>
+        <color value="s_3">它们象征着援助成果，代表着人们的信任，每一张都是集成工业系统的勋章。</color>
+    </description>
+    <chapters name="物品来源">
+        <chapter size="large" name="相关来源">
+            <line kind="5"></line>
+            <b>活动期间进行据点供货订单获取的额外报酬。</b>
+            <ul>
+                <li>于活动<entry type="link-img" count="0" id="1492"></entry>期间向<b><color value="r_5">武陵</color></b>地区据点的提供指定的<b>限时物品</b>，可以获得<entry type="link-img" count="0" id="382"></entry><entry type="link-img" count="0" id="1366"></entry>。</li>
+                <li>活动结束时，各类<b>限时物品</b>会被自动兑换为相应数量的<entry type="link-img" count="0" id="382"></entry><entry type="link-img" count="0" id="1366"></entry>并通过邮件的形式发放；如果获取调度券超出据点当前可兑换调度券数量，则直接转化为<entry type="link-img" count="0" id="1366"></entry>。</li>
+            </ul>
+            <table header="both" widths="157,306,697">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>据点</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>需求物品</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>单价</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><pron>天王坪援建点|景玉谷</pron></align>
+                    </th>
+                    <td col="2">
+                        <align value="center"><entry type="link-img" count="0" id="1513"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="link-img" count="40" id="382"></entry><entry type="link-img" count="10" id="1366"></entry></align>
+                    </td>
+                </tr>
+                <tr>
+                    <th col="1">
+                        <align value="center"><pron>心脏修缮站|首墩</pron></align>
+                    </th>
+                    <td col="2">
+                        <align value="center">-</align>
+                    </td>
+                    <td col="3">
+                        <align value="center">-</align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="物品用途">
+        <chapter size="large" name="相关用途">
+            <tab name="概述" icon="">
+                <line kind="5"></line>
+                <b>活动期间可用于物资兑换处购买物品。</b>
+                <ul>
+                    <li>活动<entry type="link-img" count="0" id="1492"></entry>期间，通过活动界面可以进入活动限定的<b><color value="r_5">物资兑换处</color></b>，消耗援助成果券以购买物品。</li>
+                    <li>活动结束时，<b><color value="r_5">物资兑换处</color></b>仍会保持开放一段时间。</li>
+                    <li><b><color value="r_5">物资兑换处</color></b>分为“<b>一期兑换处</b>”与“<b>二期兑换处</b>”，具体商品参见相应页签。</li>
+                </ul>
+                <line kind="2"></line>
+            </tab>
+            <tab name="一期兑换处" icon="">
+                <table header="col" widths="115,132.5,132.5,132.5,132.5,132.5,132.5,132.5,117.5">
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>商品</b></align>
+                        </th>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="100" id="926"></entry></align>
+                        </td>
+                        <td col="4" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="224"></entry></align>
+                        </td>
+                        <td col="6" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="222"></entry></align>
+                        </td>
+                        <td col="8" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="214"></entry></align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>售价</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">6000</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">18000</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">600</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">3000</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">600</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">3000</align>
+                        </td>
+                        <td col="8">
+                            <align value="center">700</align>
+                        </td>
+                        <td col="9">
+                            <align value="center">3500</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>库存</b></align>
+                        </th>
+                        <td col="2" colspan="2">
+                            <align value="center">3</align>
+                        </td>
+                        <td col="4" colspan="2">
+                            <align value="center">5</align>
+                        </td>
+                        <td col="6" colspan="2">
+                            <align value="center">15</align>
+                        </td>
+                        <td col="8" colspan="2">
+                            <align value="center">5</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>商品</b></align>
+                        </th>
+                        <td col="2" colspan="2">
+                            <align value="center"><entry type="card-big" count="3000" id="19"></entry></align>
+                        </td>
+                        <td col="4" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="210"></entry></align>
+                        </td>
+                        <td col="6" colspan="2">
+                            <align value="center"><entry type="card-big" count="1" id="290"></entry></align>
+                        </td>
+                        <td col="8" rowspan="3" colspan="2"></td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>援助成果券</b></align>
+                        </th>
+                        <td col="2">
+                            <align value="center">800</align>
+                        </td>
+                        <td col="3">
+                            <align value="center">4000</align>
+                        </td>
+                        <td col="4">
+                            <align value="center">1500</align>
+                        </td>
+                        <td col="5">
+                            <align value="center">7500</align>
+                        </td>
+                        <td col="6">
+                            <align value="center">3000</align>
+                        </td>
+                        <td col="7">
+                            <align value="center">15000</align>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th col="1">
+                            <align value="center"><b>库存</b></align>
+                        </th>
+                        <td col="2" colspan="2">
+                            <align value="center">20</align>
+                        </td>
+                        <td col="4" colspan="2">
+                            <align value="center">10</align>
+                        </td>
+                        <td col="6" colspan="2">
+                            <align value="center">4</align>
+                        </td>
+                    </tr>
+                </table>
+            </tab>
+            <tab name="二期兑换处" icon="">
+                <line kind="2"></line>
+                <h1>暂未开启</h1>
+                <align value="center"><b>请耐心等待活动新阶段……</b></align>
+                <line kind="2"></line>
+            </tab>
+        </chapter>
+    </chapters>
+</sklandDocument>

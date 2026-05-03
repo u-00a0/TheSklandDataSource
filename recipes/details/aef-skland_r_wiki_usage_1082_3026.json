@@ -1,40 +1,10 @@
 {
   "id": "aef-skland:r/wiki_usage_1082/3026",
-  "type": "aef-skland:wiki/usage/table_entry",
+  "type": "aef-skland:wiki/usage/list_text",
   "slotContents": {
     "in1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_1082",
-      "amount": 1
-    },
-    "out1": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_363",
-      "amount": 1
-    },
-    "out2": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_926",
-      "amount": 200
-    },
-    "out3": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_211",
-      "amount": 40
-    },
-    "out4": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_222",
-      "amount": 15
-    },
-    "out5": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_1480",
-      "amount": 1
-    },
-    "out6": {
-      "kind": "item",
-      "id": "aef-skland.wiki.item_382",
       "amount": 1
     }
   },
@@ -44,46 +14,60 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "地区建设等级",
-      "panelTitle": "12"
+      "panelTitle": "概述"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "T8u7iu3PmAXc"
+        "POJC5u",
+        "QfnKDztIeNNJ",
+        "pGuEIKxPGuva",
+        "VBwn6S2Z5r2d",
+        "HG96wAvOecSb",
+        "pCnuhO"
       ],
       "blockMap": {
-        "2JXozyGeLUBR": {
-          "id": "2JXozyGeLUBR",
-          "parentId": "6MMzUE_LfchI8",
+        "HG96wAvOecSb": {
+          "id": "HG96wAvOecSb",
+          "parentId": "document-id",
           "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "kind": "entry",
-                "entry": {
-                  "id": "382",
-                  "showType": "link-imgText",
-                  "count": "0"
-                }
-              },
-              {
+                "bold": true,
+                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "持有上限提升。"
+                  "text": "关于各个等级的相关内容，可以通过该栏的分页查看。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "2eJIGV6UYDFO": {
-          "id": "2eJIGV6UYDFO",
-          "parentId": "6MMzUE_N1E7hV",
-          "align": "center",
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "QfnKDztIeNNJ": {
+          "id": "QfnKDztIeNNJ",
+          "parentId": "document-id",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "每获得一定数量的谷地地区建设值后，就会提升"
+                }
+              },
               {
                 "bold": true,
                 "color": "light_rank_yellow",
@@ -91,270 +75,142 @@
                 "text": {
                   "text": "武陵"
                 }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "HQPz2zzfpqCp": {
-          "id": "HQPz2zzfpqCp",
-          "parentId": "6MMzUE_w9eUk8",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
+              },
               {
+                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "1250万→1400万"
+                  "text": "的地区建设等级："
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "NYQz8VFKZ0Wa": {
-          "id": "NYQz8VFKZ0Wa",
-          "parentId": "qqaQNE_N1E7hV",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "12"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "S57xdAjLCygk": {
-          "id": "S57xdAjLCygk",
-          "parentId": "LE5r6F_N1E7hV",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "地区建设等级"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "T8u7iu3PmAXc": {
-          "id": "T8u7iu3PmAXc",
+        "VBwn6S2Z5r2d": {
+          "id": "VBwn6S2Z5r2d",
           "parentId": "document-id",
-          "kind": "table",
-          "table": {
-            "id": "T8u7iu3PmAXc",
-            "rowIds": [
-              "LE5r6F",
-              "qqaQNE",
-              "6MMzUE"
-            ],
-            "columnIds": [
-              "N1E7hV",
-              "LfchI8",
-              "w9eUk8"
-            ],
-            "rowMap": {
-              "6MMzUE": {
-                "id": "6MMzUE"
-              },
-              "LE5r6F": {
-                "id": "LE5r6F"
-              },
-              "qqaQNE": {
-                "id": "qqaQNE"
-              }
-            },
-            "columnMap": {
-              "LfchI8": {
-                "id": "LfchI8",
-                "width": 798
-              },
-              "N1E7hV": {
-                "id": "N1E7hV",
-                "width": 117
-              },
-              "w9eUk8": {
-                "id": "w9eUk8",
-                "width": 245
-              }
-            },
-            "cellMap": {
-              "6MMzUE_LfchI8": {
-                "id": "6MMzUE_LfchI8",
-                "childIds": [
-                  "2JXozyGeLUBR"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "6MMzUE_N1E7hV": {
-                "id": "6MMzUE_N1E7hV",
-                "childIds": [
-                  "2eJIGV6UYDFO"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "6MMzUE_w9eUk8": {
-                "id": "6MMzUE_w9eUk8",
-                "childIds": [
-                  "HQPz2zzfpqCp"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "LE5r6F_LfchI8": {
-                "id": "LE5r6F_LfchI8",
-                "childIds": [
-                  "hPhwDym3JEiv"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "LE5r6F_N1E7hV": {
-                "id": "LE5r6F_N1E7hV",
-                "childIds": [
-                  "S57xdAjLCygk"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "qqaQNE_LfchI8": {
-                "id": "qqaQNE_LfchI8",
-                "childIds": [
-                  "rHPJwcLQpnSb"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "qqaQNE_N1E7hV": {
-                "id": "qqaQNE_N1E7hV",
-                "childIds": [
-                  "NYQz8VFKZ0Wa"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              }
-            },
-            "description": "",
-            "rowHeader": true,
-            "colHeader": false
-          }
-        },
-        "hPhwDym3JEiv": {
-          "id": "hPhwDym3JEiv",
-          "parentId": "LE5r6F_LfchI8",
-          "align": "center",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "bold": true,
+                "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "里程碑奖励"
+                  "text": " "
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "rHPJwcLQpnSb": {
-          "id": "rHPJwcLQpnSb",
-          "parentId": "qqaQNE_LfchI8",
-          "align": "center",
+        "Z4V1OJEzHt3c": {
+          "id": "Z4V1OJEzHt3c",
+          "parentId": "sZQW9qQy0zne",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "kind": "entry",
-                "entry": {
-                  "id": "363",
-                  "showType": "card-big",
-                  "count": "1"
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "建设等级提升可以为"
                 }
               },
               {
-                "kind": "entry",
-                "entry": {
-                  "id": "926",
-                  "showType": "card-big",
-                  "count": "200"
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵"
                 }
               },
               {
-                "kind": "entry",
-                "entry": {
-                  "id": "211",
-                  "showType": "card-big",
-                  "count": "40"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "222",
-                  "showType": "card-big",
-                  "count": "15"
-                }
-              },
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "1480",
-                  "showType": "card-big",
-                  "count": "1"
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "各地区提供各类增益或解锁新功能。"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "eHVeB26lC5y0": {
+          "id": "eHVeB26lC5y0",
+          "parentId": "a1WL2w3EeFw4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "建设等级每次提升后，都可以在"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "地区建设-地区建设等级总览"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中领取相应的里程碑奖励。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "pGuEIKxPGuva": {
+          "id": "pGuEIKxPGuva",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "pGuEIKxPGuva",
+            "itemIds": [
+              "a1WL2w3EeFw4",
+              "sZQW9qQy0zne"
+            ],
+            "itemMap": {
+              "a1WL2w3EeFw4": {
+                "id": "a1WL2w3EeFw4",
+                "childIds": [
+                  "eHVeB26lC5y0"
+                ]
+              },
+              "sZQW9qQy0zne": {
+                "id": "sZQW9qQy0zne",
+                "childIds": [
+                  "Z4V1OJEzHt3c"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "usagePattern": "table_entry"
+    "usagePattern": "list_text"
   },
   "detailLoaded": true
 }

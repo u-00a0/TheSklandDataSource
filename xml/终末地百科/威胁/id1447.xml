@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sklandDocument>
     <itemId>1447</itemId>
-    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777690329"},"item":{"name":"聂菲斯，“征服者”","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1777645140","lastAuditPassedAt":"1777645088","tagIds":["10232"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1777777049"},"item":{"name":"聂菲斯，“征服者”","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"3","name":"威胁","fatherTypeId":"1","style":2,"status":2,"position":5,"icon":"","items":[],"filterTagTree":[{"id":"10229","children":[{"id":"10231","children":[],"name":"天使","type":1,"value":"","hide":false},{"id":"10232","children":[],"name":"裂地者","type":1,"value":"","hide":false},{"id":"10233","children":[],"name":"沧贼","type":1,"value":"","hide":false},{"id":"10230","children":[],"name":"野外生物","type":1,"value":"","hide":false}],"name":"威胁","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"createdUser":{"id":"9203146710665","nickname":"SilentTwilight","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/f22b5040d9344087b127a56801b00b60.webp"},"status":2,"publishedAtTs":"1777645140","lastAuditPassedAt":"1777700478","tagIds":["10232"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
     <metainfo>
         <name>聂菲斯，“征服者”</name>
         <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260417/139426/69e1ef517c7aea6c281205e1_f1525633.png</cover>
@@ -143,7 +143,7 @@
                     <description></description>
                 </img>
 
-                聂菲斯怒吼，发射飞弹后飞至空中，发射两道超域能量波之后，在空中<b>蓄力</b>，蓄力结束后砸向地面，造成一次全屏伤害并击飞我方干员。
+                聂菲斯怒吼并飞至空中，发射两道超域能量波之后，在空中<b>蓄力</b>，蓄力结束后砸向地面，造成一次全屏伤害并击飞我方干员。
                 <line kind="5"></line>
             </tab>
             <tab name="三连吐息" icon="">
@@ -192,9 +192,9 @@
                     <description></description>
                 </img>
 
-                <line kind="5"></line>
                 聂菲斯跃升至空中，使用锚点困住除我方主控干员以外的其它干员，在受困期间，我方干员将受到持续性的<b><color value="r_4">超域伤害</color></b>，此外聂菲斯还会周期性的释放超域能量波、地火等攻击方式来攻击我方干员。
-                一定时间后，聂菲斯斩开空间，从超域中召唤并向我方受困干员处砸下一个巨型锚点。
+                一定时间后，聂菲斯斩开空间，从超域中召唤巨型锚点并向我方受困干员砸下。
+                <line kind="5"></line>
             </tab>
         </chapter>
     </chapters>

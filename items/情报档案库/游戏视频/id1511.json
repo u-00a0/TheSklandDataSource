@@ -12,17 +12,18 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777690431",
+    "timestamp": "1777777160",
     "data": {
       "item": {
         "itemId": "1511",
         "document": {
           "documentMap": {
-            "GVmvQnn2": {
+            "ficDiwyC": {
               "id": "document-id",
               "blockIds": [
                 "RR60EwNdpp8Y",
-                "KARTVeAUYlr4"
+                "KARTVeAUYlr4",
+                "XGXzk0UW8nfj"
               ],
               "blockMap": {
                 "KARTVeAUYlr4": {
@@ -71,6 +72,41 @@
                     "kind": "body"
                   }
                 },
+                "XGXzk0UW8nfj": {
+                  "id": "XGXzk0UW8nfj",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "相关页面："
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1489",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1488",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "luL45LgKQWpL": {
                   "id": "luL45LgKQWpL",
                   "parentId": "Jt5DyzHPruY3",
@@ -111,7 +147,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "h7kcv5EG": {
+            "zTIostiB": {
               "id": "document-id",
               "blockIds": [
                 "2lRUxv",
@@ -204,9 +240,9 @@
                     "name": "「镌宇铭星-共赴星海」合作纪录PV（上）",
                     "type": "合作纪录PV",
                     "imgUrl": "https://bbs.hycdn.cn/image/common/20260425/3002335/69ec40149bf79afd418f7b67_3eac6ad0.png",
-                    "description": "h7kcv5EG"
+                    "description": "zTIostiB"
                   },
-                  "content": "GVmvQnn2",
+                  "content": "ficDiwyC",
                   "audioList": []
                 }
               }
@@ -257,7 +293,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777284292",
-        "lastAuditPassedAt": "1777283689",
+        "lastAuditPassedAt": "1777758080",
         "tagIds": []
       }
     }
