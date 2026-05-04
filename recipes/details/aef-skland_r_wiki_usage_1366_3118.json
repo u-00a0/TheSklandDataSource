@@ -1,0 +1,86 @@
+{
+  "id": "aef-skland:r/wiki_usage_1366/3118",
+  "type": "aef-skland:wiki/usage/text_only",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1366",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": "二期兑换处"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "LxG8BztSOw8U",
+        "NQP7q8rsoCkd",
+        "yCIifcF2vpVa",
+        "PUBy4THvxCcm"
+      ],
+      "blockMap": {
+        "LxG8BztSOw8U": {
+          "id": "LxG8BztSOw8U",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "NQP7q8rsoCkd": {
+          "id": "NQP7q8rsoCkd",
+          "parentId": "document-id",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "暂未开启"
+                }
+              }
+            ],
+            "kind": "heading1"
+          }
+        },
+        "PUBy4THvxCcm": {
+          "id": "PUBy4THvxCcm",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "yCIifcF2vpVa": {
+          "id": "yCIifcF2vpVa",
+          "parentId": "document-id",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "请耐心等待活动新阶段……"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "text_only"
+  },
+  "detailLoaded": true
+}

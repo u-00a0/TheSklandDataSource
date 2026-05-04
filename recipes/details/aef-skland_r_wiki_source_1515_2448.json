@@ -1,0 +1,256 @@
+{
+  "id": "aef-skland:r/wiki_source_1515/2448",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1492",
+      "amount": 2
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1514",
+      "amount": 1
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1513",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1515",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "bQnTCN",
+        "QB7bLN",
+        "2nHcjG",
+        "cc9Nq6",
+        "JSBZcC"
+      ],
+      "blockMap": {
+        "2nHcjG": {
+          "id": "2nHcjG",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "2nHcjG",
+            "itemIds": [
+              "ZQeKqJ",
+              "9koVGtDCd7lI"
+            ],
+            "itemMap": {
+              "9koVGtDCd7lI": {
+                "id": "9koVGtDCd7lI",
+                "childIds": [
+                  "do9bIbOZbxAb"
+                ]
+              },
+              "ZQeKqJ": {
+                "id": "ZQeKqJ",
+                "childIds": [
+                  "CUX8WO"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "CUX8WO": {
+          "id": "CUX8WO",
+          "parentId": "ZQeKqJ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "活动"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1492",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "期间，可以通过"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_green",
+                "kind": "text",
+                "text": {
+                  "text": "重要任务"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "掌中救星·其一"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "获取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1514",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1515",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1513",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的工业合成配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "JSBZcC": {
+          "id": "JSBZcC",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [],
+            "kind": "body"
+          }
+        },
+        "QB7bLN": {
+          "id": "QB7bLN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "活动期间进行相应任务获取限时配方。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "bQnTCN": {
+          "id": "bQnTCN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "cc9Nq6": {
+          "id": "cc9Nq6",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "do9bIbOZbxAb": {
+          "id": "do9bIbOZbxAb",
+          "parentId": "9koVGtDCd7lI",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "仅于活动"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1492",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "期间，可在获取配方后通过工业合成获取"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1515",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}
