@@ -4,7 +4,7 @@
   },
   "name": "息壤葫芦样品",
   "icon": "https://bbs.hycdn.cn/image/common/20260430/203953/69f2a5e7baa4f27afcda4c18_6ad0f152.png",
-  "description": "获取方式:\n冒险探索获取。\n完成重要任务掌中救星·其一后领取的任务报酬中包含息壤葫芦样品（1）。",
+  "description": "获取方式:\n冒险探索获取。\n完成重要任务掌中救星·其一后领取的任务报酬中包含[息壤葫芦样品x1]。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777863707",
+    "timestamp": "1777950026",
     "data": {
       "item": {
         "itemId": "1504",
         "document": {
           "documentMap": {
-            "IozPbyBd": {
+            "p4byZcPl": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -113,18 +113,18 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "息壤葫芦样品"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1504",
+                          "showType": "link-imgText",
+                          "count": "1"
                         }
                       },
                       {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "（1）。"
+                          "text": "。"
                         }
                       }
                     ],
@@ -177,7 +177,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "IozPbyBd",
+                  "content": "p4byZcPl",
                   "audioList": []
                 }
               }
@@ -455,7 +455,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777738498",
-        "lastAuditPassedAt": "1777738477",
+        "lastAuditPassedAt": "1777907556",
         "tagIds": [
           "10004",
           "10327",

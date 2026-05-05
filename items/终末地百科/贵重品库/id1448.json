@@ -4,7 +4,7 @@
   },
   "name": "龙泡泡·方兴纪念",
   "icon": "https://bbs.hycdn.cn/image/common/20260422/3048259/69e8731b05e6b92ab984043b_6ad0f152.png",
-  "description": "获取方式:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。\n在武陵完成运送委托后收到的感谢信附件中可能包含龙泡泡·方兴纪念（3）。\n\n用途:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。\n在武陵完成运送委托后收到的感谢信附件中可能包含龙泡泡·方兴纪念（3）。\n可在帝江号上赠送给特定喜好的干员。\n可向喜好文化、公益的干员赠送龙泡泡·方兴纪念以提升其信赖值。  属于武陵·天师府严选系列礼物，若赠送时为流行品，可以提供更高的信赖值提升。",
+  "description": "获取方式:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。\n在武陵完成运送委托后收到的感谢信附件中可能包含[龙泡泡·方兴纪念x3]。\n\n用途:\n武陵-物资调度终端购买。\n升级武陵地区的物资调度终端后可在相应的物资调度-人文物产中以每份[武陵调度券x90000]的价格购买。\n武陵-仓储节点感谢信附件。\n在武陵完成运送委托后收到的感谢信附件中可能包含[龙泡泡·方兴纪念x3]。\n可在帝江号上赠送给特定喜好的干员。\n可向喜好文化、公益的干员赠送[龙泡泡·方兴纪念]以提升其信赖值。  属于武陵·天师府严选系列礼物，若赠送时为流行品，可以提供更高的信赖值提升。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,242 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777863600",
+    "timestamp": "1777949919",
     "data": {
       "item": {
         "itemId": "1448",
         "document": {
           "documentMap": {
-            "NDNEToro": {
+            "OAYzRd6w": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "zNFWbv",
+                "5O6cWaNeG0CX",
+                "ijD4WgTqhoAJ",
+                "jmhGIf5exVBr",
+                "DZ4oYQEx1oQw",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "5O6cWaNeG0CX": {
+                  "id": "5O6cWaNeG0CX",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "5O6cWaNeG0CX",
+                    "itemIds": [
+                      "67MxfStj9a0Q"
+                    ],
+                    "itemMap": {
+                      "67MxfStj9a0Q": {
+                        "id": "67MxfStj9a0Q",
+                        "childIds": [
+                          "AguLDCP7Iyp2"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "AguLDCP7Iyp2": {
+                  "id": "AguLDCP7Iyp2",
+                  "parentId": "67MxfStj9a0Q",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后可在相应的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度-人文物产"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中以每份"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "382",
+                          "showType": "link-imgText",
+                          "count": "90000"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的价格购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DZ4oYQEx1oQw": {
+                  "id": "DZ4oYQEx1oQw",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "DZ4oYQEx1oQw",
+                    "itemIds": [
+                      "TWDt12WQ6HWp"
+                    ],
+                    "itemMap": {
+                      "TWDt12WQ6HWp": {
+                        "id": "TWDt12WQ6HWp",
+                        "childIds": [
+                          "HVR3Z9asIYok"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "HVR3Z9asIYok": {
+                  "id": "HVR3Z9asIYok",
+                  "parentId": "TWDt12WQ6HWp",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在武陵完成运送委托后收到的感谢信附件中可能包含"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1448",
+                          "showType": "link-imgText",
+                          "count": "3"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "ijD4WgTqhoAJ": {
+                  "id": "ijD4WgTqhoAJ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "jmhGIf5exVBr": {
+                  "id": "jmhGIf5exVBr",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-仓储节点感谢信附件。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zNFWbv": {
+                  "id": "zNFWbv",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵-物资调度终端购买。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "hfxDv1uH": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -397,11 +626,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "龙泡泡·方兴纪念"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1448",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
@@ -477,235 +706,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "dSi3YCcq": {
-              "id": "document-id",
-              "blockIds": [
-                "bQnTCN",
-                "zNFWbv",
-                "5O6cWaNeG0CX",
-                "ijD4WgTqhoAJ",
-                "jmhGIf5exVBr",
-                "DZ4oYQEx1oQw",
-                "cc9Nq6"
-              ],
-              "blockMap": {
-                "5O6cWaNeG0CX": {
-                  "id": "5O6cWaNeG0CX",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "5O6cWaNeG0CX",
-                    "itemIds": [
-                      "67MxfStj9a0Q"
-                    ],
-                    "itemMap": {
-                      "67MxfStj9a0Q": {
-                        "id": "67MxfStj9a0Q",
-                        "childIds": [
-                          "AguLDCP7Iyp2"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "AguLDCP7Iyp2": {
-                  "id": "AguLDCP7Iyp2",
-                  "parentId": "67MxfStj9a0Q",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "升级"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "武陵"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "地区的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "物资调度终端"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "后可在相应的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "物资调度-人文物产"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "中以每份"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "382",
-                          "showType": "link-imgText",
-                          "count": "90000"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "的价格购买。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "DZ4oYQEx1oQw": {
-                  "id": "DZ4oYQEx1oQw",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "DZ4oYQEx1oQw",
-                    "itemIds": [
-                      "TWDt12WQ6HWp"
-                    ],
-                    "itemMap": {
-                      "TWDt12WQ6HWp": {
-                        "id": "TWDt12WQ6HWp",
-                        "childIds": [
-                          "HVR3Z9asIYok"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "HVR3Z9asIYok": {
-                  "id": "HVR3Z9asIYok",
-                  "parentId": "TWDt12WQ6HWp",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "在武陵完成运送委托后收到的感谢信附件中可能包含"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "龙泡泡·方兴纪念"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "（3）。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "bQnTCN": {
-                  "id": "bQnTCN",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "cc9Nq6": {
-                  "id": "cc9Nq6",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "ijD4WgTqhoAJ": {
-                  "id": "ijD4WgTqhoAJ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "jmhGIf5exVBr": {
-                  "id": "jmhGIf5exVBr",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "武陵-仓储节点感谢信附件。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "zNFWbv": {
-                  "id": "zNFWbv",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "武陵-物资调度终端购买。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -743,7 +743,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "NDNEToro",
+                  "content": "hfxDv1uH",
                   "audioList": []
                 }
               }
@@ -755,7 +755,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "dSi3YCcq",
+                  "content": "OAYzRd6w",
                   "audioList": []
                 }
               }
@@ -1014,7 +1014,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777211683",
-        "lastAuditPassedAt": "1777028444",
+        "lastAuditPassedAt": "1777907550",
         "tagIds": [
           "10005",
           "10330",

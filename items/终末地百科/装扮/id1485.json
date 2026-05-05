@@ -4,7 +4,7 @@
   },
   "name": "滤镜·春",
   "icon": "https://bbs.hycdn.cn/image/common/20260422/3048259/69e86ce6722817154033b9dd_56331367.png",
-  "description": "获取方式:\n武陵环境监测终端-生态总录获取。",
+  "description": "获取方式:\n完成武陵环境监测终端-生态总录获取。\n解锁位于武陵城-观测站的环境监测终端，收录来自城郊监测终端的16个拍摄委托后可于生态总录中领取。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,17 +21,18 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777863689",
+    "timestamp": "1777950008",
     "data": {
       "item": {
         "itemId": "1485",
         "document": {
           "documentMap": {
-            "7tXWrL4l": {
+            "9vnLuctW": {
               "id": "document-id",
               "blockIds": [
                 "CrgaMtb9NL3Z",
                 "MYhF0PgT8MIC",
+                "bkj4Gob8AtwG",
                 "XohgGfTxNfxh"
               ],
               "blockMap": {
@@ -55,7 +56,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "武陵环境监测终端-生态总录获取。"
+                          "text": "完成武陵环境监测终端-生态总录获取。"
                         }
                       }
                     ],
@@ -68,6 +69,104 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                },
+                "bkj4Gob8AtwG": {
+                  "id": "bkj4Gob8AtwG",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "bkj4Gob8AtwG",
+                    "itemIds": [
+                      "o0Ezjh2H2qyF"
+                    ],
+                    "itemMap": {
+                      "o0Ezjh2H2qyF": {
+                        "id": "o0Ezjh2H2qyF",
+                        "childIds": [
+                          "lmmvFJ8frEky"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "lmmvFJ8frEky": {
+                  "id": "lmmvFJ8frEky",
+                  "parentId": "o0Ezjh2H2qyF",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "解锁位于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城-观测站"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "环境监测终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，收录来自"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "城郊监测终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的16个拍摄委托后可于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "生态总录"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中领取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 }
               },
@@ -100,7 +199,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "7tXWrL4l",
+                  "content": "9vnLuctW",
                   "audioList": []
                 }
               }
@@ -235,10 +334,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -314,7 +413,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777367096",
-        "lastAuditPassedAt": "1776839985",
+        "lastAuditPassedAt": "1777869341",
         "tagIds": [
           "10004",
           "10409"

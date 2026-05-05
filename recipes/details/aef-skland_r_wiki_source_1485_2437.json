@@ -1,6 +1,6 @@
 {
   "id": "aef-skland:r/wiki_source_1485/2437",
-  "type": "aef-skland:wiki/source/text_only",
+  "type": "aef-skland:wiki/source/list_text",
   "slotContents": {
     "out1": {
       "kind": "item",
@@ -21,6 +21,7 @@
       "blockIds": [
         "CrgaMtb9NL3Z",
         "MYhF0PgT8MIC",
+        "bkj4Gob8AtwG",
         "XohgGfTxNfxh"
       ],
       "blockMap": {
@@ -44,7 +45,7 @@
                 "color": "light_text_primary",
                 "kind": "text",
                 "text": {
-                  "text": "武陵环境监测终端-生态总录获取。"
+                  "text": "完成武陵环境监测终端-生态总录获取。"
                 }
               }
             ],
@@ -58,12 +59,110 @@
           "horizontalLine": {
             "kind": "2"
           }
+        },
+        "bkj4Gob8AtwG": {
+          "id": "bkj4Gob8AtwG",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "bkj4Gob8AtwG",
+            "itemIds": [
+              "o0Ezjh2H2qyF"
+            ],
+            "itemMap": {
+              "o0Ezjh2H2qyF": {
+                "id": "o0Ezjh2H2qyF",
+                "childIds": [
+                  "lmmvFJ8frEky"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "lmmvFJ8frEky": {
+          "id": "lmmvFJ8frEky",
+          "parentId": "o0Ezjh2H2qyF",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "解锁位于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵城-观测站"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "环境监测终端"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，收录来自"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "城郊监测终端"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的16个拍摄委托后可于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "生态总录"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "中领取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
         }
       },
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "text_only"
+    "sourcePattern": "list_text"
   },
   "detailLoaded": true
 }
