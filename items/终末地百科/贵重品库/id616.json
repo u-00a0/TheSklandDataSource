@@ -1,0 +1,639 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_616"
+  },
+  "name": "影像・龙泡泡",
+  "icon": "https://bbs.hycdn.cn/image/common/20260422/3048259/69e8760e05e6b92ab9840445_db193eac.png",
+  "description": "获取方式:\n冒险探索获取。\n重要任务据点建设·心脏修缮站·一中前往武陵城-方兴衢任务标识处，拍摄街道两旁的龙泡泡后获取。\n用于提交重要任务目标。\n获取影像・龙泡泡（1）、影像・迁徙的羽兽（1）、影像·天师考校挂幅（1）后前往武陵城-材料研究所与NPC 韩方 对话后向附近的终端提交上述物品以推进任务。\n\n用途:\n用于提交重要任务目标。\n获取影像・龙泡泡（1）、影像・迁徙的羽兽（1）、影像·天师考校挂幅（1）后前往武陵城-材料研究所与NPC 韩方 对话后向附近的终端提交上述物品以推进任务。",
+  "rarity": {
+    "stars": 2,
+    "label": "2星",
+    "color": "#42a5f5",
+    "token": "rarity_2",
+    "tagId": "10002"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:贵重品库",
+    "rarity:2"
+  ],
+  "source": "终末地百科/贵重品库/id616.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1778034382",
+    "data": {
+      "item": {
+        "itemId": "616",
+        "document": {
+          "documentMap": {
+            "JkubObbs": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "FVkn53",
+                "SPbNfnLyD4ad",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "FVkn53": {
+                  "id": "FVkn53",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "用于提交重要任务目标。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SPbNfnLyD4ad": {
+                  "id": "SPbNfnLyD4ad",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "SPbNfnLyD4ad",
+                    "itemIds": [
+                      "8wqymIASWh90"
+                    ],
+                    "itemMap": {
+                      "8wqymIASWh90": {
+                        "id": "8wqymIASWh90",
+                        "childIds": [
+                          "y85RJeEnLvJc"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "y85RJeEnLvJc": {
+                  "id": "y85RJeEnLvJc",
+                  "parentId": "8wqymIASWh90",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "影像・龙泡泡"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "影像・迁徙的羽兽"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）、"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "影像·天师考校挂幅"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）后前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城-材料研究所"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与NPC "
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "韩方"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": " 对话后向附近的终端提交上述物品以推进任务。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "OtIuIeu2": {
+              "id": "document-id",
+              "blockIds": [
+                "bQnTCN",
+                "rLDxx7ADgjvx",
+                "FcNN3Sg0m6CR",
+                "cc9Nq6"
+              ],
+              "blockMap": {
+                "FcNN3Sg0m6CR": {
+                  "id": "FcNN3Sg0m6CR",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "FcNN3Sg0m6CR",
+                    "itemIds": [
+                      "KEaRCyCGyT0I"
+                    ],
+                    "itemMap": {
+                      "KEaRCyCGyT0I": {
+                        "id": "KEaRCyCGyT0I",
+                        "childIds": [
+                          "XQqOrVCBdKOa"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "XQqOrVCBdKOa": {
+                  "id": "XQqOrVCBdKOa",
+                  "parentId": "KEaRCyCGyT0I",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_rank_green",
+                        "kind": "text",
+                        "text": {
+                          "text": "重要任务"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "据点建设·心脏修缮站·一"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城-方兴衢"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "任务标识处，拍摄街道两旁的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "龙泡泡"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bQnTCN": {
+                  "id": "bQnTCN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "cc9Nq6": {
+                  "id": "cc9Nq6",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "rLDxx7ADgjvx": {
+                  "id": "rLDxx7ADgjvx",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "冒险探索获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "物品来源",
+              "widgets": [
+                {
+                  "id": "lNzYFu78",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "物品用途",
+              "widgets": [
+                {
+                  "id": "Gh72Rpj5",
+                  "title": "相关用途",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "Gh72Rpj5": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "JkubObbs",
+                  "audioList": []
+                }
+              }
+            },
+            "lNzYFu78": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "OtIuIeu2",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "影像・龙泡泡",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "16",
+          "name": "贵重品库",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 9,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1",
+                  "hide": false
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2",
+                  "hide": false
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3",
+                  "hide": false
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4",
+                  "hide": false
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5",
+                  "hide": false
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6",
+                  "hide": false
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10321",
+              "children": [
+                {
+                  "id": "10323",
+                  "children": [],
+                  "name": "灰色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10326",
+                  "children": [],
+                  "name": "绿色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10325",
+                  "children": [],
+                  "name": "蓝色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10327",
+                  "children": [],
+                  "name": "紫色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10330",
+                  "children": [],
+                  "name": "金色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10324",
+                  "children": [],
+                  "name": "橙色品质",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "品质",
+              "type": 1,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10322",
+              "children": [
+                {
+                  "id": "10331",
+                  "children": [],
+                  "name": "培养素材",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10329",
+                  "children": [],
+                  "name": "任务物品",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10328",
+                  "children": [],
+                  "name": "珍贵物品",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "物品分类",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "3358404863657",
+          "nickname": "A_Pullu_Pie",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/04fd45d25fde55799b8e3df64ead6c29.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260422/3048259/69e8760e05e6b92ab9840445_db193eac.png",
+          "name": "影像・龙泡泡",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "LXY1iB",
+              "9bzHRe"
+            ],
+            "blockMap": {
+              "9bzHRe": {
+                "id": "9bzHRe",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "龙泡泡代表着日新月异的武陵城，追逐新潮流，拥抱新变化。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "LXY1iB": {
+                "id": "LXY1iB",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "在方兴衢拍摄的龙泡泡影像，巨兽成像仪可以将其处理为巨兽心脏能感知的环境参数。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10002"
+            },
+            {
+              "subTypeId": "10321",
+              "value": "10326"
+            },
+            {
+              "subTypeId": "10322",
+              "value": "10329"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1777969173",
+        "lastAuditPassedAt": "1777335764",
+        "tagIds": [
+          "10002",
+          "10326",
+          "10329"
+        ]
+      }
+    }
+  }
+}

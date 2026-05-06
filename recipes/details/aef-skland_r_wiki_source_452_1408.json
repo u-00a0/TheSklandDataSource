@@ -14,19 +14,19 @@
     "context": {
       "groupTitle": "获取方式",
       "widgetTitle": "所属区域",
-      "panelTitle": "武陵"
+      "panelTitle": "四号谷地"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "LUtplL",
-        "GgSIqjcXde9c",
-        "QgtnF6Gt3kFV"
+        "eTrCBBRrUDfu",
+        "6dYVnY",
+        "TCqborM0lO3H"
       ],
       "blockMap": {
-        "E0ULWK": {
-          "id": "E0ULWK",
-          "parentId": "BxOGjwKEykLw",
+        "5ZUyP3g13UB9": {
+          "id": "5ZUyP3g13UB9",
+          "parentId": "LWRu46oBnEsA",
           "align": "left",
           "kind": "text",
           "text": {
@@ -42,8 +42,8 @@
             "kind": "body"
           }
         },
-        "GgSIqjcXde9c": {
-          "id": "GgSIqjcXde9c",
+        "6dYVnY": {
+          "id": "6dYVnY",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -52,36 +52,26 @@
             "kind": "body"
           }
         },
-        "LUtplL": {
-          "id": "LUtplL",
-          "parentId": "document-id",
-          "kind": "list",
-          "list": {
-            "id": "LUtplL",
-            "itemIds": [
-              "BxOGjwKEykLw",
-              "J6PClp"
-            ],
-            "itemMap": {
-              "BxOGjwKEykLw": {
-                "id": "BxOGjwKEykLw",
-                "childIds": [
-                  "E0ULWK",
-                  "yUTHY4iOhssn"
-                ]
-              },
-              "J6PClp": {
-                "id": "J6PClp",
-                "childIds": [
-                  "hYoSQH"
-                ]
+        "REATlBrPj7Po": {
+          "id": "REATlBrPj7Po",
+          "parentId": "jFGbkYXNuE4b",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·源石研究园"
+                }
               }
-            },
-            "kind": "unordered"
+            ],
+            "kind": "body"
           }
         },
-        "QgtnF6Gt3kFV": {
-          "id": "QgtnF6Gt3kFV",
+        "TCqborM0lO3H": {
+          "id": "TCqborM0lO3H",
           "parentId": "document-id",
           "align": "left",
           "kind": "text",
@@ -105,9 +95,9 @@
             "kind": "body"
           }
         },
-        "SjCUmIcV8Xew": {
-          "id": "SjCUmIcV8Xew",
-          "parentId": "woO7jgO4uI81",
+        "Wl1tHiifMXno": {
+          "id": "Wl1tHiifMXno",
+          "parentId": "MbRdfQkAqxKV",
           "align": "left",
           "kind": "text",
           "text": {
@@ -116,11 +106,91 @@
                 "color": "light_text_secondary",
                 "kind": "text",
                 "text": {
-                  "text": "重度能量淤积点·首墩"
+                  "text": "重度能量淤积点·供能高地"
                 }
               }
             ],
             "kind": "body"
+          }
+        },
+        "aJlWcHdPB2s2": {
+          "id": "aJlWcHdPB2s2",
+          "parentId": "Itbpn04qr7K4",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_secondary",
+                "kind": "text",
+                "text": {
+                  "text": "重度能量淤积点·枢纽区"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "e08iG2Yw9ATp": {
+          "id": "e08iG2Yw9ATp",
+          "parentId": "LWRu46oBnEsA",
+          "kind": "list",
+          "list": {
+            "id": "e08iG2Yw9ATp",
+            "itemIds": [
+              "Itbpn04qr7K4",
+              "jFGbkYXNuE4b",
+              "MbRdfQkAqxKV"
+            ],
+            "itemMap": {
+              "Itbpn04qr7K4": {
+                "id": "Itbpn04qr7K4",
+                "childIds": [
+                  "aJlWcHdPB2s2"
+                ]
+              },
+              "MbRdfQkAqxKV": {
+                "id": "MbRdfQkAqxKV",
+                "childIds": [
+                  "Wl1tHiifMXno"
+                ]
+              },
+              "jFGbkYXNuE4b": {
+                "id": "jFGbkYXNuE4b",
+                "childIds": [
+                  "REATlBrPj7Po"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "eTrCBBRrUDfu": {
+          "id": "eTrCBBRrUDfu",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "eTrCBBRrUDfu",
+            "itemIds": [
+              "LWRu46oBnEsA",
+              "J6PClp"
+            ],
+            "itemMap": {
+              "J6PClp": {
+                "id": "J6PClp",
+                "childIds": [
+                  "hYoSQH"
+                ]
+              },
+              "LWRu46oBnEsA": {
+                "id": "LWRu46oBnEsA",
+                "childIds": [
+                  "5ZUyP3g13UB9",
+                  "e08iG2Yw9ATp"
+                ]
+              }
+            },
+            "kind": "unordered"
           }
         },
         "hYoSQH": {
@@ -139,26 +209,6 @@
               }
             ],
             "kind": "body"
-          }
-        },
-        "yUTHY4iOhssn": {
-          "id": "yUTHY4iOhssn",
-          "parentId": "BxOGjwKEykLw",
-          "kind": "list",
-          "list": {
-            "id": "yUTHY4iOhssn",
-            "itemIds": [
-              "woO7jgO4uI81"
-            ],
-            "itemMap": {
-              "woO7jgO4uI81": {
-                "id": "woO7jgO4uI81",
-                "childIds": [
-                  "SjCUmIcV8Xew"
-                ]
-              }
-            },
-            "kind": "unordered"
           }
         }
       },

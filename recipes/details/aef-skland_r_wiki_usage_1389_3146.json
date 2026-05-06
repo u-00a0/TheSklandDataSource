@@ -1,0 +1,167 @@
+{
+  "id": "aef-skland:r/wiki_usage_1389/3146",
+  "type": "aef-skland:wiki/usage/text_only",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1389",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "使用方式 / 面积需求",
+    "context": {
+      "groupTitle": "使用方式",
+      "widgetTitle": "面积需求",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "0UIkRUONoufN",
+        "YXb0gIhZuBaN",
+        "hJBjrnUYjLaj",
+        "5zSnrNkL5GFE",
+        "7Z2VMQvPZUJs",
+        "Qlpct0yXPDKJ",
+        "IW15hD30iyFE"
+      ],
+      "blockMap": {
+        "0UIkRUONoufN": {
+          "id": "0UIkRUONoufN",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "5zSnrNkL5GFE": {
+          "id": "5zSnrNkL5GFE",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "2"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格、宽"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "7Z2VMQvPZUJs": {
+          "id": "7Z2VMQvPZUJs",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "2"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格的可用空地，且与其他战斗辅助设备间隔"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "IW15hD30iyFE": {
+          "id": "IW15hD30iyFE",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "Qlpct0yXPDKJ": {
+          "id": "Qlpct0yXPDKJ",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "≥3"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "格。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "YXb0gIhZuBaN": {
+          "id": "YXb0gIhZuBaN",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "放置"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "hJBjrnUYjLaj": {
+          "id": "hJBjrnUYjLaj",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "“酸洗”MK-I"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "需要长"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "text_only"
+  },
+  "detailLoaded": true
+}

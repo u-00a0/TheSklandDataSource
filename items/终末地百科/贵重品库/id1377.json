@@ -4,7 +4,7 @@
   },
   "name": "补充武库箱·行舟",
   "icon": "https://bbs.hycdn.cn/image/common/20260430/203953/69f2a60a67cacb45f2cbfca3_56331367.png",
-  "description": "获取方式:\n采购中心-武库交易所获取。\n于行舟申领期间累计达到武库赠礼的申领次数标准后获取： 累计进行10次武器申领后，可额外获得武库赠礼补充武库箱·行舟。 累计进行18次武器申领获得行舟赠礼孤舟之后，每进行8次武器申领，将交替获得武库赠礼和行舟赠礼。\n\n用途:\n开启后获得特定的六星武器。\n使用补充武库箱·行舟可以获得行舟申领期间出现的其它六星武器：\n[遗忘][骑士精神][显赫声名][J.E.T.][楔子][典范]",
+  "description": "获取方式:\n采购中心-武库交易所获取。\n于行舟申领期间累计达到武库赠礼的申领次数标准后获取： 累计进行10次武器申领后，可额外获得武库赠礼[补充武库箱·行舟]。 累计进行18次武器申领获得行舟赠礼[孤舟]之后，每进行8次武器申领，将交替获得武库赠礼和行舟赠礼。\n\n用途:\n开启后获得特定的六星武器。\n使用补充武库箱·行舟可以获得行舟申领期间出现的其它六星武器：\n[遗忘][骑士精神][显赫声名][J.E.T.][楔子][典范]",
   "rarity": {
     "stars": 6,
     "label": "6星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1777949740",
+    "timestamp": "1778036186",
     "data": {
       "item": {
         "itemId": "1377",
         "document": {
           "documentMap": {
-            "eFqG3vqq": {
+            "62GS3KJR": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -134,11 +134,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "补充武库箱·行舟"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1377",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
@@ -196,11 +196,11 @@
                         }
                       },
                       {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "孤舟"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1382",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       },
                       {
@@ -283,7 +283,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "fX0v3vjj": {
+            "Ncmb26eQ": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
@@ -495,7 +495,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "fX0v3vjj",
+                  "content": "Ncmb26eQ",
                   "audioList": []
                 }
               }
@@ -507,7 +507,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "eFqG3vqq",
+                  "content": "62GS3KJR",
                   "audioList": []
                 }
               }
@@ -766,7 +766,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777738507",
-        "lastAuditPassedAt": "1777738464",
+        "lastAuditPassedAt": "1777969357",
         "tagIds": [
           "10006",
           "10324",
