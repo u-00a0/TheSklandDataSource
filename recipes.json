@@ -49244,7 +49244,7 @@
       "in2": {
         "kind": "item",
         "id": "aef-skland.wiki.item_382",
-        "amount": 42
+        "amount": 162
       },
       "in3": {
         "kind": "item",
@@ -72317,11 +72317,46 @@
   },
   {
     "id": "aef-skland:r/wiki_usage_1366/3126",
-    "type": "aef-skland:wiki/usage/text_only",
+    "type": "aef-skland:wiki/usage/table_entry",
     "slotContents": {
       "in1": {
         "kind": "item",
         "id": "aef-skland.wiki.item_1366",
+        "amount": 1
+      },
+      "out1": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_926",
+        "amount": 100
+      },
+      "out2": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_224",
+        "amount": 1
+      },
+      "out3": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_222",
+        "amount": 1
+      },
+      "out4": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_214",
+        "amount": 1
+      },
+      "out5": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_19",
+        "amount": 3000
+      },
+      "out6": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_210",
+        "amount": 1
+      },
+      "out7": {
+        "kind": "item",
+        "id": "aef-skland.wiki.item_290",
         "amount": 1
       }
     },
@@ -72333,7 +72368,7 @@
         "widgetTitle": "相关用途",
         "panelTitle": "二期兑换处"
       },
-      "usagePattern": "text_only"
+      "usagePattern": "table_entry"
     },
     "detailPath": "recipes/details/aef-skland_r_wiki_usage_1366_3126.json",
     "detailLoaded": false

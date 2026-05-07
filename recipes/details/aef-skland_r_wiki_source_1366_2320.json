@@ -10,7 +10,7 @@
     "in2": {
       "kind": "item",
       "id": "aef-skland.wiki.item_382",
-      "amount": 42
+      "amount": 162
     },
     "in3": {
       "kind": "item",
@@ -69,23 +69,6 @@
             "kind": "unordered"
           }
         },
-        "4mKaGeVBrCSH": {
-          "id": "4mKaGeVBrCSH",
-          "parentId": "Y7mpFl_dRZ91o",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "-"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
         "AqE6DsH079YE": {
           "id": "AqE6DsH079YE",
           "parentId": "MREuYS_dRZ91o",
@@ -98,24 +81,6 @@
                 "kind": "text",
                 "text": {
                   "text": "单价"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "BNQ1TLh8P3QG": {
-          "id": "BNQ1TLh8P3QG",
-          "parentId": "MREuYS_DaggvO",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "据点"
                 }
               }
             ],
@@ -185,9 +150,10 @@
           "text": {
             "inlineElements": [
               {
+                "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "-"
+                  "text": "息壤玉葫芦"
                 }
               }
             ],
@@ -225,7 +191,6 @@
               "Y7mpFl"
             ],
             "columnIds": [
-              "DaggvO",
               "OjvYzp",
               "dRZ91o"
             ],
@@ -241,32 +206,16 @@
               }
             },
             "columnMap": {
-              "DaggvO": {
-                "id": "DaggvO",
-                "width": 157
-              },
               "OjvYzp": {
                 "id": "OjvYzp",
-                "width": 306
+                "width": 169
               },
               "dRZ91o": {
                 "id": "dRZ91o",
-                "width": 697
+                "width": 991
               }
             },
             "cellMap": {
-              "MREuYS_DaggvO": {
-                "id": "MREuYS_DaggvO",
-                "childIds": [
-                  "BNQ1TLh8P3QG"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
               "MREuYS_OjvYzp": {
                 "id": "MREuYS_OjvYzp",
                 "childIds": [
@@ -291,18 +240,6 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "Y7mpFl_DaggvO": {
-                "id": "Y7mpFl_DaggvO",
-                "childIds": [
-                  "Xjk6RY43gZC4"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
               "Y7mpFl_OjvYzp": {
                 "id": "Y7mpFl_OjvYzp",
                 "childIds": [
@@ -318,19 +255,7 @@
               "Y7mpFl_dRZ91o": {
                 "id": "Y7mpFl_dRZ91o",
                 "childIds": [
-                  "4mKaGeVBrCSH"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "gYVsud_DaggvO": {
-                "id": "gYVsud_DaggvO",
-                "childIds": [
-                  "wxZRoWkAY117"
+                  "lTYGSdwFy6he"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -367,23 +292,6 @@
             "description": "",
             "rowHeader": true,
             "colHeader": true
-          }
-        },
-        "Xjk6RY43gZC4": {
-          "id": "Xjk6RY43gZC4",
-          "parentId": "Y7mpFl_DaggvO",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "pronunciation",
-                "pronunciation": {
-                  "content": "心脏修缮站|首墩"
-                }
-              }
-            ],
-            "kind": "body"
           }
         },
         "bQnTCN": {
@@ -490,6 +398,33 @@
             "kind": "body"
           }
         },
+        "lTYGSdwFy6he": {
+          "id": "lTYGSdwFy6he",
+          "parentId": "Y7mpFl_dRZ91o",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "382",
+                  "showType": "link-imgText",
+                  "count": "120"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1366",
+                  "showType": "link-imgText",
+                  "count": "30"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
         "t1Ax7P0hAydX": {
           "id": "t1Ax7P0hAydX",
           "parentId": "ZQeKqJ",
@@ -528,7 +463,7 @@
               {
                 "kind": "text",
                 "text": {
-                  "text": "地区据点的提供指定的"
+                  "text": "地区据点的提供"
                 }
               },
               {
@@ -566,23 +501,6 @@
                 "kind": "text",
                 "text": {
                   "text": "。"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "wxZRoWkAY117": {
-          "id": "wxZRoWkAY117",
-          "parentId": "gYVsud_DaggvO",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "pronunciation",
-                "pronunciation": {
-                  "content": "天王坪援建点|景玉谷"
                 }
               }
             ],
