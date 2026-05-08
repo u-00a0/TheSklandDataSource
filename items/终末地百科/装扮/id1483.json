@@ -1,0 +1,375 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1483"
+  },
+  "name": "头像·庄方宜",
+  "icon": "https://bbs.hycdn.cn/image/common/20260502/203953/69f56b579ab16252cef3b17e_6ad0f152.png",
+  "description": "获取方式:\n干员入职的馈赠。\n通过特许寻访获取干员[庄方宜]后，即可在个人名片处使用相应的干员头像。\n\n用途:\n干员入职的馈赠。\n通过特许寻访获取干员[庄方宜]后，即可在个人名片处使用相应的干员头像。",
+  "rarity": {
+    "stars": 5,
+    "label": "5星",
+    "color": "#fb8c00",
+    "token": "rarity_5",
+    "tagId": "10005"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:装扮",
+    "rarity:5"
+  ],
+  "source": "终末地百科/装扮/id1483.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1778209832",
+    "data": {
+      "item": {
+        "itemId": "1483",
+        "document": {
+          "documentMap": {
+            "fQhLPSGv": {
+              "id": "document-id",
+              "blockIds": [
+                "CrgaMtb9NL3Z",
+                "wQyTSWPLAYGW",
+                "q7CGZfR9gKYL",
+                "VSg7SS3r9Q4T"
+              ],
+              "blockMap": {
+                "CrgaMtb9NL3Z": {
+                  "id": "CrgaMtb9NL3Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "Pi5NSUkvZqSX": {
+                  "id": "Pi5NSUkvZqSX",
+                  "parentId": "F5a8MYCDkAnI",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通过"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "特许寻访"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "获取干员"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1132",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后，即可在个人名片处使用相应的干员头像。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "VSg7SS3r9Q4T": {
+                  "id": "VSg7SS3r9Q4T",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "q7CGZfR9gKYL": {
+                  "id": "q7CGZfR9gKYL",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "q7CGZfR9gKYL",
+                    "itemIds": [
+                      "F5a8MYCDkAnI"
+                    ],
+                    "itemMap": {
+                      "F5a8MYCDkAnI": {
+                        "id": "F5a8MYCDkAnI",
+                        "childIds": [
+                          "Pi5NSUkvZqSX"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "wQyTSWPLAYGW": {
+                  "id": "wQyTSWPLAYGW",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "干员入职的馈赠。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "获取途径",
+              "widgets": [
+                {
+                  "id": "2n9oD6Hl",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "2n9oD6Hl": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "fQhLPSGv",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "头像·庄方宜",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "19",
+          "name": "装扮",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1",
+                  "hide": false
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2",
+                  "hide": false
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3",
+                  "hide": false
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4",
+                  "hide": false
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5",
+                  "hide": false
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6",
+                  "hide": false
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10404",
+              "children": [
+                {
+                  "id": "10406",
+                  "children": [],
+                  "name": "头像",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10407",
+                  "children": [],
+                  "name": "头像框",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10408",
+                  "children": [],
+                  "name": "名片主题",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10405",
+                  "children": [],
+                  "name": "贴纸",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10409",
+                  "children": [],
+                  "name": "滤镜",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "分类",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "6208993443188",
+          "nickname": "肉丝饼",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/ef50268d0610aeb22738a0d448ee5d50.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260502/203953/69f56b579ab16252cef3b17e_6ad0f152.png",
+          "name": "头像·庄方宜",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "FQee2FQJKgFX"
+            ],
+            "blockMap": {
+              "FQee2FQJKgFX": {
+                "id": "FQee2FQJKgFX",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "用于在个人名片处更换头像，会在多种场合进行展示。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10005"
+            },
+            {
+              "subTypeId": "10404",
+              "value": "10406"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1778160446",
+        "lastAuditPassedAt": "1777866683",
+        "tagIds": [
+          "10005",
+          "10406"
+        ]
+      }
+    }
+  }
+}

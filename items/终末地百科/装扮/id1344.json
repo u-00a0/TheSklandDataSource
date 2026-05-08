@@ -1,0 +1,456 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1344"
+  },
+  "name": "名片·Win-Win!",
+  "icon": "https://bbs.hycdn.cn/image/common/20260504/203953/69f7fb08a513efddc04d584a_f1525633.png",
+  "description": "获取方式:\n干员达到指定潜能时的馈赠。\n消耗[伊冯的信物x6]提升干员 [伊冯]的潜能至满后获取。\n\n用途:\n干员达到指定潜能时的馈赠。\n消耗[伊冯的信物x6]提升干员 [伊冯]的潜能至满后获取。",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:装扮",
+    "rarity:6"
+  ],
+  "source": "终末地百科/装扮/id1344.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1778209483",
+    "data": {
+      "item": {
+        "itemId": "1344",
+        "document": {
+          "documentMap": {
+            "8ABnzsy2": {
+              "id": "document-id",
+              "blockIds": [
+                "CrgaMtb9NL3Z",
+                "MYhF0PgT8MIC",
+                "KyPurbsSIQz9",
+                "XohgGfTxNfxh"
+              ],
+              "blockMap": {
+                "CrgaMtb9NL3Z": {
+                  "id": "CrgaMtb9NL3Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "KyPurbsSIQz9": {
+                  "id": "KyPurbsSIQz9",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "KyPurbsSIQz9",
+                    "itemIds": [
+                      "9zLq10BX9HxJ"
+                    ],
+                    "itemMap": {
+                      "9zLq10BX9HxJ": {
+                        "id": "9zLq10BX9HxJ",
+                        "childIds": [
+                          "P8NKi9em9Id6"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "MYhF0PgT8MIC": {
+                  "id": "MYhF0PgT8MIC",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "干员达到指定潜能时的馈赠。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "P8NKi9em9Id6": {
+                  "id": "P8NKi9em9Id6",
+                  "parentId": "9zLq10BX9HxJ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "消耗"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "303",
+                          "showType": "link-imgText",
+                          "count": "6"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "提升干员 "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "157",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的潜能至满后获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XohgGfTxNfxh": {
+                  "id": "XohgGfTxNfxh",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "TFDV7Ky6": {
+              "id": "document-id",
+              "blockIds": [
+                "c7j5bLwUTUrN",
+                "i9jZ2tG80ILq",
+                "HLmA6rh0G0Mn"
+              ],
+              "blockMap": {
+                "HLmA6rh0G0Mn": {
+                  "id": "HLmA6rh0G0Mn",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "c7j5bLwUTUrN": {
+                  "id": "c7j5bLwUTUrN",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "i9jZ2tG80ILq": {
+                  "id": "i9jZ2tG80ILq",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69f7fb5a67cacb45f2cc0a1c",
+                    "url": "https://bbs.hycdn.cn/image/common/20260504/203953/69f7fb5a67cacb45f2cc0a1c_0095c241.webp",
+                    "width": "1820",
+                    "height": "1024",
+                    "size": "201594",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "亮丽的涂装，轻快的音乐，还有游戏获胜时的笑容.....每个开心的时刻，她都记录了下来，与你共享。",
+                    "clientWidth": 1160,
+                    "status": "",
+                    "infos": []
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "获取途径",
+              "widgets": [
+                {
+                  "id": "2n9oD6Hl",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "2n9oD6Hl": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1777859312246",
+                  "title": "获取方式",
+                  "icon": ""
+                },
+                {
+                  "tabId": "tab_1777859315891",
+                  "title": "图像展示",
+                  "icon": ""
+                }
+              ],
+              "tabDataMap": {
+                "tab_1777859312246": {
+                  "intro": null,
+                  "content": "8ABnzsy2",
+                  "audioList": []
+                },
+                "tab_1777859315891": {
+                  "intro": null,
+                  "content": "TFDV7Ky6",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "名片·Win-Win!",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "19",
+          "name": "装扮",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1",
+                  "hide": false
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2",
+                  "hide": false
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3",
+                  "hide": false
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4",
+                  "hide": false
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5",
+                  "hide": false
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6",
+                  "hide": false
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10404",
+              "children": [
+                {
+                  "id": "10406",
+                  "children": [],
+                  "name": "头像",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10407",
+                  "children": [],
+                  "name": "头像框",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10408",
+                  "children": [],
+                  "name": "名片主题",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10405",
+                  "children": [],
+                  "name": "贴纸",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10409",
+                  "children": [],
+                  "name": "滤镜",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "分类",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9769520938084",
+          "nickname": "陆刀刀",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/30e2ae8771fc507f170939045cb82559.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260504/203953/69f7fb08a513efddc04d584a_f1525633.png",
+          "name": "名片·Win-Win!",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "K5sBrzn3Qsu7",
+              "FQee2FQJKgFX"
+            ],
+            "blockMap": {
+              "FQee2FQJKgFX": {
+                "id": "FQee2FQJKgFX",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "亮丽的涂装，轻快的音乐，还有游戏获胜时的笑容.....每个开心的时刻，她都记录了下来，与你共享。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "K5sBrzn3Qsu7": {
+                "id": "K5sBrzn3Qsu7",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "用于在个人名片处更换名片主题，会在多种场合进行展示。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10404",
+              "value": "10408"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1778150765",
+        "lastAuditPassedAt": "1777866662",
+        "tagIds": [
+          "10006",
+          "10408"
+        ]
+      }
+    }
+  }
+}

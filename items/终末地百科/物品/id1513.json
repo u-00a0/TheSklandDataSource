@@ -4,7 +4,7 @@
   },
   "name": "息壤葫芦",
   "icon": "https://bbs.hycdn.cn/image/common/20260430/203953/69f2a4d746e0f2d134994be9_3eac6ad0.png",
-  "description": "获取方式:\n活动期间进行相应任务获取限时配方。\n活动[集成援助·掌中救星]期间，可以通过重要任务掌中救星·其一获取[实验息壤零件][实验息壤瓶][息壤葫芦]的工业合成配方。 仅于活动[集成援助·掌中救星]期间，可在获取配方后通过工业合成获取[息壤葫芦]。\n活动期间用于进行据点供货订单获取援助成果券。\n于活动[集成援助·掌中救星]期间向武陵地区的据点  提供[息壤葫芦]，以每份[武陵调度券x40][援助成果券x10]的单价获取报酬。\n\n用途:\n活动期间用于进行据点供货订单获取援助成果券。\n于活动[集成援助·掌中救星]期间向武陵地区的据点  提供[息壤葫芦]，以每份[武陵调度券x40][援助成果券x10]的单价获取报酬。",
+  "description": "获取方式:\n活动期间进行相应任务获取限时配方。\n活动[集成援助·掌中救星]期间，可以通过重要任务掌中救星·其一获取[实验息壤零件][实验息壤瓶][息壤葫芦]的工业合成配方。 仅于活动[集成援助·掌中救星]期间，可在获取配方后通过工业合成获取[息壤葫芦]。\n活动期间用于进行据点供货订单获取援助成果券。\n于活动[集成援助·掌中救星]期间向武陵地区的据点提供[息壤葫芦]，以每份[武陵调度券x40][援助成果券x10]的单价获取报酬。\n\n用途:\n活动期间用于进行据点供货订单获取援助成果券。\n于活动[集成援助·掌中救星]期间向武陵地区的据点提供[息壤葫芦]，以每份[武陵调度券x40][援助成果券x10]的单价获取报酬。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,13 +21,167 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778123024",
+    "timestamp": "1778209880",
     "data": {
       "item": {
         "itemId": "1513",
         "document": {
           "documentMap": {
-            "G5vSQyM5": {
+            "RNgC3oiD": {
+              "id": "document-id",
+              "blockIds": [
+                "POJC5u",
+                "mmMf4RDzGkq1",
+                "lAz2Mg7k7E1H",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "POJC5u": {
+                  "id": "POJC5u",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "lAz2Mg7k7E1H": {
+                  "id": "lAz2Mg7k7E1H",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "lAz2Mg7k7E1H",
+                    "itemIds": [
+                      "SM4tQpP87hGR"
+                    ],
+                    "itemMap": {
+                      "SM4tQpP87hGR": {
+                        "id": "SM4tQpP87hGR",
+                        "childIds": [
+                          "xbUExB0PaI6d"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "mmMf4RDzGkq1": {
+                  "id": "mmMf4RDzGkq1",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "活动期间用于进行据点供货订单获取援助成果券。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "xbUExB0PaI6d": {
+                  "id": "xbUExB0PaI6d",
+                  "parentId": "SM4tQpP87hGR",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "于活动"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1492",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间向"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区的据点提供"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1513",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，以每份"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "382",
+                          "showType": "link-imgText",
+                          "count": "40"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1366",
+                          "showType": "link-imgText",
+                          "count": "10"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的单价获取报酬。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "iusFpFr1": {
               "id": "document-id",
               "blockIds": [
                 "tlIPhX",
@@ -290,7 +444,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "Uv5RoXzi": {
+            "us2cffOO": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -508,173 +662,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "ZmRyeN3c": {
-              "id": "document-id",
-              "blockIds": [
-                "POJC5u",
-                "mmMf4RDzGkq1",
-                "lAz2Mg7k7E1H",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "POJC5u": {
-                  "id": "POJC5u",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "lAz2Mg7k7E1H": {
-                  "id": "lAz2Mg7k7E1H",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "lAz2Mg7k7E1H",
-                    "itemIds": [
-                      "SM4tQpP87hGR"
-                    ],
-                    "itemMap": {
-                      "SM4tQpP87hGR": {
-                        "id": "SM4tQpP87hGR",
-                        "childIds": [
-                          "xbUExB0PaI6d"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "mmMf4RDzGkq1": {
-                  "id": "mmMf4RDzGkq1",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "活动期间用于进行据点供货订单获取援助成果券。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "xbUExB0PaI6d": {
-                  "id": "xbUExB0PaI6d",
-                  "parentId": "SM4tQpP87hGR",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "于活动"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1492",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "期间向"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "武陵"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "地区的据点 "
-                        }
-                      },
-                      {
-                        "kind": "pronunciation",
-                        "pronunciation": {
-                          "content": "天王坪援建点|景玉谷"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": " 提供"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1513",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "，以每份"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "382",
-                          "showType": "link-imgText",
-                          "count": "40"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1366",
-                          "showType": "link-imgText",
-                          "count": "10"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "的单价获取报酬。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -722,7 +709,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ZmRyeN3c",
+                  "content": "RNgC3oiD",
                   "audioList": []
                 }
               }
@@ -734,7 +721,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "Uv5RoXzi",
+                  "content": "us2cffOO",
                   "audioList": []
                 }
               }
@@ -752,7 +739,7 @@
               "tabDataMap": {
                 "tab_1777363620075": {
                   "intro": null,
-                  "content": "G5vSQyM5",
+                  "content": "iusFpFr1",
                   "audioList": []
                 }
               }
@@ -1072,7 +1059,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777757389",
-        "lastAuditPassedAt": "1777776459",
+        "lastAuditPassedAt": "1778142108",
         "tagIds": [
           "10004",
           "10257",

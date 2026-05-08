@@ -1,0 +1,132 @@
+{
+  "id": "aef-skland:r/wiki_source_549/1551",
+  "type": "aef-skland:wiki/source/list_text",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_549",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "物品来源 / 相关来源",
+    "context": {
+      "groupTitle": "物品来源",
+      "widgetTitle": "相关来源",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "HQVryn1Xbjzm",
+        "WDTR7n9LSy55",
+        "Sw9HjlaoloEL",
+        "glasrQxUyLeh"
+      ],
+      "blockMap": {
+        "ESw9hhsIvCyL": {
+          "id": "ESw9hhsIvCyL",
+          "parentId": "Fub0e0m8DyhT",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "箱子"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "等途径可以获得一定数量的高容谷地电池。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "HQVryn1Xbjzm": {
+          "id": "HQVryn1Xbjzm",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "L3WHtILRGPBn": {
+          "id": "L3WHtILRGPBn",
+          "parentId": "Fub0e0m8DyhT",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "破坏地图各处的"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Sw9HjlaoloEL": {
+          "id": "Sw9HjlaoloEL",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Sw9HjlaoloEL",
+            "itemIds": [
+              "Fub0e0m8DyhT"
+            ],
+            "itemMap": {
+              "Fub0e0m8DyhT": {
+                "id": "Fub0e0m8DyhT",
+                "childIds": [
+                  "L3WHtILRGPBn",
+                  "ESw9hhsIvCyL"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "WDTR7n9LSy55": {
+          "id": "WDTR7n9LSy55",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "冒险探索获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "glasrQxUyLeh": {
+          "id": "glasrQxUyLeh",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_text"
+  },
+  "detailLoaded": true
+}

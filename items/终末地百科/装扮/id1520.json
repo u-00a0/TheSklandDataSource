@@ -1,0 +1,498 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1520"
+  },
+  "name": "头像·“同行”",
+  "icon": "https://bbs.hycdn.cn/image/common/20260503/203953/69f6a0eee9def7668048183d_3eac6ad0.png",
+  "description": "获取方式:\n网页活动特殊奖励。。\n于2026/05/01 12:00 至 2026/06/05 06:00 期间，参与纪念《明日方舟》七周年庆典的网页活动【】获取。 在此次活动第一阶段「此时欢宴」的小游戏中达到特定分数后，即可领取头像·“同行”（1）头像·“相庆”（1）。",
+  "rarity": {
+    "stars": 6,
+    "label": "6星",
+    "color": "#bd1c1c",
+    "token": "rarity_6",
+    "tagId": "10006"
+  },
+  "tags": [
+    "main:终末地百科",
+    "sub:装扮",
+    "rarity:6"
+  ],
+  "source": "终末地百科/装扮/id1520.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1778209896",
+    "data": {
+      "item": {
+        "itemId": "1520",
+        "document": {
+          "documentMap": {
+            "VdfaNCs0": {
+              "id": "document-id",
+              "blockIds": [
+                "CrgaMtb9NL3Z",
+                "Xct8VTEJzC6Y",
+                "qn702ZwBnAlN",
+                "VSg7SS3r9Q4T"
+              ],
+              "blockMap": {
+                "CrgaMtb9NL3Z": {
+                  "id": "CrgaMtb9NL3Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "VSg7SS3r9Q4T": {
+                  "id": "VSg7SS3r9Q4T",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "VbhtYfWQ4r3V": {
+                  "id": "VbhtYfWQ4r3V",
+                  "parentId": "8LWYxUrJjckP",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "于"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2026/05/01 12:00 至 2026/06/05 06:00 期间，"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "参与纪念《"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "明日方舟"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "》七周年庆典的网页活动【"
+                        }
+                      },
+                      {
+                        "kind": "link",
+                        "link": {
+                          "link": "https://www.bilibili.com/opus/1196997079667310598?spm_id_from=333.1387.0.0",
+                          "text": "共贺庆典"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "】获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xct8VTEJzC6Y": {
+                  "id": "Xct8VTEJzC6Y",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "网页活动特殊奖励。。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "c0hgLuPpJvwG": {
+                  "id": "c0hgLuPpJvwG",
+                  "parentId": "94igABg03Xg7",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "在此次活动第一阶段"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "「"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "此时欢宴"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "」的小游戏中达到特定分数后，即可领取"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "头像·“同行”"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "头像·“相庆”"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "（1）"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mn4LvXtDrvtd": {
+                  "id": "mn4LvXtDrvtd",
+                  "parentId": "8LWYxUrJjckP",
+                  "kind": "list",
+                  "list": {
+                    "id": "mn4LvXtDrvtd",
+                    "itemIds": [
+                      "94igABg03Xg7"
+                    ],
+                    "itemMap": {
+                      "94igABg03Xg7": {
+                        "id": "94igABg03Xg7",
+                        "childIds": [
+                          "c0hgLuPpJvwG"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "qn702ZwBnAlN": {
+                  "id": "qn702ZwBnAlN",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "qn702ZwBnAlN",
+                    "itemIds": [
+                      "8LWYxUrJjckP"
+                    ],
+                    "itemMap": {
+                      "8LWYxUrJjckP": {
+                        "id": "8LWYxUrJjckP",
+                        "childIds": [
+                          "VbhtYfWQ4r3V",
+                          "mn4LvXtDrvtd"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "获取途径",
+              "widgets": [
+                {
+                  "id": "2n9oD6Hl",
+                  "title": "相关来源",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "2n9oD6Hl": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "VdfaNCs0",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "头像·“同行”",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "19",
+          "name": "装扮",
+          "fatherTypeId": "1",
+          "style": 7,
+          "status": 2,
+          "position": 8,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10000",
+              "children": [
+                {
+                  "id": "10001",
+                  "children": [],
+                  "name": "1星",
+                  "type": 2,
+                  "value": "rarity_1",
+                  "hide": false
+                },
+                {
+                  "id": "10002",
+                  "children": [],
+                  "name": "2星",
+                  "type": 2,
+                  "value": "rarity_2",
+                  "hide": false
+                },
+                {
+                  "id": "10003",
+                  "children": [],
+                  "name": "3星",
+                  "type": 2,
+                  "value": "rarity_3",
+                  "hide": false
+                },
+                {
+                  "id": "10004",
+                  "children": [],
+                  "name": "4星",
+                  "type": 2,
+                  "value": "rarity_4",
+                  "hide": false
+                },
+                {
+                  "id": "10005",
+                  "children": [],
+                  "name": "5星",
+                  "type": 2,
+                  "value": "rarity_5",
+                  "hide": false
+                },
+                {
+                  "id": "10006",
+                  "children": [],
+                  "name": "6星",
+                  "type": 2,
+                  "value": "rarity_6",
+                  "hide": false
+                }
+              ],
+              "name": "星级",
+              "type": 2,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10404",
+              "children": [
+                {
+                  "id": "10406",
+                  "children": [],
+                  "name": "头像",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10407",
+                  "children": [],
+                  "name": "头像框",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10408",
+                  "children": [],
+                  "name": "名片主题",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10405",
+                  "children": [],
+                  "name": "贴纸",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10409",
+                  "children": [],
+                  "name": "滤镜",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "分类",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "createdUser": {
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260503/203953/69f6a0eee9def7668048183d_3eac6ad0.png",
+          "name": "头像·“同行”",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "FQee2FQJKgFX",
+              "uMEh8AKdNzkY"
+            ],
+            "blockMap": {
+              "FQee2FQJKgFX": {
+                "id": "FQee2FQJKgFX",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "color": "light_text_primary",
+                      "kind": "text",
+                      "text": {
+                        "text": "用于在个人名片处更换头像，会在多种场合进行展示。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              },
+              "uMEh8AKdNzkY": {
+                "id": "uMEh8AKdNzkY",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "color": "light_text_tertiary",
+                      "kind": "text",
+                      "text": {
+                        "text": "跨越星海、时光与漫长的记忆，我们仍然同行。"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10000",
+              "value": "10006"
+            },
+            {
+              "subTypeId": "10404",
+              "value": "10406"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1778160391",
+        "lastAuditPassedAt": "1777776460",
+        "tagIds": [
+          "10006",
+          "10406"
+        ]
+      }
+    }
+  }
+}

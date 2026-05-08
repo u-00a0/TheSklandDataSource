@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1497</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778209853"},"item":{"name":"同袍·无名","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"2260070249320","nickname":"小丁淘气","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"},"status":2,"publishedAtTs":"1778140995","lastAuditPassedAt":"1778141596","tagIds":["10273","10363"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>同袍·无名</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260429/1840716/69f1b3ecb03297f4b588713b_6ad0f152.png</cover>
+        <subTypes>
+            <subType id="10270">10273</subType>
+            <subType id="10362">10363</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+    </description>
+    <chapters name="任务信息">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <table header="row" widths="290,290,290,290">
+                <tr>
+                    <th col="1">
+                        <align value="center"><b>所属章节</b></align>
+                    </th>
+                    <th col="2">
+                        <align value="center"><b>解锁条件</b></align>
+                    </th>
+                    <th col="3">
+                        <align value="center"><b>前置任务</b></align>
+                    </th>
+                    <th col="4">
+                        <align value="center"><b>后续任务</b></align>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center">同袍</align>
+                    </td>
+                    <td col="2">
+                        <align value="center">完成<entry type="link-img" count="0" id="1476"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center">/</align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="link-img" count="0" id="1498"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="任务内容">
+        <chapter size="small" name="任务详情">
+            <line kind="5"></line>
+            <h3><b>地点</b></h3>
+            <ul>
+                <li><color value="r_5">首墩</color></li>
+                <li><color value="r_5">武陵城</color></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>触发位置</b></h3>
+            <img>
+                <id>69f1b729954050aa5b19e445</id>
+                <format>webp</format>
+                <width>1581</width>
+                <height>1034</height>
+                <size>61482</size>
+                <url>https://bbs.hycdn.cn/image/common/20260429/1840716/69f1b729954050aa5b19e445_0095c241.webp</url>
+                <description>起始地点</description>
+            </img>
+            <img>
+                <id>69f1b73312a9f0f6029fe4e8</id>
+                <format>webp</format>
+                <width>1662</width>
+                <height>960</height>
+                <size>142556</size>
+                <url>https://bbs.hycdn.cn/image/common/20260429/1840716/69f1b73312a9f0f6029fe4e8_e71aef33.webp</url>
+                <description>结束地点</description>
+            </img>
+            <line kind="1"></line>
+            <h3><b>相关人物</b></h3>
+            <ul>
+                <li><b><color value="f_brown">佩丽卡</color></b></li>
+                <li><b><color value="f_brown">陈千语</color></b></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>任务道具</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>解锁内容</b></h3>
+            <quote>
+                <b>任务</b>
+            </quote>
+            <ul>
+                <li>
+                    <align value="center"><entry type="link-img" count="0" id="1498"></entry></align>
+                </li>
+            </ul>
+            <quote>
+                <b>功能</b>
+            </quote>
+            <ul>
+                <li><b>/</b></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="任务进程">
+            <line kind="5"></line>
+            <h2><b>进程</b></h2>
+            <b>弭弗拜托管理员前往城建馆一处地下空间。</b>
+            <ul>
+                <li><i>查看</i><b><i><color value="f_brown">弭弗</color></i></b><i>发来的</i><b><i><color value="f_brown">消息</color></i></b></li>
+                <li><i>前往</i><b><i><color value="f_brown">城建馆</color></i></b></li>
+                <li><i>前往</i><b><i><color value="f_brown">城建馆地下</color></i></b><i>，寻找弭弗</i></li>
+                <li><i>探查第一具遗体</i></li>
+                <li><i>探查第二具遗体</i></li>
+                <li><i>探查第三具遗体</i></li>
+                <li><i>将调查结果告知</i><b><i><color value="f_brown">弭弗</color></i></b></li>
+                <li><i>前往</i><b><i><color value="f_brown">城区医疗点</color></i></b><i>，继续调查</i></li>
+                <li><b><i><color value="f_brown">离开</color></i></b><i>城区医疗点</i></li>
+                <li><i>前往巡卫</i><b><i><color value="f_brown">贾班的执勤点</color></i></b></li>
+                <li><i>调查</i><b><i><color value="f_brown">附近区域</color></i></b><i>，寻找线索</i></li>
+                <li><i>击败</i><b><i><color value="f_brown">天使</color></i></b></li>
+                <li><i>深入</i><b><i><color value="f_brown">山洞</color></i></b><i>继续调查</i></li>
+                <li><i>击败</i><b><i><color value="f_brown">天使</color></i></b><i>（</i><entry type="link-img" count="1" id="902"></entry><entry type="link-img" count="2" id="862"></entry><i>）</i></li>
+                <li><i>调查</i><b><i><color value="f_brown">附近的痕迹</color></i></b></li>
+                <li><i>与</i><b><i><color value="f_brown">弭弗</color></i></b><i>会合，确认调查结果</i></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="任务奖励">
+            <line kind="5"></line>
+            <table header="none" widths="193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334,193.33333333333334">
+                <tr>
+                    <td col="1">
+                        <align value="center"><entry type="card-big" count="100" id="926"></entry></align>
+                    </td>
+                    <td col="2">
+                        <align value="center"><entry type="card-big" count="14000" id="19"></entry></align>
+                    </td>
+                    <td col="3">
+                        <align value="center"><entry type="card-big" count="1" id="210"></entry></align>
+                    </td>
+                    <td col="4">
+                        <align value="center"><entry type="card-big" count="3" id="222"></entry></align>
+                    </td>
+                    <td col="5">
+                        <align value="center"><entry type="card-big" count="2" id="224"></entry></align>
+                    </td>
+                    <td col="6">
+                        <align value="center"><entry type="card-big" count="400" id="14"></entry></align>
+                    </td>
+                </tr>
+            </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

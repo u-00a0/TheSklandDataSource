@@ -4,7 +4,7 @@
   },
   "name": "援助成果券",
   "icon": "https://bbs.hycdn.cn/image/common/20260430/203953/69f2a4a2b1f1df85ae6f47de_2f76db19.png",
-  "description": "获取方式:\n活动期间进行据点供货订单获取的额外报酬。\n于活动[集成援助·掌中救星]期间向武陵地区据点的提供限时物品，可以获得[武陵调度券][援助成果券]。 活动结束时，各类限时物品会被自动兑换为相应数量的[武陵调度券][援助成果券]并通过邮件的形式发放；如果获取调度券超出据点当前可兑换调度券数量，则直接转化为[援助成果券]。\n需求物品 | 单价\n[息壤葫芦] | [武陵调度券x40][援助成果券x10]\n息壤玉葫芦 | [武陵调度券x120][援助成果券x30]\n\n用途:\n活动期间可用于物资兑换处购买物品。\n活动[集成援助·掌中救星]期间，通过活动界面可以进入活动限定的物资兑换处，消耗援助成果券以购买物品。 活动结束时，物资兑换处仍会保持开放一段时间。 物资兑换处分为“一期兑换处”与“二期兑换处”，具体商品参见相应页签。\n商品 | [嵌晶玉x100] |  | [武器检查套组x1] |  | [协议棱柱组x1] |  | [协议圆盘组x1] | \n[援助成果券] | 6000 | 18000 | 600 | 3000 | 600 | 3000 | 700 | 3500\n库存 | 3 |  | 5 |  | 15 |  | 5 | \n商品 | [折金票x3000] |  | [高级认知载体x1] |  | [高阶培养自选箱Ⅰx1] |  |  | \n[援助成果券] | 800 | 4000 | 1500 | 7500 | 3000 | 15000 |  | \n库存 | 20 |  | 10 |  | 4 |  |  |\n商品 | [嵌晶玉x100] |  | [武器检查套组x1] |  | [协议棱柱组x1] |  | [协议圆盘组x1] | \n[援助成果券] | 6000 | 18000 | 600 | 3000 | 600 | 3000 | 700 | 3500\n库存 | 5 |  | 10 |  | 25 |  | 10 | \n商品 | [折金票x3000] |  | [高级认知载体x1] |  | [高阶培养自选箱Ⅰx1] |  | 头像·掌中巧物（1）[援助成果券x10000] | \n[援助成果券] | 800 | 4000 | 1500 | 7500 | 3000 | 15000 |  | \n库存 | 30 |  | 15 |  | 8 |  |  |",
+  "description": "获取方式:\n活动期间进行据点供货订单获取的额外报酬。\n活动[集成援助·掌中救星]期间向武陵地区据点的提供限时物品，可以获得[武陵调度券][援助成果券]。 活动[集成援助·掌中救星]期间，武陵地区各据点调度券储量积累速度大幅增加： 活动前半程，各据点调度券储量积累速度提高10%； 活动后半程，各据点调度券储量积累速度提高50%。 活动结束时，各类限时物品会被自动兑换为相应数量的[武陵调度券][援助成果券]并通过邮件的形式发放。 如果获取调度券超出据点当前可兑换调度券数量，则直接转化为[援助成果券]。\n需求物品 | 单价\n[息壤葫芦] | [武陵调度券x40][援助成果券x10]\n[息壤玉葫芦] | [武陵调度券x120][援助成果券x30]\n\n用途:\n活动期间可用于物资兑换处购买物品。\n活动[集成援助·掌中救星]期间，通过活动界面可以进入活动限定的物资兑换处，消耗援助成果券以购买物品。 活动结束时，物资兑换处仍会保持开放一段时间。 物资兑换处分为“一期兑换处”与“二期兑换处”，具体商品参见相应页签。\n商品 | [嵌晶玉x100] |  | [武器检查套组x1] |  | [协议棱柱组x1] |  | [协议圆盘组x1] | \n[援助成果券] | 6000 | 18000 | 600 | 3000 | 600 | 3000 | 700 | 3500\n库存 | 3 |  | 5 |  | 15 |  | 5 | \n商品 | [折金票x3000] |  | [高级认知载体x1] |  | [高阶培养自选箱Ⅰx1] |  |  | \n[援助成果券] | 800 | 4000 | 1500 | 7500 | 3000 | 15000 |  | \n库存 | 20 |  | 10 |  | 4 |  |  |\n商品 | [嵌晶玉x100] |  | [武器检查套组x1] |  | [协议棱柱组x1] |  | [协议圆盘组x1] | \n[援助成果券] | 6000 | 18000 | 600 | 3000 | 600 | 3000 | 700 | 3500\n库存 | 5 |  | 10 |  | 25 |  | 10 | \n商品 | [折金票x3000] |  | [高级认知载体x1] |  | [高阶培养自选箱Ⅰx1] |  | 头像·掌中巧物（1）[援助成果券x10000] | \n[援助成果券] | 800 | 4000 | 1500 | 7500 | 3000 | 15000 |  | \n库存 | 30 |  | 15 |  | 8 |  |  |",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778122707",
+    "timestamp": "1778209535",
     "data": {
       "item": {
         "itemId": "1366",
         "document": {
           "documentMap": {
-            "QGV6jnDS": {
+            "8W9S5s7D": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -46,13 +46,22 @@
                     "id": "2nHcjG",
                     "itemIds": [
                       "ZQeKqJ",
+                      "VYfkyXls5AQz",
                       "EBQcQlrPeSuW"
                     ],
                     "itemMap": {
                       "EBQcQlrPeSuW": {
                         "id": "EBQcQlrPeSuW",
                         "childIds": [
-                          "lFjTQHPmJc2B"
+                          "lFjTQHPmJc2B",
+                          "lac0xlcls5rf"
+                        ]
+                      },
+                      "VYfkyXls5AQz": {
+                        "id": "VYfkyXls5AQz",
+                        "childIds": [
+                          "gnVTOho1RElF",
+                          "x2iBMCUTHqCr"
                         ]
                       },
                       "ZQeKqJ": {
@@ -63,6 +72,39 @@
                       }
                     },
                     "kind": "unordered"
+                  }
+                },
+                "AbMf4ct9iTDR": {
+                  "id": "AbMf4ct9iTDR",
+                  "parentId": "W5GSUCA9ZlMx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "如果获取调度券超出据点当前可兑换调度券数量，则直接转化为"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1366",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "AqE6DsH079YE": {
@@ -146,10 +188,11 @@
                   "text": {
                     "inlineElements": [
                       {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "息壤玉葫芦"
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1528",
+                          "showType": "link-imgText",
+                          "count": "0"
                         }
                       }
                     ],
@@ -287,7 +330,55 @@
                     },
                     "description": "",
                     "rowHeader": true,
-                    "colHeader": true
+                    "colHeader": false
+                  }
+                },
+                "aAeGCs2Id9Cr": {
+                  "id": "aAeGCs2Id9Cr",
+                  "parentId": "q8W0HrCTZpW7",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "活动前半程，各据点"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "调度券储量"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "积累速度提高"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "10%"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "；"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "bQnTCN": {
@@ -304,6 +395,69 @@
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
+                  }
+                },
+                "gnVTOho1RElF": {
+                  "id": "gnVTOho1RElF",
+                  "parentId": "VYfkyXls5AQz",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "活动"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1492",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间，"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区各据点"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "调度券储量"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "积累速度大幅增加："
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "jnN3Rvy1Q6zT": {
@@ -372,22 +526,7 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "并通过邮件的形式发放；如果获取调度券超出据点当前可兑换调度券数量，则直接转化为"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1366",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
+                          "text": "并通过邮件的形式发放。"
                         }
                       }
                     ],
@@ -421,6 +560,26 @@
                     "kind": "body"
                   }
                 },
+                "lac0xlcls5rf": {
+                  "id": "lac0xlcls5rf",
+                  "parentId": "EBQcQlrPeSuW",
+                  "kind": "list",
+                  "list": {
+                    "id": "lac0xlcls5rf",
+                    "itemIds": [
+                      "W5GSUCA9ZlMx"
+                    ],
+                    "itemMap": {
+                      "W5GSUCA9ZlMx": {
+                        "id": "W5GSUCA9ZlMx",
+                        "childIds": [
+                          "AbMf4ct9iTDR"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
                 "t1Ax7P0hAydX": {
                   "id": "t1Ax7P0hAydX",
                   "parentId": "ZQeKqJ",
@@ -431,7 +590,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "于活动"
+                          "text": "活动"
                         }
                       },
                       {
@@ -502,12 +661,87 @@
                     ],
                     "kind": "body"
                   }
+                },
+                "tYAMZvgAm4ls": {
+                  "id": "tYAMZvgAm4ls",
+                  "parentId": "vj9x4EjKtznL",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "活动后半程，各据点"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "调度券储量"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "积累速度提高"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "50%"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "x2iBMCUTHqCr": {
+                  "id": "x2iBMCUTHqCr",
+                  "parentId": "VYfkyXls5AQz",
+                  "kind": "list",
+                  "list": {
+                    "id": "x2iBMCUTHqCr",
+                    "itemIds": [
+                      "q8W0HrCTZpW7",
+                      "vj9x4EjKtznL"
+                    ],
+                    "itemMap": {
+                      "q8W0HrCTZpW7": {
+                        "id": "q8W0HrCTZpW7",
+                        "childIds": [
+                          "aAeGCs2Id9Cr"
+                        ]
+                      },
+                      "vj9x4EjKtznL": {
+                        "id": "vj9x4EjKtznL",
+                        "childIds": [
+                          "tYAMZvgAm4ls"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "bAWiYrrb": {
+            "Gac905Cq": {
               "id": "document-id",
               "blockIds": [
                 "AKdBvKig9011"
@@ -1750,7 +1984,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "dnZa8bdN": {
+            "OyGANw2r": {
               "id": "document-id",
               "blockIds": [
                 "9CNWZeopc0ls"
@@ -2959,7 +3193,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "rud06HSQ": {
+            "aTUKSYLM": {
               "id": "document-id",
               "blockIds": [
                 "POJC5u",
@@ -3229,17 +3463,17 @@
               "tabDataMap": {
                 "tab_1777359552394": {
                   "intro": null,
-                  "content": "rud06HSQ",
+                  "content": "aTUKSYLM",
                   "audioList": []
                 },
                 "tab_1777359558694": {
                   "intro": null,
-                  "content": "dnZa8bdN",
+                  "content": "OyGANw2r",
                   "audioList": []
                 },
                 "tab_1777359559993": {
                   "intro": null,
-                  "content": "bAWiYrrb",
+                  "content": "Gac905Cq",
                   "audioList": []
                 }
               }
@@ -3251,7 +3485,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "QGV6jnDS",
+                  "content": "8W9S5s7D",
                   "audioList": []
                 }
               }
@@ -3548,7 +3782,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777757396",
-        "lastAuditPassedAt": "1778066472",
+        "lastAuditPassedAt": "1778160299",
         "tagIds": [
           "10005",
           "10259"
