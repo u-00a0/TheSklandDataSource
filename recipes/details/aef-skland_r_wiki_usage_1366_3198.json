@@ -1,0 +1,245 @@
+{
+  "id": "aef-skland:r/wiki_usage_1366/3198",
+  "type": "aef-skland:wiki/usage/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1366",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1492",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": "概述"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "POJC5u",
+        "m7VnlH",
+        "Jefg56",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "HC7DvNGMFPlU": {
+          "id": "HC7DvNGMFPlU",
+          "parentId": "CsiKvOZCGIDH",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "活动结束时，"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "物资兑换处"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "仍会保持开放一段时间。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Jefg56": {
+          "id": "Jefg56",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Jefg56",
+            "itemIds": [
+              "Jkmet8",
+              "CsiKvOZCGIDH",
+              "prVpvXG2fybV"
+            ],
+            "itemMap": {
+              "CsiKvOZCGIDH": {
+                "id": "CsiKvOZCGIDH",
+                "childIds": [
+                  "HC7DvNGMFPlU"
+                ]
+              },
+              "Jkmet8": {
+                "id": "Jkmet8",
+                "childIds": [
+                  "SuZnRZ"
+                ]
+              },
+              "prVpvXG2fybV": {
+                "id": "prVpvXG2fybV",
+                "childIds": [
+                  "kep6grt4Hpry"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "POJC5u": {
+          "id": "POJC5u",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "SuZnRZ": {
+          "id": "SuZnRZ",
+          "parentId": "Jkmet8",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "活动"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1492",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "期间，通过活动界面可以进入活动限定的"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "物资兑换处"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "，消耗援助成果券以购买物品。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "kep6grt4Hpry": {
+          "id": "kep6grt4Hpry",
+          "parentId": "prVpvXG2fybV",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "物资兑换处"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "分为“"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "一期兑换处"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "”与“"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "二期兑换处"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "”，具体商品参见相应页签。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "m7VnlH": {
+          "id": "m7VnlH",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "活动期间可用于物资兑换处购买物品。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

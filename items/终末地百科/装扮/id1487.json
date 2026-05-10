@@ -4,7 +4,7 @@
   },
   "name": "贴纸·爆炸",
   "icon": "https://bbs.hycdn.cn/image/common/20260422/3048259/69e86bf7b03297f4b5886012_db193eac.png",
-  "description": "获取方式:\n武陵环境监测终端-生态总录获取。",
+  "description": "获取方式:\n武陵环境监测终端-生态总录获取。\n解锁位于首墩-安思园的环境监测终端，收录来自首墩监测终端的12个拍摄委托后可于生态总录中领取。",
   "rarity": {
     "stars": 4,
     "label": "4星",
@@ -21,17 +21,18 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778295880",
+    "timestamp": "1778382165",
     "data": {
       "item": {
         "itemId": "1487",
         "document": {
           "documentMap": {
-            "NKQuOib0": {
+            "xFua5r0R": {
               "id": "document-id",
               "blockIds": [
                 "CrgaMtb9NL3Z",
                 "MYhF0PgT8MIC",
+                "O1bFBaS90BYg",
                 "XohgGfTxNfxh"
               ],
               "blockMap": {
@@ -56,6 +57,104 @@
                         "kind": "text",
                         "text": {
                           "text": "武陵环境监测终端-生态总录获取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "O1bFBaS90BYg": {
+                  "id": "O1bFBaS90BYg",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "O1bFBaS90BYg",
+                    "itemIds": [
+                      "EqoZNSQIKagd"
+                    ],
+                    "itemMap": {
+                      "EqoZNSQIKagd": {
+                        "id": "EqoZNSQIKagd",
+                        "childIds": [
+                          "S0xTzRKqK0Ng"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "S0xTzRKqK0Ng": {
+                  "id": "S0xTzRKqK0Ng",
+                  "parentId": "EqoZNSQIKagd",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "解锁位于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "首墩-安思园"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "环境监测终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，收录来自"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "首墩监测终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的12个拍摄委托后可于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "生态总录"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "中领取。"
                         }
                       }
                     ],
@@ -100,7 +199,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "NKQuOib0",
+                  "content": "xFua5r0R",
                   "audioList": []
                 }
               }
@@ -235,10 +334,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "9228422493033",
+          "nickname": "骷髅先生",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar_award/4c05c11e12994d409cec99541c949805.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -314,7 +413,7 @@
         },
         "status": 2,
         "publishedAtTs": "1777367080",
-        "lastAuditPassedAt": "1776839689",
+        "lastAuditPassedAt": "1778321036",
         "tagIds": [
           "10004",
           "10405"

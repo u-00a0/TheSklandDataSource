@@ -1,0 +1,148 @@
+{
+  "id": "aef-skland:r/wiki_source_1349/2356",
+  "type": "aef-skland:wiki/source/list_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_311",
+      "amount": 6
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_11",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1349",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取途径 / 相关来源",
+    "context": {
+      "groupTitle": "获取途径",
+      "widgetTitle": "相关来源",
+      "panelTitle": "获取方式"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "CrgaMtb9NL3Z",
+        "MYhF0PgT8MIC",
+        "KyPurbsSIQz9",
+        "XohgGfTxNfxh"
+      ],
+      "blockMap": {
+        "CrgaMtb9NL3Z": {
+          "id": "CrgaMtb9NL3Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "KyPurbsSIQz9": {
+          "id": "KyPurbsSIQz9",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "KyPurbsSIQz9",
+            "itemIds": [
+              "9zLq10BX9HxJ"
+            ],
+            "itemMap": {
+              "9zLq10BX9HxJ": {
+                "id": "9zLq10BX9HxJ",
+                "childIds": [
+                  "P8NKi9em9Id6"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "MYhF0PgT8MIC": {
+          "id": "MYhF0PgT8MIC",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "干员达到指定潜能时的馈赠。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "P8NKi9em9Id6": {
+          "id": "P8NKi9em9Id6",
+          "parentId": "9zLq10BX9HxJ",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "消耗"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "311",
+                  "showType": "link-imgText",
+                  "count": "6"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "提升干员 "
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "11",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "的潜能至满后获取。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "XohgGfTxNfxh": {
+          "id": "XohgGfTxNfxh",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "list_entry"
+  },
+  "detailLoaded": true
+}

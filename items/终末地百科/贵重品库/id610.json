@@ -4,7 +4,7 @@
   },
   "name": "天师桩模型",
   "icon": "https://bbs.hycdn.cn/image/2026/01/07/203953/547608d71089a6e3c3f1ed217f472fef.png",
-  "description": "获取方式:\n武陵-物资调度终端购买。物资调度终端达特定等级后解锁。\n\n用途:\n放置在帝江号中央环厅的行迹高塔中进行展示。",
+  "description": "获取方式:\n武陵-物资调度获取。 升级景玉谷-清波寨外寨处的物资调度终端至Lv.2后，可在地区建设-物资调度的稳定需求物资处花费[武陵调度券]700万购买 [天师桩模型x1]，存量1份。\n\n用途:\n放置在帝江号中央环厅的行迹高塔中进行展示。\n当 [天师桩模型]放置于行迹高塔中时，中央环厅内喜好[文化]与[公益]的干员会有特殊反应：\n文化 | [阿列什][陈千语][骏卫][洁尔佩塔][庄方宜]\n公益 | [秋栗][昼雪][大潘][陈千语][别礼][庄方宜]",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,31 +21,283 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778293721",
+    "timestamp": "1778380071",
     "data": {
       "item": {
         "itemId": "610",
         "document": {
           "documentMap": {
-            "KcWMg3Z8": {
+            "iUhzmpYb": {
               "id": "document-id",
               "blockIds": [
                 "Xs9L5Z",
-                "z21TZw",
+                "FVkn53",
+                "Hdoh7j2Sz6mt",
+                "N4Hpkv6cLrRT",
                 "pCnuhO"
               ],
               "blockMap": {
+                "0dGCJOb24149": {
+                  "id": "0dGCJOb24149",
+                  "parentId": "2uzDIQ_pauVoi",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "公益"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8JuwPIlUe86S": {
+                  "id": "8JuwPIlUe86S",
+                  "parentId": "GQECrq_pauVoi",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "文化"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "FVkn53": {
                   "id": "FVkn53",
-                  "parentId": "QpBInS",
+                  "parentId": "document-id",
                   "align": "left",
                   "kind": "text",
                   "text": {
                     "inlineElements": [
                       {
+                        "bold": true,
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "放置在帝江号中央环厅的"
+                          "text": "放置在帝江号中央环厅的行迹高塔中进行展示。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FksjV77PQuvZ": {
+                  "id": "FksjV77PQuvZ",
+                  "parentId": "2uzDIQ_XmMbBA",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "95",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "90",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "13",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "12",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "4",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1132",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Hdoh7j2Sz6mt": {
+                  "id": "Hdoh7j2Sz6mt",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Hdoh7j2Sz6mt",
+                    "itemIds": [
+                      "8XSpHTatUg69"
+                    ],
+                    "itemMap": {
+                      "8XSpHTatUg69": {
+                        "id": "8XSpHTatUg69",
+                        "childIds": [
+                          "bbxNuQl3L635"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "N4Hpkv6cLrRT": {
+                  "id": "N4Hpkv6cLrRT",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "N4Hpkv6cLrRT",
+                    "rowIds": [
+                      "GQECrq",
+                      "2uzDIQ"
+                    ],
+                    "columnIds": [
+                      "pauVoi",
+                      "XmMbBA"
+                    ],
+                    "rowMap": {
+                      "2uzDIQ": {
+                        "id": "2uzDIQ"
+                      },
+                      "GQECrq": {
+                        "id": "GQECrq"
+                      }
+                    },
+                    "columnMap": {
+                      "XmMbBA": {
+                        "id": "XmMbBA",
+                        "width": 1060
+                      },
+                      "pauVoi": {
+                        "id": "pauVoi",
+                        "width": 100
+                      }
+                    },
+                    "cellMap": {
+                      "2uzDIQ_XmMbBA": {
+                        "id": "2uzDIQ_XmMbBA",
+                        "childIds": [
+                          "FksjV77PQuvZ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "2uzDIQ_pauVoi": {
+                        "id": "2uzDIQ_pauVoi",
+                        "childIds": [
+                          "0dGCJOb24149"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "GQECrq_XmMbBA": {
+                        "id": "GQECrq_XmMbBA",
+                        "childIds": [
+                          "hr9lug3IxbGH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "GQECrq_pauVoi": {
+                        "id": "GQECrq_pauVoi",
+                        "childIds": [
+                          "8JuwPIlUe86S"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": true
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "bbxNuQl3L635": {
+                  "id": "bbxNuQl3L635",
+                  "parentId": "8XSpHTatUg69",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "当"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": " "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "610",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置于"
                         }
                       },
                       {
@@ -59,19 +311,88 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "中进行展示。"
+                          "text": "中时，中央环厅内喜好"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "[文化]"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "与"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "[公益]"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的干员会有特殊反应："
                         }
                       }
                     ],
                     "kind": "body"
                   }
                 },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
+                "hr9lug3IxbGH": {
+                  "id": "hr9lug3IxbGH",
+                  "parentId": "GQECrq_XmMbBA",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "87",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "12",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "131",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "159",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1132",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
                   }
                 },
                 "pCnuhO": {
@@ -81,32 +402,12 @@
                   "horizontalLine": {
                     "kind": "2"
                   }
-                },
-                "z21TZw": {
-                  "id": "z21TZw",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "z21TZw",
-                    "itemIds": [
-                      "QpBInS"
-                    ],
-                    "itemMap": {
-                      "QpBInS": {
-                        "id": "QpBInS",
-                        "childIds": [
-                          "FVkn53"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "UD75yD4M": {
+            "prgxw5xI": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -114,6 +415,119 @@
                 "cc9Nq6"
               ],
               "blockMap": {
+                "5u3KaVOoUDww": {
+                  "id": "5u3KaVOoUDww",
+                  "parentId": "4lS2QNoIxrFx",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "升级"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "景玉谷-清波寨外寨"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "处的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "物资调度终端"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "至"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "Lv.2"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "后，可在"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "地区建设-物资调度"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的稳定需求物资处花费"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "382",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "700万"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "购买 "
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "610",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "，存量1份。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
                 "Lhz8aQ": {
                   "id": "Lhz8aQ",
                   "parentId": "qTgt4w",
@@ -123,29 +537,10 @@
                     "inlineElements": [
                       {
                         "bold": true,
-                        "color": "light_rank_yellow",
+                        "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "武陵-物资调度终端"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "购买。"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "物资调度终端"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "达特定等级后解锁。"
+                          "text": "武陵-物资调度获取。"
                         }
                       }
                     ],
@@ -159,9 +554,16 @@
                   "list": {
                     "id": "YHZZwg",
                     "itemIds": [
-                      "qTgt4w"
+                      "qTgt4w",
+                      "4lS2QNoIxrFx"
                     ],
                     "itemMap": {
+                      "4lS2QNoIxrFx": {
+                        "id": "4lS2QNoIxrFx",
+                        "childIds": [
+                          "5u3KaVOoUDww"
+                        ]
+                      },
                       "qTgt4w": {
                         "id": "qTgt4w",
                         "childIds": [
@@ -228,7 +630,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "KcWMg3Z8",
+                  "content": "iUhzmpYb",
                   "audioList": []
                 }
               }
@@ -240,7 +642,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "UD75yD4M",
+                  "content": "prgxw5xI",
                   "audioList": []
                 }
               }
@@ -499,7 +901,7 @@
         },
         "status": 2,
         "publishedAtTs": "1766895609",
-        "lastAuditPassedAt": "1767760655",
+        "lastAuditPassedAt": "1778306401",
         "tagIds": [
           "10005",
           "10330",

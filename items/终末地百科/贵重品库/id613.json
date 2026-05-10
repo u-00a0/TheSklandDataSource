@@ -4,7 +4,7 @@
   },
   "name": "生机盆景",
   "icon": "https://bbs.hycdn.cn/image/2025/12/20/3048259/42f0dfea1a58508d8971226a8abb5e2f.png",
-  "description": "获取方式:\n四号谷地-物资调度获取。\n升级矿脉源区-矿区营地处的物资调度终端至Lv.4后，可在地区建设-物资调度的稳定需求物资处花费[谷地调度券]1600万购买[生机盆景x1]，存量1份。\n\n用途:\n放置在帝江号-中央环厅的行迹高塔中进行展示。",
+  "description": "获取方式:\n四号谷地-物资调度获取。\n升级矿脉源区-矿区营地处的物资调度终端至Lv.4后，可在地区建设-物资调度的稳定需求物资处花费[谷地调度券]1600万购买[生机盆景x1]，存量1份。\n\n用途:\n放置在帝江号-中央环厅的行迹高塔中进行展示。\n当[生机盆景]放置于行迹高塔中时，中央环厅内喜好[自然]的干员会有特殊反应：\n自然 | [萤石][弧光][狼卫][艾尔黛拉][黎风][汤汤][洛茜]",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,86 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778293729",
+    "timestamp": "1778380078",
     "data": {
       "item": {
         "itemId": "613",
         "document": {
           "documentMap": {
-            "ByvDwWVe": {
-              "id": "document-id",
-              "blockIds": [
-                "Xs9L5Z",
-                "FVkn53",
-                "pCnuhO"
-              ],
-              "blockMap": {
-                "FVkn53": {
-                  "id": "FVkn53",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "放置在"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "帝江号-中央环厅"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "的"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "color": "light_rank_yellow",
-                        "kind": "text",
-                        "text": {
-                          "text": "行迹高塔"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "中进行展示。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Xs9L5Z": {
-                  "id": "Xs9L5Z",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "pCnuhO": {
-                  "id": "pCnuhO",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "xoLdNkqS": {
+            "35FDxIed": {
               "id": "document-id",
               "blockIds": [
                 "bQnTCN",
@@ -280,6 +207,278 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "igZ0Dfy8": {
+              "id": "document-id",
+              "blockIds": [
+                "Xs9L5Z",
+                "FVkn53",
+                "Hdoh7j2Sz6mt",
+                "m2ZzmCabfCii",
+                "pCnuhO"
+              ],
+              "blockMap": {
+                "FVkn53": {
+                  "id": "FVkn53",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "放置在帝江号-中央环厅的行迹高塔中进行展示。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FhnbHuQf3QhI": {
+                  "id": "FhnbHuQf3QhI",
+                  "parentId": "gVFqjf_bBibre",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "92",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "57",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "3",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "11",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "130",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1130",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "8",
+                          "showType": "card-big",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Hdoh7j2Sz6mt": {
+                  "id": "Hdoh7j2Sz6mt",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Hdoh7j2Sz6mt",
+                    "itemIds": [
+                      "8XSpHTatUg69"
+                    ],
+                    "itemMap": {
+                      "8XSpHTatUg69": {
+                        "id": "8XSpHTatUg69",
+                        "childIds": [
+                          "bbxNuQl3L635"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "Ol7ojYjaIaU2": {
+                  "id": "Ol7ojYjaIaU2",
+                  "parentId": "gVFqjf_ZbEuMt",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "自然"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Xs9L5Z": {
+                  "id": "Xs9L5Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "bbxNuQl3L635": {
+                  "id": "bbxNuQl3L635",
+                  "parentId": "8XSpHTatUg69",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "当"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "613",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "放置于"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "行迹高塔"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "中时，中央环厅内喜好"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "[自然]"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "的干员会有特殊反应："
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "m2ZzmCabfCii": {
+                  "id": "m2ZzmCabfCii",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "m2ZzmCabfCii",
+                    "rowIds": [
+                      "gVFqjf"
+                    ],
+                    "columnIds": [
+                      "ZbEuMt",
+                      "bBibre"
+                    ],
+                    "rowMap": {
+                      "gVFqjf": {
+                        "id": "gVFqjf"
+                      }
+                    },
+                    "columnMap": {
+                      "ZbEuMt": {
+                        "id": "ZbEuMt",
+                        "width": 100
+                      },
+                      "bBibre": {
+                        "id": "bBibre",
+                        "width": 1060
+                      }
+                    },
+                    "cellMap": {
+                      "gVFqjf_ZbEuMt": {
+                        "id": "gVFqjf_ZbEuMt",
+                        "childIds": [
+                          "Ol7ojYjaIaU2"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "gVFqjf_bBibre": {
+                        "id": "gVFqjf_bBibre",
+                        "childIds": [
+                          "FhnbHuQf3QhI"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": true
+                  }
+                },
+                "pCnuhO": {
+                  "id": "pCnuhO",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -317,7 +516,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "ByvDwWVe",
+                  "content": "igZ0Dfy8",
                   "audioList": []
                 }
               }
@@ -329,7 +528,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "xoLdNkqS",
+                  "content": "35FDxIed",
                   "audioList": []
                 }
               }
@@ -588,7 +787,7 @@
         },
         "status": 2,
         "publishedAtTs": "1766895573",
-        "lastAuditPassedAt": "1769677330",
+        "lastAuditPassedAt": "1778306413",
         "tagIds": [
           "10005",
           "10330",

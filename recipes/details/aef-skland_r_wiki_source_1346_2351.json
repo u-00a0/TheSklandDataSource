@@ -1,0 +1,68 @@
+{
+  "id": "aef-skland:r/wiki_source_1346/2351",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1346",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取途径 / 相关来源",
+    "context": {
+      "groupTitle": "获取途径",
+      "widgetTitle": "相关来源",
+      "panelTitle": "图像展示"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "dD8xZ7eLPzqn",
+        "ZObN8U1Ev9mq",
+        "zFVpCfniyeYW"
+      ],
+      "blockMap": {
+        "ZObN8U1Ev9mq": {
+          "id": "ZObN8U1Ev9mq",
+          "parentId": "document-id",
+          "kind": "image",
+          "image": {
+            "id": "69f7fa6467cacb45f2cc0a18",
+            "url": "https://bbs.hycdn.cn/image/common/20260504/203953/69f7fa6467cacb45f2cc0a18_65de0095.webp",
+            "width": "1820",
+            "height": "1024",
+            "size": "231452",
+            "format": "webp",
+            "kind": "",
+            "description": "陪她走进无忆的长夜，陪她焚尽黑暗的梦魇，陪她点燃映照前路的火焰。",
+            "clientWidth": 1160,
+            "status": "",
+            "infos": []
+          }
+        },
+        "dD8xZ7eLPzqn": {
+          "id": "dD8xZ7eLPzqn",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "zFVpCfniyeYW": {
+          "id": "zFVpCfniyeYW",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "3"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}
