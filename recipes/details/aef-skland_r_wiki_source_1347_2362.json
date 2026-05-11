@@ -1,0 +1,68 @@
+{
+  "id": "aef-skland:r/wiki_source_1347/2362",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1347",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取途径 / 相关来源",
+    "context": {
+      "groupTitle": "获取途径",
+      "widgetTitle": "相关来源",
+      "panelTitle": "图像展示"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "i982BajRgyb0",
+        "SY4s4hS6MPS8",
+        "HK22NqjzgcNt"
+      ],
+      "blockMap": {
+        "HK22NqjzgcNt": {
+          "id": "HK22NqjzgcNt",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "3"
+          }
+        },
+        "SY4s4hS6MPS8": {
+          "id": "SY4s4hS6MPS8",
+          "parentId": "document-id",
+          "kind": "image",
+          "image": {
+            "id": "69fa945ae9def76680481ff3",
+            "url": "https://bbs.hycdn.cn/image/common/20260506/203953/69fa945ae9def76680481ff3_ef3391c4.webp",
+            "width": "1820",
+            "height": "1024",
+            "size": "134708",
+            "format": "webp",
+            "kind": "",
+            "description": "坚硬的血和炽热的钢在北地筑成堡垒。那里不是她的梦魇，那里仍是下一个终点。",
+            "clientWidth": 1160,
+            "status": "",
+            "infos": []
+          }
+        },
+        "i982BajRgyb0": {
+          "id": "i982BajRgyb0",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

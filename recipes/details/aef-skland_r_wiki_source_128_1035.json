@@ -12,6 +12,11 @@
       "id": "aef-skland.wiki.item_935",
       "amount": 1
     },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1377",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_128",
@@ -40,18 +45,17 @@
           "text": {
             "inlineElements": [
               {
+                "kind": "text",
+                "text": {
+                  "text": "武器补给开启-"
+                }
+              },
+              {
                 "kind": "entry",
                 "entry": {
                   "id": "256",
                   "showType": "link-imgText",
                   "count": "0"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "开启获取"
                 }
               }
             ],
@@ -84,6 +88,12 @@
           "text": {
             "inlineElements": [
               {
+                "kind": "text",
+                "text": {
+                  "text": "武库箱开启-"
+                }
+              },
+              {
                 "kind": "entry",
                 "entry": {
                   "id": "935",
@@ -92,10 +102,11 @@
                 }
               },
               {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "开启获取"
+                "kind": "entry",
+                "entry": {
+                  "id": "1377",
+                  "showType": "link-imgText",
+                  "count": "0"
                 }
               }
             ],

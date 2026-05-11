@@ -1,0 +1,183 @@
+{
+  "id": "aef-skland:r/wiki_usage_614/2955",
+  "type": "aef-skland:wiki/usage/list_text",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_614",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "FVkn53",
+        "SPbNfnLyD4ad",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "FVkn53": {
+          "id": "FVkn53",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "用于提交重要任务目标。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "SPbNfnLyD4ad": {
+          "id": "SPbNfnLyD4ad",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "SPbNfnLyD4ad",
+            "itemIds": [
+              "8wqymIASWh90"
+            ],
+            "itemMap": {
+              "8wqymIASWh90": {
+                "id": "8wqymIASWh90",
+                "childIds": [
+                  "y85RJeEnLvJc"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "y85RJeEnLvJc": {
+          "id": "y85RJeEnLvJc",
+          "parentId": "8wqymIASWh90",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "获取"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "影像・龙泡泡"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（1）、"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "影像・迁徙的羽兽"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（1）、"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "影像·天师考校挂幅"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "（1）后前往"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵城-材料研究所"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "与NPC "
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "韩方"
+                }
+              },
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": " 对话后向附近的终端提交上述物品以推进任务。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "list_text"
+  },
+  "detailLoaded": true
+}

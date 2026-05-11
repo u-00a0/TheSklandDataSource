@@ -1,0 +1,68 @@
+{
+  "id": "aef-skland:r/wiki_source_1481/2504",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1481",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取途径 / 相关来源",
+    "context": {
+      "groupTitle": "获取途径",
+      "widgetTitle": "相关来源",
+      "panelTitle": "图像展示"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "uZZuWOcIa0hJ",
+        "fp2AwfZsPjkS",
+        "jQH2S091PjVV"
+      ],
+      "blockMap": {
+        "fp2AwfZsPjkS": {
+          "id": "fp2AwfZsPjkS",
+          "parentId": "document-id",
+          "kind": "image",
+          "image": {
+            "id": "69f2bfe597bfaba8393cef6a",
+            "url": "https://bbs.hycdn.cn/image/common/20260430/203953/69f2bfe597bfaba8393cef6a_e71aef33.webp",
+            "width": "2048",
+            "height": "1152",
+            "size": "222762",
+            "format": "webp",
+            "kind": "",
+            "description": "画纸上记下了传说、故事，还有昨晚梦见的城堡与赶走灾厄的小狼。",
+            "clientWidth": 1160,
+            "status": "",
+            "infos": []
+          }
+        },
+        "jQH2S091PjVV": {
+          "id": "jQH2S091PjVV",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "uZZuWOcIa0hJ": {
+          "id": "uZZuWOcIa0hJ",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}

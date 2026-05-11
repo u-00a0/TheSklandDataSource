@@ -4,7 +4,7 @@
   },
   "name": "山樆小景",
   "icon": "https://bbs.hycdn.cn/image/common/20260417/3048259/69e22bc82f344b108650c73c_f1525633.png",
-  "description": "获取方式:\n主线任务报酬。\n\n用途:\n可放置的装饰物品。\n放置山樆小景需要长1格、宽1格的可用空地。",
+  "description": "获取方式:\n主线任务报酬。 完成[第二章 - 进程Ⅵ - 志同道合]即可领取。\n\n用途:\n可放置的装饰物品。\n放置山樆小景需要长1格、宽1格的可用空地。",
   "rarity": {
     "stars": 5,
     "label": "5星",
@@ -21,13 +21,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778382074",
+    "timestamp": "1778469234",
     "data": {
       "item": {
         "itemId": "1450",
         "document": {
           "documentMap": {
-            "8kTH5dYM": {
+            "1AO1sQQv": {
               "id": "document-id",
               "blockIds": [
                 "1WTlpz",
@@ -74,7 +74,127 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "QrAr9YRz": {
+            "l5IqCmTH": {
+              "id": "document-id",
+              "blockIds": [
+                "9VmF2q",
+                "7ONjqy",
+                "QOP1hV"
+              ],
+              "blockMap": {
+                "7ONjqy": {
+                  "id": "7ONjqy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "7ONjqy",
+                    "itemIds": [
+                      "zepTkr"
+                    ],
+                    "itemMap": {
+                      "zepTkr": {
+                        "id": "zepTkr",
+                        "childIds": [
+                          "sQElQP",
+                          "lyDjdWDm16PR"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "9VmF2q": {
+                  "id": "9VmF2q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "QOP1hV": {
+                  "id": "QOP1hV",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "lyDjdWDm16PR": {
+                  "id": "lyDjdWDm16PR",
+                  "parentId": "zepTkr",
+                  "kind": "list",
+                  "list": {
+                    "id": "lyDjdWDm16PR",
+                    "itemIds": [
+                      "S8dqvSrKwJ30"
+                    ],
+                    "itemMap": {
+                      "S8dqvSrKwJ30": {
+                        "id": "S8dqvSrKwJ30",
+                        "childIds": [
+                          "tVPldQLsTwn9"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "sQElQP": {
+                  "id": "sQElQP",
+                  "parentId": "zepTkr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "主线任务报酬。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "tVPldQLsTwn9": {
+                  "id": "tVPldQLsTwn9",
+                  "parentId": "S8dqvSrKwJ30",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "完成"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1476",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "即可领取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "zM3Hozcy": {
               "id": "document-id",
               "blockIds": [
                 "k7oiwY",
@@ -157,72 +277,6 @@
               },
               "authorMap": {},
               "version": "1.0.0"
-            },
-            "chJycBGJ": {
-              "id": "document-id",
-              "blockIds": [
-                "9VmF2q",
-                "7ONjqy",
-                "QOP1hV"
-              ],
-              "blockMap": {
-                "7ONjqy": {
-                  "id": "7ONjqy",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "7ONjqy",
-                    "itemIds": [
-                      "zepTkr"
-                    ],
-                    "itemMap": {
-                      "zepTkr": {
-                        "id": "zepTkr",
-                        "childIds": [
-                          "sQElQP"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "9VmF2q": {
-                  "id": "9VmF2q",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "QOP1hV": {
-                  "id": "QOP1hV",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "sQElQP": {
-                  "id": "sQElQP",
-                  "parentId": "zepTkr",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "主线任务报酬。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -265,7 +319,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "QrAr9YRz",
+                  "content": "zM3Hozcy",
                   "audioList": []
                 }
               }
@@ -277,7 +331,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "chJycBGJ",
+                  "content": "l5IqCmTH",
                   "audioList": []
                 }
               }
@@ -289,7 +343,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "8kTH5dYM",
+                  "content": "1AO1sQQv",
                   "audioList": []
                 }
               }
@@ -513,10 +567,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "1225401989759",
-          "nickname": "玉酱不吃鱼子酱",
+          "id": "1939869660098",
+          "nickname": "小狗殺魚",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/74f94fc7b2f93bdd26ddf4bfa3f57ea2.webp"
+          "avatar": "https://bbs.hycdn.cn/asset/avatar/f68eceae265e0f0f12cc62021cf82ec2.webp"
         },
         "createdUser": {
           "id": "1225401989759",
@@ -596,7 +650,7 @@
         },
         "status": 2,
         "publishedAtTs": "1776859910",
-        "lastAuditPassedAt": "1776430205",
+        "lastAuditPassedAt": "1778440835",
         "tagIds": [
           "10005",
           "10370",

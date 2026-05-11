@@ -1,0 +1,68 @@
+{
+  "id": "aef-skland:r/wiki_source_1350/2368",
+  "type": "aef-skland:wiki/source/text_only",
+  "slotContents": {
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1350",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "获取途径 / 相关来源",
+    "context": {
+      "groupTitle": "获取途径",
+      "widgetTitle": "相关来源",
+      "panelTitle": "图像展示"
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "C0yDsOTDCWEe",
+        "wi0iGwJRt3ox",
+        "bD2g94Fsk1lZ"
+      ],
+      "blockMap": {
+        "C0yDsOTDCWEe": {
+          "id": "C0yDsOTDCWEe",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "bD2g94Fsk1lZ": {
+          "id": "bD2g94Fsk1lZ",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "wi0iGwJRt3ox": {
+          "id": "wi0iGwJRt3ox",
+          "parentId": "document-id",
+          "kind": "image",
+          "image": {
+            "id": "69ec16a6cc40c6c8b96edc2e",
+            "url": "https://bbs.hycdn.cn/image/common/20260425/203953/69ec16a6cc40c6c8b96edc2e_e71aef33.webp",
+            "width": "1820",
+            "height": "1024",
+            "size": "301692",
+            "format": "webp",
+            "kind": "",
+            "description": "她还有许多问题等待解答，她还有许多困难需要克服。即便如此，她也一定会完成你给的每一项任务，让更多人找回笑容。",
+            "clientWidth": 1140.666748046875,
+            "status": "",
+            "infos": []
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "text_only"
+  },
+  "detailLoaded": true
+}
