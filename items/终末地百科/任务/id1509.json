@@ -1,0 +1,1999 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1509"
+  },
+  "name": "街角的商店·其二",
+  "icon": "https://bbs.hycdn.cn/image/common/20260509/1840716/69ff10c4e9def766804825c2_6ad0f152.png",
+  "tags": [
+    "main:终末地百科",
+    "sub:任务"
+  ],
+  "source": "终末地百科/任务/id1509.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1778555428",
+    "data": {
+      "item": {
+        "itemId": "1509",
+        "document": {
+          "documentMap": {
+            "Lk7RUi4D": {
+              "id": "document-id",
+              "blockIds": [
+                "KyeJ6q8pYKKb",
+                "junMLZlWpe9w",
+                "vbjAIBOoeKPZ"
+              ],
+              "blockMap": {
+                "AJzDOFZmzv5H": {
+                  "id": "AJzDOFZmzv5H",
+                  "parentId": "H00UCR_tNbbK2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1508",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "F4nDiD7S1yYT": {
+                  "id": "F4nDiD7S1yYT",
+                  "parentId": "Qpfo4d_jR2IYE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "后续任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GEc8JbqthmHo": {
+                  "id": "GEc8JbqthmHo",
+                  "parentId": "Qpfo4d_rpZ7vK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "所属章节"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "KyeJ6q8pYKKb": {
+                  "id": "KyeJ6q8pYKKb",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "bEsfwyCZ6yrn": {
+                  "id": "bEsfwyCZ6yrn",
+                  "parentId": "Qpfo4d_tNbbK2",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "前置任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "junMLZlWpe9w": {
+                  "id": "junMLZlWpe9w",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "junMLZlWpe9w",
+                    "rowIds": [
+                      "Qpfo4d",
+                      "H00UCR"
+                    ],
+                    "columnIds": [
+                      "rpZ7vK",
+                      "P5b55m",
+                      "tNbbK2",
+                      "jR2IYE"
+                    ],
+                    "rowMap": {
+                      "H00UCR": {
+                        "id": "H00UCR"
+                      },
+                      "Qpfo4d": {
+                        "id": "Qpfo4d"
+                      }
+                    },
+                    "columnMap": {
+                      "P5b55m": {
+                        "id": "P5b55m",
+                        "width": 305
+                      },
+                      "jR2IYE": {
+                        "id": "jR2IYE",
+                        "width": 290
+                      },
+                      "rpZ7vK": {
+                        "id": "rpZ7vK",
+                        "width": 290
+                      },
+                      "tNbbK2": {
+                        "id": "tNbbK2",
+                        "width": 275
+                      }
+                    },
+                    "cellMap": {
+                      "H00UCR_P5b55m": {
+                        "id": "H00UCR_P5b55m",
+                        "childIds": [
+                          "mNnM2aPJ8WYP"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "H00UCR_jR2IYE": {
+                        "id": "H00UCR_jR2IYE",
+                        "childIds": [
+                          "nkSWXz6kJq9y"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "H00UCR_rpZ7vK": {
+                        "id": "H00UCR_rpZ7vK",
+                        "childIds": [
+                          "mBjhy2hAlYXh"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "H00UCR_tNbbK2": {
+                        "id": "H00UCR_tNbbK2",
+                        "childIds": [
+                          "AJzDOFZmzv5H"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Qpfo4d_P5b55m": {
+                        "id": "Qpfo4d_P5b55m",
+                        "childIds": [
+                          "mvpIzYb2JVg4"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Qpfo4d_jR2IYE": {
+                        "id": "Qpfo4d_jR2IYE",
+                        "childIds": [
+                          "F4nDiD7S1yYT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Qpfo4d_rpZ7vK": {
+                        "id": "Qpfo4d_rpZ7vK",
+                        "childIds": [
+                          "GEc8JbqthmHo"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "Qpfo4d_tNbbK2": {
+                        "id": "Qpfo4d_tNbbK2",
+                        "childIds": [
+                          "bEsfwyCZ6yrn"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "mBjhy2hAlYXh": {
+                  "id": "mBjhy2hAlYXh",
+                  "parentId": "H00UCR_rpZ7vK",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mNnM2aPJ8WYP": {
+                  "id": "mNnM2aPJ8WYP",
+                  "parentId": "H00UCR_P5b55m",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1508",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "后"
+                        }
+                      },
+                      {
+                        "underline": true,
+                        "color": "light_function_red",
+                        "kind": "text",
+                        "text": {
+                          "text": "现实"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "第二日"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "mvpIzYb2JVg4": {
+                  "id": "mvpIzYb2JVg4",
+                  "parentId": "Qpfo4d_P5b55m",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "解锁条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nkSWXz6kJq9y": {
+                  "id": "nkSWXz6kJq9y",
+                  "parentId": "H00UCR_jR2IYE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1510",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "vbjAIBOoeKPZ": {
+                  "id": "vbjAIBOoeKPZ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "LqPTwP8x": {
+              "id": "document-id",
+              "blockIds": [
+                "qaOIbODGOF5Q",
+                "eTeujO3e7ipw",
+                "RNxvmn3TVIQi",
+                "h6SlmQ4NgSjA",
+                "JccG017hEgsI",
+                "xAJCuYTnnbRB",
+                "Y2jLUPAwQDoy",
+                "orR9Vc658jpK",
+                "OEHvXSt15zpr",
+                "BEQ0x1h3QNIG",
+                "e8k1Shc0l54z",
+                "6iri5bhsv5GG",
+                "zMH6bPr4cDqv",
+                "KayumJW0UhYH",
+                "oCetAObFEkJd",
+                "bJoxALWapfUB",
+                "FAc7jzjlFlk8",
+                "5byjMtLjFtuv",
+                "z3VZB7BrYj5S",
+                "Hx26avdlGzNc",
+                "o3pItkfU5JmE"
+              ],
+              "blockMap": {
+                "5byjMtLjFtuv": {
+                  "id": "5byjMtLjFtuv",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "5byjMtLjFtuv",
+                    "itemIds": [
+                      "3hUTPtI4VFci"
+                    ],
+                    "itemMap": {
+                      "3hUTPtI4VFci": {
+                        "id": "3hUTPtI4VFci",
+                        "childIds": [
+                          "XS9gQRkNGuyj"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "6dAOyEhxkBq9": {
+                  "id": "6dAOyEhxkBq9",
+                  "parentId": "KyAlBbHtH6zS",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "阿仔"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "6iri5bhsv5GG": {
+                  "id": "6iri5bhsv5GG",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
+                  }
+                },
+                "9E5mtrjqPz45": {
+                  "id": "9E5mtrjqPz45",
+                  "parentId": "BNoRP0bUJ5mH",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "BEQ0x1h3QNIG": {
+                  "id": "BEQ0x1h3QNIG",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "相关人物"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "DZPg7kJCpa2j": {
+                  "id": "DZPg7kJCpa2j",
+                  "parentId": "vNIdUZlJTqwI",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "田阿姨"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FAc7jzjlFlk8": {
+                  "id": "FAc7jzjlFlk8",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "yCdtkwHVF911"
+                    ]
+                  }
+                },
+                "Hx26avdlGzNc": {
+                  "id": "Hx26avdlGzNc",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "Hx26avdlGzNc",
+                    "itemIds": [
+                      "hns2w8oFTMVz"
+                    ],
+                    "itemMap": {
+                      "hns2w8oFTMVz": {
+                        "id": "hns2w8oFTMVz",
+                        "childIds": [
+                          "tZAdKNc0A6QB"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "I6qAJpqnGuyN": {
+                  "id": "I6qAJpqnGuyN",
+                  "parentId": "z3VZB7BrYj5S",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "功能"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JccG017hEgsI": {
+                  "id": "JccG017hEgsI",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "触发位置"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "KayumJW0UhYH": {
+                  "id": "KayumJW0UhYH",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "KayumJW0UhYH",
+                    "itemIds": [
+                      "BNoRP0bUJ5mH"
+                    ],
+                    "itemMap": {
+                      "BNoRP0bUJ5mH": {
+                        "id": "BNoRP0bUJ5mH",
+                        "childIds": [
+                          "9E5mtrjqPz45"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "OEHvXSt15zpr": {
+                  "id": "OEHvXSt15zpr",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
+                  }
+                },
+                "OgNMt1pihC4L": {
+                  "id": "OgNMt1pihC4L",
+                  "parentId": "6DuFJUX7GQN2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "陈千语"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RNxvmn3TVIQi": {
+                  "id": "RNxvmn3TVIQi",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "RNxvmn3TVIQi",
+                    "itemIds": [
+                      "1cAlZHjNQfgQ"
+                    ],
+                    "itemMap": {
+                      "1cAlZHjNQfgQ": {
+                        "id": "1cAlZHjNQfgQ",
+                        "childIds": [
+                          "YxV56yncbHXq"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "UGrpw6C89LGZ": {
+                  "id": "UGrpw6C89LGZ",
+                  "parentId": "DhOJZrva72iy",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "弭弗"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XS9gQRkNGuyj": {
+                  "id": "XS9gQRkNGuyj",
+                  "parentId": "3hUTPtI4VFci",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1510",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Y2jLUPAwQDoy": {
+                  "id": "Y2jLUPAwQDoy",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ff11d06336cd2ccf6a98f4",
+                    "url": "https://bbs.hycdn.cn/image/common/20260509/1840716/69ff11d06336cd2ccf6a98f4_004865de.webp",
+                    "width": "1527",
+                    "height": "991",
+                    "size": "132312",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "起始地点",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "YxV56yncbHXq": {
+                  "id": "YxV56yncbHXq",
+                  "parentId": "1cAlZHjNQfgQ",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_rank_yellow",
+                        "kind": "text",
+                        "text": {
+                          "text": "武陵城"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bJoxALWapfUB": {
+                  "id": "bJoxALWapfUB",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "解锁内容"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "bZXSk62O9LFm": {
+                  "id": "bZXSk62O9LFm",
+                  "parentId": "w5oD6ynUBKGH",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [],
+                    "kind": "body"
+                  }
+                },
+                "e8k1Shc0l54z": {
+                  "id": "e8k1Shc0l54z",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "e8k1Shc0l54z",
+                    "itemIds": [
+                      "FCa7MrDEFVog",
+                      "6DuFJUX7GQN2",
+                      "DhOJZrva72iy",
+                      "KyAlBbHtH6zS",
+                      "vNIdUZlJTqwI"
+                    ],
+                    "itemMap": {
+                      "6DuFJUX7GQN2": {
+                        "id": "6DuFJUX7GQN2",
+                        "childIds": [
+                          "OgNMt1pihC4L"
+                        ]
+                      },
+                      "DhOJZrva72iy": {
+                        "id": "DhOJZrva72iy",
+                        "childIds": [
+                          "UGrpw6C89LGZ"
+                        ]
+                      },
+                      "FCa7MrDEFVog": {
+                        "id": "FCa7MrDEFVog",
+                        "childIds": [
+                          "l2QesimRzqAc"
+                        ]
+                      },
+                      "KyAlBbHtH6zS": {
+                        "id": "KyAlBbHtH6zS",
+                        "childIds": [
+                          "6dAOyEhxkBq9"
+                        ]
+                      },
+                      "vNIdUZlJTqwI": {
+                        "id": "vNIdUZlJTqwI",
+                        "childIds": [
+                          "DZPg7kJCpa2j"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "eTeujO3e7ipw": {
+                  "id": "eTeujO3e7ipw",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "地点"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                },
+                "h6SlmQ4NgSjA": {
+                  "id": "h6SlmQ4NgSjA",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
+                  }
+                },
+                "l2QesimRzqAc": {
+                  "id": "l2QesimRzqAc",
+                  "parentId": "FCa7MrDEFVog",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "佩丽卡"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "o3pItkfU5JmE": {
+                  "id": "o3pItkfU5JmE",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "oCetAObFEkJd": {
+                  "id": "oCetAObFEkJd",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
+                  }
+                },
+                "orR9Vc658jpK": {
+                  "id": "orR9Vc658jpK",
+                  "parentId": "document-id",
+                  "kind": "image",
+                  "image": {
+                    "id": "69ff11da97bfaba8393d05e0",
+                    "url": "https://bbs.hycdn.cn/image/common/20260509/1840716/69ff11da97bfaba8393d05e0_ef3391c4.webp",
+                    "width": "1482",
+                    "height": "957",
+                    "size": "136040",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "结束地点",
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "qaOIbODGOF5Q": {
+                  "id": "qaOIbODGOF5Q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "tZAdKNc0A6QB": {
+                  "id": "tZAdKNc0A6QB",
+                  "parentId": "hns2w8oFTMVz",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "/"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "xAJCuYTnnbRB": {
+                  "id": "xAJCuYTnnbRB",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "xAJCuYTnnbRB",
+                    "itemIds": [
+                      "w5oD6ynUBKGH"
+                    ],
+                    "itemMap": {
+                      "w5oD6ynUBKGH": {
+                        "id": "w5oD6ynUBKGH",
+                        "childIds": [
+                          "bZXSk62O9LFm"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "yCdtkwHVF911": {
+                  "id": "yCdtkwHVF911",
+                  "parentId": "FAc7jzjlFlk8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "任务"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "z3VZB7BrYj5S": {
+                  "id": "z3VZB7BrYj5S",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "I6qAJpqnGuyN"
+                    ]
+                  }
+                },
+                "zMH6bPr4cDqv": {
+                  "id": "zMH6bPr4cDqv",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "任务道具"
+                        }
+                      }
+                    ],
+                    "kind": "heading3"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "VK5u1f7c": {
+              "id": "document-id",
+              "blockIds": [
+                "nCPda0jrlyy4",
+                "RGJPqBVIkFlX",
+                "roFSGbSJkCM0",
+                "uy9RHST5BQnZ",
+                "Yedl2rUBHv6Z",
+                "vTFNJuECRNN3",
+                "rFoaMnv2H4KO",
+                "Uv3pdGKI4vNp"
+              ],
+              "blockMap": {
+                "97qi5DfqVSfl": {
+                  "id": "97qi5DfqVSfl",
+                  "parentId": "h42AXFELVbBI",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "击败球刺兽和水灯虫（"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "914",
+                          "showType": "link-imgText",
+                          "count": "1"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "915",
+                          "showType": "link-imgText",
+                          "count": "2"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "EIB6Xaqw2x9S": {
+                  "id": "EIB6Xaqw2x9S",
+                  "parentId": "igeQLPRNKY3g",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "田阿姨"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "交谈"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "NWWuOE6NFS9I": {
+                  "id": "NWWuOE6NFS9I",
+                  "parentId": "x9E8Z0KqNaxi",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "调查田阿姨家的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "厨房"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RGJPqBVIkFlX": {
+                  "id": "RGJPqBVIkFlX",
+                  "parentId": "document-id",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "进程"
+                        }
+                      }
+                    ],
+                    "kind": "heading2"
+                  }
+                },
+                "Rc8cBQIw869p": {
+                  "id": "Rc8cBQIw869p",
+                  "parentId": "kiXuZaNNrhVq",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "调查田阿姨家的"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "杂物间"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Uv3pdGKI4vNp": {
+                  "id": "Uv3pdGKI4vNp",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "XxRlKL2Mex7P": {
+                  "id": "XxRlKL2Mex7P",
+                  "parentId": "PxMplOg5wyVa",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "查明"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "阿仔"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "的去向"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Yedl2rUBHv6Z": {
+                  "id": "Yedl2rUBHv6Z",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "1"
+                  }
+                },
+                "YsMNGFgUIwFZ": {
+                  "id": "YsMNGFgUIwFZ",
+                  "parentId": "aUVgTBXEMudF",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "与"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "弭弗"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "商议调查结果"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nCPda0jrlyy4": {
+                  "id": "nCPda0jrlyy4",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "oC1AMEWvMPbv": {
+                  "id": "oC1AMEWvMPbv",
+                  "parentId": "TpK2n8se5y3K",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "前往草菇采集地点，寻找"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "阿仔"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "rFoaMnv2H4KO": {
+                  "id": "rFoaMnv2H4KO",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "rFoaMnv2H4KO",
+                    "itemIds": [
+                      "igeQLPRNKY3g"
+                    ],
+                    "itemMap": {
+                      "igeQLPRNKY3g": {
+                        "id": "igeQLPRNKY3g",
+                        "childIds": [
+                          "EIB6Xaqw2x9S"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "roFSGbSJkCM0": {
+                  "id": "roFSGbSJkCM0",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "管理员一行得知田阿姨家遭到意外入侵，决定前往调查。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "tYJpvGny8VRM": {
+                  "id": "tYJpvGny8VRM",
+                  "parentId": "lwpufCtrVofv",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "查看"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "弭弗"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "发来的消息"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "uy9RHST5BQnZ": {
+                  "id": "uy9RHST5BQnZ",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "uy9RHST5BQnZ",
+                    "itemIds": [
+                      "lwpufCtrVofv",
+                      "pPgB2BywnEAc",
+                      "x9E8Z0KqNaxi",
+                      "kiXuZaNNrhVq",
+                      "aUVgTBXEMudF",
+                      "MOQZmqvYu2s5",
+                      "PxMplOg5wyVa",
+                      "TpK2n8se5y3K",
+                      "h42AXFELVbBI"
+                    ],
+                    "itemMap": {
+                      "MOQZmqvYu2s5": {
+                        "id": "MOQZmqvYu2s5",
+                        "childIds": [
+                          "x8qVsGbklxWV"
+                        ]
+                      },
+                      "PxMplOg5wyVa": {
+                        "id": "PxMplOg5wyVa",
+                        "childIds": [
+                          "XxRlKL2Mex7P"
+                        ]
+                      },
+                      "TpK2n8se5y3K": {
+                        "id": "TpK2n8se5y3K",
+                        "childIds": [
+                          "oC1AMEWvMPbv"
+                        ]
+                      },
+                      "aUVgTBXEMudF": {
+                        "id": "aUVgTBXEMudF",
+                        "childIds": [
+                          "YsMNGFgUIwFZ"
+                        ]
+                      },
+                      "h42AXFELVbBI": {
+                        "id": "h42AXFELVbBI",
+                        "childIds": [
+                          "97qi5DfqVSfl"
+                        ]
+                      },
+                      "kiXuZaNNrhVq": {
+                        "id": "kiXuZaNNrhVq",
+                        "childIds": [
+                          "Rc8cBQIw869p"
+                        ]
+                      },
+                      "lwpufCtrVofv": {
+                        "id": "lwpufCtrVofv",
+                        "childIds": [
+                          "tYJpvGny8VRM"
+                        ]
+                      },
+                      "pPgB2BywnEAc": {
+                        "id": "pPgB2BywnEAc",
+                        "childIds": [
+                          "xJOmfBubH2vp"
+                        ]
+                      },
+                      "x9E8Z0KqNaxi": {
+                        "id": "x9E8Z0KqNaxi",
+                        "childIds": [
+                          "NWWuOE6NFS9I"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "vTFNJuECRNN3": {
+                  "id": "vTFNJuECRNN3",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "从阿仔处了解缘由后，管理员一行决定返回田阿姨家，再次询问情况。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "x8qVsGbklxWV": {
+                  "id": "x8qVsGbklxWV",
+                  "parentId": "MOQZmqvYu2s5",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "寻找"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "阿仔"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "xJOmfBubH2vp": {
+                  "id": "xJOmfBubH2vp",
+                  "parentId": "pPgB2BywnEAc",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "前往"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_function_brown",
+                        "kind": "text",
+                        "text": {
+                          "text": "田阿姨家"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "查看情况"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "a3spaBg2": {
+              "id": "document-id",
+              "blockIds": [
+                "9f3LPQlDgzxB",
+                "sU0fXKA5kBTD",
+                "MUPusacDEHGb"
+              ],
+              "blockMap": {
+                "7oxfhrLqUKoY": {
+                  "id": "7oxfhrLqUKoY",
+                  "parentId": "X8mz3X_gjnoUG",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "926",
+                          "showType": "card-big",
+                          "count": "75"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9f3LPQlDgzxB": {
+                  "id": "9f3LPQlDgzxB",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "IoE1Cr1dK4iu": {
+                  "id": "IoE1Cr1dK4iu",
+                  "parentId": "X8mz3X_a1BRQg",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "222",
+                          "showType": "card-big",
+                          "count": "3"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MUPusacDEHGb": {
+                  "id": "MUPusacDEHGb",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "PXJroDEQQmqY": {
+                  "id": "PXJroDEQQmqY",
+                  "parentId": "X8mz3X_ervcAQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "14",
+                          "showType": "card-big",
+                          "count": "300"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZAY4ngrZUDp3": {
+                  "id": "ZAY4ngrZUDp3",
+                  "parentId": "X8mz3X_tUmRP6",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "19",
+                          "showType": "card-big",
+                          "count": "6000"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "lKm7rAAjYgXu": {
+                  "id": "lKm7rAAjYgXu",
+                  "parentId": "X8mz3X_63EkqE",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "210",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "rhpPpfIhTBk8": {
+                  "id": "rhpPpfIhTBk8",
+                  "parentId": "X8mz3X_gdezfm",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "224",
+                          "showType": "card-big",
+                          "count": "2"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "sU0fXKA5kBTD": {
+                  "id": "sU0fXKA5kBTD",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "sU0fXKA5kBTD",
+                    "rowIds": [
+                      "X8mz3X"
+                    ],
+                    "columnIds": [
+                      "gjnoUG",
+                      "tUmRP6",
+                      "63EkqE",
+                      "a1BRQg",
+                      "gdezfm",
+                      "ervcAQ"
+                    ],
+                    "rowMap": {
+                      "X8mz3X": {
+                        "id": "X8mz3X"
+                      }
+                    },
+                    "columnMap": {
+                      "63EkqE": {
+                        "id": "63EkqE",
+                        "width": 193.33333333333334
+                      },
+                      "a1BRQg": {
+                        "id": "a1BRQg",
+                        "width": 193.33333333333334
+                      },
+                      "ervcAQ": {
+                        "id": "ervcAQ",
+                        "width": 193.33333333333334
+                      },
+                      "gdezfm": {
+                        "id": "gdezfm",
+                        "width": 193.33333333333334
+                      },
+                      "gjnoUG": {
+                        "id": "gjnoUG",
+                        "width": 193.33333333333334
+                      },
+                      "tUmRP6": {
+                        "id": "tUmRP6",
+                        "width": 193.33333333333334
+                      }
+                    },
+                    "cellMap": {
+                      "X8mz3X_63EkqE": {
+                        "id": "X8mz3X_63EkqE",
+                        "childIds": [
+                          "lKm7rAAjYgXu"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "X8mz3X_a1BRQg": {
+                        "id": "X8mz3X_a1BRQg",
+                        "childIds": [
+                          "IoE1Cr1dK4iu"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "X8mz3X_ervcAQ": {
+                        "id": "X8mz3X_ervcAQ",
+                        "childIds": [
+                          "PXJroDEQQmqY"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "X8mz3X_gdezfm": {
+                        "id": "X8mz3X_gdezfm",
+                        "childIds": [
+                          "rhpPpfIhTBk8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "X8mz3X_gjnoUG": {
+                        "id": "X8mz3X_gjnoUG",
+                        "childIds": [
+                          "7oxfhrLqUKoY"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "X8mz3X_tUmRP6": {
+                        "id": "X8mz3X_tUmRP6",
+                        "childIds": [
+                          "ZAY4ngrZUDp3"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": false,
+                    "colHeader": false
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "任务信息",
+              "widgets": [
+                {
+                  "id": "DFhs0tQZ",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "任务内容",
+              "widgets": [
+                {
+                  "id": "vnkH7O5n",
+                  "title": "任务详情",
+                  "size": "small"
+                },
+                {
+                  "id": "LCiTvrXD",
+                  "title": "任务进程",
+                  "size": "middle"
+                },
+                {
+                  "id": "8b2DlKkX",
+                  "title": "任务奖励",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "8b2DlKkX": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "a3spaBg2",
+                  "audioList": []
+                }
+              }
+            },
+            "DFhs0tQZ": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "Lk7RUi4D",
+                  "audioList": []
+                }
+              }
+            },
+            "LCiTvrXD": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "VK5u1f7c",
+                  "audioList": []
+                }
+              }
+            },
+            "vnkH7O5n": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "LqPTwP8x",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "街角的商店·其二",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "8",
+          "name": "任务",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 11,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10270",
+              "children": [
+                {
+                  "id": "10272",
+                  "children": [],
+                  "name": "主线任务",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10274",
+                  "children": [],
+                  "name": "探索任务",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10273",
+                  "children": [],
+                  "name": "支线任务",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10275",
+                  "children": [],
+                  "name": "活动任务",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10271",
+                  "children": [],
+                  "name": "委托任务",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "任务类型",
+              "type": 1,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10362",
+              "children": [
+                {
+                  "id": "10365",
+                  "children": [],
+                  "name": "紧要",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10363",
+                  "children": [],
+                  "name": "重要",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10364",
+                  "children": [],
+                  "name": "次要",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "重要程度",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
+        },
+        "createdUser": {
+          "id": "2260070249320",
+          "nickname": "小丁淘气",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2024/07/23/9c42d7e3930900532c7a7338de289d1f.png"
+        },
+        "brief": {
+          "cover": "https://bbs.hycdn.cn/image/common/20260509/1840716/69ff10c4e9def766804825c2_6ad0f152.png",
+          "name": "街角的商店·其二",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "tNfAJ9CsY031"
+            ],
+            "blockMap": {
+              "tNfAJ9CsY031": {
+                "id": "tNfAJ9CsY031",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10270",
+              "value": "10273"
+            },
+            {
+              "subTypeId": "10362",
+              "value": "10363"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1778502623",
+        "lastAuditPassedAt": "1778503090",
+        "tagIds": [
+          "10273",
+          "10363"
+        ]
+      }
+    }
+  }
+}

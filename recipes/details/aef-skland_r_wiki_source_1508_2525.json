@@ -1,0 +1,321 @@
+{
+  "id": "aef-skland:r/wiki_source_1508/2525",
+  "type": "aef-skland:wiki/source/table_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 100
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_19",
+      "amount": 14000
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_210",
+      "amount": 1
+    },
+    "in4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_222",
+      "amount": 3
+    },
+    "in5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_224",
+      "amount": 2
+    },
+    "in6": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_14",
+      "amount": 400
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1508",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "任务内容 / 任务奖励",
+    "context": {
+      "groupTitle": "任务内容",
+      "widgetTitle": "任务奖励",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "9f3LPQlDgzxB",
+        "8yXhTZTo91Oz",
+        "MUPusacDEHGb"
+      ],
+      "blockMap": {
+        "8yXhTZTo91Oz": {
+          "id": "8yXhTZTo91Oz",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "8yXhTZTo91Oz",
+            "rowIds": [
+              "tWNlV9"
+            ],
+            "columnIds": [
+              "THnZPa",
+              "YFh5Ma",
+              "5GOeMQ",
+              "APlOzC",
+              "asNyB5",
+              "RjGAo6"
+            ],
+            "rowMap": {
+              "tWNlV9": {
+                "id": "tWNlV9"
+              }
+            },
+            "columnMap": {
+              "5GOeMQ": {
+                "id": "5GOeMQ",
+                "width": 193.33333333333334
+              },
+              "APlOzC": {
+                "id": "APlOzC",
+                "width": 193.33333333333334
+              },
+              "RjGAo6": {
+                "id": "RjGAo6",
+                "width": 193.33333333333334
+              },
+              "THnZPa": {
+                "id": "THnZPa",
+                "width": 193.33333333333334
+              },
+              "YFh5Ma": {
+                "id": "YFh5Ma",
+                "width": 193.33333333333334
+              },
+              "asNyB5": {
+                "id": "asNyB5",
+                "width": 193.33333333333334
+              }
+            },
+            "cellMap": {
+              "tWNlV9_5GOeMQ": {
+                "id": "tWNlV9_5GOeMQ",
+                "childIds": [
+                  "L8V2xnEZ1gsq"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "tWNlV9_APlOzC": {
+                "id": "tWNlV9_APlOzC",
+                "childIds": [
+                  "ad80LRhAovUe"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "tWNlV9_RjGAo6": {
+                "id": "tWNlV9_RjGAo6",
+                "childIds": [
+                  "ihizhzalallX"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "tWNlV9_THnZPa": {
+                "id": "tWNlV9_THnZPa",
+                "childIds": [
+                  "tr7sVoyWCgC5"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "tWNlV9_YFh5Ma": {
+                "id": "tWNlV9_YFh5Ma",
+                "childIds": [
+                  "VkKE1ZYMAUAt"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "tWNlV9_asNyB5": {
+                "id": "tWNlV9_asNyB5",
+                "childIds": [
+                  "ML88O9ngYPx8"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": false,
+            "colHeader": false
+          }
+        },
+        "9f3LPQlDgzxB": {
+          "id": "9f3LPQlDgzxB",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "L8V2xnEZ1gsq": {
+          "id": "L8V2xnEZ1gsq",
+          "parentId": "tWNlV9_5GOeMQ",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "210",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ML88O9ngYPx8": {
+          "id": "ML88O9ngYPx8",
+          "parentId": "tWNlV9_asNyB5",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "224",
+                  "showType": "card-big",
+                  "count": "2"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "MUPusacDEHGb": {
+          "id": "MUPusacDEHGb",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "VkKE1ZYMAUAt": {
+          "id": "VkKE1ZYMAUAt",
+          "parentId": "tWNlV9_YFh5Ma",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "19",
+                  "showType": "card-big",
+                  "count": "14000"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ad80LRhAovUe": {
+          "id": "ad80LRhAovUe",
+          "parentId": "tWNlV9_APlOzC",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "222",
+                  "showType": "card-big",
+                  "count": "3"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ihizhzalallX": {
+          "id": "ihizhzalallX",
+          "parentId": "tWNlV9_RjGAo6",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "14",
+                  "showType": "card-big",
+                  "count": "400"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "tr7sVoyWCgC5": {
+          "id": "tr7sVoyWCgC5",
+          "parentId": "tWNlV9_THnZPa",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "100"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "table_entry"
+  },
+  "detailLoaded": true
+}

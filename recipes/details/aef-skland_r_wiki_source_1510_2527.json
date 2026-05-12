@@ -1,0 +1,321 @@
+{
+  "id": "aef-skland:r/wiki_source_1510/2527",
+  "type": "aef-skland:wiki/source/table_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 60
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_19",
+      "amount": 6000
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_210",
+      "amount": 1
+    },
+    "in4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_222",
+      "amount": 2
+    },
+    "in5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_224",
+      "amount": 1
+    },
+    "in6": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_14",
+      "amount": 240
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1510",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "source",
+    "title": "任务内容 / 任务奖励",
+    "context": {
+      "groupTitle": "任务内容",
+      "widgetTitle": "任务奖励",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "9f3LPQlDgzxB",
+        "vRhhpxfS1sxq",
+        "MUPusacDEHGb"
+      ],
+      "blockMap": {
+        "9f3LPQlDgzxB": {
+          "id": "9f3LPQlDgzxB",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "HqPK2lVebgvU": {
+          "id": "HqPK2lVebgvU",
+          "parentId": "MZyLBg_AGjqv5",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "222",
+                  "showType": "card-big",
+                  "count": "2"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "MUPusacDEHGb": {
+          "id": "MUPusacDEHGb",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "ONMyrhgjlfQj": {
+          "id": "ONMyrhgjlfQj",
+          "parentId": "MZyLBg_iz2P1l",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "19",
+                  "showType": "card-big",
+                  "count": "6000"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "ZYhK8YfD1718": {
+          "id": "ZYhK8YfD1718",
+          "parentId": "MZyLBg_MJdaZ1",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "14",
+                  "showType": "card-big",
+                  "count": "240"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "aUygornnQ4Pp": {
+          "id": "aUygornnQ4Pp",
+          "parentId": "MZyLBg_XknLI9",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "224",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "gxFsR3KXJSxw": {
+          "id": "gxFsR3KXJSxw",
+          "parentId": "MZyLBg_AZxzlm",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "60"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "u81LCFOuT9jE": {
+          "id": "u81LCFOuT9jE",
+          "parentId": "MZyLBg_jeQ66F",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "210",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "vRhhpxfS1sxq": {
+          "id": "vRhhpxfS1sxq",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "vRhhpxfS1sxq",
+            "rowIds": [
+              "MZyLBg"
+            ],
+            "columnIds": [
+              "AZxzlm",
+              "iz2P1l",
+              "jeQ66F",
+              "AGjqv5",
+              "XknLI9",
+              "MJdaZ1"
+            ],
+            "rowMap": {
+              "MZyLBg": {
+                "id": "MZyLBg"
+              }
+            },
+            "columnMap": {
+              "AGjqv5": {
+                "id": "AGjqv5",
+                "width": 193.33333333333334
+              },
+              "AZxzlm": {
+                "id": "AZxzlm",
+                "width": 193.33333333333334
+              },
+              "MJdaZ1": {
+                "id": "MJdaZ1",
+                "width": 193.33333333333334
+              },
+              "XknLI9": {
+                "id": "XknLI9",
+                "width": 193.33333333333334
+              },
+              "iz2P1l": {
+                "id": "iz2P1l",
+                "width": 193.33333333333334
+              },
+              "jeQ66F": {
+                "id": "jeQ66F",
+                "width": 193.33333333333334
+              }
+            },
+            "cellMap": {
+              "MZyLBg_AGjqv5": {
+                "id": "MZyLBg_AGjqv5",
+                "childIds": [
+                  "HqPK2lVebgvU"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "MZyLBg_AZxzlm": {
+                "id": "MZyLBg_AZxzlm",
+                "childIds": [
+                  "gxFsR3KXJSxw"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "MZyLBg_MJdaZ1": {
+                "id": "MZyLBg_MJdaZ1",
+                "childIds": [
+                  "ZYhK8YfD1718"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "MZyLBg_XknLI9": {
+                "id": "MZyLBg_XknLI9",
+                "childIds": [
+                  "aUygornnQ4Pp"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "MZyLBg_iz2P1l": {
+                "id": "MZyLBg_iz2P1l",
+                "childIds": [
+                  "ONMyrhgjlfQj"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "MZyLBg_jeQ66F": {
+                "id": "MZyLBg_jeQ66F",
+                "childIds": [
+                  "u81LCFOuT9jE"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": false,
+            "colHeader": false
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "sourcePattern": "table_entry"
+  },
+  "detailLoaded": true
+}

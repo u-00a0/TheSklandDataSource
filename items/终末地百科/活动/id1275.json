@@ -13,13 +13,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778468821",
+    "timestamp": "1778554893",
     "data": {
       "item": {
         "itemId": "1275",
         "document": {
           "documentMap": {
-            "1Cf8Kprn": {
+            "CCm7Irvw": {
               "id": "document-id",
               "blockIds": [
                 "l0uG3RV83P5i",
@@ -1138,1613 +1138,7 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "9QBH89Bf": {
-              "id": "document-id",
-              "blockIds": [
-                "gAd6KM",
-                "EitiKm",
-                "ZAF0Ne"
-              ],
-              "blockMap": {
-                "EitiKm": {
-                  "id": "EitiKm",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "EitiKm",
-                    "itemIds": [
-                      "x3G7JC",
-                      "rvg17mFZ4Rd0",
-                      "orUk04QqhWC5"
-                    ],
-                    "itemMap": {
-                      "orUk04QqhWC5": {
-                        "id": "orUk04QqhWC5",
-                        "childIds": [
-                          "O7urgnxl7w6G"
-                        ]
-                      },
-                      "rvg17mFZ4Rd0": {
-                        "id": "rvg17mFZ4Rd0",
-                        "childIds": [
-                          "Z2O1HpXzueYO"
-                        ]
-                      },
-                      "x3G7JC": {
-                        "id": "x3G7JC",
-                        "childIds": [
-                          "f84KvMXyoldq"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "O7urgnxl7w6G": {
-                  "id": "O7urgnxl7w6G",
-                  "parentId": "orUk04QqhWC5",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "通关当前系列普通模式的全部关卡后，即可获得该系列蚀刻章；通关该系列苦难模式的全部关卡，即可对该系列蚀刻章进行镀层。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Z2O1HpXzueYO": {
-                  "id": "Z2O1HpXzueYO",
-                  "parentId": "rvg17mFZ4Rd0",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "关卡包含普通模式及苦难模式，通关普通模式将解锁苦难模式。苦难模式下，关卡难度会有明显提高。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "ZAF0Ne": {
-                  "id": "ZAF0Ne",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "f84KvMXyoldq": {
-                  "id": "f84KvMXyoldq",
-                  "parentId": "x3G7JC",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "本次「影拓丰碑」挑战玩法更新系列「灼痛疤痕」，包含3个关卡。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "gAd6KM": {
-                  "id": "gAd6KM",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "GyeQrJkh": {
-              "id": "document-id",
-              "blockIds": [
-                "JfT66WxqN5Ke",
-                "916X2dDzlgVm",
-                "AUVumDyiKtFm",
-                "KbB0dDtonZn4",
-                "IpJugYXzDJif",
-                "U3y3tjGXFgIM",
-                "RNjCiJ7bzZi2",
-                "wtwbYkEFAepJ",
-                "Dp5Ss8l0DRft",
-                "asy85vMfPsst",
-                "QW4kZU5uU04S"
-              ],
-              "blockMap": {
-                "04g7Nq3rQSlA": {
-                  "id": "04g7Nq3rQSlA",
-                  "parentId": "QtaMAf_6VOE09",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "19",
-                          "showType": "card-big",
-                          "count": "24000"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "3BHmRUFVZlOl": {
-                  "id": "3BHmRUFVZlOl",
-                  "parentId": "RNjCiJ7bzZi2",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "普通模式"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "8CThLFu8pVq1": {
-                  "id": "8CThLFu8pVq1",
-                  "parentId": "QtaMAf_wG86CQ",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "224",
-                          "showType": "card-big",
-                          "count": "5"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "8GREEQZIZhiA": {
-                  "id": "8GREEQZIZhiA",
-                  "parentId": "yYnZXP_seu8sH",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "呼吼炽焰·苦难"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "8aWAJooOnesO": {
-                  "id": "8aWAJooOnesO",
-                  "parentId": "ASpgab_seu8sH",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通关苦难模式“"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "灼痛疤痕"
-                        }
-                      },
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”的所有关卡额外为其"
-                        }
-                      },
-                      {
-                        "bold": true,
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "镀层"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "916X2dDzlgVm": {
-                  "id": "916X2dDzlgVm",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "我们憎恨天空，憎恨天空中莫测的雷鸣，憎恨不知何时便会降下的大火。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "AUVumDyiKtFm": {
-                  "id": "AUVumDyiKtFm",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "3"
-                  }
-                },
-                "B95A6u1FFhGY": {
-                  "id": "B95A6u1FFhGY",
-                  "parentId": "ASpgab_seu8sH",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "通关普通模式“"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "灼痛疤痕"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”的所有关卡，可获得蚀刻章“"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "灼痛疤痕"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "”"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "BuxxXdZQlSUO": {
-                  "id": "BuxxXdZQlSUO",
-                  "parentId": "yYnZXP_ggERds",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "222",
-                          "showType": "card-big",
-                          "count": "8"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "D04ZZ3JUCdIF": {
-                  "id": "D04ZZ3JUCdIF",
-                  "parentId": "QtaMAf_ggERds",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "222",
-                          "showType": "card-big",
-                          "count": "8"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "Dp5Ss8l0DRft": {
-                  "id": "Dp5Ss8l0DRft",
-                  "parentId": "document-id",
-                  "kind": "quote",
-                  "quote": {
-                    "childIds": [
-                      "IyCHyCESeQU2"
-                    ]
-                  }
-                },
-                "EZIbqPCFEJBj": {
-                  "id": "EZIbqPCFEJBj",
-                  "parentId": "PfP7F6_seu8sH",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "关卡"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "FGf1qsoDUEP0": {
-                  "id": "FGf1qsoDUEP0",
-                  "parentId": "0jR7kKinZh0r",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "敌人所有属性抗性被调整至相同。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "GEFF3XWTG2WZ": {
-                  "id": "GEFF3XWTG2WZ",
-                  "parentId": "yYnZXP_wG86CQ",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "224",
-                          "showType": "card-big",
-                          "count": "5"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "GmhcGVUJ8cG0": {
-                  "id": "GmhcGVUJ8cG0",
-                  "parentId": "QtaMAf_seu8sH",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐干员等级/lv.60"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "IpJugYXzDJif": {
-                  "id": "IpJugYXzDJif",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "3"
-                  }
-                },
-                "IyCHyCESeQU2": {
-                  "id": "IyCHyCESeQU2",
-                  "parentId": "Dp5Ss8l0DRft",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "苦难模式"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "JfT66WxqN5Ke": {
-                  "id": "JfT66WxqN5Ke",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "KbB0dDtonZn4": {
-                  "id": "KbB0dDtonZn4",
-                  "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "KbB0dDtonZn4",
-                    "rowIds": [
-                      "PfP7F6",
-                      "QtaMAf",
-                      "yYnZXP",
-                      "ASpgab"
-                    ],
-                    "columnIds": [
-                      "seu8sH",
-                      "bihe8w",
-                      "DvUlcM",
-                      "6VOE09",
-                      "J8P9zp",
-                      "Ud7sFl",
-                      "ggERds",
-                      "wG86CQ"
-                    ],
-                    "rowMap": {
-                      "ASpgab": {
-                        "id": "ASpgab"
-                      },
-                      "PfP7F6": {
-                        "id": "PfP7F6"
-                      },
-                      "QtaMAf": {
-                        "id": "QtaMAf"
-                      },
-                      "yYnZXP": {
-                        "id": "yYnZXP"
-                      }
-                    },
-                    "columnMap": {
-                      "6VOE09": {
-                        "id": "6VOE09",
-                        "width": 145
-                      },
-                      "DvUlcM": {
-                        "id": "DvUlcM",
-                        "width": 145
-                      },
-                      "J8P9zp": {
-                        "id": "J8P9zp",
-                        "width": 145
-                      },
-                      "Ud7sFl": {
-                        "id": "Ud7sFl",
-                        "width": 145
-                      },
-                      "bihe8w": {
-                        "id": "bihe8w",
-                        "width": 145
-                      },
-                      "ggERds": {
-                        "id": "ggERds",
-                        "width": 145
-                      },
-                      "seu8sH": {
-                        "id": "seu8sH",
-                        "width": 145
-                      },
-                      "wG86CQ": {
-                        "id": "wG86CQ",
-                        "width": 145
-                      }
-                    },
-                    "cellMap": {
-                      "ASpgab_seu8sH": {
-                        "id": "ASpgab_seu8sH",
-                        "childIds": [
-                          "B95A6u1FFhGY",
-                          "8aWAJooOnesO"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "8",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "PfP7F6_6VOE09": {
-                        "id": "PfP7F6_6VOE09",
-                        "childIds": [
-                          "huo4qOpQXVgW"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "5",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "PfP7F6_bihe8w": {
-                        "id": "PfP7F6_bihe8w",
-                        "childIds": [
-                          "XTYsMymyAUB5"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "2",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "PfP7F6_seu8sH": {
-                        "id": "PfP7F6_seu8sH",
-                        "childIds": [
-                          "EZIbqPCFEJBj"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "QtaMAf_6VOE09": {
-                        "id": "QtaMAf_6VOE09",
-                        "childIds": [
-                          "04g7Nq3rQSlA"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "QtaMAf_J8P9zp": {
-                        "id": "QtaMAf_J8P9zp",
-                        "childIds": [
-                          "OxLTkMrEVDDU"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "QtaMAf_Ud7sFl": {
-                        "id": "QtaMAf_Ud7sFl",
-                        "childIds": [
-                          "TnCKw4iNDPUE"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "QtaMAf_bihe8w": {
-                        "id": "QtaMAf_bihe8w",
-                        "childIds": [
-                          "ulXSSTEXSZS7"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "2",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "QtaMAf_ggERds": {
-                        "id": "QtaMAf_ggERds",
-                        "childIds": [
-                          "D04ZZ3JUCdIF"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "QtaMAf_seu8sH": {
-                        "id": "QtaMAf_seu8sH",
-                        "childIds": [
-                          "WaCUrdmK1P5T",
-                          "GmhcGVUJ8cG0"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "QtaMAf_wG86CQ": {
-                        "id": "QtaMAf_wG86CQ",
-                        "childIds": [
-                          "8CThLFu8pVq1"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "yYnZXP_6VOE09": {
-                        "id": "yYnZXP_6VOE09",
-                        "childIds": [
-                          "wtEtHP0ywEcm"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "yYnZXP_J8P9zp": {
-                        "id": "yYnZXP_J8P9zp",
-                        "childIds": [
-                          "L7Q1DuNfHlDL"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "yYnZXP_Ud7sFl": {
-                        "id": "yYnZXP_Ud7sFl",
-                        "childIds": [
-                          "k6TZT1gM3fFU"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "yYnZXP_bihe8w": {
-                        "id": "yYnZXP_bihe8w",
-                        "childIds": [
-                          "y7o77bFlrbEl"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "2",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "yYnZXP_ggERds": {
-                        "id": "yYnZXP_ggERds",
-                        "childIds": [
-                          "BuxxXdZQlSUO"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "yYnZXP_seu8sH": {
-                        "id": "yYnZXP_seu8sH",
-                        "childIds": [
-                          "8GREEQZIZhiA",
-                          "OLGKq42wnVvf"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "yYnZXP_wG86CQ": {
-                        "id": "yYnZXP_wG86CQ",
-                        "childIds": [
-                          "GEFF3XWTG2WZ"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": true,
-                    "colHeader": true
-                  }
-                },
-                "L7Q1DuNfHlDL": {
-                  "id": "L7Q1DuNfHlDL",
-                  "parentId": "yYnZXP_J8P9zp",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "210",
-                          "showType": "card-big",
-                          "count": "3"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "MjC6UlEU2U67": {
-                  "id": "MjC6UlEU2U67",
-                  "parentId": "X9ZwvN5dD2xl",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "禁止使用战术物品和消耗品。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "OLGKq42wnVvf": {
-                  "id": "OLGKq42wnVvf",
-                  "parentId": "yYnZXP_seu8sH",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "italic": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "推荐干员等级/lv.90"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "OxLTkMrEVDDU": {
-                  "id": "OxLTkMrEVDDU",
-                  "parentId": "QtaMAf_J8P9zp",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "210",
-                          "showType": "card-big",
-                          "count": "3"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "QW4kZU5uU04S": {
-                  "id": "QW4kZU5uU04S",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "RNjCiJ7bzZi2": {
-                  "id": "RNjCiJ7bzZi2",
-                  "parentId": "document-id",
-                  "kind": "quote",
-                  "quote": {
-                    "childIds": [
-                      "3BHmRUFVZlOl"
-                    ]
-                  }
-                },
-                "SC9GaWo7BoOV": {
-                  "id": "SC9GaWo7BoOV",
-                  "parentId": "dAWyBOXO3CiL",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "敌人所有属性抗性被调整至相同。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "TnCKw4iNDPUE": {
-                  "id": "TnCKw4iNDPUE",
-                  "parentId": "QtaMAf_Ud7sFl",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "216",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "U3y3tjGXFgIM": {
-                  "id": "U3y3tjGXFgIM",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "机制特性"
-                        }
-                      }
-                    ],
-                    "kind": "heading1"
-                  }
-                },
-                "WaCUrdmK1P5T": {
-                  "id": "WaCUrdmK1P5T",
-                  "parentId": "QtaMAf_seu8sH",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "呼吼炽焰"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "XTYsMymyAUB5": {
-                  "id": "XTYsMymyAUB5",
-                  "parentId": "PfP7F6_bihe8w",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "敌方情报"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "asy85vMfPsst": {
-                  "id": "asy85vMfPsst",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "asy85vMfPsst",
-                    "itemIds": [
-                      "adaQ2iUDKKGG",
-                      "e8FsQkBWBCYX",
-                      "X9ZwvN5dD2xl",
-                      "dAWyBOXO3CiL"
-                    ],
-                    "itemMap": {
-                      "X9ZwvN5dD2xl": {
-                        "id": "X9ZwvN5dD2xl",
-                        "childIds": [
-                          "MjC6UlEU2U67"
-                        ]
-                      },
-                      "adaQ2iUDKKGG": {
-                        "id": "adaQ2iUDKKGG",
-                        "childIds": [
-                          "xzyl6rQvGAZX"
-                        ]
-                      },
-                      "dAWyBOXO3CiL": {
-                        "id": "dAWyBOXO3CiL",
-                        "childIds": [
-                          "SC9GaWo7BoOV"
-                        ]
-                      },
-                      "e8FsQkBWBCYX": {
-                        "id": "e8FsQkBWBCYX",
-                        "childIds": [
-                          "c3v0D40O7G38"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "c3v0D40O7G38": {
-                  "id": "c3v0D40O7G38",
-                  "parentId": "e8FsQkBWBCYX",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_function_blueness",
-                        "kind": "text",
-                        "text": {
-                          "text": "愤怒状态"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "期间，"
-                        }
-                      },
-                      {
-                        "color": "light_function_blueness",
-                        "kind": "text",
-                        "text": {
-                          "text": "干员不再自然恢复技力"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "huo4qOpQXVgW": {
-                  "id": "huo4qOpQXVgW",
-                  "parentId": "PfP7F6_6VOE09",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "奖励"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "k6TZT1gM3fFU": {
-                  "id": "k6TZT1gM3fFU",
-                  "parentId": "yYnZXP_Ud7sFl",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "216",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "obr5ftnYit16": {
-                  "id": "obr5ftnYit16",
-                  "parentId": "1mMcZwXc1cdW",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "敌人周期性进入"
-                        }
-                      },
-                      {
-                        "color": "light_function_blueness",
-                        "kind": "text",
-                        "text": {
-                          "text": "愤怒状态"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续向自身施加"
-                        }
-                      },
-                      {
-                        "color": "light_function_orange",
-                        "kind": "text",
-                        "text": {
-                          "text": "灼热附着"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "，根据层数获得攻击加成和伤害减免。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "ulXSSTEXSZS7": {
-                  "id": "ulXSSTEXSZS7",
-                  "parentId": "QtaMAf_bihe8w",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1197",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "wtEtHP0ywEcm": {
-                  "id": "wtEtHP0ywEcm",
-                  "parentId": "yYnZXP_6VOE09",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "19",
-                          "showType": "card-big",
-                          "count": "24000"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "wtwbYkEFAepJ": {
-                  "id": "wtwbYkEFAepJ",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "wtwbYkEFAepJ",
-                    "itemIds": [
-                      "1mMcZwXc1cdW",
-                      "0jR7kKinZh0r"
-                    ],
-                    "itemMap": {
-                      "0jR7kKinZh0r": {
-                        "id": "0jR7kKinZh0r",
-                        "childIds": [
-                          "FGf1qsoDUEP0"
-                        ]
-                      },
-                      "1mMcZwXc1cdW": {
-                        "id": "1mMcZwXc1cdW",
-                        "childIds": [
-                          "obr5ftnYit16"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "xzyl6rQvGAZX": {
-                  "id": "xzyl6rQvGAZX",
-                  "parentId": "adaQ2iUDKKGG",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "敌人周期性进入"
-                        }
-                      },
-                      {
-                        "color": "light_function_blueness",
-                        "kind": "text",
-                        "text": {
-                          "text": "愤怒状态"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "，持续向自身施加"
-                        }
-                      },
-                      {
-                        "color": "light_function_orange",
-                        "kind": "text",
-                        "text": {
-                          "text": "灼热附着"
-                        }
-                      },
-                      {
-                        "color": "light_text_primary",
-                        "kind": "text",
-                        "text": {
-                          "text": "，根据层数获得攻击加成和伤害减免。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "y7o77bFlrbEl": {
-                  "id": "y7o77bFlrbEl",
-                  "parentId": "yYnZXP_bihe8w",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1197",
-                          "showType": "card-big",
-                          "count": "1"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "HTWkIH7f": {
-              "id": "document-id",
-              "blockIds": [
-                "RlWjKF"
-              ],
-              "blockMap": {
-                "HdaFYU": {
-                  "id": "HdaFYU",
-                  "parentId": "75PtSE_dxAzT8",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "2026/03/26 12:00（服务器时间）开启，系列开启后常驻开放"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "K0YWVzsAfvlD": {
-                  "id": "K0YWVzsAfvlD",
-                  "parentId": "60RaI3_hn1Qaj",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "活动奖励"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "RlWjKF": {
-                  "id": "RlWjKF",
-                  "parentId": "document-id",
-                  "kind": "table",
-                  "table": {
-                    "id": "RlWjKF",
-                    "rowIds": [
-                      "IFHv28",
-                      "75PtSE",
-                      "60RaI3",
-                      "CfHnSk"
-                    ],
-                    "columnIds": [
-                      "hn1Qaj",
-                      "dxAzT8"
-                    ],
-                    "rowMap": {
-                      "60RaI3": {
-                        "id": "60RaI3"
-                      },
-                      "75PtSE": {
-                        "id": "75PtSE"
-                      },
-                      "CfHnSk": {
-                        "id": "CfHnSk"
-                      },
-                      "IFHv28": {
-                        "id": "IFHv28"
-                      }
-                    },
-                    "columnMap": {
-                      "dxAzT8": {
-                        "id": "dxAzT8",
-                        "width": 1003
-                      },
-                      "hn1Qaj": {
-                        "id": "hn1Qaj",
-                        "width": 157
-                      }
-                    },
-                    "cellMap": {
-                      "60RaI3_dxAzT8": {
-                        "id": "60RaI3_dxAzT8",
-                        "childIds": [
-                          "fbnETTUIfdzL"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "60RaI3_hn1Qaj": {
-                        "id": "60RaI3_hn1Qaj",
-                        "childIds": [
-                          "K0YWVzsAfvlD"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "75PtSE_dxAzT8": {
-                        "id": "75PtSE_dxAzT8",
-                        "childIds": [
-                          "HdaFYU"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "75PtSE_hn1Qaj": {
-                        "id": "75PtSE_hn1Qaj",
-                        "childIds": [
-                          "oOhutB"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "CfHnSk_dxAzT8": {
-                        "id": "CfHnSk_dxAzT8",
-                        "childIds": [
-                          "zewnXT",
-                          "VijC5Qo58hgz"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "CfHnSk_hn1Qaj": {
-                        "id": "CfHnSk_hn1Qaj",
-                        "childIds": [
-                          "mikKCH"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "1",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      },
-                      "IFHv28_hn1Qaj": {
-                        "id": "IFHv28_hn1Qaj",
-                        "childIds": [
-                          "kX2gVDk4Ggeq"
-                        ],
-                        "rowSpan": "1",
-                        "colSpan": "2",
-                        "borderKind": "",
-                        "borderColor": "",
-                        "backgroundColor": "",
-                        "verticalAlign": "unknown"
-                      }
-                    },
-                    "description": "",
-                    "rowHeader": true,
-                    "colHeader": false
-                  }
-                },
-                "VijC5Qo58hgz": {
-                  "id": "VijC5Qo58hgz",
-                  "parentId": "CfHnSk_dxAzT8",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "·权限等阶≥30级"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "fbnETTUIfdzL": {
-                  "id": "fbnETTUIfdzL",
-                  "parentId": "60RaI3_dxAzT8",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "「影拓丰碑」-「影拓丰碑」开放期间，完成全部关卡挑战，累计可获得【"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "216",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "】【"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "210",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "】【"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "224",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "】【"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "222",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "】等奖励。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "kX2gVDk4Ggeq": {
-                  "id": "kX2gVDk4Ggeq",
-                  "parentId": "IFHv28_hn1Qaj",
-                  "kind": "image",
-                  "image": {
-                    "id": "69c4d4a1c18f320561a62db9",
-                    "url": "https://bbs.hycdn.cn/image/common/20260326/856392/69c4d4a1c18f320561a62db9_96d20048.webp",
-                    "width": "1650",
-                    "height": "300",
-                    "size": "42914",
-                    "format": "webp",
-                    "kind": "",
-                    "description": "",
-                    "clientWidth": 1135,
-                    "status": "",
-                    "infos": []
-                  }
-                },
-                "mikKCH": {
-                  "id": "mikKCH",
-                  "parentId": "CfHnSk_hn1Qaj",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "参与条件"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "oOhutB": {
-                  "id": "oOhutB",
-                  "parentId": "75PtSE_hn1Qaj",
-                  "align": "center",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "bold": true,
-                        "kind": "text",
-                        "text": {
-                          "text": "活动时间"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "zewnXT": {
-                  "id": "zewnXT",
-                  "parentId": "CfHnSk_dxAzT8",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "·完成主线任务「"
-                        }
-                      },
-                      {
-                        "kind": "entry",
-                        "entry": {
-                          "id": "1107",
-                          "showType": "link-imgText",
-                          "count": "0"
-                        }
-                      },
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "」"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "LsrOxjj5": {
+            "DfDejwKQ": {
               "id": "document-id",
               "blockIds": [
                 "ESQGgo9nrakT",
@@ -3894,6 +2288,1612 @@
               },
               "authorMap": {},
               "version": "1.0.0"
+            },
+            "KU564fXh": {
+              "id": "document-id",
+              "blockIds": [
+                "JfT66WxqN5Ke",
+                "916X2dDzlgVm",
+                "AUVumDyiKtFm",
+                "KbB0dDtonZn4",
+                "IpJugYXzDJif",
+                "U3y3tjGXFgIM",
+                "RNjCiJ7bzZi2",
+                "wtwbYkEFAepJ",
+                "Dp5Ss8l0DRft",
+                "asy85vMfPsst",
+                "QW4kZU5uU04S"
+              ],
+              "blockMap": {
+                "04g7Nq3rQSlA": {
+                  "id": "04g7Nq3rQSlA",
+                  "parentId": "QtaMAf_6VOE09",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "19",
+                          "showType": "card-big",
+                          "count": "24000"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "3BHmRUFVZlOl": {
+                  "id": "3BHmRUFVZlOl",
+                  "parentId": "RNjCiJ7bzZi2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "普通模式"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8CThLFu8pVq1": {
+                  "id": "8CThLFu8pVq1",
+                  "parentId": "QtaMAf_wG86CQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "224",
+                          "showType": "card-big",
+                          "count": "5"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8GREEQZIZhiA": {
+                  "id": "8GREEQZIZhiA",
+                  "parentId": "yYnZXP_seu8sH",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "呼吼炽焰·苦难"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "8aWAJooOnesO": {
+                  "id": "8aWAJooOnesO",
+                  "parentId": "ASpgab_seu8sH",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通关苦难模式“"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "灼痛疤痕"
+                        }
+                      },
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”的所有关卡额外为其"
+                        }
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "镀层"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "916X2dDzlgVm": {
+                  "id": "916X2dDzlgVm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "我们憎恨天空，憎恨天空中莫测的雷鸣，憎恨不知何时便会降下的大火。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "AUVumDyiKtFm": {
+                  "id": "AUVumDyiKtFm",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "B95A6u1FFhGY": {
+                  "id": "B95A6u1FFhGY",
+                  "parentId": "ASpgab_seu8sH",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "通关普通模式“"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "灼痛疤痕"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”的所有关卡，可获得蚀刻章“"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "灼痛疤痕"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "”"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "BuxxXdZQlSUO": {
+                  "id": "BuxxXdZQlSUO",
+                  "parentId": "yYnZXP_ggERds",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "222",
+                          "showType": "card-big",
+                          "count": "8"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "D04ZZ3JUCdIF": {
+                  "id": "D04ZZ3JUCdIF",
+                  "parentId": "QtaMAf_ggERds",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "222",
+                          "showType": "card-big",
+                          "count": "8"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Dp5Ss8l0DRft": {
+                  "id": "Dp5Ss8l0DRft",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "IyCHyCESeQU2"
+                    ]
+                  }
+                },
+                "EZIbqPCFEJBj": {
+                  "id": "EZIbqPCFEJBj",
+                  "parentId": "PfP7F6_seu8sH",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "关卡"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "FGf1qsoDUEP0": {
+                  "id": "FGf1qsoDUEP0",
+                  "parentId": "0jR7kKinZh0r",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人所有属性抗性被调整至相同。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GEFF3XWTG2WZ": {
+                  "id": "GEFF3XWTG2WZ",
+                  "parentId": "yYnZXP_wG86CQ",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "224",
+                          "showType": "card-big",
+                          "count": "5"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "GmhcGVUJ8cG0": {
+                  "id": "GmhcGVUJ8cG0",
+                  "parentId": "QtaMAf_seu8sH",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐干员等级/lv.60"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "IpJugYXzDJif": {
+                  "id": "IpJugYXzDJif",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "3"
+                  }
+                },
+                "IyCHyCESeQU2": {
+                  "id": "IyCHyCESeQU2",
+                  "parentId": "Dp5Ss8l0DRft",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "苦难模式"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "JfT66WxqN5Ke": {
+                  "id": "JfT66WxqN5Ke",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "KbB0dDtonZn4": {
+                  "id": "KbB0dDtonZn4",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "KbB0dDtonZn4",
+                    "rowIds": [
+                      "PfP7F6",
+                      "QtaMAf",
+                      "yYnZXP",
+                      "ASpgab"
+                    ],
+                    "columnIds": [
+                      "seu8sH",
+                      "bihe8w",
+                      "DvUlcM",
+                      "6VOE09",
+                      "J8P9zp",
+                      "Ud7sFl",
+                      "ggERds",
+                      "wG86CQ"
+                    ],
+                    "rowMap": {
+                      "ASpgab": {
+                        "id": "ASpgab"
+                      },
+                      "PfP7F6": {
+                        "id": "PfP7F6"
+                      },
+                      "QtaMAf": {
+                        "id": "QtaMAf"
+                      },
+                      "yYnZXP": {
+                        "id": "yYnZXP"
+                      }
+                    },
+                    "columnMap": {
+                      "6VOE09": {
+                        "id": "6VOE09",
+                        "width": 145
+                      },
+                      "DvUlcM": {
+                        "id": "DvUlcM",
+                        "width": 145
+                      },
+                      "J8P9zp": {
+                        "id": "J8P9zp",
+                        "width": 145
+                      },
+                      "Ud7sFl": {
+                        "id": "Ud7sFl",
+                        "width": 145
+                      },
+                      "bihe8w": {
+                        "id": "bihe8w",
+                        "width": 145
+                      },
+                      "ggERds": {
+                        "id": "ggERds",
+                        "width": 145
+                      },
+                      "seu8sH": {
+                        "id": "seu8sH",
+                        "width": 145
+                      },
+                      "wG86CQ": {
+                        "id": "wG86CQ",
+                        "width": 145
+                      }
+                    },
+                    "cellMap": {
+                      "ASpgab_seu8sH": {
+                        "id": "ASpgab_seu8sH",
+                        "childIds": [
+                          "B95A6u1FFhGY",
+                          "8aWAJooOnesO"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "8",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PfP7F6_6VOE09": {
+                        "id": "PfP7F6_6VOE09",
+                        "childIds": [
+                          "huo4qOpQXVgW"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "5",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PfP7F6_bihe8w": {
+                        "id": "PfP7F6_bihe8w",
+                        "childIds": [
+                          "XTYsMymyAUB5"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "PfP7F6_seu8sH": {
+                        "id": "PfP7F6_seu8sH",
+                        "childIds": [
+                          "EZIbqPCFEJBj"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "QtaMAf_6VOE09": {
+                        "id": "QtaMAf_6VOE09",
+                        "childIds": [
+                          "04g7Nq3rQSlA"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "QtaMAf_J8P9zp": {
+                        "id": "QtaMAf_J8P9zp",
+                        "childIds": [
+                          "OxLTkMrEVDDU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "QtaMAf_Ud7sFl": {
+                        "id": "QtaMAf_Ud7sFl",
+                        "childIds": [
+                          "TnCKw4iNDPUE"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "QtaMAf_bihe8w": {
+                        "id": "QtaMAf_bihe8w",
+                        "childIds": [
+                          "ulXSSTEXSZS7"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "QtaMAf_ggERds": {
+                        "id": "QtaMAf_ggERds",
+                        "childIds": [
+                          "D04ZZ3JUCdIF"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "QtaMAf_seu8sH": {
+                        "id": "QtaMAf_seu8sH",
+                        "childIds": [
+                          "WaCUrdmK1P5T",
+                          "GmhcGVUJ8cG0"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "QtaMAf_wG86CQ": {
+                        "id": "QtaMAf_wG86CQ",
+                        "childIds": [
+                          "8CThLFu8pVq1"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "yYnZXP_6VOE09": {
+                        "id": "yYnZXP_6VOE09",
+                        "childIds": [
+                          "wtEtHP0ywEcm"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "yYnZXP_J8P9zp": {
+                        "id": "yYnZXP_J8P9zp",
+                        "childIds": [
+                          "L7Q1DuNfHlDL"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "yYnZXP_Ud7sFl": {
+                        "id": "yYnZXP_Ud7sFl",
+                        "childIds": [
+                          "k6TZT1gM3fFU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "yYnZXP_bihe8w": {
+                        "id": "yYnZXP_bihe8w",
+                        "childIds": [
+                          "y7o77bFlrbEl"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "yYnZXP_ggERds": {
+                        "id": "yYnZXP_ggERds",
+                        "childIds": [
+                          "BuxxXdZQlSUO"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "yYnZXP_seu8sH": {
+                        "id": "yYnZXP_seu8sH",
+                        "childIds": [
+                          "8GREEQZIZhiA",
+                          "OLGKq42wnVvf"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "yYnZXP_wG86CQ": {
+                        "id": "yYnZXP_wG86CQ",
+                        "childIds": [
+                          "GEFF3XWTG2WZ"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": true
+                  }
+                },
+                "L7Q1DuNfHlDL": {
+                  "id": "L7Q1DuNfHlDL",
+                  "parentId": "yYnZXP_J8P9zp",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "210",
+                          "showType": "card-big",
+                          "count": "3"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "MjC6UlEU2U67": {
+                  "id": "MjC6UlEU2U67",
+                  "parentId": "X9ZwvN5dD2xl",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "禁止使用战术物品和消耗品。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "OLGKq42wnVvf": {
+                  "id": "OLGKq42wnVvf",
+                  "parentId": "yYnZXP_seu8sH",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "italic": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "推荐干员等级/lv.90"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "OxLTkMrEVDDU": {
+                  "id": "OxLTkMrEVDDU",
+                  "parentId": "QtaMAf_J8P9zp",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "210",
+                          "showType": "card-big",
+                          "count": "3"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "QW4kZU5uU04S": {
+                  "id": "QW4kZU5uU04S",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "RNjCiJ7bzZi2": {
+                  "id": "RNjCiJ7bzZi2",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "3BHmRUFVZlOl"
+                    ]
+                  }
+                },
+                "SC9GaWo7BoOV": {
+                  "id": "SC9GaWo7BoOV",
+                  "parentId": "dAWyBOXO3CiL",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人所有属性抗性被调整至相同。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TnCKw4iNDPUE": {
+                  "id": "TnCKw4iNDPUE",
+                  "parentId": "QtaMAf_Ud7sFl",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "216",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "U3y3tjGXFgIM": {
+                  "id": "U3y3tjGXFgIM",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "机制特性"
+                        }
+                      }
+                    ],
+                    "kind": "heading1"
+                  }
+                },
+                "WaCUrdmK1P5T": {
+                  "id": "WaCUrdmK1P5T",
+                  "parentId": "QtaMAf_seu8sH",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "呼吼炽焰"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XTYsMymyAUB5": {
+                  "id": "XTYsMymyAUB5",
+                  "parentId": "PfP7F6_bihe8w",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "敌方情报"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "asy85vMfPsst": {
+                  "id": "asy85vMfPsst",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "asy85vMfPsst",
+                    "itemIds": [
+                      "adaQ2iUDKKGG",
+                      "e8FsQkBWBCYX",
+                      "X9ZwvN5dD2xl",
+                      "dAWyBOXO3CiL"
+                    ],
+                    "itemMap": {
+                      "X9ZwvN5dD2xl": {
+                        "id": "X9ZwvN5dD2xl",
+                        "childIds": [
+                          "MjC6UlEU2U67"
+                        ]
+                      },
+                      "adaQ2iUDKKGG": {
+                        "id": "adaQ2iUDKKGG",
+                        "childIds": [
+                          "xzyl6rQvGAZX"
+                        ]
+                      },
+                      "dAWyBOXO3CiL": {
+                        "id": "dAWyBOXO3CiL",
+                        "childIds": [
+                          "SC9GaWo7BoOV"
+                        ]
+                      },
+                      "e8FsQkBWBCYX": {
+                        "id": "e8FsQkBWBCYX",
+                        "childIds": [
+                          "c3v0D40O7G38"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "c3v0D40O7G38": {
+                  "id": "c3v0D40O7G38",
+                  "parentId": "e8FsQkBWBCYX",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "愤怒状态"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "期间，"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "干员不再自然恢复技力"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "huo4qOpQXVgW": {
+                  "id": "huo4qOpQXVgW",
+                  "parentId": "PfP7F6_6VOE09",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "奖励"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "k6TZT1gM3fFU": {
+                  "id": "k6TZT1gM3fFU",
+                  "parentId": "yYnZXP_Ud7sFl",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "216",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "obr5ftnYit16": {
+                  "id": "obr5ftnYit16",
+                  "parentId": "1mMcZwXc1cdW",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人周期性进入"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "愤怒状态"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续向自身施加"
+                        }
+                      },
+                      {
+                        "color": "light_function_orange",
+                        "kind": "text",
+                        "text": {
+                          "text": "灼热附着"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，根据层数获得攻击加成和伤害减免。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ulXSSTEXSZS7": {
+                  "id": "ulXSSTEXSZS7",
+                  "parentId": "QtaMAf_bihe8w",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1197",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wtEtHP0ywEcm": {
+                  "id": "wtEtHP0ywEcm",
+                  "parentId": "yYnZXP_6VOE09",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "19",
+                          "showType": "card-big",
+                          "count": "24000"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "wtwbYkEFAepJ": {
+                  "id": "wtwbYkEFAepJ",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "wtwbYkEFAepJ",
+                    "itemIds": [
+                      "1mMcZwXc1cdW",
+                      "0jR7kKinZh0r"
+                    ],
+                    "itemMap": {
+                      "0jR7kKinZh0r": {
+                        "id": "0jR7kKinZh0r",
+                        "childIds": [
+                          "FGf1qsoDUEP0"
+                        ]
+                      },
+                      "1mMcZwXc1cdW": {
+                        "id": "1mMcZwXc1cdW",
+                        "childIds": [
+                          "obr5ftnYit16"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "xzyl6rQvGAZX": {
+                  "id": "xzyl6rQvGAZX",
+                  "parentId": "adaQ2iUDKKGG",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "敌人周期性进入"
+                        }
+                      },
+                      {
+                        "color": "light_function_blueness",
+                        "kind": "text",
+                        "text": {
+                          "text": "愤怒状态"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，持续向自身施加"
+                        }
+                      },
+                      {
+                        "color": "light_function_orange",
+                        "kind": "text",
+                        "text": {
+                          "text": "灼热附着"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "，根据层数获得攻击加成和伤害减免。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "y7o77bFlrbEl": {
+                  "id": "y7o77bFlrbEl",
+                  "parentId": "yYnZXP_bihe8w",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1197",
+                          "showType": "card-big",
+                          "count": "1"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "Qomlu5D1": {
+              "id": "document-id",
+              "blockIds": [
+                "RlWjKF"
+              ],
+              "blockMap": {
+                "HdaFYU": {
+                  "id": "HdaFYU",
+                  "parentId": "75PtSE_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2026/03/26 12:00（服务器时间）开启，系列开启后常驻开放"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "K0YWVzsAfvlD": {
+                  "id": "K0YWVzsAfvlD",
+                  "parentId": "60RaI3_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动奖励"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RlWjKF": {
+                  "id": "RlWjKF",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "RlWjKF",
+                    "rowIds": [
+                      "IFHv28",
+                      "75PtSE",
+                      "60RaI3",
+                      "CfHnSk"
+                    ],
+                    "columnIds": [
+                      "hn1Qaj",
+                      "dxAzT8"
+                    ],
+                    "rowMap": {
+                      "60RaI3": {
+                        "id": "60RaI3"
+                      },
+                      "75PtSE": {
+                        "id": "75PtSE"
+                      },
+                      "CfHnSk": {
+                        "id": "CfHnSk"
+                      },
+                      "IFHv28": {
+                        "id": "IFHv28"
+                      }
+                    },
+                    "columnMap": {
+                      "dxAzT8": {
+                        "id": "dxAzT8",
+                        "width": 1003
+                      },
+                      "hn1Qaj": {
+                        "id": "hn1Qaj",
+                        "width": 157
+                      }
+                    },
+                    "cellMap": {
+                      "60RaI3_dxAzT8": {
+                        "id": "60RaI3_dxAzT8",
+                        "childIds": [
+                          "fbnETTUIfdzL"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "60RaI3_hn1Qaj": {
+                        "id": "60RaI3_hn1Qaj",
+                        "childIds": [
+                          "K0YWVzsAfvlD"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_dxAzT8": {
+                        "id": "75PtSE_dxAzT8",
+                        "childIds": [
+                          "HdaFYU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_hn1Qaj": {
+                        "id": "75PtSE_hn1Qaj",
+                        "childIds": [
+                          "oOhutB"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_dxAzT8": {
+                        "id": "CfHnSk_dxAzT8",
+                        "childIds": [
+                          "zewnXT",
+                          "VijC5Qo58hgz"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_hn1Qaj": {
+                        "id": "CfHnSk_hn1Qaj",
+                        "childIds": [
+                          "mikKCH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "IFHv28_hn1Qaj": {
+                        "id": "IFHv28_hn1Qaj",
+                        "childIds": [
+                          "kX2gVDk4Ggeq"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "VijC5Qo58hgz": {
+                  "id": "VijC5Qo58hgz",
+                  "parentId": "CfHnSk_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "·权限等阶≥30级"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "fbnETTUIfdzL": {
+                  "id": "fbnETTUIfdzL",
+                  "parentId": "60RaI3_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "「影拓丰碑」-「灼痛疤痕」开放期间，完成全部关卡挑战，累计可获得【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "216",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "210",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "224",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "222",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】等奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "kX2gVDk4Ggeq": {
+                  "id": "kX2gVDk4Ggeq",
+                  "parentId": "IFHv28_hn1Qaj",
+                  "kind": "image",
+                  "image": {
+                    "id": "69c4d4a1c18f320561a62db9",
+                    "url": "https://bbs.hycdn.cn/image/common/20260326/856392/69c4d4a1c18f320561a62db9_96d20048.webp",
+                    "width": "1650",
+                    "height": "300",
+                    "size": "42914",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 1135,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "mikKCH": {
+                  "id": "mikKCH",
+                  "parentId": "CfHnSk_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "参与条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oOhutB": {
+                  "id": "oOhutB",
+                  "parentId": "75PtSE_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动时间"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zewnXT": {
+                  "id": "zewnXT",
+                  "parentId": "CfHnSk_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "·完成主线任务「"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1107",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "」"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "qYVvBGBV": {
+              "id": "document-id",
+              "blockIds": [
+                "gAd6KM",
+                "EitiKm",
+                "ZAF0Ne"
+              ],
+              "blockMap": {
+                "EitiKm": {
+                  "id": "EitiKm",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "EitiKm",
+                    "itemIds": [
+                      "x3G7JC",
+                      "rvg17mFZ4Rd0",
+                      "orUk04QqhWC5"
+                    ],
+                    "itemMap": {
+                      "orUk04QqhWC5": {
+                        "id": "orUk04QqhWC5",
+                        "childIds": [
+                          "O7urgnxl7w6G"
+                        ]
+                      },
+                      "rvg17mFZ4Rd0": {
+                        "id": "rvg17mFZ4Rd0",
+                        "childIds": [
+                          "Z2O1HpXzueYO"
+                        ]
+                      },
+                      "x3G7JC": {
+                        "id": "x3G7JC",
+                        "childIds": [
+                          "f84KvMXyoldq"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "O7urgnxl7w6G": {
+                  "id": "O7urgnxl7w6G",
+                  "parentId": "orUk04QqhWC5",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "通关当前系列普通模式的全部关卡后，即可获得该系列蚀刻章；通关该系列苦难模式的全部关卡，即可对该系列蚀刻章进行镀层。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "Z2O1HpXzueYO": {
+                  "id": "Z2O1HpXzueYO",
+                  "parentId": "rvg17mFZ4Rd0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "关卡包含普通模式及苦难模式，通关普通模式将解锁苦难模式。苦难模式下，关卡难度会有明显提高。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZAF0Ne": {
+                  "id": "ZAF0Ne",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "f84KvMXyoldq": {
+                  "id": "f84KvMXyoldq",
+                  "parentId": "x3G7JC",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "本次「影拓丰碑」挑战玩法更新系列「灼痛疤痕」，包含3个关卡。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gAd6KM": {
+                  "id": "gAd6KM",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
             }
           },
           "chapterGroup": [
@@ -3931,7 +3931,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "HTWkIH7f",
+                  "content": "Qomlu5D1",
                   "audioList": []
                 }
               }
@@ -3959,17 +3959,17 @@
               "tabDataMap": {
                 "tab_1774508157718": {
                   "intro": null,
-                  "content": "1Cf8Kprn",
+                  "content": "CCm7Irvw",
                   "audioList": []
                 },
                 "tab_1774508158229": {
                   "intro": null,
-                  "content": "LsrOxjj5",
+                  "content": "DfDejwKQ",
                   "audioList": []
                 },
                 "tab_1774508158973": {
                   "intro": null,
-                  "content": "GyeQrJkh",
+                  "content": "KU564fXh",
                   "audioList": []
                 }
               }
@@ -3981,7 +3981,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "9QBH89Bf",
+                  "content": "qYVvBGBV",
                   "audioList": []
                 }
               }
@@ -4127,7 +4127,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774619697",
-        "lastAuditPassedAt": "1774589282",
+        "lastAuditPassedAt": "1778502775",
         "tagIds": [
           "10369",
           "10367"

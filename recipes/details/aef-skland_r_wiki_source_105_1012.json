@@ -1,7 +1,12 @@
 {
   "id": "aef-skland:r/wiki_source_105/1012",
-  "type": "aef-skland:wiki/source/list_text",
+  "type": "aef-skland:wiki/source/list_entry",
   "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1377",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_105",
@@ -22,6 +27,31 @@
         "vHBHNA"
       ],
       "blockMap": {
+        "UCivUpPWbgNQ": {
+          "id": "UCivUpPWbgNQ",
+          "parentId": "oioGTDcNgEEV",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "武库箱开启-"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1377",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
         "h484Po": {
           "id": "h484Po",
           "parentId": "wzwmMZ",
@@ -32,7 +62,7 @@
               {
                 "kind": "text",
                 "text": {
-                  "text": "武器池抽取获得"
+                  "text": "武器池抽卡获取"
                 }
               }
             ],
@@ -46,9 +76,16 @@
           "list": {
             "id": "vHBHNA",
             "itemIds": [
-              "wzwmMZ"
+              "wzwmMZ",
+              "oioGTDcNgEEV"
             ],
             "itemMap": {
+              "oioGTDcNgEEV": {
+                "id": "oioGTDcNgEEV",
+                "childIds": [
+                  "UCivUpPWbgNQ"
+                ]
+              },
               "wzwmMZ": {
                 "id": "wzwmMZ",
                 "childIds": [
@@ -63,7 +100,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "list_text"
+    "sourcePattern": "list_entry"
   },
   "detailLoaded": true
 }

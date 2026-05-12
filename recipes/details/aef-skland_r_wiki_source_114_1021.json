@@ -4,17 +4,22 @@
   "slotContents": {
     "in1": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_638",
+      "id": "aef-skland.wiki.item_255",
       "amount": 1
     },
     "in2": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_935",
+      "id": "aef-skland.wiki.item_638",
       "amount": 1
     },
     "in3": {
       "kind": "item",
-      "id": "aef-skland.wiki.item_255",
+      "id": "aef-skland.wiki.item_935",
+      "amount": 1
+    },
+    "in4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1377",
       "amount": 1
     },
     "out1": {
@@ -37,31 +42,6 @@
         "vHBHNA"
       ],
       "blockMap": {
-        "IMyr4IscyQBE": {
-          "id": "IMyr4IscyQBE",
-          "parentId": "cbGdn8ILgqml",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "255",
-                  "showType": "link-imgText",
-                  "count": "0"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "开启获取"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
         "LJtHJQpaq8aA": {
           "id": "LJtHJQpaq8aA",
           "parentId": "TxYqmidCDKRw",
@@ -69,6 +49,12 @@
           "kind": "text",
           "text": {
             "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "武库箱开启-"
+                }
+              },
               {
                 "kind": "entry",
                 "entry": {
@@ -78,23 +64,6 @@
                 }
               },
               {
-                "kind": "text",
-                "text": {
-                  "text": "开启获取"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "QBIgfbDE3ftu": {
-          "id": "QBIgfbDE3ftu",
-          "parentId": "Pb9WfIJ4BMPK",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
                 "kind": "entry",
                 "entry": {
                   "id": "935",
@@ -103,9 +72,11 @@
                 }
               },
               {
-                "kind": "text",
-                "text": {
-                  "text": "开启获取"
+                "kind": "entry",
+                "entry": {
+                  "id": "1377",
+                  "showType": "link-imgText",
+                  "count": "0"
                 }
               }
             ],
@@ -129,6 +100,31 @@
             "kind": "body"
           }
         },
+        "sYOafiN7z3B1": {
+          "id": "sYOafiN7z3B1",
+          "parentId": "5YF4ik3TFoiz",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "武器补给开启-"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "255",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
         "vHBHNA": {
           "id": "vHBHNA",
           "parentId": "document-id",
@@ -137,27 +133,20 @@
             "id": "vHBHNA",
             "itemIds": [
               "wzwmMZ",
-              "TxYqmidCDKRw",
-              "Pb9WfIJ4BMPK",
-              "cbGdn8ILgqml"
+              "5YF4ik3TFoiz",
+              "TxYqmidCDKRw"
             ],
             "itemMap": {
-              "Pb9WfIJ4BMPK": {
-                "id": "Pb9WfIJ4BMPK",
+              "5YF4ik3TFoiz": {
+                "id": "5YF4ik3TFoiz",
                 "childIds": [
-                  "QBIgfbDE3ftu"
+                  "sYOafiN7z3B1"
                 ]
               },
               "TxYqmidCDKRw": {
                 "id": "TxYqmidCDKRw",
                 "childIds": [
                   "LJtHJQpaq8aA"
-                ]
-              },
-              "cbGdn8ILgqml": {
-                "id": "cbGdn8ILgqml",
-                "childIds": [
-                  "IMyr4IscyQBE"
                 ]
               },
               "wzwmMZ": {

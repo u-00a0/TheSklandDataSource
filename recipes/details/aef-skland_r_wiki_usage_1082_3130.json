@@ -44,17 +44,35 @@
     "context": {
       "groupTitle": "物品用途",
       "widgetTitle": "地区建设等级",
-      "panelTitle": "10"
+      "panelTitle": "5"
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "PDUgg6su8XrT"
+        "CW4wNYVeyfH0"
       ],
       "blockMap": {
-        "2PsIEBo8YceQ": {
-          "id": "2PsIEBo8YceQ",
-          "parentId": "4Mhzwn_virQG4",
+        "1sV2SI4mtshR": {
+          "id": "1sV2SI4mtshR",
+          "parentId": "m94dAw_Gwm2qj",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "里程碑奖励"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "2A8gveCpVDo3": {
+          "id": "2A8gveCpVDo3",
+          "parentId": "rmt9jI_Gwm2qj",
           "align": "left",
           "kind": "text",
           "text": {
@@ -76,10 +94,46 @@
             "kind": "body"
           }
         },
-        "935mYlSVsN3V": {
-          "id": "935mYlSVsN3V",
-          "parentId": "4UWKtR_virQG4",
-          "align": "left",
+        "3idXKiw7shae": {
+          "id": "3idXKiw7shae",
+          "parentId": "9bTyAW_wheGKi",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "11→13"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "8sK7rkoI5grp": {
+          "id": "8sK7rkoI5grp",
+          "parentId": "pmsp77_hAe7zc",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "武陵城"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "BTfGyPvh3YBa": {
+          "id": "BTfGyPvh3YBa",
+          "parentId": "m94dAw_hAe7zc",
+          "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
@@ -87,32 +141,16 @@
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "协议容量"
-                }
-              },
-              {
-                "kind": "text",
-                "text": {
-                  "text": "提升。"
+                  "text": "地区建设等级"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "J5xxY23S6Tv8": {
-          "id": "J5xxY23S6Tv8",
-          "parentId": "k6LSy0_QTKLpi",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "Npz3GCfyozto": {
-          "id": "Npz3GCfyozto",
-          "parentId": "FJkRdr_virQG4",
+        "CG4gioPAStnV": {
+          "id": "CG4gioPAStnV",
+          "parentId": "YVRfhU_Gwm2qj",
           "align": "center",
           "kind": "text",
           "text": {
@@ -161,64 +199,64 @@
             "kind": "body"
           }
         },
-        "PDUgg6su8XrT": {
-          "id": "PDUgg6su8XrT",
+        "CW4wNYVeyfH0": {
+          "id": "CW4wNYVeyfH0",
           "parentId": "document-id",
           "kind": "table",
           "table": {
-            "id": "PDUgg6su8XrT",
+            "id": "CW4wNYVeyfH0",
             "rowIds": [
-              "BTDOBb",
-              "FJkRdr",
-              "8xa5h1",
-              "4UWKtR",
-              "4Mhzwn",
-              "k6LSy0"
+              "m94dAw",
+              "YVRfhU",
+              "v8vp4r",
+              "pmsp77",
+              "rmt9jI",
+              "9bTyAW"
             ],
             "columnIds": [
-              "2eVCJ4",
-              "virQG4",
-              "QTKLpi"
+              "hAe7zc",
+              "Gwm2qj",
+              "wheGKi"
             ],
             "rowMap": {
-              "4Mhzwn": {
-                "id": "4Mhzwn"
+              "9bTyAW": {
+                "id": "9bTyAW"
               },
-              "4UWKtR": {
-                "id": "4UWKtR"
+              "YVRfhU": {
+                "id": "YVRfhU"
               },
-              "8xa5h1": {
-                "id": "8xa5h1"
+              "m94dAw": {
+                "id": "m94dAw"
               },
-              "BTDOBb": {
-                "id": "BTDOBb"
+              "pmsp77": {
+                "id": "pmsp77"
               },
-              "FJkRdr": {
-                "id": "FJkRdr"
+              "rmt9jI": {
+                "id": "rmt9jI"
               },
-              "k6LSy0": {
-                "id": "k6LSy0"
+              "v8vp4r": {
+                "id": "v8vp4r"
               }
             },
             "columnMap": {
-              "2eVCJ4": {
-                "id": "2eVCJ4",
+              "Gwm2qj": {
+                "id": "Gwm2qj",
+                "width": 798
+              },
+              "hAe7zc": {
+                "id": "hAe7zc",
                 "width": 117
               },
-              "QTKLpi": {
-                "id": "QTKLpi",
+              "wheGKi": {
+                "id": "wheGKi",
                 "width": 245
-              },
-              "virQG4": {
-                "id": "virQG4",
-                "width": 798
               }
             },
             "cellMap": {
-              "4Mhzwn_QTKLpi": {
-                "id": "4Mhzwn_QTKLpi",
+              "9bTyAW_Gwm2qj": {
+                "id": "9bTyAW_Gwm2qj",
                 "childIds": [
-                  "q0FkS5gcOgZg"
+                  "b9TJhpzjFZ7o"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -227,10 +265,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "4Mhzwn_virQG4": {
-                "id": "4Mhzwn_virQG4",
+              "9bTyAW_wheGKi": {
+                "id": "9bTyAW_wheGKi",
                 "childIds": [
-                  "2PsIEBo8YceQ"
+                  "3idXKiw7shae"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -239,10 +277,70 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "4UWKtR_2eVCJ4": {
-                "id": "4UWKtR_2eVCJ4",
+              "YVRfhU_Gwm2qj": {
+                "id": "YVRfhU_Gwm2qj",
                 "childIds": [
-                  "kne921fPLbvH"
+                  "CG4gioPAStnV"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "YVRfhU_hAe7zc": {
+                "id": "YVRfhU_hAe7zc",
+                "childIds": [
+                  "yBsQQqXHoBb5"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "m94dAw_Gwm2qj": {
+                "id": "m94dAw_Gwm2qj",
+                "childIds": [
+                  "1sV2SI4mtshR"
+                ],
+                "rowSpan": "1",
+                "colSpan": "2",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "m94dAw_hAe7zc": {
+                "id": "m94dAw_hAe7zc",
+                "childIds": [
+                  "BTfGyPvh3YBa"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "pmsp77_Gwm2qj": {
+                "id": "pmsp77_Gwm2qj",
+                "childIds": [
+                  "ZKht1i30UnAK"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "pmsp77_hAe7zc": {
+                "id": "pmsp77_hAe7zc",
+                "childIds": [
+                  "8sK7rkoI5grp"
                 ],
                 "rowSpan": "3",
                 "colSpan": "1",
@@ -251,10 +349,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "4UWKtR_QTKLpi": {
-                "id": "4UWKtR_QTKLpi",
+              "pmsp77_wheGKi": {
+                "id": "pmsp77_wheGKi",
                 "childIds": [
-                  "iLmhQc9bzQXd"
+                  "xU2wc3PCtm2p"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -263,10 +361,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "4UWKtR_virQG4": {
-                "id": "4UWKtR_virQG4",
+              "rmt9jI_Gwm2qj": {
+                "id": "rmt9jI_Gwm2qj",
                 "childIds": [
-                  "935mYlSVsN3V"
+                  "2A8gveCpVDo3"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -275,10 +373,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "8xa5h1_2eVCJ4": {
-                "id": "8xa5h1_2eVCJ4",
+              "rmt9jI_wheGKi": {
+                "id": "rmt9jI_wheGKi",
                 "childIds": [
-                  "xDnPdDpULeJO"
+                  "p85nqA3wRR1p"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -287,10 +385,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "8xa5h1_QTKLpi": {
-                "id": "8xa5h1_QTKLpi",
+              "v8vp4r_Gwm2qj": {
+                "id": "v8vp4r_Gwm2qj",
                 "childIds": [
-                  "dKQJhl5nPZ6F"
+                  "MF5Fw5ZHIGnl"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -299,10 +397,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "8xa5h1_virQG4": {
-                "id": "8xa5h1_virQG4",
+              "v8vp4r_hAe7zc": {
+                "id": "v8vp4r_hAe7zc",
                 "childIds": [
-                  "QYgpNx1Cpvdc"
+                  "kQskcvsmiYqG"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -311,70 +409,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "BTDOBb_2eVCJ4": {
-                "id": "BTDOBb_2eVCJ4",
+              "v8vp4r_wheGKi": {
+                "id": "v8vp4r_wheGKi",
                 "childIds": [
-                  "dzvgmzCAZmC6"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "BTDOBb_virQG4": {
-                "id": "BTDOBb_virQG4",
-                "childIds": [
-                  "PKX9fArWUcFI"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "FJkRdr_2eVCJ4": {
-                "id": "FJkRdr_2eVCJ4",
-                "childIds": [
-                  "i1TH3d12TklG"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "FJkRdr_virQG4": {
-                "id": "FJkRdr_virQG4",
-                "childIds": [
-                  "Npz3GCfyozto"
-                ],
-                "rowSpan": "1",
-                "colSpan": "2",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "k6LSy0_QTKLpi": {
-                "id": "k6LSy0_QTKLpi",
-                "childIds": [
-                  "J5xxY23S6Tv8"
-                ],
-                "rowSpan": "1",
-                "colSpan": "1",
-                "borderKind": "",
-                "borderColor": "",
-                "backgroundColor": "",
-                "verticalAlign": "unknown"
-              },
-              "k6LSy0_virQG4": {
-                "id": "k6LSy0_virQG4",
-                "childIds": [
-                  "giA8x3Nh1tAN"
+                  "HbmvD6qSgtiy"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -389,27 +427,26 @@
             "colHeader": false
           }
         },
-        "PKX9fArWUcFI": {
-          "id": "PKX9fArWUcFI",
-          "parentId": "BTDOBb_virQG4",
+        "HbmvD6qSgtiy": {
+          "id": "HbmvD6qSgtiy",
+          "parentId": "v8vp4r_wheGKi",
           "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "里程碑奖励"
+                  "text": "150万→300万"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "QYgpNx1Cpvdc": {
-          "id": "QYgpNx1Cpvdc",
-          "parentId": "8xa5h1_virQG4",
+        "MF5Fw5ZHIGnl": {
+          "id": "MF5Fw5ZHIGnl",
+          "parentId": "v8vp4r_Gwm2qj",
           "align": "left",
           "kind": "text",
           "text": {
@@ -432,27 +469,10 @@
             "kind": "body"
           }
         },
-        "dKQJhl5nPZ6F": {
-          "id": "dKQJhl5nPZ6F",
-          "parentId": "8xa5h1_QTKLpi",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "960万→1100万"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "dzvgmzCAZmC6": {
-          "id": "dzvgmzCAZmC6",
-          "parentId": "BTDOBb_2eVCJ4",
-          "align": "center",
+        "ZKht1i30UnAK": {
+          "id": "ZKht1i30UnAK",
+          "parentId": "pmsp77_Gwm2qj",
+          "align": "left",
           "kind": "text",
           "text": {
             "inlineElements": [
@@ -460,16 +480,22 @@
                 "bold": true,
                 "kind": "text",
                 "text": {
-                  "text": "地区建设等级"
+                  "text": "协议容量"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "提升。"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "giA8x3Nh1tAN": {
-          "id": "giA8x3Nh1tAN",
-          "parentId": "k6LSy0_virQG4",
+        "b9TJhpzjFZ7o": {
+          "id": "b9TJhpzjFZ7o",
+          "parentId": "9bTyAW_Gwm2qj",
           "align": "left",
           "kind": "text",
           "text": {
@@ -491,57 +517,9 @@
             "kind": "body"
           }
         },
-        "i1TH3d12TklG": {
-          "id": "i1TH3d12TklG",
-          "parentId": "FJkRdr_2eVCJ4",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "bold": true,
-                "kind": "text",
-                "text": {
-                  "text": "10"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "iLmhQc9bzQXd": {
-          "id": "iLmhQc9bzQXd",
-          "parentId": "4UWKtR_QTKLpi",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "kne921fPLbvH": {
-          "id": "kne921fPLbvH",
-          "parentId": "4UWKtR_2eVCJ4",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "q0FkS5gcOgZg": {
-          "id": "q0FkS5gcOgZg",
-          "parentId": "4Mhzwn_QTKLpi",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
-          }
-        },
-        "xDnPdDpULeJO": {
-          "id": "xDnPdDpULeJO",
-          "parentId": "8xa5h1_2eVCJ4",
+        "kQskcvsmiYqG": {
+          "id": "kQskcvsmiYqG",
+          "parentId": "v8vp4r_hAe7zc",
           "align": "center",
           "kind": "text",
           "text": {
@@ -552,6 +530,58 @@
                 "kind": "text",
                 "text": {
                   "text": "武陵"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "p85nqA3wRR1p": {
+          "id": "p85nqA3wRR1p",
+          "parentId": "rmt9jI_wheGKi",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "30→40"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "xU2wc3PCtm2p": {
+          "id": "xU2wc3PCtm2p",
+          "parentId": "pmsp77_wheGKi",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "text",
+                "text": {
+                  "text": "250→300"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "yBsQQqXHoBb5": {
+          "id": "yBsQQqXHoBb5",
+          "parentId": "YVRfhU_hAe7zc",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "5"
                 }
               }
             ],

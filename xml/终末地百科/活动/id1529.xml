@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sklandDocument>
+    <itemId>1529</itemId>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778555466"},"item":{"name":"共贺庆典·此时欢宴","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1778506839","lastAuditPassedAt":"1778505774","tagIds":["10411","10368"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <metainfo>
+        <name>共贺庆典·此时欢宴</name>
+        <cover showInDetail="true"></cover>
+        <subTypes>
+            <subType id="10276">10411</subType>
+            <subType id="10366">10368</subType>
+        </subTypes>
+    </metainfo>
+    <description>
+        <b>庆典活动</b>
+    </description>
+    <chapters name="活动展示">
+        <chapter size="large" name="">
+            <table header="row" widths="157,1003">
+                <tr>
+                    <th col="1" colspan="2">
+                        <img>
+                            <id>6a01d686e9def76680482925</id>
+                            <format>webp</format>
+                            <width>1650</width>
+                            <height>300</height>
+                            <size>98594</size>
+                            <url>https://bbs.hycdn.cn/image/common/20260511/856392/6a01d686e9def76680482925_e71aef33.webp</url>
+                            <description></description>
+                        </img>
+                    </th>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动时间</b></align>
+                    </td>
+                    <td col="2">
+                        2026/05/01 12:00（服务器时间） - 2026/06/05 06:00（UTC+8）
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>活动奖励</b></align>
+                    </td>
+                    <td col="2">
+                        活动开放期间，达成指定活动积分要求后，可解锁并领取奖励【<entry type="link-img" count="0" id="1520"></entry>】与【<entry type="link-img" count="0" id="1519"></entry>】。
+                    </td>
+                </tr>
+                <tr>
+                    <td col="1">
+                        <align value="center"><b>参与条件</b></align>
+                    </td>
+                    <td col="2">
+                        完成主线任务「第一章 - 进程Ⅰ - 基地解围」后，开启【活动】功能
+                    </td>
+                </tr>
+            </table>
+        </chapter>
+    </chapters>
+    <chapters name="活动说明">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <ul>
+                <li>「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。</li>
+                <li>在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。</li>
+                <li>达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。</li>
+            </ul>
+            ※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="活动内容">
+        <chapter size="large" name="">
+            <line kind="5"></line>
+            <quote>
+                <a href="https://act.hypergryph.com/activity/party_together_1/">「此时欢宴」</a>
+            </quote>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+</sklandDocument>

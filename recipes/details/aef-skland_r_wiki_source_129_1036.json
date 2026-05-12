@@ -12,6 +12,11 @@
       "id": "aef-skland.wiki.item_638",
       "amount": 1
     },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1377",
+      "amount": 1
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_129",
@@ -29,39 +34,12 @@
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "6ybutHBImbCQ",
-        "4txNJ7bF9XGU"
+        "WC43wxxLNnXL"
       ],
       "blockMap": {
-        "1IOvaKCWfmiK": {
-          "id": "1IOvaKCWfmiK",
-          "parentId": "ZPn7XKK2jZnO",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "entry",
-                "entry": {
-                  "id": "638",
-                  "showType": "link-imgText",
-                  "count": "0"
-                }
-              },
-              {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "开启获取"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "3qdzlgI76pAb": {
-          "id": "3qdzlgI76pAb",
-          "parentId": "GHur9u",
+        "DYT5PtIHtK7B": {
+          "id": "DYT5PtIHtK7B",
+          "parentId": "IXze0YKSn82Z",
           "align": "left",
           "kind": "text",
           "text": {
@@ -77,22 +55,21 @@
             "kind": "body"
           }
         },
-        "4txNJ7bF9XGU": {
-          "id": "4txNJ7bF9XGU",
+        "WC43wxxLNnXL": {
+          "id": "WC43wxxLNnXL",
           "parentId": "document-id",
           "kind": "list",
           "list": {
-            "id": "4txNJ7bF9XGU",
+            "id": "WC43wxxLNnXL",
             "itemIds": [
-              "GHur9u",
-              "XRaKgD2msBHz",
-              "ZPn7XKK2jZnO"
+              "IXze0YKSn82Z",
+              "XRaKgD2msBHz"
             ],
             "itemMap": {
-              "GHur9u": {
-                "id": "GHur9u",
+              "IXze0YKSn82Z": {
+                "id": "IXze0YKSn82Z",
                 "childIds": [
-                  "3qdzlgI76pAb"
+                  "DYT5PtIHtK7B"
                 ]
               },
               "XRaKgD2msBHz": {
@@ -100,25 +77,9 @@
                 "childIds": [
                   "t6FHKeVn3b7A"
                 ]
-              },
-              "ZPn7XKK2jZnO": {
-                "id": "ZPn7XKK2jZnO",
-                "childIds": [
-                  "1IOvaKCWfmiK"
-                ]
               }
             },
             "kind": "unordered"
-          }
-        },
-        "6ybutHBImbCQ": {
-          "id": "6ybutHBImbCQ",
-          "parentId": "document-id",
-          "align": "left",
-          "kind": "text",
-          "text": {
-            "inlineElements": [],
-            "kind": "body"
           }
         },
         "t6FHKeVn3b7A": {
@@ -129,6 +90,12 @@
           "text": {
             "inlineElements": [
               {
+                "kind": "text",
+                "text": {
+                  "text": "武库箱开启-"
+                }
+              },
+              {
                 "kind": "entry",
                 "entry": {
                   "id": "639",
@@ -137,10 +104,19 @@
                 }
               },
               {
-                "color": "light_text_primary",
-                "kind": "text",
-                "text": {
-                  "text": "开启获取"
+                "kind": "entry",
+                "entry": {
+                  "id": "638",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1377",
+                  "showType": "link-imgText",
+                  "count": "0"
                 }
               }
             ],

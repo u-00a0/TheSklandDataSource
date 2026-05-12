@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sklandDocument>
     <itemId>1276</itemId>
-    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778468824"},"item":{"name":"丰碑留名·炽痕","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1774619683","lastAuditPassedAt":"1775495008","tagIds":["10369","10368"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778554896"},"item":{"name":"丰碑留名·炽痕","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1774619683","lastAuditPassedAt":"1778504915","tagIds":["10369","10368"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
     <metainfo>
         <name>丰碑留名·炽痕</name>
         <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260326/856392/69c4dd36d04467ac08dcaab3_2f76db19.png</cover>
@@ -13,8 +13,8 @@
     <description>
         <b>挑战活动</b>
     </description>
-    <chapters name="活动详情">
-        <chapter size="large" name="活动展示">
+    <chapters name="活动展示">
+        <chapter size="large" name="">
             <table header="row" widths="157,1003">
                 <tr>
                     <th col="1" colspan="2">
@@ -48,7 +48,9 @@
                 </tr>
             </table>
         </chapter>
-        <chapter size="large" name="活动说明">
+    </chapters>
+    <chapters name="活动说明">
+        <chapter size="large" name="">
             <line kind="5"></line>
             <ul>
                 <li>「影拓丰碑」 - 「灼痛疤痕」系列开放后，将开启「丰碑留名·炽痕」限时活动。活动期间在「影拓丰碑」完成对应挑战，即可领取「丰碑留名·炽痕」活动奖励。</li>
@@ -72,7 +74,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">在「影拓丰碑」中，通关普通模式“怨憎雾海”</align>
+                        <align value="center">在「<entry type="link-img" count="0" id="1275"></entry>」中，通关普通模式“怨憎雾海”</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
@@ -86,7 +88,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">在「影拓丰碑」中，通关普通模式“血肉熔点”</align>
+                        <align value="center">在「<entry type="link-img" count="0" id="1275"></entry>」中，通关普通模式“血肉熔点”</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
@@ -100,7 +102,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">在「影拓丰碑」中，通关普通模式“呼吼炽焰”</align>
+                        <align value="center">在「<entry type="link-img" count="0" id="1275"></entry>」中，通关普通模式“呼吼炽焰”</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
@@ -114,7 +116,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">活动期间，在“灼痛疤痕”中，累计对敌人造成50万伤害</align>
+                        <align value="center">活动期间，在“<entry type="link-img" count="0" id="1275"></entry>（灼痛疤痕）”中，累计对敌人造成50万伤害</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
@@ -128,7 +130,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">活动期间，挑战“灼痛疤痕”任意关卡3次</align>
+                        <align value="center">活动期间，挑战“<entry type="link-img" count="0" id="1275"></entry>（灼痛疤痕）”任意关卡3次</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
@@ -142,7 +144,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">活动期间，挑战“灼痛疤痕”任意苦难模式关卡1次</align>
+                        <align value="center">活动期间，挑战“<entry type="link-img" count="0" id="1275"></entry>（灼痛疤痕）”任意苦难模式关卡1次</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
@@ -156,7 +158,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">活动期间，在「影拓丰碑」中，累计对敌人造成100万伤害</align>
+                        <align value="center">活动期间，在「<entry type="link-img" count="0" id="1275"></entry>」中，累计对敌人造成100万伤害</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>
@@ -170,7 +172,7 @@
                 </tr>
                 <tr>
                     <th col="1" colspan="3">
-                        <align value="center">活动期间，在「影拓丰碑」中，挑战任意关卡3次</align>
+                        <align value="center">活动期间，在「<entry type="link-img" count="0" id="1275"></entry>」中，挑战任意关卡3次</align>
                     </th>
                     <td col="4">
                         <align value="center"><entry type="card-big" count="150" id="926"></entry></align>

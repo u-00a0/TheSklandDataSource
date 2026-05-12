@@ -1,0 +1,724 @@
+{
+  "key": {
+    "id": "aef-skland.wiki.item_1529"
+  },
+  "name": "共贺庆典·此时欢宴",
+  "description": "获取方式:\n「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。 在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。 达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。\n※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。",
+  "tags": [
+    "main:终末地百科",
+    "sub:活动"
+  ],
+  "source": "终末地百科/活动/id1529.json",
+  "wiki": {
+    "code": 0,
+    "message": "OK",
+    "timestamp": "1778555466",
+    "data": {
+      "item": {
+        "itemId": "1529",
+        "document": {
+          "documentMap": {
+            "1Bnx48I8": {
+              "id": "document-id",
+              "blockIds": [
+                "RlWjKF"
+              ],
+              "blockMap": {
+                "CLRcMjmUSGid": {
+                  "id": "CLRcMjmUSGid",
+                  "parentId": "60RaI3_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动开放期间，达成指定活动积分要求后，可解锁并领取奖励【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1520",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】与【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1519",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "HdaFYU": {
+                  "id": "HdaFYU",
+                  "parentId": "75PtSE_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "2026/05/01 12:00（服务器时间） - 2026/06/05 06:00（UTC+8）"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "K0YWVzsAfvlD": {
+                  "id": "K0YWVzsAfvlD",
+                  "parentId": "60RaI3_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动奖励"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "RlWjKF": {
+                  "id": "RlWjKF",
+                  "parentId": "document-id",
+                  "kind": "table",
+                  "table": {
+                    "id": "RlWjKF",
+                    "rowIds": [
+                      "IFHv28",
+                      "75PtSE",
+                      "60RaI3",
+                      "CfHnSk"
+                    ],
+                    "columnIds": [
+                      "hn1Qaj",
+                      "dxAzT8"
+                    ],
+                    "rowMap": {
+                      "60RaI3": {
+                        "id": "60RaI3"
+                      },
+                      "75PtSE": {
+                        "id": "75PtSE"
+                      },
+                      "CfHnSk": {
+                        "id": "CfHnSk"
+                      },
+                      "IFHv28": {
+                        "id": "IFHv28"
+                      }
+                    },
+                    "columnMap": {
+                      "dxAzT8": {
+                        "id": "dxAzT8",
+                        "width": 1003
+                      },
+                      "hn1Qaj": {
+                        "id": "hn1Qaj",
+                        "width": 157
+                      }
+                    },
+                    "cellMap": {
+                      "60RaI3_dxAzT8": {
+                        "id": "60RaI3_dxAzT8",
+                        "childIds": [
+                          "CLRcMjmUSGid"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "60RaI3_hn1Qaj": {
+                        "id": "60RaI3_hn1Qaj",
+                        "childIds": [
+                          "K0YWVzsAfvlD"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_dxAzT8": {
+                        "id": "75PtSE_dxAzT8",
+                        "childIds": [
+                          "HdaFYU"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "75PtSE_hn1Qaj": {
+                        "id": "75PtSE_hn1Qaj",
+                        "childIds": [
+                          "oOhutB"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_dxAzT8": {
+                        "id": "CfHnSk_dxAzT8",
+                        "childIds": [
+                          "zewnXT"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "CfHnSk_hn1Qaj": {
+                        "id": "CfHnSk_hn1Qaj",
+                        "childIds": [
+                          "mikKCH"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "1",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      },
+                      "IFHv28_hn1Qaj": {
+                        "id": "IFHv28_hn1Qaj",
+                        "childIds": [
+                          "ZcG4Y9k55yS8"
+                        ],
+                        "rowSpan": "1",
+                        "colSpan": "2",
+                        "borderKind": "",
+                        "borderColor": "",
+                        "backgroundColor": "",
+                        "verticalAlign": "unknown"
+                      }
+                    },
+                    "description": "",
+                    "rowHeader": true,
+                    "colHeader": false
+                  }
+                },
+                "ZcG4Y9k55yS8": {
+                  "id": "ZcG4Y9k55yS8",
+                  "parentId": "IFHv28_hn1Qaj",
+                  "kind": "image",
+                  "image": {
+                    "id": "6a01d686e9def76680482925",
+                    "url": "https://bbs.hycdn.cn/image/common/20260511/856392/6a01d686e9def76680482925_e71aef33.webp",
+                    "width": "1650",
+                    "height": "300",
+                    "size": "98594",
+                    "format": "webp",
+                    "kind": "",
+                    "description": "",
+                    "clientWidth": 1135,
+                    "status": "",
+                    "infos": []
+                  }
+                },
+                "mikKCH": {
+                  "id": "mikKCH",
+                  "parentId": "CfHnSk_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "参与条件"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "oOhutB": {
+                  "id": "oOhutB",
+                  "parentId": "75PtSE_hn1Qaj",
+                  "align": "center",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "kind": "text",
+                        "text": {
+                          "text": "活动时间"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zewnXT": {
+                  "id": "zewnXT",
+                  "parentId": "CfHnSk_dxAzT8",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "完成主线任务「第一章 - 进程Ⅰ - 基地解围」后，开启【活动】功能"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "PKrI2dle": {
+              "id": "document-id",
+              "blockIds": [
+                "iRAW0J7pFucL",
+                "dMcmieHxUZ7c",
+                "Gly2UcroLfyq"
+              ],
+              "blockMap": {
+                "Gly2UcroLfyq": {
+                  "id": "Gly2UcroLfyq",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "U8xAS3Y2dfh7": {
+                  "id": "U8xAS3Y2dfh7",
+                  "parentId": "dMcmieHxUZ7c",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "link",
+                        "link": {
+                          "link": "https://act.hypergryph.com/activity/party_together_1/",
+                          "text": "「此时欢宴」"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "dMcmieHxUZ7c": {
+                  "id": "dMcmieHxUZ7c",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "U8xAS3Y2dfh7"
+                    ]
+                  }
+                },
+                "iRAW0J7pFucL": {
+                  "id": "iRAW0J7pFucL",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "pQLGe4Xn": {
+              "id": "document-id",
+              "blockIds": [
+                "p1dUvsFmuMWe",
+                "LIlKjR8YDDvy",
+                "evW4NQy2p8sU",
+                "9ARPrkN07tcQ"
+              ],
+              "blockMap": {
+                "2OrFdPcrPHeh": {
+                  "id": "2OrFdPcrPHeh",
+                  "parentId": "YKD2iuE70FSi",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7kqKwK55JJ9z": {
+                  "id": "7kqKwK55JJ9z",
+                  "parentId": "YWht3YRRWRWG",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9ARPrkN07tcQ": {
+                  "id": "9ARPrkN07tcQ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "LIlKjR8YDDvy": {
+                  "id": "LIlKjR8YDDvy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "LIlKjR8YDDvy",
+                    "itemIds": [
+                      "9C8LpyKsuhb0",
+                      "YWht3YRRWRWG",
+                      "YKD2iuE70FSi"
+                    ],
+                    "itemMap": {
+                      "9C8LpyKsuhb0": {
+                        "id": "9C8LpyKsuhb0",
+                        "childIds": [
+                          "MjP3HIrFOJc3"
+                        ]
+                      },
+                      "YKD2iuE70FSi": {
+                        "id": "YKD2iuE70FSi",
+                        "childIds": [
+                          "2OrFdPcrPHeh"
+                        ]
+                      },
+                      "YWht3YRRWRWG": {
+                        "id": "YWht3YRRWRWG",
+                        "childIds": [
+                          "7kqKwK55JJ9z"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "MjP3HIrFOJc3": {
+                  "id": "MjP3HIrFOJc3",
+                  "parentId": "9C8LpyKsuhb0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "evW4NQy2p8sU": {
+                  "id": "evW4NQy2p8sU",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "p1dUvsFmuMWe": {
+                  "id": "p1dUvsFmuMWe",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            }
+          },
+          "chapterGroup": [
+            {
+              "title": "活动展示",
+              "widgets": [
+                {
+                  "id": "0OLkjM9m",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "活动说明",
+              "widgets": [
+                {
+                  "id": "Zs3TH0Gw",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            },
+            {
+              "title": "活动内容",
+              "widgets": [
+                {
+                  "id": "TowuJTjA",
+                  "title": "",
+                  "size": "large"
+                }
+              ]
+            }
+          ],
+          "extraInfo": {
+            "showType": "",
+            "illustration": "",
+            "composite": ""
+          },
+          "widgetCommonMap": {
+            "0OLkjM9m": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "1Bnx48I8",
+                  "audioList": []
+                }
+              }
+            },
+            "TowuJTjA": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "PKrI2dle",
+                  "audioList": []
+                }
+              }
+            },
+            "Zs3TH0Gw": {
+              "type": "common",
+              "tableList": [],
+              "tabList": [],
+              "tabDataMap": {
+                "default": {
+                  "intro": null,
+                  "content": "pQLGe4Xn",
+                  "audioList": []
+                }
+              }
+            }
+          }
+        },
+        "name": "共贺庆典·此时欢宴",
+        "mainType": {
+          "id": "1",
+          "name": "终末地百科",
+          "status": 2,
+          "position": 1,
+          "typeSub": []
+        },
+        "subType": {
+          "id": "9",
+          "name": "活动",
+          "fatherTypeId": "1",
+          "style": 8,
+          "status": 2,
+          "position": 12,
+          "icon": "",
+          "items": [],
+          "filterTagTree": [
+            {
+              "id": "10276",
+              "children": [
+                {
+                  "id": "10277",
+                  "children": [],
+                  "name": "零号委托",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10369",
+                  "children": [],
+                  "name": "新潮起，故渊离",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10411",
+                  "children": [],
+                  "name": "春晓时",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "版本",
+              "type": 1,
+              "value": "",
+              "hide": false
+            },
+            {
+              "id": "10366",
+              "children": [
+                {
+                  "id": "10368",
+                  "children": [],
+                  "name": "限时活动",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                },
+                {
+                  "id": "10367",
+                  "children": [],
+                  "name": "常驻活动",
+                  "type": 1,
+                  "value": "",
+                  "hide": false
+                }
+              ],
+              "name": "活动类型",
+              "type": 1,
+              "value": "",
+              "hide": false
+            }
+          ]
+        },
+        "lang": "zh_Hans",
+        "lastUpdatedUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
+        },
+        "createdUser": {
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
+          "avatarCode": 0,
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
+        },
+        "brief": {
+          "cover": "",
+          "name": "共贺庆典·此时欢宴",
+          "description": {
+            "id": "document-id",
+            "blockIds": [
+              "e1I0lH"
+            ],
+            "blockMap": {
+              "e1I0lH": {
+                "id": "e1I0lH",
+                "parentId": "document-id",
+                "align": "left",
+                "kind": "text",
+                "text": {
+                  "inlineElements": [
+                    {
+                      "bold": true,
+                      "kind": "text",
+                      "text": {
+                        "text": "庆典活动"
+                      }
+                    }
+                  ],
+                  "kind": "body"
+                }
+              }
+            },
+            "authorMap": {},
+            "version": "1.0.0"
+          },
+          "associate": null,
+          "dotType": "",
+          "subTypeList": [
+            {
+              "subTypeId": "10276",
+              "value": "10411"
+            },
+            {
+              "subTypeId": "10366",
+              "value": "10368"
+            }
+          ],
+          "composite": null,
+          "disableCoverShowInDetail": false
+        },
+        "status": 2,
+        "publishedAtTs": "1778506839",
+        "lastAuditPassedAt": "1778505774",
+        "tagIds": [
+          "10411",
+          "10368"
+        ]
+      }
+    }
+  }
+}

@@ -12,13 +12,13 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778468824",
+    "timestamp": "1778554896",
     "data": {
       "item": {
         "itemId": "1276",
         "document": {
           "documentMap": {
-            "22x8NIfK": {
+            "0dLiuVf3": {
               "id": "document-id",
               "blockIds": [
                 "RlWjKF"
@@ -254,51 +254,51 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "78lcE4VZ": {
+            "OyWdTVQh": {
               "id": "document-id",
               "blockIds": [
-                "gAd6KM",
-                "EitiKm",
-                "ZAF0Ne"
+                "yPWt5AgjGjdi",
+                "5q2c8zLkkBIB",
+                "Tksf7ZZPafqZ"
               ],
               "blockMap": {
-                "EitiKm": {
-                  "id": "EitiKm",
+                "5q2c8zLkkBIB": {
+                  "id": "5q2c8zLkkBIB",
                   "parentId": "document-id",
                   "kind": "list",
                   "list": {
-                    "id": "EitiKm",
+                    "id": "5q2c8zLkkBIB",
                     "itemIds": [
-                      "x3G7JC",
-                      "VdYqljUkdZCU",
-                      "G8uuBbZpEeT5"
+                      "EWWBzg5TobkE",
+                      "t6SjlorgmBql",
+                      "9o9Q2uDgC5ew"
                     ],
                     "itemMap": {
-                      "G8uuBbZpEeT5": {
-                        "id": "G8uuBbZpEeT5",
+                      "9o9Q2uDgC5ew": {
+                        "id": "9o9Q2uDgC5ew",
                         "childIds": [
-                          "pAX3sIXQprzI"
+                          "Do49qrLJOGUF"
                         ]
                       },
-                      "VdYqljUkdZCU": {
-                        "id": "VdYqljUkdZCU",
+                      "EWWBzg5TobkE": {
+                        "id": "EWWBzg5TobkE",
                         "childIds": [
-                          "THegVvKP0mCM"
+                          "oSko1t8MmwmL"
                         ]
                       },
-                      "x3G7JC": {
-                        "id": "x3G7JC",
+                      "t6SjlorgmBql": {
+                        "id": "t6SjlorgmBql",
                         "childIds": [
-                          "gYP4sdBVQUGd"
+                          "xjBbLscYcfg9"
                         ]
                       }
                     },
                     "kind": "unordered"
                   }
                 },
-                "THegVvKP0mCM": {
-                  "id": "THegVvKP0mCM",
-                  "parentId": "VdYqljUkdZCU",
+                "Do49qrLJOGUF": {
+                  "id": "Do49qrLJOGUF",
+                  "parentId": "9o9Q2uDgC5ew",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -306,32 +306,24 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "当管理员达到指定权限等阶后，即可解锁「影拓丰碑」系列关卡。"
+                          "text": "在「影拓丰碑」中完成对应挑战，即可领取「丰碑留名」活动奖励。"
                         }
                       }
                     ],
                     "kind": "body"
                   }
                 },
-                "ZAF0Ne": {
-                  "id": "ZAF0Ne",
+                "Tksf7ZZPafqZ": {
+                  "id": "Tksf7ZZPafqZ",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
                     "kind": "2"
                   }
                 },
-                "gAd6KM": {
-                  "id": "gAd6KM",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                },
-                "gYP4sdBVQUGd": {
-                  "id": "gYP4sdBVQUGd",
-                  "parentId": "x3G7JC",
+                "oSko1t8MmwmL": {
+                  "id": "oSko1t8MmwmL",
+                  "parentId": "EWWBzg5TobkE",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -346,9 +338,9 @@
                     "kind": "body"
                   }
                 },
-                "pAX3sIXQprzI": {
-                  "id": "pAX3sIXQprzI",
-                  "parentId": "G8uuBbZpEeT5",
+                "xjBbLscYcfg9": {
+                  "id": "xjBbLscYcfg9",
+                  "parentId": "t6SjlorgmBql",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -356,18 +348,26 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "在「影拓丰碑」中完成对应挑战，即可领取「丰碑留名」活动奖励。"
+                          "text": "当管理员达到指定权限等阶后，即可解锁「影拓丰碑」系列关卡。"
                         }
                       }
                     ],
                     "kind": "body"
+                  }
+                },
+                "yPWt5AgjGjdi": {
+                  "id": "yPWt5AgjGjdi",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
                   }
                 }
               },
               "authorMap": {},
               "version": "1.0.0"
             },
-            "sUJJ7hVn": {
+            "v8ZFSQrO": {
               "id": "document-id",
               "blockIds": [
                 "iRAW0J7pFucL",
@@ -449,7 +449,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "「影拓丰碑」"
+                          "text": "「"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "」"
                         }
                       },
                       {
@@ -536,7 +551,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "「影拓丰碑」"
+                          "text": "「"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "」"
                         }
                       },
                       {
@@ -628,6 +658,20 @@
                         }
                       },
                       {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
@@ -637,7 +681,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "”中，累计对敌人造成50万伤害"
+                          "text": "）”中，累计对敌人造成50万伤害"
                         }
                       }
                     ],
@@ -680,7 +724,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "「影拓丰碑」"
+                          "text": "「"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "」"
                         }
                       },
                       {
@@ -744,6 +803,20 @@
                         }
                       },
                       {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
@@ -753,7 +826,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "”任意苦难模式关卡1次"
+                          "text": "）”任意苦难模式关卡1次"
                         }
                       }
                     ],
@@ -937,7 +1010,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "「影拓丰碑」"
+                          "text": "「"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "」"
                         }
                       },
                       {
@@ -1042,7 +1130,22 @@
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
-                          "text": "「影拓丰碑」"
+                          "text": "「"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "」"
                         }
                       },
                       {
@@ -1602,6 +1705,20 @@
                         }
                       },
                       {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1275",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "（"
+                        }
+                      },
+                      {
                         "color": "light_text_primary",
                         "kind": "text",
                         "text": {
@@ -1611,7 +1728,7 @@
                       {
                         "kind": "text",
                         "text": {
-                          "text": "”任意关卡3次"
+                          "text": "）”任意关卡3次"
                         }
                       }
                     ],
@@ -1625,16 +1742,21 @@
           },
           "chapterGroup": [
             {
-              "title": "活动详情",
+              "title": "活动展示",
               "widgets": [
                 {
                   "id": "0OLkjM9m",
-                  "title": "活动展示",
+                  "title": "",
                   "size": "large"
-                },
+                }
+              ]
+            },
+            {
+              "title": "活动说明",
+              "widgets": [
                 {
-                  "id": "HCX2sgXW",
-                  "title": "活动说明",
+                  "id": "4OpxvK66",
+                  "title": "",
                   "size": "large"
                 }
               ]
@@ -1663,19 +1785,19 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "22x8NIfK",
+                  "content": "0dLiuVf3",
                   "audioList": []
                 }
               }
             },
-            "HCX2sgXW": {
+            "4OpxvK66": {
               "type": "common",
               "tableList": [],
               "tabList": [],
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "78lcE4VZ",
+                  "content": "OyWdTVQh",
                   "audioList": []
                 }
               }
@@ -1687,7 +1809,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "sUJJ7hVn",
+                  "content": "v8ZFSQrO",
                   "audioList": []
                 }
               }
@@ -1774,10 +1896,10 @@
         },
         "lang": "zh_Hans",
         "lastUpdatedUser": {
-          "id": "4593074404014",
-          "nickname": "梦溪潇",
+          "id": "6507876905028",
+          "nickname": "喝奶茶的狸酥",
           "avatarCode": 0,
-          "avatar": "https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"
+          "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
         },
         "createdUser": {
           "id": "6507876905028",
@@ -1833,7 +1955,7 @@
         },
         "status": 2,
         "publishedAtTs": "1774619683",
-        "lastAuditPassedAt": "1775495008",
+        "lastAuditPassedAt": "1778504915",
         "tagIds": [
           "10369",
           "10368"
