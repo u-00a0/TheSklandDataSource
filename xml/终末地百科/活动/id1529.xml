@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sklandDocument>
     <itemId>1529</itemId>
-    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778555466"},"item":{"name":"共贺庆典·此时欢宴","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1778506839","lastAuditPassedAt":"1778505774","tagIds":["10411","10368"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778642115"},"item":{"name":"共贺庆典·此时欢宴","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"9","name":"活动","fatherTypeId":"1","style":8,"status":2,"position":12,"icon":"","items":[],"filterTagTree":[{"id":"10276","children":[{"id":"10277","children":[],"name":"零号委托","type":1,"value":"","hide":false},{"id":"10369","children":[],"name":"新潮起，故渊离","type":1,"value":"","hide":false},{"id":"10411","children":[],"name":"春晓时","type":1,"value":"","hide":false}],"name":"版本","type":1,"value":"","hide":false},{"id":"10366","children":[{"id":"10368","children":[],"name":"限时活动","type":1,"value":"","hide":false},{"id":"10367","children":[],"name":"常驻活动","type":1,"value":"","hide":false}],"name":"活动类型","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"status":2,"publishedAtTs":"1778506839","lastAuditPassedAt":"1778580878","tagIds":["10411","10368"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
     <metainfo>
         <name>共贺庆典·此时欢宴</name>
-        <cover showInDetail="true"></cover>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260512/856392/6a02f0696336cd2ccf6a9dd9_56331367.png</cover>
         <subTypes>
             <subType id="10276">10411</subType>
             <subType id="10366">10368</subType>
@@ -70,11 +70,44 @@
     </chapters>
     <chapters name="活动内容">
         <chapter size="large" name="">
-            <line kind="5"></line>
-            <quote>
-                <a href="https://act.hypergryph.com/activity/party_together_1/">「此时欢宴」</a>
-            </quote>
-            <line kind="2"></line>
+            <tab name="此时欢宴" icon="">
+                <line kind="5"></line>
+                <h1>此时欢宴</h1>
+                <line kind="4"></line>
+                <quote>
+                    <b>-活动规则-</b>
+                </quote>
+                <ul>
+                    <li>活动期间，玩家登录通行证,选择《明日方舟》或《明日方舟:终末地》中任一符合活动参与条件的游戏角色，即可参与活动。</li>
+                    <li>《明日方舟》角色的参与条件为完成《明日方舟》角色创建并解锁邮件功能。</li>
+                    <li>《明日方舟:终末地》角色的参与条件为《明日方舟:终末地》活动中心解锁后。玩家可通过堆叠蛋糕获取积分。达到指定积分后玩家可解锁并领取对应的游戏奖励。 </li>
+                </ul>
+                <line kind="4"></line>
+                <quote>
+                    <b>-活动奖励-</b>
+                </quote>
+                <ul>
+                    <li>《明日方舟》游戏内奖励【头像·同行】、【头像·相庆】 </li>
+                    <li>《明日方舟:终末地》游戏内奖励【<entry type="link-img" count="0" id="1520"></entry>】、【<entry type="link-img" count="0" id="1519"></entry>】</li>
+                </ul>
+                ※奖励将通过游戏内邮件发放。活动奖励邮件有效期为奖励领取后的30天,请及时在游戏内领取。超过30天未领取的奖励将失效,奖励失效后不再补发。
+                <line kind="4"></line>
+                <quote>
+                    <b>-活动注意事项-</b>
+                </quote>
+                <ul>
+                    <li>同一游戏角色，对应游戏奖励限领取一次，切换登录的角色后需要重新参与活动方可领取奖励。</li>
+                    <li>本次活动奖励需在《明日方舟》和《明日方舟:终末地》对应奖励领取界面手动领取。</li>
+                    <li>活动结束后将无法参与活动或领取奖励,奖励不予补发,请及时参与。</li>
+                </ul>
+                <line kind="4"></line>
+                <quote>
+                    <b>-跳转链接-</b>
+                </quote>
+                <ul>
+                    <li><a href="https://act.hypergryph.com/activity/party_together_1/">「此时欢宴」</a></li>
+                </ul>
+            </tab>
         </chapter>
     </chapters>
 </sklandDocument>

@@ -3,7 +3,8 @@
     "id": "aef-skland.wiki.item_1529"
   },
   "name": "共贺庆典·此时欢宴",
-  "description": "获取方式:\n「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。 在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。 达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。\n※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。",
+  "icon": "https://bbs.hycdn.cn/image/common/20260512/856392/6a02f0696336cd2ccf6a9dd9_56331367.png",
+  "description": "获取方式:\n「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。 在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。 达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。\n※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。\n此时欢宴\n-活动规则-\n活动期间，玩家登录通行证,选择《明日方舟》或《明日方舟:终末地》中任一符合活动参与条件的游戏角色，即可参与活动。 《明日方舟》角色的参与条件为完成《明日方舟》角色创建并解锁邮件功能。 《明日方舟:终末地》角色的参与条件为《明日方舟:终末地》活动中心解锁后。玩家可通过堆叠蛋糕获取积分。达到指定积分后玩家可解锁并领取对应的游戏奖励。\n-活动奖励-",
   "tags": [
     "main:终末地百科",
     "sub:活动"
@@ -12,13 +13,144 @@
   "wiki": {
     "code": 0,
     "message": "OK",
-    "timestamp": "1778555466",
+    "timestamp": "1778642115",
     "data": {
       "item": {
         "itemId": "1529",
         "document": {
           "documentMap": {
-            "1Bnx48I8": {
+            "8XPDRKi8": {
+              "id": "document-id",
+              "blockIds": [
+                "p1dUvsFmuMWe",
+                "LIlKjR8YDDvy",
+                "evW4NQy2p8sU",
+                "9ARPrkN07tcQ"
+              ],
+              "blockMap": {
+                "2OrFdPcrPHeh": {
+                  "id": "2OrFdPcrPHeh",
+                  "parentId": "YKD2iuE70FSi",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "7kqKwK55JJ9z": {
+                  "id": "7kqKwK55JJ9z",
+                  "parentId": "YWht3YRRWRWG",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "9ARPrkN07tcQ": {
+                  "id": "9ARPrkN07tcQ",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "2"
+                  }
+                },
+                "LIlKjR8YDDvy": {
+                  "id": "LIlKjR8YDDvy",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "LIlKjR8YDDvy",
+                    "itemIds": [
+                      "9C8LpyKsuhb0",
+                      "YWht3YRRWRWG",
+                      "YKD2iuE70FSi"
+                    ],
+                    "itemMap": {
+                      "9C8LpyKsuhb0": {
+                        "id": "9C8LpyKsuhb0",
+                        "childIds": [
+                          "MjP3HIrFOJc3"
+                        ]
+                      },
+                      "YKD2iuE70FSi": {
+                        "id": "YKD2iuE70FSi",
+                        "childIds": [
+                          "2OrFdPcrPHeh"
+                        ]
+                      },
+                      "YWht3YRRWRWG": {
+                        "id": "YWht3YRRWRWG",
+                        "childIds": [
+                          "7kqKwK55JJ9z"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "MjP3HIrFOJc3": {
+                  "id": "MjP3HIrFOJc3",
+                  "parentId": "9C8LpyKsuhb0",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "evW4NQy2p8sU": {
+                  "id": "evW4NQy2p8sU",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "p1dUvsFmuMWe": {
+                  "id": "p1dUvsFmuMWe",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                }
+              },
+              "authorMap": {},
+              "version": "1.0.0"
+            },
+            "PyWJG2QM": {
               "id": "document-id",
               "blockIds": [
                 "RlWjKF"
@@ -250,7 +382,8 @@
                     "description": "",
                     "clientWidth": 1135,
                     "status": "",
-                    "infos": []
+                    "infos": [],
+                    "isAIGC": false
                   }
                 },
                 "mikKCH": {
@@ -310,25 +443,505 @@
               "authorMap": {},
               "version": "1.0.0"
             },
-            "PKrI2dle": {
+            "xvwj1zIW": {
               "id": "document-id",
               "blockIds": [
-                "iRAW0J7pFucL",
-                "dMcmieHxUZ7c",
-                "Gly2UcroLfyq"
+                "gynzj9XVg6Zk",
+                "WZI6VOCItdHm",
+                "nNQo7T6k2zNH",
+                "F12bCMQhaa85",
+                "djykCOEzlql2",
+                "SRxsxsqWNAKd",
+                "snwQ6bUFfIPr",
+                "rw1fBrDrT2Qk",
+                "XZHyWiEp0D5P",
+                "nUjjGIkSIE1Q",
+                "hzo3n9ZY8aeD",
+                "bPD1jXuv2yE1",
+                "7Ve09SgIX0o4",
+                "DLAQoQtOxI3n",
+                "TQ9NfQWi0ASb"
               ],
               "blockMap": {
-                "Gly2UcroLfyq": {
-                  "id": "Gly2UcroLfyq",
+                "7Ve09SgIX0o4": {
+                  "id": "7Ve09SgIX0o4",
                   "parentId": "document-id",
                   "kind": "horizontalLine",
                   "horizontalLine": {
-                    "kind": "2"
+                    "kind": "4"
                   }
                 },
-                "U8xAS3Y2dfh7": {
-                  "id": "U8xAS3Y2dfh7",
-                  "parentId": "dMcmieHxUZ7c",
+                "AQuSUeIysxsI": {
+                  "id": "AQuSUeIysxsI",
+                  "parentId": "xyZEih7DCM6m",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "《明日方舟》游戏内奖励【头像·同行】、【头像·相庆】 "
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "DLAQoQtOxI3n": {
+                  "id": "DLAQoQtOxI3n",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "tLYKSg9gdAEl"
+                    ]
+                  }
+                },
+                "F12bCMQhaa85": {
+                  "id": "F12bCMQhaa85",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "ePXbEB80tInB"
+                    ]
+                  }
+                },
+                "HRo2KKYgjuRR": {
+                  "id": "HRo2KKYgjuRR",
+                  "parentId": "GC2TGNTtrDDA",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动结束后将无法参与活动或领取奖励,奖励不予补发,请及时参与。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "HaCLarLr0xbR": {
+                  "id": "HaCLarLr0xbR",
+                  "parentId": "4wkfw41WscI2",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "本次活动奖励需在《明日方舟》和《明日方舟:终末地》对应奖励领取界面手动领取。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "SRxsxsqWNAKd": {
+                  "id": "SRxsxsqWNAKd",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "4"
+                  }
+                },
+                "T3KWa70yKdxS": {
+                  "id": "T3KWa70yKdxS",
+                  "parentId": "hzo3n9ZY8aeD",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "-活动注意事项-"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "TQ9NfQWi0ASb": {
+                  "id": "TQ9NfQWi0ASb",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "TQ9NfQWi0ASb",
+                    "itemIds": [
+                      "SF93EsvsymtY"
+                    ],
+                    "itemMap": {
+                      "SF93EsvsymtY": {
+                        "id": "SF93EsvsymtY",
+                        "childIds": [
+                          "zlK6dbzD6Cuv"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "V8Izu7QvS4b3": {
+                  "id": "V8Izu7QvS4b3",
+                  "parentId": "OvZkHzBR7JRu",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "《明日方舟》角色的参与条件为完成《明日方舟》角色创建并解锁邮件功能。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "WZI6VOCItdHm": {
+                  "id": "WZI6VOCItdHm",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "此时欢宴"
+                        }
+                      }
+                    ],
+                    "kind": "heading1"
+                  }
+                },
+                "X2qqPv0OQXpa": {
+                  "id": "X2qqPv0OQXpa",
+                  "parentId": "4zW2sWNMOY88",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "《明日方舟:终末地》游戏内奖励【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1520",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】、【"
+                        }
+                      },
+                      {
+                        "kind": "entry",
+                        "entry": {
+                          "id": "1519",
+                          "showType": "link-imgText",
+                          "count": "0"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "】"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "XZHyWiEp0D5P": {
+                  "id": "XZHyWiEp0D5P",
+                  "parentId": "document-id",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "※"
+                        }
+                      },
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "奖励将通过游戏内邮件发放。活动奖励邮件有效期为奖励领取后的30天,请及时在游戏内领取。超过30天未领取的奖励将失效,奖励失效后不再补发。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "ZEWXe4KP9XzW": {
+                  "id": "ZEWXe4KP9XzW",
+                  "parentId": "gMASTX2x8geg",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "同一游戏角色，对应游戏奖励限领取一次，切换登录的角色后需要重新参与活动方可领取奖励。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "bPD1jXuv2yE1": {
+                  "id": "bPD1jXuv2yE1",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "bPD1jXuv2yE1",
+                    "itemIds": [
+                      "gMASTX2x8geg",
+                      "4wkfw41WscI2",
+                      "GC2TGNTtrDDA"
+                    ],
+                    "itemMap": {
+                      "4wkfw41WscI2": {
+                        "id": "4wkfw41WscI2",
+                        "childIds": [
+                          "HaCLarLr0xbR"
+                        ]
+                      },
+                      "GC2TGNTtrDDA": {
+                        "id": "GC2TGNTtrDDA",
+                        "childIds": [
+                          "HRo2KKYgjuRR"
+                        ]
+                      },
+                      "gMASTX2x8geg": {
+                        "id": "gMASTX2x8geg",
+                        "childIds": [
+                          "ZEWXe4KP9XzW"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "bfzheP34fngj": {
+                  "id": "bfzheP34fngj",
+                  "parentId": "Sco2jfbcrnM7",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "《明日方舟:终末地》角色的参与条件为《明日方舟:终末地》活动中心解锁后。玩家可通过堆叠蛋糕获取积分。达到指定积分后玩家可解锁并领取对应的游戏奖励。 "
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "djykCOEzlql2": {
+                  "id": "djykCOEzlql2",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "djykCOEzlql2",
+                    "itemIds": [
+                      "zCHbAsNbn6Tf",
+                      "OvZkHzBR7JRu",
+                      "Sco2jfbcrnM7"
+                    ],
+                    "itemMap": {
+                      "OvZkHzBR7JRu": {
+                        "id": "OvZkHzBR7JRu",
+                        "childIds": [
+                          "V8Izu7QvS4b3"
+                        ]
+                      },
+                      "Sco2jfbcrnM7": {
+                        "id": "Sco2jfbcrnM7",
+                        "childIds": [
+                          "bfzheP34fngj"
+                        ]
+                      },
+                      "zCHbAsNbn6Tf": {
+                        "id": "zCHbAsNbn6Tf",
+                        "childIds": [
+                          "iMsFmyL0ZZ6G"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "ePXbEB80tInB": {
+                  "id": "ePXbEB80tInB",
+                  "parentId": "F12bCMQhaa85",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "-活动规则-"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "gynzj9XVg6Zk": {
+                  "id": "gynzj9XVg6Zk",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "5"
+                  }
+                },
+                "hzo3n9ZY8aeD": {
+                  "id": "hzo3n9ZY8aeD",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "T3KWa70yKdxS"
+                    ]
+                  }
+                },
+                "iMsFmyL0ZZ6G": {
+                  "id": "iMsFmyL0ZZ6G",
+                  "parentId": "zCHbAsNbn6Tf",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "kind": "text",
+                        "text": {
+                          "text": "活动期间，玩家登录通行证,选择《明日方舟》或《明日方舟:终末地》中任一符合活动参与条件的游戏角色，即可参与活动。"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "nNQo7T6k2zNH": {
+                  "id": "nNQo7T6k2zNH",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "4"
+                  }
+                },
+                "nUjjGIkSIE1Q": {
+                  "id": "nUjjGIkSIE1Q",
+                  "parentId": "document-id",
+                  "kind": "horizontalLine",
+                  "horizontalLine": {
+                    "kind": "4"
+                  }
+                },
+                "oTNZthTcgS90": {
+                  "id": "oTNZthTcgS90",
+                  "parentId": "snwQ6bUFfIPr",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "-活动奖励-"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "rw1fBrDrT2Qk": {
+                  "id": "rw1fBrDrT2Qk",
+                  "parentId": "document-id",
+                  "kind": "list",
+                  "list": {
+                    "id": "rw1fBrDrT2Qk",
+                    "itemIds": [
+                      "xyZEih7DCM6m",
+                      "4zW2sWNMOY88"
+                    ],
+                    "itemMap": {
+                      "4zW2sWNMOY88": {
+                        "id": "4zW2sWNMOY88",
+                        "childIds": [
+                          "X2qqPv0OQXpa"
+                        ]
+                      },
+                      "xyZEih7DCM6m": {
+                        "id": "xyZEih7DCM6m",
+                        "childIds": [
+                          "AQuSUeIysxsI"
+                        ]
+                      }
+                    },
+                    "kind": "unordered"
+                  }
+                },
+                "snwQ6bUFfIPr": {
+                  "id": "snwQ6bUFfIPr",
+                  "parentId": "document-id",
+                  "kind": "quote",
+                  "quote": {
+                    "childIds": [
+                      "oTNZthTcgS90"
+                    ]
+                  }
+                },
+                "tLYKSg9gdAEl": {
+                  "id": "tLYKSg9gdAEl",
+                  "parentId": "DLAQoQtOxI3n",
+                  "align": "left",
+                  "kind": "text",
+                  "text": {
+                    "inlineElements": [
+                      {
+                        "bold": true,
+                        "color": "light_text_primary",
+                        "kind": "text",
+                        "text": {
+                          "text": "-跳转链接-"
+                        }
+                      }
+                    ],
+                    "kind": "body"
+                  }
+                },
+                "zlK6dbzD6Cuv": {
+                  "id": "zlK6dbzD6Cuv",
+                  "parentId": "SF93EsvsymtY",
                   "align": "left",
                   "kind": "text",
                   "text": {
@@ -342,155 +955,6 @@
                       }
                     ],
                     "kind": "body"
-                  }
-                },
-                "dMcmieHxUZ7c": {
-                  "id": "dMcmieHxUZ7c",
-                  "parentId": "document-id",
-                  "kind": "quote",
-                  "quote": {
-                    "childIds": [
-                      "U8xAS3Y2dfh7"
-                    ]
-                  }
-                },
-                "iRAW0J7pFucL": {
-                  "id": "iRAW0J7pFucL",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
-                  }
-                }
-              },
-              "authorMap": {},
-              "version": "1.0.0"
-            },
-            "pQLGe4Xn": {
-              "id": "document-id",
-              "blockIds": [
-                "p1dUvsFmuMWe",
-                "LIlKjR8YDDvy",
-                "evW4NQy2p8sU",
-                "9ARPrkN07tcQ"
-              ],
-              "blockMap": {
-                "2OrFdPcrPHeh": {
-                  "id": "2OrFdPcrPHeh",
-                  "parentId": "YKD2iuE70FSi",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "达成活动积分要求后，奖励将通过游戏内邮件发放。邮件有效期为30天，请管理员及时领取。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "7kqKwK55JJ9z": {
-                  "id": "7kqKwK55JJ9z",
-                  "parentId": "YWht3YRRWRWG",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "在「此时欢宴」中，可通过参与堆叠蛋糕玩法获取活动积分。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "9ARPrkN07tcQ": {
-                  "id": "9ARPrkN07tcQ",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "2"
-                  }
-                },
-                "LIlKjR8YDDvy": {
-                  "id": "LIlKjR8YDDvy",
-                  "parentId": "document-id",
-                  "kind": "list",
-                  "list": {
-                    "id": "LIlKjR8YDDvy",
-                    "itemIds": [
-                      "9C8LpyKsuhb0",
-                      "YWht3YRRWRWG",
-                      "YKD2iuE70FSi"
-                    ],
-                    "itemMap": {
-                      "9C8LpyKsuhb0": {
-                        "id": "9C8LpyKsuhb0",
-                        "childIds": [
-                          "MjP3HIrFOJc3"
-                        ]
-                      },
-                      "YKD2iuE70FSi": {
-                        "id": "YKD2iuE70FSi",
-                        "childIds": [
-                          "2OrFdPcrPHeh"
-                        ]
-                      },
-                      "YWht3YRRWRWG": {
-                        "id": "YWht3YRRWRWG",
-                        "childIds": [
-                          "7kqKwK55JJ9z"
-                        ]
-                      }
-                    },
-                    "kind": "unordered"
-                  }
-                },
-                "MjP3HIrFOJc3": {
-                  "id": "MjP3HIrFOJc3",
-                  "parentId": "9C8LpyKsuhb0",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "「共贺庆典」活动共分为两个阶段，本次开放的内容为第一阶段「此时欢宴」。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "evW4NQy2p8sU": {
-                  "id": "evW4NQy2p8sU",
-                  "parentId": "document-id",
-                  "align": "left",
-                  "kind": "text",
-                  "text": {
-                    "inlineElements": [
-                      {
-                        "kind": "text",
-                        "text": {
-                          "text": "※ 第二阶段「此时庆会」将于后续开启，请管理员留意游戏公告。"
-                        }
-                      }
-                    ],
-                    "kind": "body"
-                  }
-                },
-                "p1dUvsFmuMWe": {
-                  "id": "p1dUvsFmuMWe",
-                  "parentId": "document-id",
-                  "kind": "horizontalLine",
-                  "horizontalLine": {
-                    "kind": "5"
                   }
                 }
               },
@@ -523,7 +987,7 @@
               "title": "活动内容",
               "widgets": [
                 {
-                  "id": "TowuJTjA",
+                  "id": "1k7hz1ti",
                   "title": "",
                   "size": "large"
                 }
@@ -543,19 +1007,25 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "1Bnx48I8",
+                  "content": "PyWJG2QM",
                   "audioList": []
                 }
               }
             },
-            "TowuJTjA": {
+            "1k7hz1ti": {
               "type": "common",
               "tableList": [],
-              "tabList": [],
+              "tabList": [
+                {
+                  "tabId": "tab_1778578115285",
+                  "title": "此时欢宴",
+                  "icon": ""
+                }
+              ],
               "tabDataMap": {
-                "default": {
+                "tab_1778578115285": {
                   "intro": null,
-                  "content": "PKrI2dle",
+                  "content": "xvwj1zIW",
                   "audioList": []
                 }
               }
@@ -567,7 +1037,7 @@
               "tabDataMap": {
                 "default": {
                   "intro": null,
-                  "content": "pQLGe4Xn",
+                  "content": "8XPDRKi8",
                   "audioList": []
                 }
               }
@@ -666,7 +1136,7 @@
           "avatar": "https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"
         },
         "brief": {
-          "cover": "",
+          "cover": "https://bbs.hycdn.cn/image/common/20260512/856392/6a02f0696336cd2ccf6a9dd9_56331367.png",
           "name": "共贺庆典·此时欢宴",
           "description": {
             "id": "document-id",
@@ -713,7 +1183,7 @@
         },
         "status": 2,
         "publishedAtTs": "1778506839",
-        "lastAuditPassedAt": "1778505774",
+        "lastAuditPassedAt": "1778580878",
         "tagIds": [
           "10411",
           "10368"

@@ -1,7 +1,32 @@
 {
   "id": "aef-skland:r/wiki_source_341/1278",
-  "type": "aef-skland:wiki/source/table_text",
+  "type": "aef-skland:wiki/source/table_entry",
   "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_926",
+      "amount": 15
+    },
+    "in2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_19",
+      "amount": 1700
+    },
+    "in3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_211",
+      "amount": 1
+    },
+    "in4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_225",
+      "amount": 2
+    },
+    "in5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_14",
+      "amount": 50
+    },
     "out1": {
       "kind": "item",
       "id": "aef-skland.wiki.item_341",
@@ -10,84 +35,106 @@
   },
   "params": {
     "sectionType": "source",
-    "title": "任务奖励",
+    "title": "任务内容 / 任务奖励",
     "context": {
-      "groupTitle": "任务奖励",
-      "widgetTitle": "",
+      "groupTitle": "任务内容",
+      "widgetTitle": "任务奖励",
       "panelTitle": ""
     },
     "wikiDoc": {
       "id": "document-id",
       "blockIds": [
-        "rYN08A",
-        "UPs1kV"
+        "FWseTpS2sVTR",
+        "Aw3iUNU51PE6",
+        "MUPusacDEHGb"
       ],
       "blockMap": {
-        "68OBot": {
-          "id": "68OBot",
-          "parentId": "dgPubQ_YaBZSI",
+        "30h6osQ9QOnp": {
+          "id": "30h6osQ9QOnp",
+          "parentId": "PjSAOu_ZXh1ST",
           "align": "center",
           "kind": "text",
           "text": {
             "inlineElements": [
               {
-                "kind": "text",
-                "text": {
-                  "text": "武器检查装置 * 2"
+                "kind": "entry",
+                "entry": {
+                  "id": "14",
+                  "showType": "card-big",
+                  "count": "50"
                 }
               }
             ],
             "kind": "body"
           }
         },
-        "UPs1kV": {
-          "id": "UPs1kV",
+        "76NTuoYbBbw9": {
+          "id": "76NTuoYbBbw9",
+          "parentId": "PjSAOu_R3zSs6",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "211",
+                  "showType": "card-big",
+                  "count": "1"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Aw3iUNU51PE6": {
+          "id": "Aw3iUNU51PE6",
           "parentId": "document-id",
           "kind": "table",
           "table": {
-            "id": "UPs1kV",
+            "id": "Aw3iUNU51PE6",
             "rowIds": [
-              "dgPubQ"
+              "PjSAOu"
             ],
             "columnIds": [
-              "OtoUYV",
-              "tKbCg4",
-              "DLlU8l",
-              "YaBZSI",
-              "P2rGx7"
+              "F6CCtd",
+              "QTsN6e",
+              "R3zSs6",
+              "jRflsP",
+              "ZXh1ST"
             ],
             "rowMap": {
-              "dgPubQ": {
-                "id": "dgPubQ"
+              "PjSAOu": {
+                "id": "PjSAOu"
               }
             },
             "columnMap": {
-              "DLlU8l": {
-                "id": "DLlU8l",
+              "F6CCtd": {
+                "id": "F6CCtd",
                 "width": 232
               },
-              "OtoUYV": {
-                "id": "OtoUYV",
+              "QTsN6e": {
+                "id": "QTsN6e",
                 "width": 232
               },
-              "P2rGx7": {
-                "id": "P2rGx7",
+              "R3zSs6": {
+                "id": "R3zSs6",
                 "width": 232
               },
-              "YaBZSI": {
-                "id": "YaBZSI",
+              "ZXh1ST": {
+                "id": "ZXh1ST",
                 "width": 232
               },
-              "tKbCg4": {
-                "id": "tKbCg4",
+              "jRflsP": {
+                "id": "jRflsP",
                 "width": 232
               }
             },
             "cellMap": {
-              "dgPubQ_DLlU8l": {
-                "id": "dgPubQ_DLlU8l",
+              "PjSAOu_F6CCtd": {
+                "id": "PjSAOu_F6CCtd",
                 "childIds": [
-                  "pUqM4I"
+                  "r2MvDwtwNCyX"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -96,10 +143,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "dgPubQ_OtoUYV": {
-                "id": "dgPubQ_OtoUYV",
+              "PjSAOu_QTsN6e": {
+                "id": "PjSAOu_QTsN6e",
                 "childIds": [
-                  "gbYxwP"
+                  "WCVALNJvt4mJ"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -108,10 +155,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "dgPubQ_P2rGx7": {
-                "id": "dgPubQ_P2rGx7",
+              "PjSAOu_R3zSs6": {
+                "id": "PjSAOu_R3zSs6",
                 "childIds": [
-                  "gf0CLj"
+                  "76NTuoYbBbw9"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -120,10 +167,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "dgPubQ_YaBZSI": {
-                "id": "dgPubQ_YaBZSI",
+              "PjSAOu_ZXh1ST": {
+                "id": "PjSAOu_ZXh1ST",
                 "childIds": [
-                  "68OBot"
+                  "30h6osQ9QOnp"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -132,10 +179,10 @@
                 "backgroundColor": "",
                 "verticalAlign": "unknown"
               },
-              "dgPubQ_tKbCg4": {
-                "id": "dgPubQ_tKbCg4",
+              "PjSAOu_jRflsP": {
+                "id": "PjSAOu_jRflsP",
                 "childIds": [
-                  "i0y4dB"
+                  "kX4bW1KA3Eol"
                 ],
                 "rowSpan": "1",
                 "colSpan": "1",
@@ -150,81 +197,76 @@
             "colHeader": false
           }
         },
-        "gbYxwP": {
-          "id": "gbYxwP",
-          "parentId": "dgPubQ_OtoUYV",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "嵌晶玉 * 15"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "gf0CLj": {
-          "id": "gf0CLj",
-          "parentId": "dgPubQ_P2rGx7",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "行动资历 * 50"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "i0y4dB": {
-          "id": "i0y4dB",
-          "parentId": "dgPubQ_tKbCg4",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "折金票 * 1700"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "pUqM4I": {
-          "id": "pUqM4I",
-          "parentId": "dgPubQ_DLlU8l",
-          "align": "center",
-          "kind": "text",
-          "text": {
-            "inlineElements": [
-              {
-                "kind": "text",
-                "text": {
-                  "text": "初级认知载体 * 1"
-                }
-              }
-            ],
-            "kind": "body"
-          }
-        },
-        "rYN08A": {
-          "id": "rYN08A",
+        "FWseTpS2sVTR": {
+          "id": "FWseTpS2sVTR",
           "parentId": "document-id",
-          "align": "left",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "MUPusacDEHGb": {
+          "id": "MUPusacDEHGb",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        },
+        "WCVALNJvt4mJ": {
+          "id": "WCVALNJvt4mJ",
+          "parentId": "PjSAOu_QTsN6e",
+          "align": "center",
           "kind": "text",
           "text": {
-            "inlineElements": [],
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "19",
+                  "showType": "card-big",
+                  "count": "1700"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "kX4bW1KA3Eol": {
+          "id": "kX4bW1KA3Eol",
+          "parentId": "PjSAOu_jRflsP",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "225",
+                  "showType": "card-big",
+                  "count": "2"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "r2MvDwtwNCyX": {
+          "id": "r2MvDwtwNCyX",
+          "parentId": "PjSAOu_F6CCtd",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "926",
+                  "showType": "card-big",
+                  "count": "15"
+                }
+              }
+            ],
             "kind": "body"
           }
         }
@@ -232,7 +274,7 @@
       "authorMap": {},
       "version": "1.0.0"
     },
-    "sourcePattern": "table_text"
+    "sourcePattern": "table_entry"
   },
   "detailLoaded": true
 }

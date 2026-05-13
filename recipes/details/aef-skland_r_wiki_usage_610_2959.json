@@ -1,0 +1,447 @@
+{
+  "id": "aef-skland:r/wiki_usage_610/2959",
+  "type": "aef-skland:wiki/usage/table_entry",
+  "slotContents": {
+    "in1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_610",
+      "amount": 1
+    },
+    "out1": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_87",
+      "amount": 1
+    },
+    "out2": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_12",
+      "amount": 2
+    },
+    "out3": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_131",
+      "amount": 1
+    },
+    "out4": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_159",
+      "amount": 1
+    },
+    "out5": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_1132",
+      "amount": 2
+    },
+    "out6": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_95",
+      "amount": 1
+    },
+    "out7": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_90",
+      "amount": 1
+    },
+    "out8": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_13",
+      "amount": 1
+    },
+    "out9": {
+      "kind": "item",
+      "id": "aef-skland.wiki.item_4",
+      "amount": 1
+    }
+  },
+  "params": {
+    "sectionType": "usage",
+    "title": "物品用途 / 相关用途",
+    "context": {
+      "groupTitle": "物品用途",
+      "widgetTitle": "相关用途",
+      "panelTitle": ""
+    },
+    "wikiDoc": {
+      "id": "document-id",
+      "blockIds": [
+        "Xs9L5Z",
+        "FVkn53",
+        "Hdoh7j2Sz6mt",
+        "N4Hpkv6cLrRT",
+        "pCnuhO"
+      ],
+      "blockMap": {
+        "0dGCJOb24149": {
+          "id": "0dGCJOb24149",
+          "parentId": "2uzDIQ_pauVoi",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "公益"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "8JuwPIlUe86S": {
+          "id": "8JuwPIlUe86S",
+          "parentId": "GQECrq_pauVoi",
+          "align": "center",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "文化"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "FVkn53": {
+          "id": "FVkn53",
+          "parentId": "document-id",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "bold": true,
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "放置在帝江号中央环厅的行迹高塔中进行展示。"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "FksjV77PQuvZ": {
+          "id": "FksjV77PQuvZ",
+          "parentId": "2uzDIQ_XmMbBA",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "95",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "90",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "13",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "12",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "4",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1132",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "Hdoh7j2Sz6mt": {
+          "id": "Hdoh7j2Sz6mt",
+          "parentId": "document-id",
+          "kind": "list",
+          "list": {
+            "id": "Hdoh7j2Sz6mt",
+            "itemIds": [
+              "8XSpHTatUg69"
+            ],
+            "itemMap": {
+              "8XSpHTatUg69": {
+                "id": "8XSpHTatUg69",
+                "childIds": [
+                  "bbxNuQl3L635"
+                ]
+              }
+            },
+            "kind": "unordered"
+          }
+        },
+        "N4Hpkv6cLrRT": {
+          "id": "N4Hpkv6cLrRT",
+          "parentId": "document-id",
+          "kind": "table",
+          "table": {
+            "id": "N4Hpkv6cLrRT",
+            "rowIds": [
+              "GQECrq",
+              "2uzDIQ"
+            ],
+            "columnIds": [
+              "pauVoi",
+              "XmMbBA"
+            ],
+            "rowMap": {
+              "2uzDIQ": {
+                "id": "2uzDIQ"
+              },
+              "GQECrq": {
+                "id": "GQECrq"
+              }
+            },
+            "columnMap": {
+              "XmMbBA": {
+                "id": "XmMbBA",
+                "width": 1060
+              },
+              "pauVoi": {
+                "id": "pauVoi",
+                "width": 100
+              }
+            },
+            "cellMap": {
+              "2uzDIQ_XmMbBA": {
+                "id": "2uzDIQ_XmMbBA",
+                "childIds": [
+                  "FksjV77PQuvZ"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "2uzDIQ_pauVoi": {
+                "id": "2uzDIQ_pauVoi",
+                "childIds": [
+                  "0dGCJOb24149"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "GQECrq_XmMbBA": {
+                "id": "GQECrq_XmMbBA",
+                "childIds": [
+                  "hr9lug3IxbGH"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              },
+              "GQECrq_pauVoi": {
+                "id": "GQECrq_pauVoi",
+                "childIds": [
+                  "8JuwPIlUe86S"
+                ],
+                "rowSpan": "1",
+                "colSpan": "1",
+                "borderKind": "",
+                "borderColor": "",
+                "backgroundColor": "",
+                "verticalAlign": "unknown"
+              }
+            },
+            "description": "",
+            "rowHeader": false,
+            "colHeader": true
+          }
+        },
+        "Xs9L5Z": {
+          "id": "Xs9L5Z",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "5"
+          }
+        },
+        "bbxNuQl3L635": {
+          "id": "bbxNuQl3L635",
+          "parentId": "8XSpHTatUg69",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "color": "light_text_primary",
+                "kind": "text",
+                "text": {
+                  "text": "当"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": " "
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "610",
+                  "showType": "link-imgText",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "放置于"
+                }
+              },
+              {
+                "bold": true,
+                "color": "light_rank_yellow",
+                "kind": "text",
+                "text": {
+                  "text": "行迹高塔"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "中时，中央环厅内喜好"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "[文化]"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "与"
+                }
+              },
+              {
+                "bold": true,
+                "kind": "text",
+                "text": {
+                  "text": "[公益]"
+                }
+              },
+              {
+                "kind": "text",
+                "text": {
+                  "text": "的干员会有特殊反应："
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "hr9lug3IxbGH": {
+          "id": "hr9lug3IxbGH",
+          "parentId": "GQECrq_XmMbBA",
+          "align": "left",
+          "kind": "text",
+          "text": {
+            "inlineElements": [
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "87",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "12",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "131",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "159",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              },
+              {
+                "kind": "entry",
+                "entry": {
+                  "id": "1132",
+                  "showType": "card-big",
+                  "count": "0"
+                }
+              }
+            ],
+            "kind": "body"
+          }
+        },
+        "pCnuhO": {
+          "id": "pCnuhO",
+          "parentId": "document-id",
+          "kind": "horizontalLine",
+          "horizontalLine": {
+            "kind": "2"
+          }
+        }
+      },
+      "authorMap": {},
+      "version": "1.0.0"
+    },
+    "usagePattern": "table_entry"
+  },
+  "detailLoaded": true
+}

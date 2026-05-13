@@ -1,134 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sklandDocument>
     <itemId>341</itemId>
-    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778552520"},"item":{"name":"科学兴农","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"4593074404014","nickname":"梦溪潇","avatarCode":0,"avatar":"https://bbs.hycdn.cn/asset/avatar/0047816c780d8fd66a01bb3a55864290.webp"},"createdUser":{"id":"1768902953521","nickname":"萨奕义","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/25/7d8ffdad421150776db82a42efba8c65.png"},"status":2,"publishedAtTs":"1768229302","lastAuditPassedAt":"1767105708","tagIds":["10273"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
+    <publicMeta>{"infoRoot":{"code":0,"message":"OK","timestamp":"1778639239"},"item":{"name":" 科学兴农","mainType":{"id":"1","name":"终末地百科","status":2,"position":1,"typeSub":[]},"subType":{"id":"8","name":"任务","fatherTypeId":"1","style":8,"status":2,"position":11,"icon":"","items":[],"filterTagTree":[{"id":"10270","children":[{"id":"10272","children":[],"name":"主线任务","type":1,"value":"","hide":false},{"id":"10274","children":[],"name":"探索任务","type":1,"value":"","hide":false},{"id":"10273","children":[],"name":"支线任务","type":1,"value":"","hide":false},{"id":"10275","children":[],"name":"活动任务","type":1,"value":"","hide":false},{"id":"10271","children":[],"name":"委托任务","type":1,"value":"","hide":false}],"name":"任务类型","type":1,"value":"","hide":false},{"id":"10362","children":[{"id":"10365","children":[],"name":"紧要","type":1,"value":"","hide":false},{"id":"10363","children":[],"name":"重要","type":1,"value":"","hide":false},{"id":"10364","children":[],"name":"次要","type":1,"value":"","hide":false}],"name":"重要程度","type":1,"value":"","hide":false}]},"lang":"zh_Hans","lastUpdatedUser":{"id":"6507876905028","nickname":"喝奶茶的狸酥","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2026/04/02/e2c485a942fbc49e4812b59d0cc3addd.png"},"createdUser":{"id":"1768902953521","nickname":"萨奕义","avatarCode":0,"avatar":"https://bbs.hycdn.cn/image/2024/07/25/7d8ffdad421150776db82a42efba8c65.png"},"status":2,"publishedAtTs":"1768229302","lastAuditPassedAt":"1778591364","tagIds":["10274","10363"]},"brief":{"associate":null,"dotType":"","composite":null},"documentExtraInfo":{"showType":"","illustration":"","composite":""}}</publicMeta>
     <metainfo>
-        <name>科学兴农</name>
-        <cover showInDetail="true">https://bbs.hycdn.cn/image/2025/12/30/402818/3780aa723bda5dedae3b038c1e2414e5.png</cover>
+        <name> 科学兴农</name>
+        <cover showInDetail="true">https://bbs.hycdn.cn/image/common/20260511/856392/6a01e56482b83c28154342f6_13673ac9.png</cover>
         <subTypes>
-            <subType id="10270">10273</subType>
+            <subType id="10270">10274</subType>
+            <subType id="10362">10363</subType>
         </subTypes>
     </metainfo>
     <description>
     </description>
     <chapters name="任务信息">
         <chapter size="large" name="">
-            <table header="row" widths="386.6666666666667,386.6666666666667,386.6666666666667">
+            <line kind="5"></line>
+            <table header="row" widths="290,290,290,290">
                 <tr>
                     <th col="1">
-                        <align value="center"><b>地点</b></align>
+                        <align value="center"><b>所属章节</b></align>
                     </th>
                     <th col="2">
-                        <align value="center"><b>开启条件</b></align>
+                        <align value="center"><b>解锁条件</b></align>
                     </th>
                     <th col="3">
+                        <align value="center"><b>前置任务</b></align>
+                    </th>
+                    <th col="4">
                         <align value="center"><b>后续任务</b></align>
                     </th>
                 </tr>
                 <tr>
                     <td col="1">
-                        <align value="center">武陵城</align>
+                        <align value="center">/</align>
                     </td>
                     <td col="2">
-                        <align value="center">比如等级要求/前置任务</align>
+                        <align value="center">/</align>
                     </td>
                     <td col="3">
-                        <align value="center">后续可插入任务词条跳转</align>
+                        <align value="center">/</align>
+                    </td>
+                    <td col="4">
+                        <align value="center">/</align>
                     </td>
                 </tr>
             </table>
-            <table header="row" widths="1160">
-                <tr>
-                    <th col="1">
-                        <align value="center"><b>描述</b></align>
-                    </th>
-                </tr>
-                <tr>
-                    <td col="1">
-                        菲奥娜发来消息，称实验作物试点区的农业天师似乎遇到了难题，希望管理员前往那里给予他们一些帮助。
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        找到植物学家维尔莫林，向他购买金石稻种子。
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        使用简易制作，制作用于种植的田块。
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        完成种植后，将情况告知田悯。
-                    </td>
-                </tr>
-            </table>
-            <table header="row" widths="1160">
-                <tr>
-                    <th col="1">
-                        <align value="center"><b>目标</b></align>
-                    </th>
-                </tr>
-                <tr>
-                    <td col="1">
-                        查看<b>联络员菲奥娜</b>发来的消息
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        向维尔莫林购买<b>金石稻</b>种子
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        使用简易制作，制作<b>金石稻田块</b>
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        与神情疲惫的<b>农业天师</b>对话
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        前往<b>实验作物试点区</b>
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        放置<b>金石稻田块</b>
-                    </td>
-                </tr>
-                <tr>
-                    <td col="1">
-                        与<b>田悯</b>交谈
-                    </td>
-                </tr>
-            </table>
+            <line kind="2"></line>
         </chapter>
     </chapters>
-    <chapters name="任务奖励">
-        <chapter size="large" name="">
+    <chapters name="任务内容">
+        <chapter size="small" name="任务详情">
+            <line kind="5"></line>
+            <h3><b>地点</b></h3>
+            <ul>
+                <li><color value="r_5">武陵城</color></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>触发位置</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>相关人物</b></h3>
+            <ul>
+                <li><b><color value="f_brown">联络员奥菲娜</color></b></li>
+                <li><b><color value="f_brown">田悯</color></b></li>
+                <li><b><color value="f_brown">维尔莫林</color></b></li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>任务道具</b></h3>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="1"></line>
+            <h3><b>解锁内容</b></h3>
+            <quote>
+                <b>任务</b>
+            </quote>
+            <ul>
+                <li>/</li>
+            </ul>
+            <quote>
+                <b>功能</b>
+            </quote>
+            <ul>
+                <li>/</li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="middle" name="任务进程">
+            <line kind="5"></line>
+            <h2><b>进程</b></h2>
+            <b>菲奥娜发来消息，称实验作物试点区的农业天师似乎遇到了难题，希望管理员前往那里给予他们一些帮助。</b>
+            <ul>
+                <li><i>查看联络员</i><b><i><color value="f_brown">菲奥娜</color></i></b><i>发来的消息</i></li>
+            </ul>
+            （<b>BAKER/事务通讯</b>
+            <b>联络员奥菲娜：</b>管理员，刚刚我收到一位名叫田悯的农业天师发来的求助消息。
+            <b>联络员奥菲娜：</b>他说他们现在遇到了一些难题，希望能得到终末地的帮助。
+            <b>管理员：</b>是什么难题？能具体说说吗? 
+            <b>联络员奥菲娜：</b>说是和作物种植有关......
+            <b>联络员奥菲娜：</b>我记得管理员之前也有过种植的经验，应该没问题的。
+            <b>管理员：</b><i><u><color value="f_green">（可选）</color></u></i>他现在在哪里? 
+            <b>管理员：</b><i><u><color value="f_green">（可选）</color></u></i>该怎样找到他? 
+            <b>联络员奥菲娜：</b>管理员，你可以去武陵的实验作物试点区，田悯说他最近都会在那里待着。
+            <b>管理员：</b>我明白了。之后会过去看看的。）
+            <ul>
+                <li><i>前往</i><b><i><color value="f_brown">实验作物试点区</color></i></b></li>
+                <li><i>与神情疲惫的</i><b><i><color value="f_brown">农业天师</color></i></b><i>对话</i></li>
+            </ul>
+            <line kind="1"></line>
+            <b>找到植物学家维尔莫林，向他购买金石稻种子。</b>
+            <ul>
+                <li><i>与</i><b><i><color value="f_brown">维尔莫林</color></i></b><i>对话</i></li>
+                <li><i>购买金石稻种子，或通过采种机获得</i></li>
+            </ul>
+            <line kind="1"></line>
+            <b>使用简易制作，制作用于种植的田块。</b>
+            <ul>
+                <li><i>使用简易制作，制作</i><b><i><color value="f_brown">金石稻田块</color></i></b></li>
+                <li><i>放置</i><b><i><color value="f_brown">金石稻田块</color></i></b></li>
+                <li><i>与</i><b><i><color value="f_brown">田悯</color></i></b><i>交谈</i></li>
+            </ul>
+            <line kind="2"></line>
+        </chapter>
+        <chapter size="large" name="任务奖励">
+            <line kind="5"></line>
             <table header="none" widths="232,232,232,232,232">
                 <tr>
                     <td col="1">
-                        <align value="center">嵌晶玉 * 15</align>
+                        <align value="center"><entry type="card-big" count="15" id="926"></entry></align>
                     </td>
                     <td col="2">
-                        <align value="center">折金票 * 1700</align>
+                        <align value="center"><entry type="card-big" count="1700" id="19"></entry></align>
                     </td>
                     <td col="3">
-                        <align value="center">初级认知载体 * 1</align>
+                        <align value="center"><entry type="card-big" count="1" id="211"></entry></align>
                     </td>
                     <td col="4">
-                        <align value="center">武器检查装置 * 2</align>
+                        <align value="center"><entry type="card-big" count="2" id="225"></entry></align>
                     </td>
                     <td col="5">
-                        <align value="center">行动资历 * 50</align>
+                        <align value="center"><entry type="card-big" count="50" id="14"></entry></align>
                     </td>
                 </tr>
             </table>
+            <line kind="2"></line>
+        </chapter>
+    </chapters>
+    <chapters name="教学">
+        <chapter size="large" name="">
+            <tab name="武陵地区种植" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>6a01eb0da9c768179bf2a166</id>
+                    <format>webp</format>
+                    <width>1023</width>
+                    <height>574</height>
+                    <size>36486</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260511/856392/6a01eb0da9c768179bf2a166_65de0095.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">部分田块只能在<color value="f_brown">武陵地区</color>种植，比如<color value="f_brown">金石稻田块</color>。</align>
+                <line kind="2"></line>
+            </tab>
+            <tab name="自动浇水" icon="">
+                <line kind="5"></line>
+                <img>
+                    <id>6a01eb6597bfaba8393d08e9</id>
+                    <format>webp</format>
+                    <width>1023</width>
+                    <height>574</height>
+                    <size>110202</size>
+                    <url>https://bbs.hycdn.cn/image/common/20260511/856392/6a01eb6597bfaba8393d08e9_e71aef33.webp</url>
+                    <description></description>
+                </img>
+                <line kind="1"></line>
+                <align value="center">部分田块需要进行<color value="f_brown">多次浇水</color>，利用<color value="f_brown">洒水机</color>可实现自动化浇水。</align>
+                <line kind="2"></line>
+            </tab>
         </chapter>
     </chapters>
 </sklandDocument>
